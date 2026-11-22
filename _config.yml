@@ -23,7 +23,7 @@ color_scheme: light
 # Pfad, unter dem die Seite später auf github.io erscheint:
 # https://<USERNAME>.github.io/awesome-long-covid-mecfs/
 baseurl: "/awesome-long-covid-mecfs"
-url: ""
+url: "https://awesome-long-covid-mecfs.github.io"
 
 # Sprachnavigation oben rechts auf jeder Seite.
 # Neue Sprache: eine Zeile hier ergaenzen - weiter nichts noetig.

@@ -100,7 +100,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 
 ## Suchmaschinen & KI-Crawler (SEO)
 
-- [ ] **`url:` in `_config.yml`** – auf `https://awesome-long-covid-mecfs.github.io` setzen. `site.url` ist leer, deshalb sind `canonical`, `og:url` und JSON-LD derzeit nur relative Pfade. Eine Zeile, grösster Hebel.
+- [x] **`url:` in `_config.yml`** – gesetzt auf `https://awesome-long-covid-mecfs.github.io`; `canonical`, `og:url` und JSON-LD sind damit absolute URLs. `baseurl` bleibt unverändert.
 - [ ] **`jekyll-sitemap` aktivieren** – `plugins: [jekyll-sitemap]` in `_config.yml` (von GitHub Pages unterstützt, Version 1.4.0). `/sitemap.xml` liefert aktuell 503.
 - [ ] **`robots.txt` mit expliziten Allow-Regeln** – gehört in die Root des User-Site-Repos `awesome-long-covid-mecfs.github.io` (Root-Domain), optional zusätzlich im Projekt-Repo unter `/awesome-long-covid-mecfs/robots.txt`. Sichtbarkeit: `Googlebot`, `bingbot`, `Applebot`, `OAI-SearchBot`, `ChatGPT-User`, `Claude-SearchBot`, `Claude-User`, `PerplexityBot`, `Perplexity-User`. Training (bewusste Einwilligung): `GPTBot`, `ClaudeBot`, `Google-Extended`, `Applebot-Extended`, `CCBot`, `meta-externalagent`. Default `User-agent: * / Allow: /`. Die `Sitemap:`-Zeile erst, wenn `sitemap.xml` existiert. User-Fetcher folgen robots.txt teils nicht; ein Allow garantiert keine Aufnahme in KI-Antworten.
 - [ ] **`locale: de_DE` in `README-de.md` und `resources-de.md`** – die deutsche Seite sendet derzeit `<html lang="en-US">` und `og:locale=en_US` (jekyll-seo-tag unterstützt `locale`/`lang` im Frontmatter).
