@@ -1,10 +1,16 @@
+---
+title: ToDo
+layout: default
+nav_order: 7
+---
+
 # ToDo – Stand nach Veröffentlichung
 
 Ziel: Awesome-Liste zu ME/CFS, Post-COVID/Long COVID und verwandten Erkrankungen.
 Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprache als Hauptkategorie.
-Vorlagenanalyse anderer Awesome-Listen: [RESEARCH.md](RESEARCH.md).
 
 **Live:** https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs · https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/
+**Ziel:** https://awesome-long-covid-mecfs.github.io/ – erst nach Umbenennung des Repos in `awesome-long-covid-mecfs.github.io` (derzeit 404).
 
 ## Fundament
 
@@ -78,8 +84,15 @@ Vorlagenanalyse anderer Awesome-Listen: [RESEARCH.md](RESEARCH.md).
 - [x] **`CONTRIBUTING.md`: E-Mail-Kontakt weiter nach oben** – direkt unter die Einleitung gerückt
 - [x] **Sortierung: zuerst Englisch, dann Deutsch** – `nav_order` EN 2, DE 3; README-de 4
 - [x] **Sprachnavigation über `aux_links`** in `_config.yml` – zentral, eine Zeile pro Sprache, skalierbar für weitere Sprachen
-- [ ] **Kategorien in der Seitenleiste** – bewusst zurückgestellt; gewählt wurde Variante A+C (manuelles Inhaltsverzeichnis + aux_links)
+- [ ] **Kapitel in der Seitenleiste** – offen; Option A (aufklappbarer TOC im Seitenkopf) oder B (Ordner pro Sprache mit einer Unterseite pro Kapitel) stehen zur Wahl; C (JavaScript) verworfen
 - [x] **Inhaltsverzeichnis am Anfang jeder Sprachdatei** mit Links zu allen Kategorien (manuell, funktioniert auf GitHub und auf der Website)
+
+## Website-Navigation & Erreichbarkeit
+
+- [ ] **Root-URL `https://awesome-long-covid-mecfs.github.io/`** – GitHub liefert sie nur für ein Repo namens `awesome-long-covid-mecfs.github.io`; die Umbenennung muss auf GitHub passieren. Danach `baseurl: ""` und die `aux_links` in `_config.yml` anpassen.
+- [x] **Meta-Seiten in der Seitenleiste** – `AGENTS.md`, `MARKERS.md`, `TODO.md`, `CONTRIBUTING.md` und `CODE_OF_CONDUCT.md` mit Frontmatter (`title`, `nav_order`) für just-the-docs
+- [x] **`RESEARCH.md` entfernt** – die Vorlagenanalyse war nur für die Startphase; der einzige Verweis stand in dieser Datei
+- [x] **Kaputte Issue-Links in den READMEs repariert** – `/home/max/CodeSpaces://github.com/...` → `https://github.com/...` in `README.md` und `README-de.md`; der Rest des Repos wurde auf ähnliche Pfad-Verweise geprüft (keine weiteren Funde)
 
 ## Verbesserungsideen (vom User ausgewählt)
 
