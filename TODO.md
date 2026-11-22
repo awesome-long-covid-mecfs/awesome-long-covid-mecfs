@@ -106,7 +106,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **`locale: de_DE` in `README-de.md` und `resources-de.md`** – im Frontmatter ergänzt; die deutschen Seiten sendeten vorher `<html lang="en-US">` und `og:locale=en_US`.
 - [x] **Seitenspezifische `description`** für `resources-en.md` und `resources-de.md` – ergänzt; beide Seiten haben jetzt einen eigenen, sprachpassenden Text.
 - [x] **Live-URL in beiden READMEs** – `https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/` (Kurzlink `https://awesome-long-covid-mecfs.github.io/`) in `README.md` und `README-de.md` ergänzt.
-- [ ] **GitHub-Feld `homepage` setzen** – `gh repo edit awesome-long-covid-mecfs/awesome-long-covid-mecfs --homepage https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/` (Feld ist derzeit leer).
+- [x] **GitHub-Feld `homepage` gesetzt** – `https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/`; per `gh repo view` verifiziert.
 - [ ] **Search Console / Bing Webmaster Tools** – Verifizierung durch den User, `webmaster_verifications` in `_config.yml`, danach Sitemap einreichen.
 - [ ] **Später optional:** `hreflang`-Tags zwischen EN/DE via Theme-Override `head_custom.html`; `llms.txt` als Hinweisdatei (kein Rankingfaktor).
 - [x] **Monatlicher Link-Check existiert bereits** – `link-check.yml` läuft am 1. um 06:00 UTC; keine Änderung nötig.
