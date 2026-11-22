@@ -21,7 +21,7 @@ nav_order: 2
 
 # Resources in English
 
-Sources published in English. Markers and admission criteria are documented in [`MARKERS.md`](MARKERS.md), the [README](README.md) and [AGENTS.md](AGENTS.md).
+Sources published in English. Markers and admission criteria are documented in [`MARKERS.md`](MARKERS.md), the [README](README-en.md) and [AGENTS.md](AGENTS.md).
 
 > Not medical advice. Linking to a resource is not an endorsement of any treatment.
 

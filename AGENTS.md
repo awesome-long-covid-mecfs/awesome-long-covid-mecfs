@@ -13,7 +13,7 @@ Diese Datei gilt für alle KI-Assistenten, die in diesem Ordner arbeiten. Sie is
 
 Eine **Inhalts-Sammlung**, kein Programm. Das Ergebnis sind gut kuratierte Markdown-Dateien. Die Website (GitHub Pages mit `just-the-docs`) wird daraus nur erzeugt.
 
-**Single Source of Truth für Inhalte:** `README.md`, `README-de.md`, `resources-de.md`, `resources-en.md` und weitere `resources-<sprache>.md`.
+**Single Source of Truth für Inhalte:** `README.md` (GitHub-Ansicht), `README-en.md` (Website), `README-de.md`, `resources-de.md`, `resources-en.md` und weitere `resources-<sprache>.md`.
 **Single Source of Truth für Marker:** `MARKERS.md` – daraus werden Legende, Issue-Formulare und Einträge abgeleitet. Alles andere ist Konfiguration oder erzeugtes Ergebnis.
 
 ## 2. Grundsatz: Vorschlag → Anmerkungen → Freigabe → Umsetzung

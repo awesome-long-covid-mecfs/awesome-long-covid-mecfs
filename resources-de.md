@@ -22,7 +22,7 @@ locale: de_DE
 
 # Ressourcen auf Deutsch
 
-Quellen, die auf Deutsch erscheinen. Marker und Aufnahmekriterien stehen in [`MARKERS.md`](MARKERS.md), in der [README](README.md), in [README-de.md](README-de.md) und in [AGENTS.md](AGENTS.md).
+Quellen, die auf Deutsch erscheinen. Marker und Aufnahmekriterien stehen in [`MARKERS.md`](MARKERS.md), in der [README](README-en.md), in [README-de.md](README-de.md) und in [AGENTS.md](AGENTS.md).
 
 > Keine medizinische Beratung. Die Verlinkung bedeutet keine Empfehlung einer Behandlung.
 
