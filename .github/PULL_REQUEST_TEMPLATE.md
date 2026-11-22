@@ -1,12 +1,12 @@
-## Was ändert sich?
+## What changes?
 
-<!-- Ein oder zwei Sätze. -->
+<!-- One or two sentences. -->
 
-## Checkliste
+## Checklist
 
-- [ ] Nur **ein** Eintrag / ein Thema pro Pull Request
-- [ ] Richtige Sprachdatei und Kategorie
-- [ ] Format: `- **[Name](URL)** — Description. 📄 [Study]` (Icon + English marker, no date)
-- [ ] Link geöffnet und geprüft; keine Shortener, keine Affiliate-Links
-- [ ] Kein Heilversprechen, keine Werbung
-- [ ] [AGENTS.md](AGENTS.md) und [CONTRIBUTING.md](CONTRIBUTING.md) gelesen
+- [ ] Only **one** entry / one topic per pull request
+- [ ] Correct language file and category
+- [ ] Format: `- **[Name](URL)** — Description. 📄 [Study]` (icon + English marker, no date)
+- [ ] Link opened and checked; no shorteners, no affiliate links
+- [ ] No miracle cure claims, no advertising
+- [ ] [AGENTS.md](AGENTS.md) and [CONTRIBUTING.md](CONTRIBUTING.md) read

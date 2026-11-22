@@ -57,7 +57,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] Zusätzliche Melde-Möglichkeit per E-Mail für Personen ohne GitHub-Konto: Adresse `awesome-long-covid-mecfs[at]sags-per-mail.de` in `README.md` und `CONTRIBUTING.md` ergänzt. Gewählte Variante: `[at]` statt `@` (einfach, barrierefrei, schützt vor einfachen Spam-Crawlern). Auch dieser TODO-Eintrag ist entschärft. Bei Bedarf auf eine stärkere Variante wechseln (Bild oder Kontaktformular).
 - [x] `AGENTS.md` reviewt – KI prüft Links (Erreichbarkeit, Duplikate, Quellenart, Marker), schreibt Vorschläge und darf nach Freigabe committen/pushen. Kein Stand-Datum.
 - [ ] `AGENTS.md`: Wenn alles stimmt, **auf Englisch umstellen** – noch offen.
-- [ ] **Weitere Dokumente auf Englisch** – `CONTRIBUTING.md` und `CODE_OF_CONDUCT.md` sind derzeit vollständig deutsch; `.github/PULL_REQUEST_TEMPLATE.md` hat eine deutsche Checkliste; `footer_content` in `_config.yml` ist deutsch und erscheint damit auf jeder englischen Seite. Vom User gewünscht: englisch umstellen. `MARKERS.md` bleibt bewusst zweisprachig (englische Marker + deutsche Übersetzung), `README-de.md` und `resources-de.md` bleiben deutsch; `AGENTS.md` hat bereits einen eigenen offenen Punkt.
+- [x] **Weitere Dokumente auf Englisch** – umgesetzt in `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `.github/PULL_REQUEST_TEMPLATE.md` und `footer_content` (`_config.yml`). `MARKERS.md` bleibt bewusst zweisprachig, `README-de.md`/`resources-de.md` bleiben deutsch; `AGENTS.md` hat einen eigenen offenen Punkt.
 - [x] Kategorien durch den User geprüft – vorerst unverändert; weitere Kategorien bei Bedarf (Marker-Kombinationen im Auge behalten).
 
 ## Mehrsprachigkeit (vom User vorgegeben)

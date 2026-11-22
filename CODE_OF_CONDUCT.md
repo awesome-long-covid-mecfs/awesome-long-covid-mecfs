@@ -1,5 +1,5 @@
 ---
-title: Verhaltenskodex (CODE_OF_CONDUCT.md)
+title: Code of Conduct (CODE_OF_CONDUCT.md)
 layout: default
 nav_order: 9
 nav_exclude: true
@@ -7,27 +7,27 @@ nav_exclude: true
 
 # Code of Conduct
 
-Wir wollen, dass sich hier alle sicher und respektvoll bewegen – insbesondere Betroffene, die oft schon schlechte Erfahrungen gemacht haben.
+We want everyone to feel safe and respected here – especially those affected, who have often had bad experiences already.
 
-## Wir erwarten
+## What we expect
 
-- Respektvolle, freundliche Sprache.
-- Kritik an Inhalten, nicht an Personen.
-- Verständnis dafür, dass ME/CFS, Long COVID und verwandte Erkrankungen oft unsichtbar und schwer sind.
-- Keine Heilversprechen und keine Abwertung anderer Erfahrungen.
+- Respectful, friendly language.
+- Criticise content, not people.
+- Understanding that ME/CFS, Long COVID and related conditions are often invisible and difficult.
+- No miracle cures and no dismissal of other people's experiences.
 
-## Wir dulden nicht
+## What we do not tolerate
 
-- Beleidigungen, Diskriminierung, Hass oder Drohungen.
-- Spam, Werbung und hetzerische Aussagen.
-- Veröffentlichung privater Daten anderer Personen.
+- Insults, discrimination, hate or threats.
+- Spam, advertising and inflammatory statements.
+- Publishing other people's private data.
 
-## Melden
+## Reporting
 
-Bei Problem: Issue an die Maintainer oder direkte Nachricht an die verantwortliche Person. Meldungen werden vertraulich behandelt.
+In case of a problem: open an issue for the maintainers or message the responsible person directly. Reports are treated confidentially.
 
-## Konsequenzen
+## Consequences
 
-Je nach Schwere: Hinweis, Entfernung von Beiträgen, vorübergehender oder dauerhafter Ausschluss.
+Depending on severity: a reminder, removal of contributions, temporary or permanent exclusion.
 
-Diese Datei kann bei Bedarf gemeinsam ergänzt werden.
+This file can be extended jointly if needed.
