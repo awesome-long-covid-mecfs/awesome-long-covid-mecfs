@@ -45,6 +45,9 @@ Further languages can be added as soon as enough reviewed sources are available.
 
 ## What we do not include
 
+<details markdown="block">
+<summary>Show the list</summary>
+
 - Miracle cures and promises of recovery
 - Conspiracy sources and misinformation
 - Affiliate links and pure advertising
@@ -53,7 +56,12 @@ Further languages can be added as soon as enough reviewed sources are available.
 
 A source is linked so readers can judge for themselves – linking is not an endorsement of a treatment.
 
+</details>
+
 ## Contributing
+
+<details markdown="block">
+<summary>Show how to contribute</summary>
 
 Know a good source that is missing? You do not need Git or GitHub:
 [Open the "Add a link" issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=add-resource.yml).
@@ -62,6 +70,8 @@ Found a dead link? Use ["Broken link"](https://github.com/awesome-long-covid-mec
 If you know GitHub, you can also send a pull request – please follow [CONTRIBUTING.md](CONTRIBUTING.md) and [AGENTS.md](AGENTS.md).
 
 **Without a GitHub account:** email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). The address is written this way so simple spam crawlers cannot collect it.
+
+</details>
 
 ## Legend
 
@@ -73,7 +83,12 @@ The detailed admission rules are in [AGENTS.md](AGENTS.md).
 
 ## Licence
 
+<details markdown="block">
+<summary>Show licence terms</summary>
+
 Content is published under [CC BY-SA 4.0](LICENSE.txt): attribution and share-alike. Please link to sources instead of copying text.
+
+</details>
 
 ---
 

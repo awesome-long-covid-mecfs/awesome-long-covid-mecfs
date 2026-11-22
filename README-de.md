@@ -41,6 +41,9 @@ Themen mit geprüften Einträgen:
 
 ## Was wir nicht aufnehmen
 
+<details markdown="block">
+<summary>Liste anzeigen</summary>
+
 - Heilversprechen und Versprechen der Heilung
 - Verschwörungsquellen und Falschinformationen
 - Affiliate-Links und reine Werbung
@@ -49,7 +52,12 @@ Themen mit geprüften Einträgen:
 
 Eine Quelle wird verlinkt, damit Leserinnen und Leser selbst beurteilen können – der Link ist keine Empfehlung für eine Behandlung.
 
+</details>
+
 ## Mitmachen
+
+<details markdown="block">
+<summary>Möglichkeiten anzeigen</summary>
 
 **Kein GitHub-Konto?** Schreib uns eine E-Mail an `awesome-long-covid-mecfs[at]sags-per-mail.de` (das `[at]` bitte durch `@` ersetzen). Die Adresse ist so geschrieben, damit einfache Spam-Crawler sie nicht absammeln.
 
@@ -57,6 +65,8 @@ Du kennst eine gute Quelle, die fehlt? [Issue „Link vorschlagen" eröffnen](ht
 Kaputter Link? [„Kaputter Link" melden](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=broken-link.yml).
 
 Wer GitHub kennt, kann auch einen Pull Request schicken – bitte nach [CONTRIBUTING.md](CONTRIBUTING.md) und [AGENTS.md](AGENTS.md) vorgehen.
+
+</details>
 
 ## Legende
 
@@ -68,7 +78,12 @@ Die genauen Regeln stehen in [AGENTS.md](AGENTS.md).
 
 ## Lizenz
 
+<details markdown="block">
+<summary>Lizenz anzeigen</summary>
+
 Inhalte stehen unter [CC BY-SA 4.0](LICENSE.txt): Namensnennung und Weitergabe unter gleicher Lizenz. Bitte Quellen verlinken statt Texte zu kopieren.
+
+</details>
 
 ---
 
