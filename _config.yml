@@ -26,13 +26,6 @@ color_scheme: light
 baseurl: "/awesome-long-covid-mecfs"
 url: "https://awesome-long-covid-mecfs.github.io"
 
-# Sprachnavigation oben rechts auf jeder Seite.
-# Neue Sprache: eine Zeile hier ergaenzen - weiter nichts noetig.
-# Reihenfolge: Englisch zuerst, dann Deutsch, dann weitere Sprachen.
-aux_links:
-  "🇬🇧 English resources": "/awesome-long-covid-mecfs/resources-en.html"
-  "🇩🇪 Deutsche Ressourcen": "/awesome-long-covid-mecfs/resources-de.html"
-
 footer_content: >-
   Not medical advice. Content licensed under
   <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
