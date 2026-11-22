@@ -11,6 +11,7 @@ remote_theme: just-the-docs/just-the-docs
 # geschrieben. Dieses Plugin wandelt sie beim Build in Website-Links um.
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
 
 relative_links:
   enabled: true
