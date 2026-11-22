@@ -41,8 +41,8 @@ Eine Quelle wird verlinkt, damit Leserinnen und Leser selbst beurteilen können 
 
 **Kein GitHub-Konto?** Schreib uns eine E-Mail an `awesome-long-covid-mecfs[at]sags-per-mail.de` (das `[at]` bitte durch `@` ersetzen). Die Adresse ist so geschrieben, damit einfache Spam-Crawler sie nicht absammeln.
 
-Du kennst eine gute Quelle, die fehlt? [Issue „Link vorschlagen" eröffnen](/home/max/CodeSpaces://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=add-resource.yml).
-Kaputter Link? [„Kaputter Link" melden](/home/max/CodeSpaces://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=broken-link.yml).
+Du kennst eine gute Quelle, die fehlt? [Issue „Link vorschlagen" eröffnen](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=add-resource.yml).
+Kaputter Link? [„Kaputter Link" melden](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=broken-link.yml).
 
 Wer GitHub kennt, kann auch einen Pull Request schicken – bitte nach [CONTRIBUTING.md](CONTRIBUTING.md) und [AGENTS.md](AGENTS.md) vorgehen.
 

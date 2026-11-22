@@ -45,8 +45,8 @@ A source is linked so readers can judge for themselves – linking is not an end
 ## Contributing
 
 Know a good source that is missing? You do not need Git or GitHub:
-[Open the "Add a link" issue](/home/max/CodeSpaces://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=add-resource.yml).
-Found a dead link? Use ["Broken link"](/home/max/CodeSpaces://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=broken-link.yml).
+[Open the "Add a link" issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=add-resource.yml).
+Found a dead link? Use ["Broken link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=broken-link.yml).
 
 If you know GitHub, you can also send a pull request – please follow [CONTRIBUTING.md](CONTRIBUTING.md) and [AGENTS.md](AGENTS.md).
 
