@@ -1,5 +1,5 @@
 ---
-title: Deutsche Anleitung
+title: Anleitung (DE)
 layout: default
 nav_order: 4
 locale: de_DE
@@ -21,9 +21,9 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 ## Inhalt
 
-- [🇩🇪 Ressourcen auf Deutsch](resources-de.md)
-- [🇬🇧 Resources in English](resources-en.md)
-- [🇬🇧 Diese Seite auf Englisch](README.md)
+- [🇩🇪 Ressourcen auf Deutsch](resources-de.md) — kuratierte Links auf Deutsch
+- [🇬🇧 English resources](resources-en.md) — curated links in English
+- [🇬🇧 This page in English](README.md) — diese Seite auf Englisch
 
 ## Worum es geht
 

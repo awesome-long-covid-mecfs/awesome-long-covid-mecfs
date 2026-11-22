@@ -23,9 +23,9 @@ Deutsche Anleitung hier: [README auf Deutsch](README-de.md)
 
 ## Contents
 
-- [🇬🇧 English](resources-en.md) — resources in English
-- [🇩🇪 Deutsch](resources-de.md) — Ressourcen auf Deutsch
-- [🇩🇪 Deutsche Anleitung](README-de.md) — this page in German
+- [🇬🇧 English resources](resources-en.md) — curated links in English
+- [🇩🇪 Ressourcen auf Deutsch](resources-de.md) — kuratierte Links auf Deutsch
+- [🇩🇪 Anleitung auf Deutsch](README-de.md) — this page in German
 
 Further languages can be added as soon as enough reviewed sources are available.
 
