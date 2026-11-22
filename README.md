@@ -7,6 +7,8 @@ nav_order: 1
 
 # Awesome Long COVID & ME/CFS
 
+**Know a link that belongs here?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
+
 Curated resources on **Long COVID / Post-COVID**, **ME/CFS (Myalgic Encephalomyelitis / Chronic Fatigue Syndrome)**, POTS, MCAS, hEDS, fibromyalgia, SIBO, dysautonomia and other post-viral conditions – with a focus on fatigue, PEM and symptom management.
 
 For **patients, carers and researchers**. This list is multilingual: resources appear in the language in which they were published. Every entry is checked by a human before it goes live.
