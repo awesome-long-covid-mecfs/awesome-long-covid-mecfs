@@ -98,6 +98,19 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **`RESEARCH.md` entfernt** – die Vorlagenanalyse war nur für die Startphase; der einzige Verweis stand in dieser Datei
 - [x] **Kaputte Issue-Links in den READMEs repariert** – `/home/max/CodeSpaces://github.com/...` → `https://github.com/...` in `README.md` und `README-de.md`; der Rest des Repos wurde auf ähnliche Pfad-Verweise geprüft (keine weiteren Funde)
 
+## Suchmaschinen & KI-Crawler (SEO)
+
+- [ ] **`url:` in `_config.yml`** – auf `https://awesome-long-covid-mecfs.github.io` setzen. `site.url` ist leer, deshalb sind `canonical`, `og:url` und JSON-LD derzeit nur relative Pfade. Eine Zeile, grösster Hebel.
+- [ ] **`jekyll-sitemap` aktivieren** – `plugins: [jekyll-sitemap]` in `_config.yml` (von GitHub Pages unterstützt, Version 1.4.0). `/sitemap.xml` liefert aktuell 503.
+- [ ] **`robots.txt` mit expliziten Allow-Regeln** – gehört in die Root des User-Site-Repos `awesome-long-covid-mecfs.github.io` (Root-Domain), optional zusätzlich im Projekt-Repo unter `/awesome-long-covid-mecfs/robots.txt`. Sichtbarkeit: `Googlebot`, `bingbot`, `Applebot`, `OAI-SearchBot`, `ChatGPT-User`, `Claude-SearchBot`, `Claude-User`, `PerplexityBot`, `Perplexity-User`. Training (bewusste Einwilligung): `GPTBot`, `ClaudeBot`, `Google-Extended`, `Applebot-Extended`, `CCBot`, `meta-externalagent`. Default `User-agent: * / Allow: /`. Die `Sitemap:`-Zeile erst, wenn `sitemap.xml` existiert. User-Fetcher folgen robots.txt teils nicht; ein Allow garantiert keine Aufnahme in KI-Antworten.
+- [ ] **`locale: de_DE` in `README-de.md` und `resources-de.md`** – die deutsche Seite sendet derzeit `<html lang="en-US">` und `og:locale=en_US` (jekyll-seo-tag unterstützt `locale`/`lang` im Frontmatter).
+- [ ] **Seitenspezifische `description`** für `resources-en.md` und `resources-de.md` – aktuell erbt jede Seite denselben langen englischen Text aus `_config.yml`.
+- [x] **Live-URL in beiden READMEs** – `https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/` (Kurzlink `https://awesome-long-covid-mecfs.github.io/`) in `README.md` und `README-de.md` ergänzt.
+- [ ] **GitHub-Feld `homepage` setzen** – `gh repo edit awesome-long-covid-mecfs/awesome-long-covid-mecfs --homepage https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/` (Feld ist derzeit leer).
+- [ ] **Search Console / Bing Webmaster Tools** – Verifizierung durch den User, `webmaster_verifications` in `_config.yml`, danach Sitemap einreichen.
+- [ ] **Später optional:** `hreflang`-Tags zwischen EN/DE via Theme-Override `head_custom.html`; `llms.txt` als Hinweisdatei (kein Rankingfaktor).
+- [x] **Monatlicher Link-Check existiert bereits** – `link-check.yml` läuft am 1. um 06:00 UTC; keine Änderung nötig.
+
 ## Verbesserungsideen (vom User ausgewählt)
 
 - [x] Icons/Symbole **zusätzlich** zum Text-Marker, nicht statt dessen (z. B. 📄 Studie, 🏛️ Behörde, 🤝 Selbsthilfe, ⚠️ veraltet, 💰 Commercial) – Legende in `README.md` entsprechend ergänzt, barrierefrei
