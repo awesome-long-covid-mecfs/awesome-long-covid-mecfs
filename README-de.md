@@ -6,7 +6,7 @@ locale: de_DE
 nav_exclude: true
 ---
 
-# Awesome Long COVID & ME/CFS Resources – Deutsche Anleitung
+# Awesome Long COVID & ME/CFS Resources – Anleitung
 
 Kuratierte Links und Ressourcen zu **Long COVID / Post-COVID**, **ME/CFS (Myalgische Enzephalomyelitis / Chronisches Fatigue-Syndrom)**, POTS, MCAS, hEDS, Fibromyalgie, SIBO, Dysautonomie und weiteren post-viralen Erkrankungen – mit Fokus auf Fatigue, PEM und Symptommanagement.
 
@@ -16,27 +16,12 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 > ⚠️ **Wichtig:** Keine medizinische Beratung und keine Behandlungsempfehlung. Wir verlinken nur auf Quellen – die Herausgeber verantworten deren Inhalt.
 
-| | 🇩🇪 Deutsch | 🇬🇧 English |
-|---|---|---|
-| **Anleitung / Guide** | [Deutsche Anleitung](README-de.md) | [English guide](README-en.md) |
-| **Links (EN) / Links (DE)** | [Links (DE)](links-de.md) | [Links (EN)](links-en.md) |
-
 > ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Seite listen unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Bitte die passende Sprache für deine Region wählen.
 
-🇬🇧 [English](README-en.md) · 🇩🇪 **Deutsch**
-
-## Inhalt
-
-- [🇩🇪 Links (DE)](links-de.md) — kuratierte Links auf Deutsch
-- [🇬🇧 Links (EN)](links-en.md) — curated links in English
-- [🇬🇧 This page in English](README.md) — diese Seite auf Englisch
-
-<!-- Liste bei neuen Kategorien in links-de.md und links-en.md mittragen. -->
-Themen mit geprüften Einträgen:
-
-- Deutsch: [Diagnostik](links-de.md#diagnostik) · [Studien & Forschung](links-de.md#studien--forschung) · [Behandlung & Therapie](links-de.md#behandlung--therapie) · [Selbsthilfe & Community](links-de.md#selbsthilfe--community)
-- English: [Research & Studies](links-en.md#research--studies) · [Self-Help & Community](links-en.md#self-help--community) · [Daily Life & Care](links-en.md#daily-life--care)
-- [Alle Themen](links-de.md#contents) · [All topics](links-en.md#contents)
+| | 🇩🇪 Deutsch | 🇬🇧 English |
+|---|---|---|
+| **Anleitung** | [Anleitung](README-de.md) | [Guide](README-en.md) |
+| **Links** | [Links (DE)](links-de.md) | [Links (EN)](links-en.md) |
 
 ## Worum es geht
 

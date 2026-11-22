@@ -83,15 +83,15 @@ Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken
 - Innerhalb einer Kategorie alphabetisch nach Namen, falls die Liste alphabetisch ist; sonst am Ende der Kategorie. Nicht willkürlich oben/unten mischen.
 - Keine neue Kategorie ohne Absprache – die vorläufigen Kategorien stehen in den Sprachdateien.
 - Mehrsprachige Quelle: **eine eigene Sprachfassung pro Sprachdatei** – deutsche Fassung nach `links-de.md`, englische Fassung nach `links-en.md`. Das ist die erlaubte Ausnahme vom Doppel-link-Verbot (siehe Abschnitt 4). Kein Kurzverweis nötig, wenn beide Fassungen vorhanden sind.
-- **Sprachleiste:** Jede Sprachdatei beginnt mit `🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)` (bzw. der passenden Variante). Englisch ist die Primärsprache, die Haupt-`README.md` ist englisch und verweist mit „Deutsche Anleitung hier" auf die deutsche Datei.
+- **Sprachleiste:** Jede Sprachdatei beginnt mit `🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)` (bzw. der passenden Variante). Die READMEs verlinken über die Tabelle auf Anleitung und Links beider Sprachen; eine eigene Sprachleiste gibt es dort nicht.
 - **README-Änderungen in allen Sprachen:** Wird der Inhalt einer README-Datei geändert (z. B. `README-en.md`), gehört dieselbe Änderung auch in `README.md` (GitHub-Ansicht), `README-de.md` und weitere `README-<lang>.md` – übersetzt, aber mit gleicher Struktur und denselben Links. Sonst unterscheiden sich die Fassungen und die Navigation verwaist.
 
-- Neue Sprache: erst mit dem User abstimmen, dann `links-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Sprachleiste in README und allen Sprachdateien, Seitentitel in den `links-*.md`, Inhaltsverzeichnisse und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
+- Neue Sprache: erst mit dem User abstimmen, dann `links-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Tabelle in allen READMEs, Sprachleiste in allen Sprachdateien, Seitentitel in den `links-*.md` und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
 - Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `README-en.md`, `links-en.md`, `links-de.md`); `nav_exclude` hält Meta-Seiten und die deutsche Anleitung aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
 
 ## 7. Geschützte Bereiche – nie ohne ausdrückliche Anweisung ändern
 
-- `README.md` und `README-de.md`: Abschnitte "Important"/"Wichtig" (Disclaimer), "Legende" und die Sprachleiste
+- `README.md` und `README-de.md`: Abschnitte "Important"/"Wichtig" (Disclaimer), "Legende"
 - `MARKERS.md`, `AGENTS.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`
 - `_config.yml`, `.github/` (Workflows, Issue-Templates)
 - `LICENSE.txt`
