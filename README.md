@@ -13,6 +13,8 @@ For **patients, carers and researchers**. This list is multilingual: resources a
 
 > **Important:** This list is **not medical advice**, not a substitute for doctors or therapists, and not a recommendation for any treatment. We only link to sources – their publishers are responsible for their content.
 
+[🇬🇧 English resources](resources-en.md){: .btn .btn-blue .mr-2 } [🇩🇪 Resources in German](resources-de.md){: .btn .btn-blue }
+
 🇬🇧 [English](README.md) · 🇩🇪 [Deutsch](README-de.md)
 
 Deutsche Anleitung hier: [README auf Deutsch](README-de.md)

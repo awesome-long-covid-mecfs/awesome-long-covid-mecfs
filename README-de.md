@@ -13,6 +13,8 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 > **Wichtig:** Diese Liste ist **keine medizinische Beratung**, kein Ersatz für Ärztinnen, Ärzte oder Therapeuten und keine Empfehlung für eine Behandlung. Wir verlinken nur auf Quellen – für deren Inhalt sind die jeweiligen Herausgeber verantwortlich.
 
+[🇬🇧 Resources in English](resources-en.md){: .btn .btn-blue .mr-2 } [🇩🇪 Ressourcen auf Deutsch](resources-de.md){: .btn .btn-blue }
+
 🇬🇧 [English](README.md) · 🇩🇪 [Deutsch](README-de.md)
 
 **[Live-Website](https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/)** – diese Liste als Website (Kurzlink: https://awesome-long-covid-mecfs.github.io/)

@@ -98,6 +98,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **`RESEARCH.md` entfernt** – die Vorlagenanalyse war nur für die Startphase; der einzige Verweis stand in dieser Datei
 - [x] **Kaputte Issue-Links in den READMEs repariert** – `/home/max/CodeSpaces://github.com/...` → `https://github.com/...` in `README.md` und `README-de.md`; der Rest des Repos wurde auf ähnliche Pfad-Verweise geprüft (keine weiteren Funde)
 - [ ] **`<html lang>` auf den deutschen Seiten korrigieren** – `locale: de_DE` im Frontmatter setzt nur `og:locale`; just-the-docs liest für `<html lang>` ausschliesslich `site.lang`. Vorschlag: lokale `_layouts/default.html` mit `{{ page.lang | default: site.lang | default: 'en-US' }}` und `lang: de` in `README-de.md`/`resources-de.md`. Nachteil: die kopierte Layout-Datei bekommt keine automatischen Theme-Updates. Vom User vorerst zurückgestellt.
+- [x] **Direkt-Links zu den Inhalten auf der Startseite** – zwei Buttons direkt nach dem Disclaimer in `README.md` und `README-de.md` (`.btn .btn-blue` mit `.mr-2` als Abstand), damit die Ressourcenlisten ohne Scrollen erreichbar sind
 
 ## Suchmaschinen & KI-Crawler (SEO)
 
