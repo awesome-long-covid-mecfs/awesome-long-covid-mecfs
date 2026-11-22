@@ -3,6 +3,7 @@ title: Anleitung (DE)
 layout: default
 nav_order: 4
 locale: de_DE
+nav_exclude: true
 ---
 
 # Awesome Long COVID & ME/CFS Resources – Deutsche Anleitung
