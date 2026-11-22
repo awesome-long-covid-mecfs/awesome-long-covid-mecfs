@@ -13,7 +13,7 @@ Diese Datei gilt für alle KI-Assistenten, die in diesem Ordner arbeiten. Sie is
 
 Eine **Inhalts-Sammlung**, kein Programm. Das Ergebnis sind gut kuratierte Markdown-Dateien. Die Website (GitHub Pages mit `just-the-docs`) wird daraus nur erzeugt.
 
-**Single Source of Truth für Inhalte:** `README.md` (GitHub-Ansicht), `README-en.md` (Website), `README-de.md`, `resources-de.md`, `resources-en.md` und weitere `resources-<sprache>.md`.
+**Single Source of Truth für Inhalte:** `README.md` (GitHub-Ansicht), `README-en.md` (Website), `README-de.md`, `links-de.md`, `links-en.md` und weitere `links-<sprache>.md`.
 **Single Source of Truth für Marker:** `MARKERS.md` – daraus werden Legende, Issue-Formulare und Einträge abgeleitet. Alles andere ist Konfiguration oder erzeugtes Ergebnis.
 
 ## 2. Grundsatz: Vorschlag → Anmerkungen → Freigabe → Umsetzung
@@ -50,7 +50,7 @@ Aufnehmen, wenn die Quelle:
 
 Nicht aufnehmen: Heilversprechen, Verschwörungsquellen, Paywall-only-Inhalte ohne freie Zusammenfassung, reine Werbung, doppelte Links.
 
-**Ausnahme bei doppelten Links:** Dieselbe Ressource darf in mehreren Sprachdateien stehen, wenn es dafür **jeweils eine eigene Sprachfassung** gibt. Die deutsche Version kommt nach `resources-de.md`, die englische Version nach `resources-en.md`. Zwei-identische Links in *derselben* Datei bleiben unerwünscht.
+**Ausnahme bei doppelten Links:** Dieselbe Ressource darf in mehreren Sprachdateien stehen, wenn es dafür **jeweils eine eigene Sprachfassung** gibt. Die deutsche Version kommt nach `links-de.md`, die englische Version nach `links-en.md`. Zwei-identische Links in *derselben* Datei bleiben unerwünscht.
 
 ## 5. Eintragsformat
 
@@ -64,8 +64,8 @@ Nicht aufnehmen: Heilversprechen, Verschwörungsquellen, Paywall-only-Inhalte oh
 - **Alle Marker stehen auf Englisch.** Die vollständige Liste mit deutscher Übersetzung steht in [`MARKERS.md`](MARKERS.md) – dort ergänzen, nicht hier kopieren.
 - Mehrere Marker pro Eintrag sind erlaubt. Häufen sich bestimmte Kombinationen, kann daraus eine neue Kategorie entstehen – dann vorher mit dem User abstimmen.
 - **Keine Sterne, keine Gut-schlecht-Bewertung.** Nur den Quellentyp benennen – die Leserinnen und Leser urteilen selbst.
-- Sprache des Eintrags bestimmt die Datei: deutsche Quellen → `resources-de.md`, englische → `resources-en.md`.
-- Neue Sprachdatei nur nach Absprache mit dem User anlegen; Dateiname `resources-<lang>.md`. Danach die Sprachleiste in **allen** Dateien mitaktualisieren (siehe Abschnitt 6).
+- Sprache des Eintrags bestimmt die Datei: deutsche Quellen → `links-de.md`, englische → `links-en.md`.
+- Neue Sprachdatei nur nach Absprache mit dem User anlegen; Dateiname `links-<lang>.md`. Danach die Sprachleiste in **allen** Dateien mitaktualisieren (siehe Abschnitt 6).
 
 ### Warn-Kästen
 
@@ -82,12 +82,12 @@ Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken
 - Eintrag in die **passende thematische Unterkategorie** der Sprachdatei.
 - Innerhalb einer Kategorie alphabetisch nach Namen, falls die Liste alphabetisch ist; sonst am Ende der Kategorie. Nicht willkürlich oben/unten mischen.
 - Keine neue Kategorie ohne Absprache – die vorläufigen Kategorien stehen in den Sprachdateien.
-- Mehrsprachige Quelle: **eine eigene Sprachfassung pro Sprachdatei** – deutsche Fassung nach `resources-de.md`, englische Fassung nach `resources-en.md`. Das ist die erlaubte Ausnahme vom Doppel-link-Verbot (siehe Abschnitt 4). Kein Kurzverweis nötig, wenn beide Fassungen vorhanden sind.
-- **Sprachleiste:** Jede Sprachdatei beginnt mit `🇬🇧 **English** · 🇩🇪 [Deutsch](resources-de.md)` (bzw. der passenden Variante). Englisch ist die Primärsprache, die Haupt-`README.md` ist englisch und verweist mit „Deutsche Anleitung hier" auf die deutsche Datei.
+- Mehrsprachige Quelle: **eine eigene Sprachfassung pro Sprachdatei** – deutsche Fassung nach `links-de.md`, englische Fassung nach `links-en.md`. Das ist die erlaubte Ausnahme vom Doppel-link-Verbot (siehe Abschnitt 4). Kein Kurzverweis nötig, wenn beide Fassungen vorhanden sind.
+- **Sprachleiste:** Jede Sprachdatei beginnt mit `🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)` (bzw. der passenden Variante). Englisch ist die Primärsprache, die Haupt-`README.md` ist englisch und verweist mit „Deutsche Anleitung hier" auf die deutsche Datei.
 - **README-Änderungen in allen Sprachen:** Wird der Inhalt einer README-Datei geändert (z. B. `README-en.md`), gehört dieselbe Änderung auch in `README.md` (GitHub-Ansicht), `README-de.md` und weitere `README-<lang>.md` – übersetzt, aber mit gleicher Struktur und denselben Links. Sonst unterscheiden sich die Fassungen und die Navigation verwaist.
 
-- Neue Sprache: erst mit dem User abstimmen, dann `resources-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Sprachleiste in README und allen Sprachdateien, Seitentitel in den `resources-*.md`, Inhaltsverzeichnisse und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
-- Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `README-en.md`, `resources-en.md`, `resources-de.md`); `nav_exclude` hält Meta-Seiten und die deutsche Anleitung aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
+- Neue Sprache: erst mit dem User abstimmen, dann `links-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Sprachleiste in README und allen Sprachdateien, Seitentitel in den `links-*.md`, Inhaltsverzeichnisse und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
+- Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `README-en.md`, `links-en.md`, `links-de.md`); `nav_exclude` hält Meta-Seiten und die deutsche Anleitung aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
 
 ## 7. Geschützte Bereiche – nie ohne ausdrückliche Anweisung ändern
 
@@ -99,7 +99,7 @@ Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken
 
 ## 8. Interne Links
 
-Interne Links werden **immer als `.md` geschrieben**, z. B. `[Deutsch](resources-de.md)`.
+Interne Links werden **immer als `.md` geschrieben**, z. B. `[Deutsch](links-de.md)`.
 Das Plugin `jekyll-relative-links` wandelt sie beim Build automatisch in Website-Links um.
 **Niemals** `.md` manuell in `.html` ändern – das zerstört die Links im GitHub-Repo und ist überflüssig.
 

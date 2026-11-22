@@ -25,7 +25,7 @@ Broken link? Use the **“Broken link”** template.
 
 1. Fork the repo and create a branch.
 2. Only **one change per pull request**.
-3. Add the entry to the correct `resources-<language>.md` and category.
+3. Add the entry to the correct `links-<language>.md` and category.
 4. Follow the format: `- **[Name](URL)** — One sentence. 📄 [Study]` (icon + English marker, no date).
 5. Follow [MARKERS.md](MARKERS.md) and [AGENTS.md](AGENTS.md).
 6. Briefly describe why the source should be included.

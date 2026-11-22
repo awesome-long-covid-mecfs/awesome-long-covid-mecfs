@@ -19,7 +19,7 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 | | 🇩🇪 Deutsch | 🇬🇧 English |
 |---|---|---|
 | **Anleitung / Guide** | [Deutsche Anleitung](README-de.md) | [English guide](README-en.md) |
-| **Links (EN) / Links (DE)** | [Links (DE)](resources-de.md) | [Links (EN)](resources-en.md) |
+| **Links (EN) / Links (DE)** | [Links (DE)](links-de.md) | [Links (EN)](links-en.md) |
 
 > ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Seite listen unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Bitte die passende Sprache für deine Region wählen.
 
@@ -27,16 +27,16 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 ## Inhalt
 
-- [🇩🇪 Links (DE)](resources-de.md) — kuratierte Links auf Deutsch
-- [🇬🇧 Links (EN)](resources-en.md) — curated links in English
+- [🇩🇪 Links (DE)](links-de.md) — kuratierte Links auf Deutsch
+- [🇬🇧 Links (EN)](links-en.md) — curated links in English
 - [🇬🇧 This page in English](README.md) — diese Seite auf Englisch
 
-<!-- Liste bei neuen Kategorien in resources-de.md und resources-en.md mittragen. -->
+<!-- Liste bei neuen Kategorien in links-de.md und links-en.md mittragen. -->
 Themen mit geprüften Einträgen:
 
-- Deutsch: [Diagnostik](resources-de.md#diagnostik) · [Studien & Forschung](resources-de.md#studien--forschung) · [Behandlung & Therapie](resources-de.md#behandlung--therapie) · [Selbsthilfe & Community](resources-de.md#selbsthilfe--community)
-- English: [Research & Studies](resources-en.md#research--studies) · [Self-Help & Community](resources-en.md#self-help--community) · [Daily Life & Care](resources-en.md#daily-life--care)
-- [Alle Themen](resources-de.md#contents) · [All topics](resources-en.md#contents)
+- Deutsch: [Diagnostik](links-de.md#diagnostik) · [Studien & Forschung](links-de.md#studien--forschung) · [Behandlung & Therapie](links-de.md#behandlung--therapie) · [Selbsthilfe & Community](links-de.md#selbsthilfe--community)
+- English: [Research & Studies](links-en.md#research--studies) · [Self-Help & Community](links-en.md#self-help--community) · [Daily Life & Care](links-en.md#daily-life--care)
+- [Alle Themen](links-de.md#contents) · [All topics](links-en.md#contents)
 
 ## Worum es geht
 

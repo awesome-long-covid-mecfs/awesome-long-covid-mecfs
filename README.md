@@ -11,7 +11,7 @@ For **patients, carers and researchers**. This list is multilingual: resources a
 | | 🇩🇪 Deutsch | 🇬🇧 English |
 |---|---|---|
 | **Guide / Anleitung** | [Deutsche Anleitung](README-de.md) | [English guide](README-en.md) |
-| **Links (EN) / Links (DE)** | [Links (DE)](resources-de.md) | [Links (EN)](resources-en.md) |
+| **Links (EN) / Links (DE)** | [Links (DE)](links-de.md) | [Links (EN)](links-en.md) |
 
 > ℹ️ These links are language-specific: the German and English pages list different sources, including regional services and authorities. Choose the language that fits your region.
 
@@ -21,16 +21,16 @@ Deutsche Anleitung hier: [README auf Deutsch](README-de.md)
 
 ## Contents
 
-- [🇬🇧 Links (EN)](resources-en.md) — curated links in English
-- [🇩🇪 Links (DE)](resources-de.md) — kuratierte Links auf Deutsch
+- [🇬🇧 Links (EN)](links-en.md) — curated links in English
+- [🇩🇪 Links (DE)](links-de.md) — kuratierte Links auf Deutsch
 - [🇩🇪 Anleitung auf Deutsch](README-de.md) — this page in German
 
-<!-- Keep this list in sync with the category lists in resources-en.md and resources-de.md. -->
+<!-- Keep this list in sync with the category lists in links-en.md and links-de.md. -->
 Topics with reviewed entries:
 
-- English: [Research & Studies](resources-en.md#research--studies) · [Self-Help & Community](resources-en.md#self-help--community) · [Daily Life & Care](resources-en.md#daily-life--care)
-- Deutsch: [Diagnostik](resources-de.md#diagnostik) · [Studien & Forschung](resources-de.md#studien--forschung) · [Behandlung & Therapie](resources-de.md#behandlung--therapie) · [Selbsthilfe & Community](resources-de.md#selbsthilfe--community)
-- [All topics](resources-en.md#contents) · [Alle Themen](resources-de.md#contents)
+- English: [Research & Studies](links-en.md#research--studies) · [Self-Help & Community](links-en.md#self-help--community) · [Daily Life & Care](links-en.md#daily-life--care)
+- Deutsch: [Diagnostik](links-de.md#diagnostik) · [Studien & Forschung](links-de.md#studien--forschung) · [Behandlung & Therapie](links-de.md#behandlung--therapie) · [Selbsthilfe & Community](links-de.md#selbsthilfe--community)
+- [All topics](links-en.md#contents) · [Alle Themen](links-de.md#contents)
 
 Further languages can be added as soon as enough reviewed sources are available.
 

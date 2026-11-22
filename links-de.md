@@ -6,7 +6,7 @@ nav_order: 3
 locale: de_DE
 ---
 
-🇬🇧 [English](resources-en.md) · 🇩🇪 **Deutsch**
+🇬🇧 [English](links-en.md) · 🇩🇪 **Deutsch**
 
 ## Contents
 

@@ -5,7 +5,7 @@ layout: default
 nav_order: 2
 ---
 
-🇬🇧 **English** · 🇩🇪 [Deutsch](resources-de.md)
+🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)
 
 ## Contents
 
