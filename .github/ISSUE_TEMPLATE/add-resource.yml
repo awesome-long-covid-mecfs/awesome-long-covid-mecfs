@@ -1,0 +1,89 @@
+name: Suggest a link
+description: A good resource is missing from the list
+title: "[Suggestion]: "
+labels: ["new-resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion! You do not need Git. Please fill in the fields.
+        Only sources that meet the rules in AGENTS.md are accepted.
+        We do not include: miracle cures, conspiracy sources, affiliate links,
+        paywall-only content or URL shorteners.
+        Marker definitions: MARKERS.md.
+  - type: input
+    id: name
+    attributes:
+      label: Name of the resource
+      placeholder: e.g. RKI - Long COVID
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language of the source
+      options:
+        - English
+        - German
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best-fit category
+      options:
+        - Diagnosis
+        - Research & Studies
+        - Treatment & Therapy
+        - Self-Help & Community
+        - Daily Life & Care
+        - Assistive Devices
+        - Legal & Benefits
+        - Professional Literature
+        - Patient Stories
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: Type of source
+      options:
+        - Authority
+        - Systematic review
+        - Study
+        - Guideline
+        - Self-help
+        - Patient story
+        - Professional literature
+        - Preprint
+        - Commercial
+        - Outdated
+        - Collection
+        - Tool
+        - Advocacy
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why is this a good source?
+      description: One or two sentences are enough.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Please confirm
+      options:
+        - label: No miracle cure, no advertising, no affiliate link
+          required: true

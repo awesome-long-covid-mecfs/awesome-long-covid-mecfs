@@ -1,0 +1,65 @@
+---
+title: English
+layout: default
+nav_order: 2
+---
+
+🇬🇧 **English** · 🇩🇪 [Deutsch](resources-de.md)
+
+## Contents
+
+- [Diagnosis](#diagnosis)
+- [Research & Studies](#research--studies)
+- [Treatment & Therapy](#treatment--therapy)
+- [Self-Help & Community](#self-help--community)
+- [Daily Life & Care](#daily-life--care)
+- [Assistive Devices](#assistive-devices)
+- [Legal & Benefits](#legal--benefits)
+- [Professional Literature](#professional-literature)
+- [Patient Stories](#patient-stories)
+
+# Resources in English
+
+Sources published in English. Markers and admission criteria are documented in [`MARKERS.md`](MARKERS.md), the [README](README.md) and [AGENTS.md](AGENTS.md).
+
+> Not medical advice. Linking to a resource is not an endorsement of any treatment.
+
+## Diagnosis
+
+*No reviewed entries yet – suggestions welcome.*
+
+## Research & Studies
+
+- **[ME/CFS Research Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/en/)** — Research tracker with plain-language summaries and direct links to primary sources. 🗂️ [Collection]
+
+- **[COVID Studies (Zotero group library)](https://www.zotero.org/groups/5006109/covidstudies/library)** — Public group library collecting COVID-related studies; no login required. 🗂️ [Collection]
+
+## Treatment & Therapy
+
+*No reviewed entries yet – suggestions welcome.*
+
+## Self-Help & Community
+
+- **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses. 📣 [Advocacy]
+
+- **[ME/CFS Useful Resources](https://github.com/me-cfs/me-cfs.github.io/blob/main/useful-resources.md)** — Community-curated collection of diagnostic criteria, communities and further ME/CFS resources. 🗂️ [Collection]
+
+## Daily Life & Care
+
+- **[COVID-19 Initiatives](https://github.com/medero/covid-projects)** — Curated list of projects on air quality, CO₂ monitoring and community protection. 🗂️ [Collection]
+
+## Assistive Devices
+
+*No reviewed entries yet – suggestions welcome.*
+
+## Legal & Benefits
+
+*No reviewed entries yet – suggestions welcome.*
+
+## Professional Literature
+
+*No reviewed entries yet – suggestions welcome.*
+
+## Patient Stories
+
+*No reviewed entries yet – suggestions welcome.*

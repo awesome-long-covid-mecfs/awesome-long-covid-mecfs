@@ -1,0 +1,31 @@
+name: Broken link
+description: An entry in the list is no longer reachable
+title: "[Broken link]: "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Name of the entry
+      placeholder: e.g. RKI - Long COVID
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link that does not work
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: What happens?
+      placeholder: e.g. 404, empty page, redirected to advertising
+    validations:
+      required: false
+  - type: input
+    id: replacement
+    attributes:
+      label: New link (if known)
+    validations:
+      required: false

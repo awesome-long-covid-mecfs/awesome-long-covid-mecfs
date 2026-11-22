@@ -1,0 +1,28 @@
+name: Link-Check
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+  schedule:
+    # Einmal im Monat, am 1. um 06:00 UTC
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Links prüfen
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose --no-progress
+            --accept 200,204,206,301,302,303,307,308
+            './**/*.md'
+          # Meldet Probleme, bricht den PR aber nicht ab:
+          # viele Gesundheitsseiten blockieren Bot-Pruefer.
+          fail: false

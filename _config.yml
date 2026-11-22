@@ -1,0 +1,37 @@
+title: Awesome Long COVID & ME/CFS
+description: >-
+  Curated resources on Long COVID, Post-COVID, ME/CFS (Myalgic
+  Encephalomyelitis / Chronic Fatigue Syndrome), POTS, MCAS, hEDS,
+  fibromyalgia, SIBO, dysautonomia and other post-viral conditions -
+  fatigue, PEM and symptom management for patients, carers and researchers.
+
+remote_theme: just-the-docs/just-the-docs
+
+# Wichtig: interne Links werden in den Markdown-Dateien immer als .md
+# geschrieben. Dieses Plugin wandelt sie beim Build in Website-Links um.
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+
+# Pfad, unter dem die Seite später auf github.io erscheint:
+# https://<USERNAME>.github.io/awesome-long-covid-mecfs/
+baseurl: "/awesome-long-covid-mecfs"
+url: ""
+
+# Sprachnavigation oben rechts auf jeder Seite.
+# Neue Sprache: eine Zeile hier ergaenzen - weiter nichts noetig.
+# Reihenfolge: Englisch zuerst, dann Deutsch, dann weitere Sprachen.
+aux_links:
+  "🇬🇧 English": "/awesome-long-covid-mecfs/resources-en.html"
+  "🇩🇪 Deutsch": "/awesome-long-covid-mecfs/resources-de.html"
+
+footer_content: >-
+  Keine medizinische Beratung. Inhalte unter
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.

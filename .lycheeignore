@@ -1,0 +1,5 @@
+# Links, die der Link-Check ignorieren soll.
+# Ein Muster pro Zeile, # leitet einen Kommentar ein.
+
+# Beispiel, falls später ein Platzhalter in einer Vorlage steht:
+# https://example.com/.*
