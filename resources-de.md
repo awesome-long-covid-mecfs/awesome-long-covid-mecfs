@@ -1,5 +1,6 @@
 ---
 title: Deutsch
+description: Kuratierte Ressourcen zu Long COVID, ME/CFS, POTS, MCAS und post-viralen Erkrankungen auf Deutsch – Forschung, Selbsthilfe, Alltag und Versorgung.
 layout: default
 nav_order: 3
 locale: de_DE
