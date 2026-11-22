@@ -19,7 +19,7 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 | | 🇩🇪 Deutsch | 🇬🇧 English |
 |---|---|---|
 | **Anleitung / Guide** | [Deutsche Anleitung](README-de.md) | [English guide](README-en.md) |
-| **Ressourcen / Resources** | [Ressourcen auf Deutsch](resources-de.md) | [English resources](resources-en.md) |
+| **Links (EN) / Links (DE)** | [Links (DE)](resources-de.md) | [Links (EN)](resources-en.md) |
 
 > ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Seite listen unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Bitte die passende Sprache für deine Region wählen.
 
@@ -27,8 +27,8 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 ## Inhalt
 
-- [🇩🇪 Ressourcen auf Deutsch](resources-de.md) — kuratierte Links auf Deutsch
-- [🇬🇧 English resources](resources-en.md) — curated links in English
+- [🇩🇪 Links (DE)](resources-de.md) — kuratierte Links auf Deutsch
+- [🇬🇧 Links (EN)](resources-en.md) — curated links in English
 - [🇬🇧 This page in English](README.md) — diese Seite auf Englisch
 
 <!-- Liste bei neuen Kategorien in resources-de.md und resources-en.md mittragen. -->

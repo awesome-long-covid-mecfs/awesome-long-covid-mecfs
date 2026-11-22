@@ -18,7 +18,7 @@ For **patients, carers and researchers**. This list is multilingual: resources a
 | | 🇩🇪 Deutsch | 🇬🇧 English |
 |---|---|---|
 | **Guide / Anleitung** | [Deutsche Anleitung](README-de.md) | [English guide](README-en.md) |
-| **Resources / Ressourcen** | [Ressourcen auf Deutsch](resources-de.md) | [English resources](resources-en.md) |
+| **Links (EN) / Links (DE)** | [Links (DE)](resources-de.md) | [Links (EN)](resources-en.md) |
 
 > ℹ️ These links are language-specific: the German and English pages list different sources, including regional services and authorities. Choose the language that fits your region.
 
@@ -28,8 +28,8 @@ Deutsche Anleitung hier: [README auf Deutsch](README-de.md)
 
 ## Contents
 
-- [🇬🇧 English resources](resources-en.md) — curated links in English
-- [🇩🇪 Ressourcen auf Deutsch](resources-de.md) — kuratierte Links auf Deutsch
+- [🇬🇧 Links (EN)](resources-en.md) — curated links in English
+- [🇩🇪 Links (DE)](resources-de.md) — kuratierte Links auf Deutsch
 - [🇩🇪 Anleitung auf Deutsch](README-de.md) — this page in German
 
 <!-- Keep this list in sync with the category lists in resources-en.md and resources-de.md. -->

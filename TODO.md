@@ -103,7 +103,8 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [ ] **`<html lang>` auf den deutschen Seiten korrigieren** – `locale: de_DE` im Frontmatter setzt nur `og:locale`; just-the-docs liest für `<html lang>` ausschliesslich `site.lang`. Vorschlag: lokale `_layouts/default.html` mit `page.lang | default: site.lang | default: 'en-US'` und `lang: de` in `README-de.md`/`resources-de.md`. Nachteil: die kopierte Layout-Datei bekommt keine automatischen Theme-Updates. Vom User vorerst zurückgestellt.
 - [x] **Direkt-Links zu den Inhalten auf der Startseite** – zwei Buttons direkt nach dem Disclaimer in `README.md` und `README-de.md` (`.btn .btn-blue` mit `.mr-2` als Abstand), damit die Ressourcenlisten ohne Scrollen erreichbar sind
 - [x] **Obere Sprachleiste eindeutig benannt** – `aux_links` in `_config.yml` heissen jetzt `🇬🇧 English resources` / `🇩🇪 Deutsche Ressourcen`; oben rechts führt der Wechsel immer zu den Ressourcenlisten, nicht zur Anleitung
-- [x] **Seitentitel und Inhaltsverzeichnisse eindeutig benannt** – Sidebar `Resources (EN)`, `Ressourcen (DE)`, `Anleitung (DE)`; Contents/Inhalt-Listen in beiden READMEs mit eindeutigen Zielen und Beschreibungen
+- [x] **Seitentitel und Inhaltsverzeichnisse eindeutig benannt** – Sidebar `Links (EN)`, `Links (DE)` (deutsche Anleitung ausgeblendet); Contents/Inhalt-Listen in allen READMEs mit eindeutigen Zielen und Beschreibungen
+- [x] **Bezeichnung „Links" statt „Ressourcen"** – Navigation, Tabelle und Contents in `README.md`, `README-en.md`, `README-de.md` sowie Seitentitel der `resources-*.md`. H1, Site-Titel und Meta-Descriptions behalten „Resources" als Suchbegriff. Neue Regel in `AGENTS.md` §6: README-Änderungen immer in allen Sprachfassungen mitmachen.
 
 ## Suchmaschinen & KI-Crawler (SEO)
 

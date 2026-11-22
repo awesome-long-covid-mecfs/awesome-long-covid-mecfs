@@ -84,8 +84,10 @@ Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken
 - Keine neue Kategorie ohne Absprache – die vorläufigen Kategorien stehen in den Sprachdateien.
 - Mehrsprachige Quelle: **eine eigene Sprachfassung pro Sprachdatei** – deutsche Fassung nach `resources-de.md`, englische Fassung nach `resources-en.md`. Das ist die erlaubte Ausnahme vom Doppel-link-Verbot (siehe Abschnitt 4). Kein Kurzverweis nötig, wenn beide Fassungen vorhanden sind.
 - **Sprachleiste:** Jede Sprachdatei beginnt mit `🇬🇧 **English** · 🇩🇪 [Deutsch](resources-de.md)` (bzw. der passenden Variante). Englisch ist die Primärsprache, die Haupt-`README.md` ist englisch und verweist mit „Deutsche Anleitung hier" auf die deutsche Datei.
-- Neue Sprache: erst mit dem User abstimmen, dann `resources-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Sprachleiste in README und allen Sprachdateien, `aux_links` in `_config.yml`, Inhaltsverzeichnisse und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
-- Die Website-Sprachnavigation läuft über `aux_links` in `_config.yml` – eine Zeile pro Sprache, zentral an einem Ort. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
+- **README-Änderungen in allen Sprachen:** Wird der Inhalt einer README-Datei geändert (z. B. `README-en.md`), gehört dieselbe Änderung auch in `README.md` (GitHub-Ansicht), `README-de.md` und weitere `README-<lang>.md` – übersetzt, aber mit gleicher Struktur und denselben Links. Sonst unterscheiden sich die Fassungen und die Navigation verwaist.
+
+- Neue Sprache: erst mit dem User abstimmen, dann `resources-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Sprachleiste in README und allen Sprachdateien, Seitentitel in den `resources-*.md`, Inhaltsverzeichnisse und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
+- Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `README-en.md`, `resources-en.md`, `resources-de.md`); `nav_exclude` hält Meta-Seiten und die deutsche Anleitung aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
 
 ## 7. Geschützte Bereiche – nie ohne ausdrückliche Anweisung ändern
 
