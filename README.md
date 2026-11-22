@@ -5,7 +5,7 @@ permalink: /
 nav_order: 1
 ---
 
-# Awesome Long COVID & ME/CFS
+# Awesome Long COVID & ME/CFS Resources
 
 **Know a link that belongs here?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
 

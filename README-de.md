@@ -5,7 +5,7 @@ nav_order: 4
 locale: de_DE
 ---
 
-# Awesome Long COVID & ME/CFS – Deutsche Anleitung
+# Awesome Long COVID & ME/CFS Resources – Deutsche Anleitung
 
 **Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING.md).
 
