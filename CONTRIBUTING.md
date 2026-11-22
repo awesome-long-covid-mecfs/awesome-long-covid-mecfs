@@ -1,3 +1,9 @@
+---
+title: Mitmachen (CONTRIBUTING.md)
+layout: default
+nav_order: 8
+---
+
 # Mitmachen
 
 Du musst **kein Programmierer** sein, um eine Quelle vorzuschlagen.

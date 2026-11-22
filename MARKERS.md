@@ -1,3 +1,9 @@
+---
+title: Marker-Legende (MARKERS.md)
+layout: default
+nav_order: 6
+---
+
 # Markers / Marker
 
 This file is the **single source of truth** for all markers used in the resource lists. `README.md`, `AGENTS.md`, the issue templates and all entries refer to this file.

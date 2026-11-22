@@ -1,3 +1,9 @@
+---
+title: KI-Regeln (AGENTS.md)
+layout: default
+nav_order: 5
+---
+
 # AGENTS.md – Regeln für KI-Assistenten
 
 Diese Datei gilt für alle KI-Assistenten, die in diesem Ordner arbeiten. Sie ist verbindlich; bei Widersprüchen mit anderen Dateien gewinnt sie.

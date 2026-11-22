@@ -1,3 +1,9 @@
+---
+title: Verhaltenskodex (CODE_OF_CONDUCT.md)
+layout: default
+nav_order: 9
+---
+
 # Code of Conduct
 
 Wir wollen, dass sich hier alle sicher und respektvoll bewegen – insbesondere Betroffene, die oft schon schlechte Erfahrungen gemacht haben.
