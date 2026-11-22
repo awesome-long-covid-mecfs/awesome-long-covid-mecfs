@@ -10,7 +10,7 @@ Ziel: Awesome-Liste zu ME/CFS, Post-COVID/Long COVID und verwandten Erkrankungen
 Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprache als Hauptkategorie.
 
 **Live:** https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs · https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/
-**Ziel:** https://awesome-long-covid-mecfs.github.io/ – erst nach Umbenennung des Repos in `awesome-long-covid-mecfs.github.io` (derzeit 404).
+**Kurz-URL:** https://awesome-long-covid-mecfs.github.io/ → Weiterleitung auf die Projektseite (eigenes Repo `awesome-long-covid-mecfs.github.io`)
 
 ## Fundament
 
@@ -89,7 +89,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 
 ## Website-Navigation & Erreichbarkeit
 
-- [ ] **Root-URL `https://awesome-long-covid-mecfs.github.io/`** – GitHub liefert sie nur für ein Repo namens `awesome-long-covid-mecfs.github.io`; die Umbenennung muss auf GitHub passieren. Danach `baseurl: ""` und die `aux_links` in `_config.yml` anpassen.
+- [x] **Root-URL `https://awesome-long-covid-mecfs.github.io/`** – neues User-Site-Repo `awesome-long-covid-mecfs.github.io` mit statischem `index.html`-Redirect auf `/awesome-long-covid-mecfs/`; Pages auf `main` / `(root)` aktiv. Das Projekt-Repo bleibt unverändert, `baseurl` und `aux_links` bleiben wie sie sind.
 - [x] **Meta-Seiten in der Seitenleiste** – `AGENTS.md`, `MARKERS.md`, `TODO.md`, `CONTRIBUTING.md` und `CODE_OF_CONDUCT.md` mit Frontmatter (`title`, `nav_order`) für just-the-docs
 - [x] **`RESEARCH.md` entfernt** – die Vorlagenanalyse war nur für die Startphase; der einzige Verweis stand in dieser Datei
 - [x] **Kaputte Issue-Links in den READMEs repariert** – `/home/max/CodeSpaces://github.com/...` → `https://github.com/...` in `README.md` und `README-de.md`; der Rest des Repos wurde auf ähnliche Pfad-Verweise geprüft (keine weiteren Funde)
