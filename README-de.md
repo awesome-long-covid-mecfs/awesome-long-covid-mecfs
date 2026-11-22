@@ -8,19 +8,22 @@ nav_exclude: true
 
 # Awesome Long COVID & ME/CFS Resources – Deutsche Anleitung
 
-**Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING.md).
-
 Kuratierte Links und Ressourcen zu **Long COVID / Post-COVID**, **ME/CFS (Myalgische Enzephalomyelitis / Chronisches Fatigue-Syndrom)**, POTS, MCAS, hEDS, Fibromyalgie, SIBO, Dysautonomie und weiteren post-viralen Erkrankungen – mit Fokus auf Fatigue, PEM und Symptommanagement.
 
 Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Ressourcen stehen in der Sprache, in der sie erschienen sind. Jeder Eintrag wird vor der Veröffentlichung von einem Menschen geprüft.
 
-> **Wichtig:** Diese Liste ist **keine medizinische Beratung**, kein Ersatz für Ärztinnen, Ärzte oder Therapeuten und keine Empfehlung für eine Behandlung. Wir verlinken nur auf Quellen – für deren Inhalt sind die jeweiligen Herausgeber verantwortlich.
+**Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING.md).
 
-[🇬🇧 Resources in English](resources-en.md){: .btn .btn-blue .mr-2 } [🇩🇪 Ressourcen auf Deutsch](resources-de.md){: .btn .btn-blue }
+> ⚠️ **Wichtig:** Keine medizinische Beratung und keine Behandlungsempfehlung. Wir verlinken nur auf Quellen – die Herausgeber verantworten deren Inhalt.
 
-🇬🇧 [English](README.md) · 🇩🇪 [Deutsch](README-de.md)
+| | 🇩🇪 Deutsch | 🇬🇧 English |
+|---|---|---|
+| **Anleitung / Guide** | [Deutsche Anleitung](README-de.md) | [English guide](README-en.md) |
+| **Ressourcen / Resources** | [Ressourcen auf Deutsch](resources-de.md) | [English resources](resources-en.md) |
 
-**[Live-Website](https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/)** – diese Liste als Website (Kurzlink: https://awesome-long-covid-mecfs.github.io/)
+> ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Seite listen unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Bitte die passende Sprache für deine Region wählen.
+
+🇬🇧 [English](README-en.md) · 🇩🇪 **Deutsch**
 
 ## Inhalt
 

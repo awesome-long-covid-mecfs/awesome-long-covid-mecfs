@@ -1,27 +1,23 @@
----
-title: Start
-layout: default
-permalink: /
-nav_order: 1
----
-
 # Awesome Long COVID & ME/CFS Resources
-
-**Know a link that belongs here?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
 
 Curated resources on **Long COVID / Post-COVID**, **ME/CFS (Myalgic Encephalomyelitis / Chronic Fatigue Syndrome)**, POTS, MCAS, hEDS, fibromyalgia, SIBO, dysautonomia and other post-viral conditions – with a focus on fatigue, PEM and symptom management.
 
 For **patients, carers and researchers**. This list is multilingual: resources appear in the language in which they were published. Every entry is checked by a human before it goes live.
 
-> **Important:** This list is **not medical advice**, not a substitute for doctors or therapists, and not a recommendation for any treatment. We only link to sources – their publishers are responsible for their content.
+**Know a link that belongs here?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
 
-[🇬🇧 English resources](resources-en.md){: .btn .btn-blue .mr-2 } [🇩🇪 Resources in German](resources-de.md){: .btn .btn-blue }
+> ⚠️ **Important:** Not medical advice or a treatment recommendation. We only link to sources – their publishers are responsible for the content.
 
-🇬🇧 [English](README.md) · 🇩🇪 [Deutsch](README-de.md)
+| | 🇩🇪 Deutsch | 🇬🇧 English |
+|---|---|---|
+| **Guide / Anleitung** | [Deutsche Anleitung](README-de.md) | [English guide](README-en.md) |
+| **Resources / Ressourcen** | [Ressourcen auf Deutsch](resources-de.md) | [English resources](resources-en.md) |
+
+> ℹ️ These links are language-specific: the German and English pages list different sources, including regional services and authorities. Choose the language that fits your region.
+
+🇬🇧 [English](README-en.md) · 🇩🇪 [Deutsch](README-de.md)
 
 Deutsche Anleitung hier: [README auf Deutsch](README-de.md)
-
-**[Live website](https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/)** — this list as a website (short link: https://awesome-long-covid-mecfs.github.io/)
 
 ## Contents
 
