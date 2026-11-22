@@ -84,7 +84,11 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **`CONTRIBUTING.md`: E-Mail-Kontakt weiter nach oben** – direkt unter die Einleitung gerückt
 - [x] **Sortierung: zuerst Englisch, dann Deutsch** – `nav_order` EN 2, DE 3; README-de 4
 - [x] **Sprachnavigation über `aux_links`** in `_config.yml` – zentral, eine Zeile pro Sprache, skalierbar für weitere Sprachen
-- [ ] **Kapitel in der Seitenleiste** – offen; Option A (aufklappbarer TOC im Seitenkopf) oder B (Ordner pro Sprache mit einer Unterseite pro Kapitel) stehen zur Wahl; C (JavaScript) verworfen
+- [ ] **Kapitel in der Seitenleiste** – Entscheidung offen; C (JavaScript) verworfen
+  - Befund: just-the-docs baut die linke Navigation ausschließlich aus Seiten-Frontmatter. Die H2-Überschriften einer einzelnen Datei lassen sich dort nicht einblenden; `nav_fold` gilt nur für Collections, und `{:toc}` mit `<details>` erscheint immer im Seiteninhalt.
+  - **A (empfohlen):** automatischer, aufklappbarer Inhaltsverzeichnis-Block oben in `resources-en.md` und `resources-de.md` via `<details>` + `{:toc}`. Keine Strukturänderung, SSOT und alle URLs bleiben, das Verzeichnis pflegt sich selbst. Nachteil: nicht in der linken Seitenleiste.
+  - **B:** `resources-de/` und `resources-en/` als Ordner mit `index.md` plus 9 Kinderseiten (`parent:`), echte aufklappbare Unterpunkte links. Nachteile: URL-Wechsel (`/resources-de.html` → `/resources-de/`, mit `permalink` abfangbar), Anker-Links werden seitenübergreifend, Sprachleiste und Disclaimer sind 10× zu pflegen, die `AGENTS.md`-Regel „eine Datei pro Sprache, Kategorien als H2" muss geändert werden, und viele Kategorien haben erst 0–1 Einträge.
+  - Vergleich anderer Listen: free-programming-books bleibt bei einer Datei pro Sprache plus Anker (keine Kategorie-Navigation); natnew/Awesome-Prompt-Engineering nutzt ~15 flache Kategoriedateien (lange flache Nav); die just-the-docs-Doku selbst nutzt Ordner plus Kinderseiten; awesome-python baut eine eigene Website (zu viel Aufwand für uns).
 - [x] **Inhaltsverzeichnis am Anfang jeder Sprachdatei** mit Links zu allen Kategorien (manuell, funktioniert auf GitHub und auf der Website)
 
 ## Website-Navigation & Erreichbarkeit
