@@ -2,6 +2,7 @@
 title: Marker-Legende (MARKERS.md)
 layout: default
 nav_order: 6
+nav_exclude: true
 ---
 
 # Markers / Marker

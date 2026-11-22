@@ -2,6 +2,7 @@
 title: Verhaltenskodex (CODE_OF_CONDUCT.md)
 layout: default
 nav_order: 9
+nav_exclude: true
 ---
 
 # Code of Conduct

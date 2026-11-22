@@ -68,6 +68,7 @@ Know a good source that is missing? You do not need Git or GitHub:
 Found a dead link? Use ["Broken link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=broken-link.yml).
 
 If you know GitHub, you can also send a pull request – please follow [CONTRIBUTING.md](CONTRIBUTING.md) and [AGENTS.md](AGENTS.md).
+The current to-do list is in [TODO.md](TODO.md).
 
 **Without a GitHub account:** email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). The address is written this way so simple spam crawlers cannot collect it.
 
