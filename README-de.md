@@ -1,5 +1,5 @@
 ---
-title: 🇩🇪 Anleitung (DE)
+title: Anleitung (DE)
 layout: default
 nav_order: 4
 locale: de_DE

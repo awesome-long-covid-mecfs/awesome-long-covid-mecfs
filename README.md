@@ -1,5 +1,5 @@
 ---
-title: 🇬🇧 Start
+title: Start
 layout: default
 permalink: /
 nav_order: 1

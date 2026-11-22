@@ -1,5 +1,5 @@
 ---
-title: 🇬🇧 Resources (EN)
+title: Resources (EN)
 description: Curated Long COVID, ME/CFS, POTS, MCAS and post-viral resources in English – research, self-help, daily life and care.
 layout: default
 nav_order: 2
