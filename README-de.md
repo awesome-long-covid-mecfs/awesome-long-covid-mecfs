@@ -14,6 +14,8 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 🇬🇧 [English](README.md) · 🇩🇪 [Deutsch](README-de.md)
 
+**[Live-Website](https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/)** – diese Liste als Website (Kurzlink: https://awesome-long-covid-mecfs.github.io/)
+
 ## Inhalt
 
 - [🇩🇪 Ressourcen auf Deutsch](resources-de.md)

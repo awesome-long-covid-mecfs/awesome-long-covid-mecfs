@@ -17,6 +17,8 @@ For **patients, carers and researchers**. This list is multilingual: resources a
 
 Deutsche Anleitung hier: [README auf Deutsch](README-de.md)
 
+**[Live website](https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/)** — this list as a website (short link: https://awesome-long-covid-mecfs.github.io/)
+
 ## Contents
 
 - [🇬🇧 English](resources-en.md) — resources in English
