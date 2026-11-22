@@ -2,6 +2,7 @@
 title: Deutsch
 layout: default
 nav_order: 3
+locale: de_DE
 ---
 
 🇬🇧 [English](resources-en.md) · 🇩🇪 **Deutsch**

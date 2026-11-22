@@ -2,6 +2,7 @@
 title: Deutsche Anleitung
 layout: default
 nav_order: 4
+locale: de_DE
 ---
 
 # Awesome Long COVID & ME/CFS – Deutsche Anleitung
