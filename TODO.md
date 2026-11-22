@@ -1,53 +1,56 @@
-# ToDo vor der Veröffentlichung
+# ToDo – Stand nach Veröffentlichung
 
 Ziel: Awesome-Liste zu ME/CFS, Post-COVID/Long COVID und verwandten Erkrankungen.
-Geplant als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprache als Hauptkategorie.
+Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprache als Hauptkategorie.
 Vorlagenanalyse anderer Awesome-Listen: [RESEARCH.md](RESEARCH.md).
+
+**Live:** https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs · https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/
 
 ## Fundament
 
-- [ ] Repo-Namen final auf GitHub prüfen (`awesome-long-covid-mecfs` – die Suche ist ungenau, nur das Anlegen beweist es)
-- [ ] Lizenz festlegen (für Inhalte z. B. CC BY-SA 4.0; Code ggf. MIT)
-- [ ] GitHub-Beschreibung und Topics finalisieren (u. a. `long-covid`, `mecfs`, `post-viral`, `POTS`, `MCAS`, `awesome-list`)
-- [ ] Grundgerüst: `README.md`, `LICENSE`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`
-- [ ] Medizinischen Disclaimer formulieren (keine Diagnose-/Behandlungsempfehlung, keine Heilversprechen)
+- [x] Repo-Namen final auf GitHub geprüft – `awesome-long-covid-mecfs` angelegt und gepusht
+- [x] Lizenz festgelegt – CC BY-SA 4.0 (`LICENSE.txt`)
+- [x] GitHub-Beschreibung und Topics finalisiert – 11 Topics gesetzt
+- [x] Grundgerüst: `README.md`, `LICENSE.txt`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`
+- [x] Medizinischer Disclaimer formuliert (keine Diagnose-/Behandlungsempfehlung, keine Heilversprechen)
 
 ## Struktur & Inhalt
 
-- [ ] Unterkategorien final festlegen (vorläufig: Diagnostik, Studien/Forschung, Behandlung/Therapie, Selbsthilfe & Community, Alltag & Versorgung, Hilfsmittel, Recht & Anträge, Fachliteratur, Patientengeschichten)
-- [ ] Sprachebenen festlegen (z. B. Deutsch, English, ggf. weitere) und Umgang mit mehrsprachigen Einträgen klären (Kurzverweis statt Duplikat)
-- [ ] Einheitliches Eintragsformat festlegen (Titel, Kurzbeschreibung, Sprache, Quellenart, ggf. Evidenzgrad)
-- [ ] Erste Ressourcen je Sprache/Kategorie sammeln – bevorzugt seriöse Quellen (WHO, NIH, RKI, Fachgesellschaften, Selbsthilfeverbände)
-- [ ] Linkprüfung vor dem Publish (tote Links aussortieren)
+- [x] Unterkategorien festgelegt (Diagnostik, Studien/Forschung, Behandlung/Therapie, Selbsthilfe & Community, Alltag & Versorgung, Hilfsmittel, Recht & Anträge, Fachliteratur, Patientengeschichten)
+- [x] Sprachebenen festlegt – Englisch primär, Deutsch, weitere möglich; eigene Sprachfassung pro Datei erlaubt
+- [x] Einheitliches Eintragsformat festgelegt – Icon + englischer Marker, kein Datum
+- [x] Erste Ressourcen gesammelt – 10 geprüfte Links in beiden Sprachdateien
+- [x] Linkprüfung vor dem Publish – alle Links auf Erreichbarkeit geprüft, zwei heikle Seiten mit Marker/Warnung aufgenommen
 
 ## Qualität & Sicherheit
 
-- [ ] Aufnahmekriterien definieren: seriös, aktuell, nachvollziehbar, keine Heilversprechen oder Verschwörungsquellen
-- [ ] Sprache achten: stigmafreie Begriffe, betroffenenfreundlich, veraltete Bezeichnungen nur mit Hinweis
-- [ ] Umgang mit umstrittenen Therapien/Studien regeln (keine Bewertung durch uns, Quellen benennen)
-- [ ] Review-Prozess für Contributions festlegen (mind. 2 Personen oder 1 Person + Checkliste)
+- [x] Aufnahmekriterien definiert – in `AGENTS.md` und den Ausschlusslisten der READMEs
+- [x] Sprache achten: stigmafreie Begriffe, betroffenenfreundlich, veraltete Bezeichnungen nur mit Hinweis
+- [x] Umgang mit umstrittenen Therapien/Studien geregelt – keine Bewertung durch uns, Quellen benennen
+- [x] Review-Prozess für Contributions festgelegt – Vorschlag → Anmerkungen → Freigabe → Umsetzung
 
 ## Veröffentlichung
 
-- [ ] Repo anlegen und pushen
-- [ ] README-Einstieg prüfen: Suchbegriffe "Long COVID", "ME/CFS", "Post-COVID" sollten natürlich vorkommen
+- [x] Repo angelegt und gepusht (`main`, Commit `d9d01ce`)
+- [x] README-Einstieg geprüft – SEO-Begriffe kommen natürlich vor
+- [x] GitHub Pages aktiviert und Build geprüft – `built`, alle Seiten HTTP 200
 - [ ] Optional: Eintrag in den awesome-Listen-Index (sindresorhus/awesome) beantragen – erst nach ausreichendem Inhalt
 - [ ] Ankündigung in einschlägigen Communities (Selbsthilfe, Forschung) – nur nach Rücksprache, kein Spam
 
 ## Nächste Schritte (vom User vorgegeben)
 
-- [ ] Inhalte: Die Kategorien sind angelegt, aber noch leer – das ist der nächste grosse Schritt
-- [ ] Eigenes GitHub-Repo anlegen: Name genau `awesome-long-covid-mecfs`, **ohne** README initialisieren
-- [ ] Ordnerinhalt in das neue Repo kopieren/pushen (dabei helfe ich dir)
-- [ ] In GitHub: Settings → Pages → Source: „Deploy from a branch" → `main` / `/(root)` → Save
-- [ ] Website testen – erst nach dem Push sichtbar; URL `https://<dein-Name>.github.io/awesome-long-covid-mecfs/`, `baseurl` in `_config.yml` ist dafür schon richtig gesetzt
+- [ ] Inhalte: erste 10 Links sind drin – weitere Ressourcen sammeln ist der nächste grosse Schritt
+- [x] Eigenes GitHub-Repo angelegt: Name genau `awesome-long-covid-mecfs`, ohne README initialisiert
+- [x] Ordnerinhalt in das neue Repo kopiert und gepusht
+- [x] GitHub Pages aktiviert (Branch `main`, Pfad `/`) – per GitHub-API gesetzt
+- [x] Website getestet – Startseite, EN, DE und README-de liefern HTTP 200; `baseurl` war richtig gesetzt
 
 ## Basisstruktur reviewen (Schritt für Schritt mit dem User)
 
 - [x] Zusätzliche Melde-Möglichkeit per E-Mail für Personen ohne GitHub-Konto: Adresse `awesome-long-covid-mecfs[at]sags-per-mail.de` in `README.md` und `CONTRIBUTING.md` ergänzt. Gewählte Variante: `[at]` statt `@` (einfach, barrierefrei, schützt vor einfachen Spam-Crawlern). Auch dieser TODO-Eintrag ist entschärft. Bei Bedarf auf eine stärkere Variante wechseln (Bild oder Kontaktformular).
-- [ ] `AGENTS.md` nochmal reviewen und besprechen: Die KI soll ggf. **mehr Aufgaben übernehmen** – Links automatisch prüfen und bewerten (Erreichbarkeit, Duplikate, Quellenart, Marker, Stand-Datum).
-- [ ] `AGENTS.md`: Wenn alles stimmt, **auf Englisch umstellen**.
-- [ ] Kategorien durch den User prüfen und ggf. erweitern.
+- [x] `AGENTS.md` reviewt – KI prüft Links (Erreichbarkeit, Duplikate, Quellenart, Marker), schreibt Vorschläge und darf nach Freigabe committen/pushen. Kein Stand-Datum.
+- [ ] `AGENTS.md`: Wenn alles stimmt, **auf Englisch umstellen** – noch offen.
+- [x] Kategorien durch den User geprüft – vorerst unverändert; weitere Kategorien bei Bedarf (Marker-Kombinationen im Auge behalten).
 
 ## Mehrsprachigkeit (vom User vorgegeben)
 
@@ -59,9 +62,9 @@ Vorlagenanalyse anderer Awesome-Listen: [RESEARCH.md](RESEARCH.md).
 
 ## Abschlusscheck vor Veröffentlichung
 
-- [ ] Repo-weite Suche nach zurückgebliebenen PII-Platzhaltern (spitze Klammern mit `PII type`) – Dateien **inklusive** `.github/`, Workflows, versteckter Dateien und LICENSE prüfen; jeder Fund muss durch einen echten Wert ersetzt werden
-- [x] Zusätzlich prüfen, dass die E-Mail-Adresse nirgends im Klartext steht (nur `[at]`-Schreibweise) – geprüft am 22.11.2026
-- [ ] Letzter Stand dieses Checks: im Ordner `awesome-long-covid-mecfs` wurden keine PII-Platzhalter gefunden (Prüfung am 22.11.2026)
+- [x] Repo-weite Suche nach zurückgebliebenen PII-Platzhaltern – inklusive `.github/`, Workflows, versteckter Dateien und LICENSE; keine Funde
+- [x] Zusätzlich geprüft, dass die E-Mail-Adresse nirgends im Klartext steht (nur `[at]`-Schreibweise) – am 22.11.2026
+- [x] Abschlusscheck dokumentiert: keine PII-Platzhalter im veröffentlichten Repo (Prüfung am 22.11.2026)
 
 ## Feedback zur Basisstruktur (Stand: umgesetzt)
 
@@ -84,7 +87,7 @@ Vorlagenanalyse anderer Awesome-Listen: [RESEARCH.md](RESEARCH.md).
 - [x] Quellentyp präziser benennen **statt Sterne-/Gut-schlecht-Bewertung**: `[Systematische Übersicht]`, `[Studie]`, `[Leitlinie]`, `[Behörde]`, `[Selbsthilfe]`, `[Erfahrungsbericht]` – auch im Issue-Formular und in `AGENTS.md`
 - [x] Warn-Kästen für heikle oder veraltete Quellen – Regel in `AGENTS.md`; nur bei `[veraltet]` oder begründeten Bedenken, nicht bei Preprint/Commercial
 - [x] Sprachleiste oben in jeder Sprachdatei (🇬🇧 English | 🇩🇪 Deutsch)
-- [x] Eigener Abschnitt „Was wir nicht aufnehmen" in `README.md` (englisch) und `resources-de.md` (deutsch) sowie als Hinweis im Issue-Formular
+- [x] Eigener Abschnitt „Was wir nicht aufnehmen" in `README.md` (englisch) und `README-de.md` (deutsch) sowie als Hinweis im Issue-Formular
 
 ## Weitere Ideen (vorerst zurückgestellt)
 
@@ -94,4 +97,4 @@ Vorlagenanalyse anderer Awesome-Listen: [RESEARCH.md](RESEARCH.md).
 
 ---
 
-Anmerkung: Dieser Ordner liegt aktuell im Monorepo `CodeSpace`. Für die Veröffentlichung als eigenes GitHub-Repo muss er später separat dorthin übertragen oder als eigenes Repo angelegt werden.
+Anmerkung: Dieses Repo ist jetzt die Arbeitskopie. Die frühere Kopie im Monorepo `CodeSpace` bleibt nur als Archiv liegen und wird nicht weitergepflegt.
