@@ -25,6 +25,13 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 - [🇬🇧 English resources](resources-en.md) — curated links in English
 - [🇬🇧 This page in English](README.md) — diese Seite auf Englisch
 
+<!-- Liste bei neuen Kategorien in resources-de.md und resources-en.md mittragen. -->
+Themen mit geprüften Einträgen:
+
+- Deutsch: [Diagnostik](resources-de.md#diagnostik) · [Studien & Forschung](resources-de.md#studien--forschung) · [Behandlung & Therapie](resources-de.md#behandlung--therapie) · [Selbsthilfe & Community](resources-de.md#selbsthilfe--community)
+- English: [Research & Studies](resources-en.md#research--studies) · [Self-Help & Community](resources-en.md#self-help--community) · [Daily Life & Care](resources-en.md#daily-life--care)
+- [Alle Themen](resources-de.md#contents) · [All topics](resources-en.md#contents)
+
 ## Worum es geht
 
 - Orientierung: verlässliche Stellen statt wildem Durcheinander im Internet

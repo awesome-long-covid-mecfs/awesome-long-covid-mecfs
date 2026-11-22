@@ -27,6 +27,13 @@ Deutsche Anleitung hier: [README auf Deutsch](README-de.md)
 - [🇩🇪 Ressourcen auf Deutsch](resources-de.md) — kuratierte Links auf Deutsch
 - [🇩🇪 Anleitung auf Deutsch](README-de.md) — this page in German
 
+<!-- Keep this list in sync with the category lists in resources-en.md and resources-de.md. -->
+Topics with reviewed entries:
+
+- English: [Research & Studies](resources-en.md#research--studies) · [Self-Help & Community](resources-en.md#self-help--community) · [Daily Life & Care](resources-en.md#daily-life--care)
+- Deutsch: [Diagnostik](resources-de.md#diagnostik) · [Studien & Forschung](resources-de.md#studien--forschung) · [Behandlung & Therapie](resources-de.md#behandlung--therapie) · [Selbsthilfe & Community](resources-de.md#selbsthilfe--community)
+- [All topics](resources-en.md#contents) · [Alle Themen](resources-de.md#contents)
+
 Further languages can be added as soon as enough reviewed sources are available.
 
 ## What this list is about
