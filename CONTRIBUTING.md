@@ -3,6 +3,7 @@ title: Contributing (CONTRIBUTING.md)
 layout: default
 nav_order: 8
 nav_exclude: true
+sitemap: false
 ---
 
 🇬🇧 **English** · 🇩🇪 [Deutsch](CONTRIBUTING-de.md)

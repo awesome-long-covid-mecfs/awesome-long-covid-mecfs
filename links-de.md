@@ -1,6 +1,6 @@
 ---
 title: 🇩🇪 Links (DE)
-description: Kuratierte Ressourcen zu Long COVID, ME/CFS, POTS, MCAS und post-viralen Erkrankungen auf Deutsch – Forschung, Selbsthilfe, Alltag und Versorgung.
+description: Kuratierte Links und Ressourcen zu Long COVID / Post-COVID, ME/CFS, POTS, MCAS, hEDS, Fibromyalgie, SIBO, Dysautonomie und weiteren post-viralen Erkrankungen – mit Fokus auf Fatigue, PEM und Symptommanagement.
 layout: default
 nav_order: 2
 locale: de_DE

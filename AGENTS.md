@@ -3,6 +3,7 @@ title: KI-Regeln (AGENTS.md)
 layout: default
 nav_order: 5
 nav_exclude: true
+sitemap: false
 ---
 
 # AGENTS.md – Regeln für KI-Assistenten

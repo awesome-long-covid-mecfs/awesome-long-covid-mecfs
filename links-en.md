@@ -1,6 +1,6 @@
 ---
 title: 🇬🇧 Links (EN)
-description: Curated Long COVID, ME/CFS, POTS, MCAS and post-viral resources in English – research, self-help, daily life and care.
+description: Curated links and resources on Long COVID, ME/CFS, POTS, MCAS, hEDS, fibromyalgia, SIBO, dysautonomia and other post-viral conditions, with a focus on fatigue, PEM and symptom management.
 layout: default
 permalink: /
 nav_order: 1

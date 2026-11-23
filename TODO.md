@@ -3,6 +3,7 @@ title: ToDo
 layout: default
 nav_order: 7
 nav_exclude: true
+sitemap: false
 ---
 
 # ToDo – Stand nach Veröffentlichung
@@ -144,6 +145,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **Themenliste direkt in den READMEs** – automatisch aus einer Quelle geht das nicht: GitHub rendert READMEs ohne Jekyll/Liquid, `include`-Tags und `site.pages`-Variablen würden als Klartext erscheinen. War als normale Markdown-Liste umgesetzt und auf Wunsch des Users wieder aus den Readmes entfernt; die Kategorienlisten stehen weiterhin oben in `links-*.md`.
 - [x] **Lange Abschnitte einklappen** mit nativem `<details markdown="block">` in beiden READMEs – „Was wir nicht aufnehmen", „Contributing"/„Mitmachen" und „Licence"/„Lizenz". Abweichung vom Vorschlag: drei einzelne Aufklapper statt eines gemeinsamen, damit die geschützte „Legende" an ihrer Stelle sichtbar bleibt; die H2-Überschriften bleiben aussen (Anker und TOC erhalten). Kein JavaScript, GitHub-kompatibel, per Tastatur und Screenreader bedienbar; „Important" und „Legende" bleiben unangetastet; die Sprachleiste wurde später aus den Readmes entfernt.
 - [ ] **Lesbarkeit auf der Website erhöhen** – `_sass/custom/setup.scss` mit `$font-size-4: 1rem;`, `$font-size-5: 1.125rem;` und `$nav-width: 18rem;` (Fliesstext heute 14 px) ist noch offen; `remote_theme` ist jetzt auf `@v0.12.0` gepinnt. Wirkt nur auf der Website, nicht in der GitHub-README-Ansicht.
+- [x] **SEO-Metadaten aktualisiert** – `description` beider Link-Seiten entspricht jetzt dem neuen Einstieg (inkl. SIBO, Dysautonomie, PEM); sechs Meta-Seiten haben `sitemap: false` und erscheinen nicht mehr in der Sitemap.
 - [x] **Einstieg der Link-Seiten nachformatiert** – die Begriffe Long COVID / Post-COVID, ME/CFS und die Zielgruppe sind wieder fett; die Sprachleiste steht direkt unter dem ℹ️-Hinweis und vor dem Inhaltsverzeichnis (beide Sprachen).
 - [x] **Sprachbezogene Readmes entfernt** – `README-de.md` und `README-en.md` gelöscht; ihr Einstieg steht jetzt übersetzt auf `links-en.md`/`links-de.md`, `links-en.md` ist die Website-Startseite (`permalink: /`), und die Tabelle in `README.md` hat nur noch die Spalte „Links". Alle Verweise in `AGENTS.md`, `CONTRIBUTING*.md`, `MARKERS.md`, `_config.yml` und diesem ToDo sind angepasst.
 - [x] **Seitenleisten-Titel umgebrochen** – lokale `_includes/title.html` schreibt „Awesome" in die erste Zeile, den Rest darunter; Schrift und Padding im CSS angepasst, damit die Zeilen in die Kopfzeile passen.

@@ -3,6 +3,7 @@ title: Mitmachen (CONTRIBUTING-de.md)
 layout: default
 nav_order: 8
 nav_exclude: true
+sitemap: false
 locale: de_DE
 ---
 
