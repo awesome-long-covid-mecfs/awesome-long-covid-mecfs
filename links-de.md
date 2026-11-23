@@ -22,18 +22,21 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Contents
 
-- [Diagnostik](#diagnostik)
-- [Tests (z.B. Fragebögen)](#tests-zb-fragebögen)
-- [Krankheitsspezifische Infos](#krankheitsspezifische-infos)
+- [Diagnostik & Tests](#diagnostik--tests)
+  - [Leitlinien & Kriterien](#leitlinien--kriterien)
+  - [Fragebögen & Selbsttests](#fragebögen--selbsttests)
+- [Begleiterkrankungen: MCAS, MCS, SIBO](#begleiterkrankungen-mcas-mcs-sibo)
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
   - [SIBO](#sibo)
 - [Studien & Forschung](#studien--forschung)
 - [Behandlung & Therapie](#behandlung--therapie)
+- [Schwer erkrankt & Pflege](#schwer-erkrankt--pflege)
 - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
-- [Infoblätter für Behandelnde](#infoblätter-für-behandelnde)
-- [Selbsthilfe & Community](#selbsthilfe--community)
-- [Betroffenenorganisationen](#betroffenenorganisationen)
+- [Material für Praxis, Pflege, Krankenhaus & Angehörige](#material-für-praxis-pflege-krankenhaus--angehörige)
+- [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
+  - [Portale & Community](#portale--community)
+  - [Vereine & Verbände](#vereine--verbände)
 - [Alltag & Versorgung](#alltag--versorgung)
 - [Regionale Angebote](#regionale-angebote)
 - [Hilfsmittel](#hilfsmittel)
@@ -52,15 +55,17 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Facebook](#facebook)
   - [Instagram](#instagram)
 
-## Diagnostik
+## Diagnostik & Tests
+
+### Leitlinien & Kriterien
 
 - **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung. 📋 [Guideline]
 
 - **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar. 📋 [Guideline]
 
-## Tests (z.B. Fragebögen)
+### Fragebögen & Selbsttests
 
-> ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Tests (e.g. questionnaires)](links-en.md#tests-eg-questionnaires) beschrieben.
+> ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Diagnosis & Tests](links-en.md#diagnosis--tests) beschrieben.
 
 - **[FUNCAP – Funktionale Kapazität](https://www.funcap.no/translations-2/funcap-auf-deutch/)** — Kostenloser Fragebogen zur Erfassung funktioneller Kapazität bei Belastungsintoleranz (PEM), mit Kurz- und Langversion. 🧰 [Tool]
 
@@ -70,7 +75,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
 
-## Krankheitsspezifische Infos
+## Begleiterkrankungen: MCAS, MCS, SIBO
 
 ### MCAS / Histaminintoleranz
 
@@ -120,31 +125,39 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
 
+## Schwer erkrankt & Pflege
+
+- **[Notfallpass bei ME/CFS (NichtGenesenKids e.V.)](https://nichtgenesenkids.de/2026/10/22/notfallpass-bei-me-cfs-wichtige-informationen-griffbereit/)** — Ausdruckbarer, zum Mitführen gefalteter Notfallpass mit Feldern für Medikamente, Begleiterkrankungen, Unverträglichkeiten und Notfallkontakte sowie Hinweisen zu Transport und Versorgung bei ME/CFS ([PDF](https://nichtgenesenkids.de/wp-content/uploads/2026/10/Notfallpass.pdf)). 🤝 [Self-help] 🧰 [Tool]
+
+- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
+
+- **[Pflegeanleitung für schwer und schwerstkranke ME/CFS-Patient:innen](https://www.mecfs.at/wp-content/uploads/2025-8-Pflegeanleitung.pdf)** — Von der Österreichischen Gesellschaft für ME/CFS und der MedUni Wien herausgegebene Pflegeanleitung (Version August 2025) für die Versorgung schwer erkrankter Patient:innen. 📖 [Professional literature] 🧰 [Tool]
+
+- **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
+
+- **[ME/CFS-Hilfe (Sozialhummel)](https://sozialhummel.de/mecfs/)** — Sozialdienst für Menschen mit sehr schwerem ME/CFS mit 24-Stunden-Assistenz, Eingliederungshilfe und ambulant betreutem Wohnen; die Seite berichtet über die Kampagne #LebendigBegraben und ein Erfahrungsvideo Betroffener. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
+
 ## Nicht etablierte Therapieansätze
 
 - **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
 
 > ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
 
-## Infoblätter für Behandelnde
+## Material für Praxis, Pflege, Krankenhaus & Angehörige
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
 
-- **[Notfallpass bei ME/CFS (NichtGenesenKids e.V.)](https://nichtgenesenkids.de/2026/10/22/notfallpass-bei-me-cfs-wichtige-informationen-griffbereit/)** — Ausdruckbarer, zum Mitführen gefalteter Notfallpass mit Feldern für Medikamente, Begleiterkrankungen, Unverträglichkeiten und Notfallkontakte sowie Hinweisen zu Transport und Versorgung bei ME/CFS ([PDF](https://nichtgenesenkids.de/wp-content/uploads/2026/10/Notfallpass.pdf)). 🤝 [Self-help] 🧰 [Tool]
-
 - **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Pflegeanleitung für schwer und schwerstkranke ME/CFS-Patient:innen](https://www.mecfs.at/wp-content/uploads/2025-8-Pflegeanleitung.pdf)** — Von der Österreichischen Gesellschaft für ME/CFS und der MedUni Wien herausgegebene Pflegeanleitung (Version August 2025) für die Versorgung schwer erkrankter Patient:innen. 📖 [Professional literature] 🧰 [Tool]
-
-- **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
-- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
+## Selbsthilfe & Organisationen
 
-## Selbsthilfe & Community
+### Portale & Community
 
 - **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
 
@@ -158,7 +171,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[lebenszeit-mecfs](https://lebenszeit-mecfs.de/)** — Link- und Informationssammlung einer Betroffenen-Initiative zu ME/CFS, Post-COVID und MCS mit Flyern, Vorlagen, Videos sowie regionalen und Selbsthilfe-Angeboten. 🤝 [Self-help] 🗂️ [Collection]
 
-## Betroffenenorganisationen
+### Vereine & Verbände
 
 - **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)). 🤝 [Self-help]
 
@@ -191,8 +204,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
 
 - **[Patienteninformationen des Charité Fatigue Centrums](https://cfc.charite.de/fuer_patienten/literatur_und_empfehlungen_fuer_patienten/)** — Sammlung des Charité Fatigue Centrums mit Patienteninformationen, Fragebögen und Videos zu ME/CFS, POTS und Post-COVID. 🏛️ [Authority] 🗂️ [Collection]
-
-- **[ME/CFS-Hilfe (Sozialhummel)](https://sozialhummel.de/mecfs/)** — Sozialdienst für Menschen mit sehr schwerem ME/CFS mit 24-Stunden-Assistenz, Eingliederungshilfe und ambulant betreutem Wohnen; die Seite berichtet über die Kampagne #LebendigBegraben und ein Erfahrungsvideo Betroffener. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Regionale Angebote
 
@@ -259,8 +270,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[mecfs-help.de](https://mecfs-help.de/)** — Kostenloses Browser-Tool, das Schritt für Schritt sozialrechtliche Anträge und Widersprüche für Deutschland und Österreich als PDF erstellt; Eingaben bleiben lokal und erfordern keine Anmeldung. 🧰 [Tool]
-
-- **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
 
 ### Vorsorge & Vollmachten
 
