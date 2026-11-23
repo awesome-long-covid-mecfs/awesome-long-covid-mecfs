@@ -140,6 +140,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden. 🧰 [Tool]
 
+- **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🧰 [Tool] 🗂️ [Collection]
+
 - **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
 
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
@@ -187,6 +189,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Anlage zur Versorgungsmedizin-Verordnung](https://www.gesetze-im-internet.de/versmedv/anlage.html)** — Offizielle Bewertungsgrundsätze für GdB und Merkzeichen. 🏛️ [Authority]
 
 - **[Begleitperson bei Terminen](https://www.bsg.bund.de/SharedDocs/Pressemitteilungen/DE/2022/2022_37.html)** — Pressemitteilung des Bundessozialgerichts zur Begleitperson bei Untersuchungs- und Behandlungsterminen. 🏛️ [Authority]
+
+- **[Videosprechstunde (KBV)](https://www.kbv.de/praxis/digitalisierung/anwendungen/videosprechstunde)** — Information der Kassenärztlichen Bundesvereinigung zu Videosprechstunden in ärztlicher und psychotherapeutischer Versorgung; die Leistungen werden über die gesetzliche Krankenversicherung abgerechnet. 🏛️ [Authority]
 
 - **[Reha-Erfahrungen von Betroffenen – qualitative Studie](https://doi.org/10.1016/j.zefq.2024.05.007)** — Studie zu Erfahrungen mit stationärer Rehabilitation bei Long/Post-COVID, zu PEM und zu individuell abgestimmter Reha-Planung; vollständiger Text auch als [PDF bei Zenodo](https://zenodo.org/records/12742336). 📄 [Study]
 
