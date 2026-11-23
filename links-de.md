@@ -86,8 +86,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[ME/CFS Research Foundation](https://mecfs-research.org/)** — Stiftung von Betroffenen und Angehörigen, die biomedizinische Forschung zu ME/CFS und Long COVID finanziert und ein Forschungsregister, Projektübersichten und Informationen für Betroffene bereitstellt. 🤝 [Self-help] 📣 [Advocacy]
 
-- **[Rehabilitation bei ME/CFS – systematische Übersicht](https://doi.org/10.5281/zenodo.10061153)** — Open-Access-Vorfassung der in der *Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen* erschienenen Übersicht zu Rehabilitationsoptionen bei ME/CFS. 📄 [Study]
-
 - **[Postinfektiöse Erkrankungen – Stellungnahme 2026](https://www.leopoldina.org/fileadmin/user_upload/Dokumente/2026_Leopoldina-Stellungnahme_Postinfekti%C3%B6se_Erkrankungen.pdf)** — Stellungnahme der Nationalen Akademie der Wissenschaften Leopoldina zu Versorgung, Dateninfrastruktur, Forschung und Prävention ([Publikationsseite](https://www.leopoldina.org/ergebnisse-und-termine/publikationen/detail/postinfektioese-erkrankungen-versorgung-dateninfrastruktur-forschung-und-praevention-2026)). 🏛️ [Authority]
 
 - **[Forschungsförderung Long COVID und ME/CFS in Deutschland](https://mecfs-research.org/fundingreport-long-covid-and-mecfs/)** — Bestandsaufnahme der öffentlichen Forschungsförderung durch die ME/CFS Research Foundation ([Bericht als PDF](https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf)). 📊 [Systematic review]
@@ -155,6 +153,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Anlage zur Versorgungsmedizin-Verordnung](https://www.gesetze-im-internet.de/versmedv/anlage.html)** — Offizielle Bewertungsgrundsätze für GdB und Merkzeichen. 🏛️ [Authority]
 
 - **[Begleitperson bei Terminen](https://www.bsg.bund.de/SharedDocs/Pressemitteilungen/DE/2022/2022_37.html)** — Pressemitteilung des Bundessozialgerichts zur Begleitperson bei Untersuchungs- und Behandlungsterminen. 🏛️ [Authority]
+
+- **[Reha-Erfahrungen von Betroffenen – qualitative Studie](https://doi.org/10.1016/j.zefq.2024.05.007)** — Studie zu Erfahrungen mit stationärer Rehabilitation bei Long/Post-COVID, zu PEM und zu individuell abgestimmter Reha-Planung; vollständiger Text auch als [PDF bei Zenodo](https://zenodo.org/records/12742336). 📄 [Study]
 
 - **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
 
