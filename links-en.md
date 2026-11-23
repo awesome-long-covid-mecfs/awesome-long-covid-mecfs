@@ -46,7 +46,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Treatment & Therapy
 
-*No reviewed entries yet – suggestions welcome.*
+- **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
 
 ## Self-Help & Community
 
