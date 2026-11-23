@@ -136,6 +136,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
 
+- **[Pflegeanleitung für schwer und schwerstkranke ME/CFS-Patient:innen](https://www.mecfs.at/wp-content/uploads/2025-8-Pflegeanleitung.pdf)** — Von der Österreichischen Gesellschaft für ME/CFS und der MedUni Wien herausgegebene Pflegeanleitung (Version August 2025) für die Versorgung schwer erkrankter Patient:innen. 📖 [Professional literature] 🧰 [Tool]
+
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
@@ -172,6 +174,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 🤝 [Self-help] 📣 [Advocacy]
 
+- **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 🤝 [Self-help] 📣 [Advocacy]
+
 - **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Alltag & Versorgung
@@ -205,6 +209,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[MeinEnergieKompass](https://www.stefan-fischer.net/app)** — Kostenlose, werbefreie Pacing-App für ME/CFS, Post-COVID, Post-Vac und Fibromyalgie; Energie, Symptome und Aktivitäten lassen sich erfassen, Verläufe als PDF exportieren, alle Daten bleiben lokal auf dem Gerät. 📱 [App]
 
 - **[blue-ME Pacing & Symptomtagebuch](https://www.blue-me.de/pacing-app-symptom-tagebuch-fuer-me-cfs-post-covid-post-vac-fibromyalgie/)** — App für ME/CFS, Post-COVID, Post-VAC und Fibromyalgie mit Pacing-Timer, Symptom- und Aktivitätstagebuch, Trendanalysen und PDF-Bericht; nach 14 Tagen kostenpflichtig. 📱 [App] 💰 [Commercial]
+
+- **[mypacing](https://mypacing.app/)** — Kostenlose Pacing-App für iOS ([App Store](https://apps.apple.com/de/app/mypacing-pacing-tagebuch/id6795426603)) und Android ([Google Play](https://play.google.com/store/apps/details?id=app.mypacing.mypacing_app)) mit 20-sekündigem Check-in sowie Ruhepuls-, HRV- und Schlafwerten aus Apple Health bzw. Health Connect; ohne Werbung, laut Anbieter kein Medizinprodukt. 📱 [App]
 
 - **[Fimo Health – Long Covid](https://www.fimohealth.com/en/patienten/longcovid)** — App mit verständlichen Informationen, Symptomtagebuch und täglichen Check-ins zu Long COVID und ME/CFS; kostenpflichtig und nur über kooperierende Krankenkassen nutzbar, die die Kosten übernehmen. 📱 [App] 💰 [Commercial]
 
