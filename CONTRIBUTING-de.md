@@ -46,7 +46,7 @@ Kaputter Link? Vorlage **„Broken link"** verwenden.
 ## Was wir nicht aufnehmen
 
 Heilversprechen, Werbung, Affiliate-Links, Inhalte hinter Bezahlschranke ohne freie Zusammenfassung, Verschwörungsquellen, URL-Shortener, doppelte Einträge.
-Details: [AGENTS.md](AGENTS.md), [README-de.md](README-de.md) und die englische [Anleitung](CONTRIBUTING.md).
+Details: [AGENTS.md](AGENTS.md), [Links (EN)](links-en.md) und die englische [Anleitung](CONTRIBUTING.md).
 
 ## Verhalten
 

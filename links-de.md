@@ -2,15 +2,21 @@
 title: 🇩🇪 Links (DE)
 description: Kuratierte Ressourcen zu Long COVID, ME/CFS, POTS, MCAS und post-viralen Erkrankungen auf Deutsch – Forschung, Selbsthilfe, Alltag und Versorgung.
 layout: default
-nav_order: 3
+nav_order: 2
 locale: de_DE
 ---
 
-# Deutsche Ressourcen
+# Awesome Long COVID & ME/CFS Resources – Deutsch
 
-> ⚠️ Keine medizinische Beratung. Die Verlinkung bedeutet keine Empfehlung einer Behandlung.
+Kuratierte Links und Ressourcen zu Long COVID / Post-COVID, ME/CFS (Myalgische Enzephalomyelitis / Chronisches Fatigue-Syndrom), POTS, MCAS, hEDS, Fibromyalgie, SIBO, Dysautonomie und weiteren post-viralen Erkrankungen – mit Fokus auf Fatigue, PEM und Symptommanagement.
+
+Für Betroffene, Angehörige und Forschende. Die Liste ist mehrsprachig: Ressourcen stehen in der Sprache, in der sie erschienen sind. Jeder Eintrag wird vor der Veröffentlichung von einem Menschen geprüft.
 
 **Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING-de.md).
+
+> ⚠️ **Wichtig:** Keine medizinische Beratung und keine Behandlungsempfehlung. Wir verlinken nur auf Quellen – die Herausgeber verantworten deren Inhalt.
+
+> ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Liste enthalten unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Viele wissenschaftliche Studien erscheinen auf Englisch und sind deshalb in der englischen Liste eher zu finden. Bitte wähle die Sprache, die zu deiner Region und deiner Frage passt.
 
 ## Contents
 

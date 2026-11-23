@@ -13,7 +13,7 @@ Diese Datei gilt für alle KI-Assistenten, die in diesem Ordner arbeiten. Sie is
 
 Eine **Inhalts-Sammlung**, kein Programm. Das Ergebnis sind gut kuratierte Markdown-Dateien. Die Website (GitHub Pages mit `just-the-docs`) wird daraus nur erzeugt.
 
-**Single Source of Truth für Inhalte:** `README.md` (GitHub-Ansicht), `README-en.md` (Website), `README-de.md`, `links-de.md`, `links-en.md` und weitere `links-<sprache>.md`.
+**Single Source of Truth für Inhalte:** `README.md` (GitHub-Ansicht), `links-de.md`, `links-en.md` und weitere `links-<sprache>.md`.
 **Single Source of Truth für Marker:** `MARKERS.md` – daraus werden Legende, Issue-Formulare und Einträge abgeleitet. Alles andere ist Konfiguration oder erzeugtes Ergebnis.
 
 ## 2. Grundsatz: Vorschlag → Anmerkungen → Freigabe → Umsetzung
@@ -83,15 +83,15 @@ Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken
 - Innerhalb einer Kategorie alphabetisch nach Namen, falls die Liste alphabetisch ist; sonst am Ende der Kategorie. Nicht willkürlich oben/unten mischen.
 - Keine neue Kategorie ohne Absprache – die vorläufigen Kategorien stehen in den Sprachdateien.
 - Mehrsprachige Quelle: **eine eigene Sprachfassung pro Sprachdatei** – deutsche Fassung nach `links-de.md`, englische Fassung nach `links-en.md`. Das ist die erlaubte Ausnahme vom Doppel-link-Verbot (siehe Abschnitt 4). Kein Kurzverweis nötig, wenn beide Fassungen vorhanden sind.
-- **Sprachleiste:** Jede Sprachdatei beginnt nach dem Frontmatter mit Titel und Warnhinweis; danach folgt der Hinweis zum Link-Einreichen, und die Sprachleiste steht unter dem Inhaltsverzeichnis (z. B. `🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)`). Die READMEs verlinken über die Tabelle auf Anleitung und Links beider Sprachen; eine eigene Sprachleiste gibt es dort nicht.
-- **README-Änderungen in allen Sprachen:** Wird der Inhalt einer README-Datei geändert (z. B. `README-en.md`), gehört dieselbe Änderung auch in `README.md` (GitHub-Ansicht), `README-de.md` und weitere `README-<lang>.md` – übersetzt, aber mit gleicher Struktur und denselben Links. Sonst unterscheiden sich die Fassungen und die Navigation verwaist.
+- **Einstieg der Sprachdateien:** Jede `links-<sprache>.md` beginnt nach dem Frontmatter mit dem Titel `Awesome Long COVID & ME/CFS Resources – <Sprache>`, zwei kurzen Absätzen, dem Hinweis zum Link-Einreichen, dem ⚠️- und dem ℹ️-Hinweis. Danach folgen Inhaltsverzeichnis und Sprachleiste. Es gibt keine sprachbezogenen README-Anleitungen mehr.
+- **Änderungen in allen Sprachen:** Wird der Einstieg geändert, gehört dieselbe Änderung in alle `links-<sprache>.md` – übersetzt, aber mit gleicher Struktur und denselben Links. `README.md` bleibt die einzige README und enthält nur die Links-Tabelle ohne Anleitung.
 
 - Neue Sprache: erst mit dem User abstimmen, dann `links-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Tabelle in allen READMEs, Sprachleiste in allen Sprachdateien, Seitentitel in den `links-*.md` und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
-- Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `README-en.md`, `links-en.md`, `links-de.md`); `nav_exclude` hält Meta-Seiten und die deutsche Anleitung aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
+- Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `links-en.md` als Startseite und `links-de.md`); `nav_exclude` hält Meta-Seiten aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
 
 ## 7. Geschützte Bereiche – nie ohne ausdrückliche Anweisung ändern
 
-- `README.md` und `README-de.md`: Abschnitte "Important"/"Wichtig" (Disclaimer), "Legende"
+- `README.md`: Abschnitte "Important"/"Wichtig" (Disclaimer), "Legende"
 - `MARKERS.md`, `AGENTS.md`, `CONTRIBUTING.md`, `CONTRIBUTING-de.md`, `CODE_OF_CONDUCT.md`
 - `_config.yml`, `.github/` (Workflows, Issue-Templates)
 - `LICENSE.txt`

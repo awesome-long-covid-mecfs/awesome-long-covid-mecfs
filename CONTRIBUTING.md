@@ -45,7 +45,7 @@ Found a dead link? Use the **“Broken link”** template.
 ## What we do not include
 
 Miracle cures, advertising, affiliate links, paywall-only content, conspiracy sources, URL shorteners, duplicate entries.
-Details: [AGENTS.md](AGENTS.md), [README-de.md](README-de.md) and the German guide [CONTRIBUTING-de.md](CONTRIBUTING-de.md).
+Details: [AGENTS.md](AGENTS.md), [Links (DE)](links-de.md) and the German guide [CONTRIBUTING-de.md](CONTRIBUTING-de.md).
 
 ## Conduct
 

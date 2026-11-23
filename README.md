@@ -10,10 +10,10 @@ For **patients, carers and researchers**. This list is multilingual: resources a
 
 > ℹ️ These links are language-specific: the German and English lists contain different sources, including regional services and authorities. Many research studies are published in English and are therefore more likely to appear in the English list. Choose the language that fits your region and your question.
 
-| | Guide | Links |
-|---|---|---|
-| 🇬🇧 English | [Guide](README-en.md) | [Links (EN)](links-en.md) |
-| 🇩🇪 Deutsch | [Anleitung](README-de.md) | [Links (DE)](links-de.md) |
+| | Links |
+|---|---|
+| 🇬🇧 English | [Links (EN)](links-en.md) |
+| 🇩🇪 Deutsch | [Links (DE)](links-de.md) |
 
 Further languages can be added as soon as enough reviewed sources are available.
 

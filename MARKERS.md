@@ -7,9 +7,9 @@ nav_exclude: true
 
 # Markers / Marker
 
-This file is the **single source of truth** for all markers used in the resource lists. `README-en.md`, `AGENTS.md`, the issue templates and all entries refer to this file.
+This file is the **single source of truth** for all markers used in the resource lists. `links-en.md`, `links-de.md`, `AGENTS.md`, the issue templates and all entries refer to this file.
 
-Diese Datei ist die **einzige Quelle** für alle Marker in den Ressourcenlisten. `README-en.md`, `AGENTS.md`, Issue-Formulare und alle Einträge verweisen darauf.
+Diese Datei ist die **einzige Quelle** für alle Marker in den Ressourcenlisten. `links-en.md`, `links-de.md`, `AGENTS.md`, Issue-Formulare und alle Einträge verweisen darauf.
 
 ## Marker list
 

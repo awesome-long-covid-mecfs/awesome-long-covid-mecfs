@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
 
 # Die GitHub-README bleibt nur auf github.com sichtbar; die Website nutzt
-# README-en.md als Startseite (siehe dortiges permalink: /).
+# links-en.md als Startseite (siehe dortiges permalink: /).
 exclude:
   - README.md
 
