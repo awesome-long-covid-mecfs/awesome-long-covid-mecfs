@@ -105,7 +105,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **Obere Sprachleiste eindeutig benannt** – `aux_links` in `_config.yml` heissen jetzt `🇬🇧 English resources` / `🇩🇪 Deutsche Ressourcen`; oben rechts führt der Wechsel immer zu den Ressourcenlisten, nicht zur Anleitung
 - [x] **Seitentitel und Einstieg eindeutig benannt** – Sidebar `🇬🇧 Links (EN)`, `🇩🇪 Links (DE)` (deutsche Anleitung ausgeblendet); die READMEs haben statt Sprachleiste/Contents/Themenliste nur noch die Tabelle mit dem Hinweis darüber
 - [x] **Bezeichnung „Links" statt „Ressourcen"** – Navigation und Tabelle in `README.md`, `README-en.md`, `README-de.md` sowie Seitentitel der `links-*.md` mit Länderflaggen. H1, Site-Titel und Meta-Descriptions behalten „Resources" als Suchbegriff. Regel in `AGENTS.md` §6: README-Änderungen immer in allen Sprachfassungen mitmachen.
-- [x] **README-Kopf verschlankt** – Sprachleiste, Contents/Inhalt-Liste und Themenliste aus allen drei Readmes entfernt; der ℹ️-Hinweis steht jetzt über der Tabelle. Zeilen: „Anleitung"/„Links", Spalten: „🇩🇪 Deutsch"/„🇬🇧 English". Linktexte „Anleitung" und „Guide".
+- [x] **README-Kopf verschlankt** – Sprachleiste, Contents/Inhalt-Liste und Themenliste aus allen drei Readmes entfernt; der ℹ️-Hinweis steht jetzt über der Tabelle. Zeilen: „🇬🇧 English"/„🇩🇪 Deutsch", Spalten: „Anleitung"/„Links". Linktexte „Anleitung" und „Guide".
 
 ## Suchmaschinen & KI-Crawler (SEO)
 

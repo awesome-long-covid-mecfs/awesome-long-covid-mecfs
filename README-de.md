@@ -18,10 +18,10 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 > ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Seite listen unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Bitte die passende Sprache für deine Region wählen.
 
-| | 🇩🇪 Deutsch | 🇬🇧 English |
+| | Anleitung | Links |
 |---|---|---|
-| **Anleitung** | [Anleitung](README-de.md) | [Guide](README-en.md) |
-| **Links** | [Links (DE)](links-de.md) | [Links (EN)](links-en.md) |
+| 🇬🇧 English | [Guide](README-en.md) | [Links (EN)](links-en.md) |
+| 🇩🇪 Deutsch | [Anleitung](README-de.md) | [Links (DE)](links-de.md) |
 
 ## Worum es geht
 
