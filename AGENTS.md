@@ -92,7 +92,7 @@ Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken
 ## 7. Geschützte Bereiche – nie ohne ausdrückliche Anweisung ändern
 
 - `README.md` und `README-de.md`: Abschnitte "Important"/"Wichtig" (Disclaimer), "Legende"
-- `MARKERS.md`, `AGENTS.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`
+- `MARKERS.md`, `AGENTS.md`, `CONTRIBUTING.md`, `CONTRIBUTING-de.md`, `CODE_OF_CONDUCT.md`
 - `_config.yml`, `.github/` (Workflows, Issue-Templates)
 - `LICENSE.txt`
 - Bestehende Einträge anderer Personen

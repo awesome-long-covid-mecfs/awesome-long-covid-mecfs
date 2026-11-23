@@ -58,6 +58,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] `AGENTS.md` reviewt – KI prüft Links (Erreichbarkeit, Duplikate, Quellenart, Marker), schreibt Vorschläge und darf nach Freigabe committen/pushen. Kein Stand-Datum.
 - [ ] `AGENTS.md`: Wenn alles stimmt, **auf Englisch umstellen** – noch offen.
 - [x] **Weitere Dokumente auf Englisch** – umgesetzt in `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `.github/PULL_REQUEST_TEMPLATE.md` und `footer_content` (`_config.yml`). `MARKERS.md` bleibt bewusst zweisprachig, `README-de.md`/`links-de.md` bleiben deutsch; `AGENTS.md` hat einen eigenen offenen Punkt.
+- [x] **`CONTRIBUTING.md` als drei Optionen** – E-Mail ohne GitHub, GitHub-Issue mit Konto, Pull Request. Neue deutsche Fassung `CONTRIBUTING-de.md` mit gleicher Struktur und Sprachleiste; `README-de.md` verweist auf die deutsche Fassung, die englische auf beide. Beide Dateien haben `nav_exclude: true` und bleiben aus der Seitenleiste.
 - [x] Kategorien durch den User geprüft – vorerst unverändert; weitere Kategorien bei Bedarf (Marker-Kombinationen im Auge behalten).
 
 ## Mehrsprachigkeit (vom User vorgegeben)

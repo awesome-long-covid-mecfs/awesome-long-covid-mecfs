@@ -12,7 +12,7 @@ Kuratierte Links und Ressourcen zu **Long COVID / Post-COVID**, **ME/CFS (Myalgi
 
 Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Ressourcen stehen in der Sprache, in der sie erschienen sind. Jeder Eintrag wird vor der Veröffentlichung von einem Menschen geprüft.
 
-**Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING.md).
+**Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING-de.md).
 
 > ⚠️ **Wichtig:** Keine medizinische Beratung und keine Behandlungsempfehlung. Wir verlinken nur auf Quellen – die Herausgeber verantworten deren Inhalt.
 
@@ -55,7 +55,7 @@ Eine Quelle wird verlinkt, damit Leserinnen und Leser selbst beurteilen können 
 Du kennst eine gute Quelle, die fehlt? [Issue „Link vorschlagen" eröffnen](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=add-resource.yml).
 Kaputter Link? [„Kaputter Link" melden](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new?template=broken-link.yml).
 
-Wer GitHub kennt, kann auch einen Pull Request schicken – bitte nach [CONTRIBUTING.md](CONTRIBUTING.md) und [AGENTS.md](AGENTS.md) vorgehen.
+Wer GitHub kennt, kann auch einen Pull Request schicken – bitte nach [Mitmachen](CONTRIBUTING-de.md) und [AGENTS.md](AGENTS.md) vorgehen.
 
 </details>
 
