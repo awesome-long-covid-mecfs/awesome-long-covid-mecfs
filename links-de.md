@@ -35,6 +35,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Alltag & Versorgung](#alltag--versorgung)
 - [Regionale Angebote](#regionale-angebote)
 - [Hilfsmittel](#hilfsmittel)
+  - [Symptomtracking & Pacing](#symptomtracking--pacing)
+  - [Ernährung & Intoleranzen](#ernährung--intoleranzen)
 - [Berichterstattung & Medien](#berichterstattung--medien)
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
@@ -128,7 +130,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
 
-- **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool]
+- **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
 
@@ -138,7 +140,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Hilfsmittel
 
-- **[me.cfs Tracker](https://mecfs-tracker.app/)** — Drei kostenlose Apps für Tagebuch, Pacing und Begleitung; die Daten bleiben lokal auf den Geräten. 🧰 [Tool]
+### Symptomtracking & Pacing
+
+- **[me.cfs Tracker](https://mecfs-tracker.app/)** — Drei kostenlose Apps für Tagebuch, Pacing und Begleitung; die Daten bleiben lokal auf den Geräten. 🧰 [Tool] 📱 [App]
+
+### Ernährung & Intoleranzen
 
 ## Berichterstattung & Medien
 

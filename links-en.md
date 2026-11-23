@@ -34,6 +34,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - [Patient Organisations](#patient-organisations)
 - [Daily Life & Care](#daily-life--care)
 - [Assistive Devices](#assistive-devices)
+  - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
+  - [Nutrition & Intolerances](#nutrition--intolerances)
 - [Legal & Benefits](#legal--benefits)
 - [Professional Literature](#professional-literature)
 - [Patient Stories](#patient-stories)
@@ -142,7 +144,9 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Assistive Devices
 
-*No reviewed entries yet – suggestions welcome.*
+### Symptom Tracking & Pacing
+
+### Nutrition & Intolerances
 
 ## Legal & Benefits
 
