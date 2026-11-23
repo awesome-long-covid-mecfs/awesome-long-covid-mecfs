@@ -44,6 +44,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Chat Groups](#chat-groups)
   - [Facebook](#facebook)
   - [Instagram](#instagram)
+  - [Reddit](#reddit)
 
 ## Diagnosis
 
@@ -216,3 +217,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 ### Instagram
 
 *No reviewed entries yet – suggestions welcome.*
+
+### Reddit
+
+- **[r/CFSScience](https://www.reddit.com/r/CFSScience/)** — Reddit community for discussing research studies and science on ME/CFS and Long COVID; the subreddit points to r/cfs for more general topics. 🤝 [Self-help]
