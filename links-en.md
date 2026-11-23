@@ -42,7 +42,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[COVID Studies (Zotero group library)](https://www.zotero.org/groups/5006109/covidstudies/library)** — Public group library collecting COVID-related studies; no login required. 🗂️ [Collection]
 
-- **[OpenSource Med](https://opensourcemed.info/)** — Independent open-access research initiative with a daily-updated tracker, research notes and tools for candidate compounds, biomarkers and registered trials in Long COVID and other post-viral conditions. 🗂️ [Collection] 🧰 [Tool]
+- **[OpenSource Med](https://opensourcemed.info/)** — Independent open-access research initiative with a daily-updated tracker ([source code](https://github.com/MattH55/osmf-research-tracker)), research notes and tools for candidate compounds, biomarkers and registered trials in Long COVID and other post-viral conditions. 🗂️ [Collection] 🧰 [Tool]
 
 ## Treatment & Therapy
 
