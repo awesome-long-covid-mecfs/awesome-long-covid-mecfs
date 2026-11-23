@@ -87,7 +87,15 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Recht & Anträge
 
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
+- **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection] 🤝 [Self-help]
+
+- **[§ 65 SGB I – Mitwirkungspflichten](https://www.gesetze-im-internet.de/sgb_1/__65.html)** — Gesetzestext zu den Mitwirkungspflichten im Sozialgesetzbuch. 🏛️ [Authority]
+
+- **[Anlage zur Versorgungsmedizin-Verordnung](https://www.gesetze-im-internet.de/versmedv/anlage.html)** — Offizielle Bewertungsgrundsätze für GdB und Merkzeichen. 🏛️ [Authority]
+
+- **[Begleitperson bei Terminen](https://www.bsg.bund.de/SharedDocs/Pressemitteilungen/DE/2022/2022_37.html)** — Pressemitteilung des Bundessozialgerichts zur Begleitperson bei Untersuchungs- und Behandlungsterminen. 🏛️ [Authority]
+
+- **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
 
 ## Fachliteratur
 
