@@ -125,6 +125,16 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Information for Clinicians
 
+- **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
+
+- **[Pacing – Long COVID Physio](https://longcovid.physio/pacing)** — Pacing episode by Long COVID Physio with video, audio and written transcript, translated summaries and references to WHO and World Physiotherapy guidance. 🎬 [Video] 🤝 [Self-help]
+
+- **[Primary Care Guide for MCAS](https://www.mastcellaction.org/assets/_/2026/06/26/771e0b33-f60c-4c61-962a-3d811424d8c1/final-primary-care-guide-2026.pdf)** — Primary care guide for mast cell activation syndrome published by the UK charity Mast Cell Action in 2026 for use in general practice. 📖 [Professional literature]
+
+- **[Hospital Support Pack and Anaesthesia & ME/CFS](https://meassociation.org.uk/wp-content/uploads/2025/10/HOSPITAL-SUPPORT-PACK-V3-1.pdf)** — Two free PDF packs from the UK ME Association (October 2025) for hospital stays, operations and anaesthesia in ME/CFS ([anaesthesia document](https://meassociation.org.uk/wp-content/uploads/2025/10/ANAESTHESIA-AND-MECFS-V1-1.pdf)). 🤝 [Self-help] 🧰 [Tool]
+
+- **[Physios for ME – information flyer](https://www.physiosforme.com/_files/ugd/4f94c1_c1758bc60a714b9c942291eee6b64e04.pdf)** — Downloadable flyer from the UK group Physios for ME on when and how physiotherapy is appropriate in ME/CFS ([organisation homepage](https://www.physiosforme.com/)). 📖 [Professional literature] 🗂️ [Collection]
+
 - **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
 
 ## Self-Help & Community
@@ -138,6 +148,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research. 🤝 [Self-help]
 
 - **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid. 🤝 [Self-help]
+
+- **[Rolling PEM: What It Is and How to Avoid It](https://tickedoffcodess.com/rolling-pem-what-it-is-and-how-to-avoid-it/)** — Patient-written article on rolling post-exertional malaise and recognising cumulative overexertion in ME/CFS and Long COVID, with cited sources. 💬 [Patient story]
 
 ## Patient Organisations
 
