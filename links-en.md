@@ -72,7 +72,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ### MCAS / Histamine intolerance
 
-*No reviewed entries yet – suggestions welcome.*
+- **[SIGHI Food Compatibility List (English)](https://www.mastzellaktivierung.info/downloads/foodlist/21_FoodList_EN_alphabetic_withCateg.pdf)** — English, alphabetically sorted food compatibility list of the Swiss Interest Group Histamine Intolerance for the histamine elimination diet; free PDF. 🧰 [Tool]
 
 ### MCS
 
