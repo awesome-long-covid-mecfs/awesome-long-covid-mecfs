@@ -136,6 +136,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie. 🤝 [Self-help]
 
+- **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🤝 [Self-help] 🗂️ [Collection]
+
 ## Alltag & Versorgung
 
 - **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden. 🧰 [Tool]
@@ -147,6 +151,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
+
+- **[Patienteninformationen des Charité Fatigue Centrums](https://cfc.charite.de/fuer_patienten/literatur_und_empfehlungen_fuer_patienten/)** — Sammlung des Charité Fatigue Centrums mit Patienteninformationen, Fragebögen und Videos zu ME/CFS, POTS und Post-COVID. 🏛️ [Authority] 🗂️ [Collection]
+
+- **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Regionale Angebote
 
@@ -165,6 +175,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[blue-ME Pacing & Symptomtagebuch](https://www.blue-me.de/pacing-app-symptom-tagebuch-fuer-me-cfs-post-covid-post-vac-fibromyalgie/)** — App für ME/CFS, Post-COVID, Post-VAC und Fibromyalgie mit Pacing-Timer, Symptom- und Aktivitätstagebuch, Trendanalysen und PDF-Bericht; nach 14 Tagen kostenpflichtig. 📱 [App] 💰 [Commercial]
 
 - **[Fimo Health – Long Covid](https://www.fimohealth.com/en/patienten/longcovid)** — App mit verständlichen Informationen, Symptomtagebuch und täglichen Check-ins zu Long COVID und ME/CFS; kostenpflichtig und nur über kooperierende Krankenkassen nutzbar, die die Kosten übernehmen. 📱 [App] 💰 [Commercial]
+
+- **[Elara Health](https://www.elara-health.de/de)** — App zur Erfassung von Energie, Symptomen, Aktivitäten, Ernährung und Stuhlgang mit Auswertungen und exportierbarem Arztbericht; die Basisversion ist derzeit kostenlos und werbefrei. 📱 [App] 💰 [Commercial]
 
 ### Ernährung & Intoleranzen
 
@@ -199,6 +211,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Sozialverband Deutschland (SoVD)](https://www.sovd.de/)** — Sozialverband mit Beratung zu Sozialrecht, Anträgen und Widersprüchen; die Rechtsberatung setzt eine Mitgliedschaft voraus, der Beitrag liegt je nach Landesverband bei etwa 7–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
+
+- **[mecfs-help.de](https://mecfs-help.de/)** — Kostenloses Browser-Tool, das Schritt für Schritt sozialrechtliche Anträge und Widersprüche für Deutschland und Österreich als PDF erstellt; Eingaben bleiben lokal und erfordern keine Anmeldung. 🧰 [Tool]
 
 ## Fachliteratur
 
