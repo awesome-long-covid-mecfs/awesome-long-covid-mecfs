@@ -82,6 +82,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth](https://www.spg.pt/wp-content/uploads/2023/03/ACG-Clinical-Guideline-Small-Intestinal-Bacterial-Overgrowth.pdf)** — Clinical guideline of the American College of Gastroenterology on small intestinal bacterial overgrowth as a PDF. 📋 [Guideline]
 
+- **[FoodMarble](https://foodmarble.com/)** — Commercial handheld breath tester with a companion app for logging hydrogen and methane readings, meals and symptoms in the context of SIBO; the manufacturer advises consulting a healthcare professional for diagnosis. 📱 [App] 💰 [Commercial]
+
 ## Research & Studies
 
 - **[ME/CFS Research Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/en/)** — Research tracker with plain-language summaries and direct links to primary sources. 🗂️ [Collection]
