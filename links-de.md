@@ -219,6 +219,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[mecfs-help.de](https://mecfs-help.de/)** — Kostenloses Browser-Tool, das Schritt für Schritt sozialrechtliche Anträge und Widersprüche für Deutschland und Österreich als PDF erstellt; Eingaben bleiben lokal und erfordern keine Anmeldung. 🧰 [Tool]
 
+- **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
+
 ## Fachliteratur
 
 - **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 📖 [Professional literature] 💰 [Commercial]
