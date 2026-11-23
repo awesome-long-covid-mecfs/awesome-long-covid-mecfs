@@ -121,7 +121,8 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **Live-URL in beiden READMEs** – `https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/` (Kurzlink `https://awesome-long-covid-mecfs.github.io/`) in `README.md` und `README-de.md` ergänzt.
 - [x] **GitHub-Feld `homepage` gesetzt** – `https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/`; per `gh repo view` verifiziert.
 - [ ] **Search Console / Bing Webmaster Tools** – Verifizierung durch den User, `webmaster_verifications` in `_config.yml`, danach Sitemap einreichen.
-- [ ] **Später optional:** `hreflang`-Tags zwischen EN/DE via Theme-Override `head_custom.html`; `llms.txt` als Hinweisdatei (kein Rankingfaktor).
+- [x] **`hreflang`-Tags zwischen EN/DE** – lokales `_includes/head_custom.html` (vom Theme-Hook in `head.html` eingebunden) setzt die drei alternaten Links auf `links-en.md` und `links-de.md`; eine `page.path`-Bedingung hält Meta-Seiten frei.
+- [ ] **Später optional:** `llms.txt` als Hinweisdatei (kein Rankingfaktor).
 - [x] **Monatlicher Link-Check existiert bereits** – `link-check.yml` läuft am 1. um 06:00 UTC; keine Änderung nötig.
 
 ## Verbesserungsideen (vom User ausgewählt)
