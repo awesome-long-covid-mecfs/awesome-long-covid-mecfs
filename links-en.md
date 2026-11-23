@@ -30,6 +30,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [SIBO](#sibo)
 - [Research & Studies](#research--studies)
 - [Treatment & Therapy](#treatment--therapy)
+- [Information for Clinicians](#information-for-clinicians)
 - [Self-Help & Community](#self-help--community)
 - [Patient Organisations](#patient-organisations)
 - [Daily Life & Care](#daily-life--care)
@@ -122,6 +123,10 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[NICE guideline NG206](https://www.nice.org.uk/guidance/ng206)** — UK guideline on diagnosis and management of ME/CFS in children, young people and adults ([recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)); last reviewed January 2025. 📋 [Guideline]
 
+## Information for Clinicians
+
+- **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
+
 ## Self-Help & Community
 
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses. 📣 [Advocacy]
@@ -170,7 +175,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Professional Literature
 
-- **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
+*No reviewed entries yet – suggestions welcome.*
 
 ## Patient Stories
 

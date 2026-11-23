@@ -30,6 +30,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [SIBO](#sibo)
 - [Studien & Forschung](#studien--forschung)
 - [Behandlung & Therapie](#behandlung--therapie)
+- [Infoblätter für Behandelnde](#infoblätter-für-behandelnde)
 - [Selbsthilfe & Community](#selbsthilfe--community)
 - [Betroffenenorganisationen](#betroffenenorganisationen)
 - [Alltag & Versorgung](#alltag--versorgung)
@@ -111,6 +112,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
 
+## Infoblätter für Behandelnde
+
+- **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
+
 ## Selbsthilfe & Community
 
 - **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
@@ -154,10 +161,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
 
 - **[Patienteninformationen des Charité Fatigue Centrums](https://cfc.charite.de/fuer_patienten/literatur_und_empfehlungen_fuer_patienten/)** — Sammlung des Charité Fatigue Centrums mit Patienteninformationen, Fragebögen und Videos zu ME/CFS, POTS und Post-COVID. 🏛️ [Authority] 🗂️ [Collection]
-
-- **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Regionale Angebote
 
