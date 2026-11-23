@@ -74,7 +74,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[SIGHI-Lebensmittel-Verträglichkeitsliste](https://www.mastzellaktivierung.info/downloads/foodlist/11_FoodList_DE_alphabetisch_mitKat.pdf)** — Alphabetisch sortierte Verträglichkeitsliste der Schweizer Interessengemeinschaft Histamin-Intoleranz als PDF. 🧰 [Tool]
 
-- **[MCAS-Diagnostik (MCAS-Hope)](https://mcas-hope.de/mcas/mcas-diagnostik/)** — Informationen des Vereins MCAS-Hope zur Diagnostik über die hausärztliche Praxis und zu möglichen Laboren. 🤝 [Self-help]
+- **[MCAS-Diagnostik (MCAS-Hope)](https://mcas-hope.de/mcas/mcas-diagnostik/)** — Informationen des Vereins MCAS-Hope zur Diagnostik über die hausärztliche Praxis und zu möglichen Laboren; mit einer [Literaturübersicht zu MCAS und ME/CFS](https://www.mastzellenhilfe.de/mcas-und-me-cfs-literatur) der Mastzellenhilfe. 🤝 [Self-help] 📖 [Professional literature]
 
 ### MCS
 
@@ -115,6 +115,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurzinformationen der Deutschen Gesellschaft für ME/CFS zu ME/CFS, Diagnostik und Versorgung. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Selbsthilfe-Gruppenfinder der Long-Covid-Plattform](https://www.long-covid-plattform.de/selbsthilfegruppen-finden)** — Umkreis- und Schlagwortsuche für Selbsthilfegruppen zu Long COVID, ME/CFS und Post-Vac mit Filter für regionale und bundesweite Angebote. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[NAKOS – Corona-Selbsthilfegruppen](https://www.nakos.de/adressen/corona-selbsthilfegruppen)** — Adressverzeichnis der Nationalen Kontakt- und Informationsstelle für Selbsthilfegruppen zu Corona, Long COVID und Post-COVID mit bundesweiten und regionalen Kontakten. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Betroffenenorganisationen
 
