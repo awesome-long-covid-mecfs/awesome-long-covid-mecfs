@@ -138,6 +138,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Alltag & Versorgung
 
+- **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden. 🧰 [Tool]
+
 - **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
 
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
@@ -155,6 +157,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ### Symptomtracking & Pacing
 
 - **[me.cfs Tracker](https://mecfs-tracker.app/)** — Drei kostenlose Apps für Tagebuch, Pacing und Begleitung; die Daten bleiben lokal auf den Geräten. 🧰 [Tool] 📱 [App]
+
+- **[MeinEnergieKompass](https://www.stefan-fischer.net/app)** — Kostenlose, werbefreie Pacing-App für ME/CFS, Post-COVID, Post-Vac und Fibromyalgie; Energie, Symptome und Aktivitäten lassen sich erfassen, Verläufe als PDF exportieren, alle Daten bleiben lokal auf dem Gerät. 📱 [App]
 
 - **[blue-ME Pacing & Symptomtagebuch](https://www.blue-me.de/pacing-app-symptom-tagebuch-fuer-me-cfs-post-covid-post-vac-fibromyalgie/)** — App für ME/CFS, Post-COVID, Post-VAC und Fibromyalgie mit Pacing-Timer, Symptom- und Aktivitätstagebuch, Trendanalysen und PDF-Bericht; nach 14 Tagen kostenpflichtig. 📱 [App] 💰 [Commercial]
 
