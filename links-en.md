@@ -137,6 +137,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
 
+- **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
+
 ## Self-Help & Community
 
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses. 📣 [Advocacy]
