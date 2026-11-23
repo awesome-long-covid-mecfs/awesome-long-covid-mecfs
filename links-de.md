@@ -100,6 +100,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Spike-Protein in den Hirnhäuten](https://www.helmholtz.de/newsroom/artikel/das-spike-protein-kann-ueber-jahre-in-den-hirnhaeuten-verbleiben/)** — Meldung der Helmholtz-Gemeinschaft über eine Studie zum Verbleib von Spike-Protein nach einer SARS-CoV-2-Infektion. 📄 [Study]
 
+- **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
+
 ## Behandlung & Therapie
 
 - **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
@@ -130,6 +132,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[startaMEvolution e. V.](https://startamevolution.org/)** — Initiative von Betroffenen und Angehörigen zu Long COVID und ME/CFS mit Ratgebern, Erfahrungsberichten und Veranstaltungen. 🤝 [Self-help] 📣 [Advocacy]
 
+- **[Lost Voices Stiftung](https://lost-voices-stiftung.org/)** — Stiftung für Aufklärung, Forschungsförderung und Interessenvertretung zu ME/CFS. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie. 🤝 [Self-help]
+
 ## Alltag & Versorgung
 
 - **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
@@ -141,6 +147,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Regionale Angebote
 
 - **[Postviral-Beratungsstelle Berlin](https://www.postviral-beratung.berlin/)** — Beratungsstelle des Landes Berlin für Menschen mit postviralem Fatigue-Syndrom und Long COVID, mit Kontakt- und Unterstützungsangeboten; das Angebot ist auf Berlin begrenzt. 🏛️ [Authority]
+
+- **[PEDNET-LC](https://pednet-lc.de/)** — Vom Bundesgesundheitsministerium gefördertes Netzwerk aus Kliniken und Forschungseinrichtungen für Kinder und Jugendliche mit Long-COVID-ähnlichen Erkrankungen, mit Postleitzahlensuche für Behandlungszentren. 🏛️ [Authority]
 
 ## Hilfsmittel
 

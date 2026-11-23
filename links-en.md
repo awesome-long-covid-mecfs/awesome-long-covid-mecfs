@@ -108,11 +108,17 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Health Rising](https://www.healthrising.org/)** — Site collecting reports and commentary on research and treatment developments in ME/CFS and fibromyalgia. 🗂️ [Collection]
 
+- **[Noise and light hypersensitivity in ME/CFS](https://www.meresearch.org.uk/noise-and-light-hypersensitivity-in-me-cfs)** — ME Research UK summary of a study comparing sensory hypersensitivity in ME/CFS and multiple sclerosis ([original study](https://pubmed.ncbi.nlm.nih.gov/36977713/)). 📖 [Professional literature]
+
+- **[Subtypes of post-exertional malaise](https://www.meresearch.org.uk/subtypes-of-post-exertional-malaise)** — ME Research UK summary of a study on physical and mental manifestations of post-exertional malaise ([original study](https://doi.org/10.1177/13591053261420598)). 📖 [Professional literature]
+
 ## Treatment & Therapy
 
 - **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
 
 - **[Clinical Care Guide](https://batemanhornecenter.org/wp-content/uploads/2025/05/Clinical-Care-Guide-First-Edition-2025-1.pdf)** — Clinical Care Guide (First Edition 2025, V7) of the Bateman Horne Center for managing ME/CFS, Long COVID and IACCs; PDF ([landing page](https://batemanhornecenter.org/clinical-care-guide/)). 📋 [Guideline]
+
+- **[NICE guideline NG206](https://www.nice.org.uk/guidance/ng206)** — UK guideline on diagnosis and management of ME/CFS in children, young people and adults ([recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)); last reviewed January 2025. 📋 [Guideline]
 
 ## Self-Help & Community
 
@@ -123,6 +129,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[ME/CFS Crash Survival Guide](https://batemanhornecenter.org/education/mecfs-guidebook/)** — Practical guide by the Bateman Horne Center for patients, carers and clinicians on preventing and managing ME/CFS crashes. 🤝 [Self-help]
 
 - **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research. 🤝 [Self-help]
+
+- **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid. 🤝 [Self-help]
 
 ## Patient Organisations
 
