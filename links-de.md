@@ -132,11 +132,15 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
 
+- **[Notfallpass bei ME/CFS (NichtGenesenKids e.V.)](https://nichtgenesenkids.de/2026/10/22/notfallpass-bei-me-cfs-wichtige-informationen-griffbereit/)** — Ausdruckbarer, zum Mitführen gefalteter Notfallpass mit Feldern für Medikamente, Begleiterkrankungen, Unverträglichkeiten und Notfallkontakte sowie Hinweisen zu Transport und Versorgung bei ME/CFS ([PDF](https://nichtgenesenkids.de/wp-content/uploads/2026/10/Notfallpass.pdf)). 🤝 [Self-help] 🧰 [Tool]
+
 - **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
 
 ## Selbsthilfe & Community
 
@@ -216,6 +220,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Atemübungen – Offene Atmung](https://apps.apple.com/de/app/atem%C3%BCbungen-offene-atmung/id6447329686)** — Atemübungs-Timer für iOS ([Android](https://play.google.com/store/apps/details?id=com.ata.activebt&hl=de-CH&pli=1)) mit über 30 Presets wie 4-7-8- und Boxatmung sowie frei einstellbaren Ein-, Halte-, Aus- und Pausenphasen; offline nutzbar, kostenlos mit Werbung und kostenpflichtigen In-App-Käufen. 📱 [App] 💰 [Commercial] 🆓 [Partly free]
 
+- **[Wechselwirkungs-Check (Apotheken Umschau)](https://www.apotheken-umschau.de/medikamente/wechselwirkungscheck/)** — Kostenloser Online-Check auf Basis des ABDATA Pharma-Daten-Service für bis zu 15 Medikamente; der Anbieter weist selbst darauf hin, dass die Daten nicht vollständig sind und Nahrungsergänzungsmittel in der Regel nicht berücksichtigt werden. 🧰 [Tool]
+
 ## Berichterstattung & Medien
 
 ### Dokumentationen & Fernsehbeiträge
@@ -269,6 +275,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Stigmatisierende Narrative über ME/CFS](https://www.mecfs.de/stigmatisierende-narrative-ueber-mecfs/)** — Auswertung entsprechender Darstellungen in der deutschsprachigen medizinischen Fachliteratur durch die Deutsche Gesellschaft für ME/CFS. 📖 [Professional literature]
 
 ## Patientengeschichten
+
+- **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt. 💬 [Patient story]
 
 - **[No longer!](https://no-longer.de/)** — Persönlicher Erfahrungsbericht einer betroffenen Person mit eigener Deutung sowie Angeboten zu Supplements und Coaching. ⚠️ [Patient story] 💰 [Commercial]
 
