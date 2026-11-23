@@ -123,6 +123,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[NICE guideline NG206](https://www.nice.org.uk/guidance/ng206)** — UK guideline on diagnosis and management of ME/CFS in children, young people and adults ([recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)); last reviewed January 2025. 📋 [Guideline]
 
+- **[NICE guideline NG188](https://www.nice.org.uk/guidance/NG188/chapter/management)** — UK rapid guideline on managing the long-term effects of COVID-19, with recommendations on self-management and care in primary and community settings; published 2020, last updated January 2024. 🏛️ [Authority] 📋 [Guideline]
+
 ## Information for Clinicians
 
 - **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
@@ -139,9 +141,15 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
 
+- **[IACI Provider Manual](https://www.coresinai.org/manual)** — Second edition of a manual from the Cohen Center for Recovery from Complex Chronic Illness with guidance for clinicians treating infection-associated chronic conditions including Long COVID and ME/CFS; the download requires a short form. 📖 [Professional literature]
+
+- **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
+
+- **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
+
 ## Self-Help & Community
 
-- **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses. 📣 [Advocacy]
+- **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses; its [ecosystem database](https://crunchme.org/database) collects research, organisations, clinical guidance, registries and funding in one searchable place. 📣 [Advocacy] 🗂️ [Collection]
 
 - **[ME/CFS Useful Resources](https://github.com/me-cfs/me-cfs.github.io/blob/main/useful-resources.md)** — Community-curated collection of diagnostic criteria, communities and further ME/CFS resources. 🗂️ [Collection]
 
