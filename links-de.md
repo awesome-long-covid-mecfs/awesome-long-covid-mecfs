@@ -41,6 +41,14 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 > ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Tests (Questionnaires)](links-en.md#tests-questionnaires) beschrieben.
 
+- **[FUNCAP – Funktionale Kapazität](https://www.funcap.no/translations-2/funcap-auf-deutch/)** — Kostenloser Fragebogen zur Erfassung funktioneller Kapazität bei Belastungsintoleranz (PEM), mit Kurz- und Langversion. 🧰 [Tool]
+
+- **[Checkliste Mastzellaktivierung (Universität Bonn)](https://www.humangenetics-bonn.de/wp-content/uploads/2024/01/Checkliste-Patientenversion-3-2022.pdf)** — Patienten-Checkliste des Bonner Instituts für Humangenetik zu möglichen mastzellvermittelten Beschwerden; Originaldokument als PDF. 🧰 [Tool]
+
+- **[Munich Berlin Symptom Questionnaire (MBSQ)](https://www.tauernklinikum.at/media/Fragebogen-MECFS-MBSQ-ERWACHSENE.pdf)** — Ärztlicher Anamnesebogen zu ME/CFS (PDF, [Spiegel](https://www.sarkoidose-selbsthilfe.eu/imgs/MECFS_MBSQ.pdf)); die [Studie](https://pubmed.ncbi.nlm.nih.gov/38095713) beschreibt die Anwendung. 🧰 [Tool] 📄 [Study]
+
+- **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
+
 ## Studien & Forschung
 
 - **[ME/CFS-Forschung (Research Summaries)](https://hanneseh.github.io/ME-CFS-Research-Summaries/de/)** — Research-Tracker mit Kurzerklärungen und direkten Links zu Primärquellen. 🗂️ [Collection]
