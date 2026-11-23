@@ -23,7 +23,11 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 ## Contents
 
 - [Diagnosis](#diagnosis)
-- [Tests (Questionnaires)](#tests-questionnaires)
+- [Tests (e.g. questionnaires)](#tests-eg-questionnaires)
+- [Condition-Specific Information](#condition-specific-information)
+  - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
+  - [MCS](#mcs)
+  - [SIBO](#sibo)
 - [Research & Studies](#research--studies)
 - [Treatment & Therapy](#treatment--therapy)
 - [Self-Help & Community](#self-help--community)
@@ -38,7 +42,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 *No reviewed entries yet – suggestions welcome.*
 
-## Tests (Questionnaires)
+## Tests (e.g. questionnaires)
 
 - **[FUNCAP – Functional Capacity](https://www.funcap.no/translations-2/funcap-in-english/)** — Free questionnaire on functional capacity in people with post-exertional malaise (PEM), available in short and full form. 🧰 [Tool]
 
@@ -58,6 +62,20 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Post-COVID Functional Status Scale (PCFS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7236834)** — Study describing a scale for functional status and everyday limitations after COVID-19. 📄 [Study] 🧰 [Tool]
 
+## Condition-Specific Information
+
+### MCAS / Histamine intolerance
+
+*No reviewed entries yet – suggestions welcome.*
+
+### MCS
+
+*No reviewed entries yet – suggestions welcome.*
+
+### SIBO
+
+- **[ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth](https://www.spg.pt/wp-content/uploads/2023/03/ACG-Clinical-Guideline-Small-Intestinal-Bacterial-Overgrowth.pdf)** — Clinical guideline of the American College of Gastroenterology on small intestinal bacterial overgrowth as a PDF. 📋 [Guideline]
+
 ## Research & Studies
 
 - **[ME/CFS Research Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/en/)** — Research tracker with plain-language summaries and direct links to primary sources. 🗂️ [Collection]
@@ -68,15 +86,37 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[MEpedia](https://me-pedia.org/wiki/Welcome_to_MEpedia)** — Patient-written encyclopedia on ME/CFS and related topics, founded by the MEAction Network; articles are freely readable without an account. 🤝 [Self-help] 🗂️ [Collection]
 
+- **[Metformin after COVID-19 (ACTIV-6)](https://doi.org/10.1093/cid/ciag335)** — Randomized trial on metformin and the presence of COVID-19 symptoms six months after infection (Clinical Infectious Diseases, 2026). 📄 [Study]
+
+- **[GLP-1 receptor agonists in mast cell activation syndrome](https://pubmed.ncbi.nlm.nih.gov/40675372/)** — Study on the use of GLP-1 receptor agonists in MCAS (American Journal of the Medical Sciences, 2025). 📄 [Study]
+
+- **[Endometriosis and ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC12468137/)** — Systematic review and meta-analysis on endometriosis and ME/CFS ([PubMed record](https://pubmed.ncbi.nlm.nih.gov/41008704/)). 📊 [Systematic review]
+
+- **[Vagal denervation in Long COVID](https://pubmed.ncbi.nlm.nih.gov/42425362/)** — Study reporting vagal cholinergic denervation of the gastric mucosa in Long COVID (Int J Infect Dis, 2026). 📄 [Study]
+
+- **[Prolonged spike protein exposure in Long COVID](https://pubmed.ncbi.nlm.nih.gov/42901242/)** — Study on effects of prolonged SARS-CoV-2 spike protein exposure in Long COVID and a mouse model (Am J Pathol, 2026). 📄 [Study]
+
+- **[GLP-1 receptor agonist and post-vaccination dysautonomia](https://www.tandfonline.com/doi/full/10.1080/08923973.2026.2731357)** — Study on improvement of post-COVID-19 vaccination dysautonomia with a GLP-1 receptor agonist (Immunopharmacology and Immunotoxicology, 2026). 📄 [Study]
+
+- **[When do infections lead to long COVID?](https://www.nature.com/articles/d41586-026-02683-2)** — Nature feature on the search for triggers and treatments of post-viral syndromes. 📖 [Professional literature]
+
+- **[Health Rising](https://www.healthrising.org/)** — Site collecting reports and commentary on research and treatment developments in ME/CFS and fibromyalgia. 🗂️ [Collection]
+
 ## Treatment & Therapy
 
 - **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
+
+- **[Clinical Care Guide](https://batemanhornecenter.org/wp-content/uploads/2025/05/Clinical-Care-Guide-First-Edition-2025-1.pdf)** — Clinical Care Guide (First Edition 2025, V7) of the Bateman Horne Center for managing ME/CFS, Long COVID and IACCs; PDF ([landing page](https://batemanhornecenter.org/clinical-care-guide/)). 📋 [Guideline]
 
 ## Self-Help & Community
 
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses. 📣 [Advocacy]
 
 - **[ME/CFS Useful Resources](https://github.com/me-cfs/me-cfs.github.io/blob/main/useful-resources.md)** — Community-curated collection of diagnostic criteria, communities and further ME/CFS resources. 🗂️ [Collection]
+
+- **[ME/CFS Crash Survival Guide](https://batemanhornecenter.org/education/mecfs-guidebook/)** — Practical guide by the Bateman Horne Center for patients, carers and clinicians on preventing and managing ME/CFS crashes. 🤝 [Self-help]
+
+- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research. 🤝 [Self-help]
 
 ## Patient Organisations
 
@@ -104,7 +144,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Professional Literature
 
-*No reviewed entries yet – suggestions welcome.*
+- **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
 
 ## Patient Stories
 

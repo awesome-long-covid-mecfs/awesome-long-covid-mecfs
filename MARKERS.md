@@ -30,6 +30,7 @@ Diese Datei ist die **einzige Quelle** für alle Marker in den Ressourcenlisten.
 | 🗂️ | `[Collection]` | Sammlung | Curated collection of links or studies |
 | 🧰 | `[Tool]` | Werkzeug | App or web tool |
 | 📣 | `[Advocacy]` | Advocacy | Political or advocacy work |
+| 🎬 | `[Video]` | Video | Video recording such as a documentary, interview or lecture |
 
 ## Rules
 

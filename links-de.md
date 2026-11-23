@@ -23,7 +23,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Contents
 
 - [Diagnostik](#diagnostik)
-- [Tests (Fragebögen)](#tests-fragebögen)
+- [Tests (z.B. Fragebögen)](#tests-zb-fragebögen)
+- [Krankheitsspezifische Infos](#krankheitsspezifische-infos)
+  - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
+  - [MCS](#mcs)
+  - [SIBO](#sibo)
 - [Studien & Forschung](#studien--forschung)
 - [Behandlung & Therapie](#behandlung--therapie)
 - [Selbsthilfe & Community](#selbsthilfe--community)
@@ -31,6 +35,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Alltag & Versorgung](#alltag--versorgung)
 - [Regionale Angebote](#regionale-angebote)
 - [Hilfsmittel](#hilfsmittel)
+- [Berichterstattung & Medien](#berichterstattung--medien)
+  - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
+  - [Fachvorträge & Interviews](#fachvorträge--interviews)
 - [Recht & Anträge](#recht--anträge)
 - [Fachliteratur](#fachliteratur)
 - [Patientengeschichten](#patientengeschichten)
@@ -39,17 +46,35 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung. 📋 [Guideline]
 
-## Tests (Fragebögen)
+- **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar. 📋 [Guideline]
 
-> ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Tests (Questionnaires)](links-en.md#tests-questionnaires) beschrieben.
+## Tests (z.B. Fragebögen)
+
+> ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Tests (e.g. questionnaires)](links-en.md#tests-eg-questionnaires) beschrieben.
 
 - **[FUNCAP – Funktionale Kapazität](https://www.funcap.no/translations-2/funcap-auf-deutch/)** — Kostenloser Fragebogen zur Erfassung funktioneller Kapazität bei Belastungsintoleranz (PEM), mit Kurz- und Langversion. 🧰 [Tool]
 
-- **[Checkliste Mastzellaktivierung (Universität Bonn)](https://www.humangenetics-bonn.de/wp-content/uploads/2024/01/Checkliste-Patientenversion-3-2022.pdf)** — Patienten-Checkliste des Bonner Instituts für Humangenetik zu möglichen mastzellvermittelten Beschwerden; Originaldokument als PDF. 🧰 [Tool]
+- **[Passiver 10-Minuten-Stehtest](https://www.pots-dysautonomia.net/_files/ugd/9808d3_8efacee9e3d446c5b3b2bb33b6f73e78.pdf)** — Zweiseitige deutsche Anleitung für einen stehenden Belastungstest zu Hause; die englische Fassung steht in der englischen Liste. 🧰 [Tool]
 
 - **[Munich Berlin Symptom Questionnaire (MBSQ)](https://www.tauernklinikum.at/media/Fragebogen-MECFS-MBSQ-ERWACHSENE.pdf)** — Ärztlicher Anamnesebogen zu ME/CFS (PDF, [Spiegel](https://www.sarkoidose-selbsthilfe.eu/imgs/MECFS_MBSQ.pdf)); die [Studie](https://pubmed.ncbi.nlm.nih.gov/38095713) beschreibt die Anwendung. 🧰 [Tool] 📄 [Study]
 
 - **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
+
+## Krankheitsspezifische Infos
+
+### MCAS / Histaminintoleranz
+
+- **[Checkliste Mastzellaktivierung (Universität Bonn)](https://www.humangenetics-bonn.de/wp-content/uploads/2024/01/Checkliste-Patientenversion-3-2022.pdf)** — Patienten-Checkliste des Bonner Instituts für Humangenetik zu möglichen mastzellvermittelten Beschwerden; Originaldokument als PDF. 🧰 [Tool]
+
+- **[SIGHI-Lebensmittel-Verträglichkeitsliste](https://www.mastzellaktivierung.info/downloads/foodlist/11_FoodList_DE_alphabetisch_mitKat.pdf)** — Alphabetisch sortierte Verträglichkeitsliste der Schweizer Interessengemeinschaft Histamin-Intoleranz als PDF. 🧰 [Tool]
+
+### MCS
+
+*Noch keine geprüften Einträge – Vorschläge willkommen.*
+
+### SIBO
+
+*Noch keine deutschsprachigen Einträge – die englische Liste enthält eine klinische Leitlinie.*
 
 ## Studien & Forschung
 
@@ -57,11 +82,23 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[ME/CFS Research Foundation](https://mecfs-research.org/)** — Stiftung von Betroffenen und Angehörigen, die biomedizinische Forschung zu ME/CFS und Long COVID finanziert und ein Forschungsregister, Projektübersichten und Informationen für Betroffene bereitstellt. 🤝 [Self-help] 📣 [Advocacy]
 
+- **[Postinfektiöse Erkrankungen – Stellungnahme 2026](https://www.leopoldina.org/fileadmin/user_upload/Dokumente/2026_Leopoldina-Stellungnahme_Postinfekti%C3%B6se_Erkrankungen.pdf)** — Stellungnahme der Nationalen Akademie der Wissenschaften Leopoldina zu Versorgung, Dateninfrastruktur, Forschung und Prävention ([Publikationsseite](https://www.leopoldina.org/ergebnisse-und-termine/publikationen/detail/postinfektioese-erkrankungen-versorgung-dateninfrastruktur-forschung-und-praevention-2026)). 🏛️ [Authority]
+
+- **[Forschungsförderung Long COVID und ME/CFS in Deutschland](https://mecfs-research.org/fundingreport-long-covid-and-mecfs/)** — Bestandsaufnahme der öffentlichen Forschungsförderung durch die ME/CFS Research Foundation ([Bericht als PDF](https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf)). 📊 [Systematic review]
+
+- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/)** — Register, das schwer und schwerst betroffene ME-Patientinnen und -Patienten mit biomedizinischer und häuslicher Forschung verbindet. 🤝 [Self-help]
+
+- **[Neue Erkenntnisse zu molekularen Ursachen von Long COVID](https://dgfi.org/neue-erkenntnisse-zu-molekularen-ursachen-von-long-covid/)** — Meldung der Deutschen Gesellschaft für Infektiologie über eine Studie zu Botenstoffen bei anhaltenden Entzündungen in der Nasenschleimhaut nach Post-Covid. 📄 [Study]
+
+- **[Spike-Protein in den Hirnhäuten](https://www.helmholtz.de/newsroom/artikel/das-spike-protein-kann-ueber-jahre-in-den-hirnhaeuten-verbleiben/)** — Meldung der Helmholtz-Gemeinschaft über eine Studie zum Verbleib von Spike-Protein nach einer SARS-CoV-2-Infektion. 📄 [Study]
+
 ## Behandlung & Therapie
 
 - **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
 - **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
+
+- **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
 
 ## Selbsthilfe & Community
 
@@ -73,7 +110,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Betroffenenorganisationen
 
-- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional. 🤝 [Self-help]
+- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)). 🤝 [Self-help]
 
 - **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 🤝 [Self-help] 📣 [Advocacy]
 
@@ -91,6 +128,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[me.cfs Tracker](https://mecfs-tracker.app/)** — Drei kostenlose Apps für Tagebuch, Pacing und Begleitung; die Daten bleiben lokal auf den Geräten. 🧰 [Tool]
 
+## Berichterstattung & Medien
+
+### Dokumentationen & Fernsehbeiträge
+
+- **[ME/CFS bei 3sat nano](https://www.3sat.de/wissen/nano/260901-mecfs-long-covid-sendung-nano-100.html)** — Beitrag des Wissenschaftsmagazins nano über neue Studien zu möglichen Fehlsteuerungen des Immunsystems bei ME/CFS. 🎬 [Video]
+
+### Fachvorträge & Interviews
+
+- **[Ulrich Timm im Gespräch mit Prof. Carmen Scheibenbogen](https://www.ardmediathek.de/video/ulrich-timm-im-gespraech/ulrich-timm-im-gespraech-mit-prof-carmen-scheibenbogen/tagesschau24/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTBiNGExMTItNGMwNC00MGViLWIwYzUtYmVmMDY1YzQ1MDRl)** — Video-Interview über ME/CFS und die Forschungslage nach Covid. 🎬 [Video]
+
 ## Recht & Anträge
 
 - **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection] 🤝 [Self-help]
@@ -106,6 +153,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Fachliteratur
 
 - **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 📖 [Professional literature] 💰 [Commercial]
+
+- **[Versorgung von Patient*innen mit schwerer ME/CFS](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Montoya_deutsch.pdf)** — Deutschsprachige Übersetzung eines Fachbeitrags zur Versorgung von Menschen mit schwerer und sehr schwerer ME/CFS als PDF des Charité Fatigue Centrums. 📖 [Professional literature]
+
+- **[Stigmatisierende Narrative über ME/CFS](https://www.mecfs.de/stigmatisierende-narrative-ueber-mecfs/)** — Auswertung entsprechender Darstellungen in der deutschsprachigen medizinischen Fachliteratur durch die Deutsche Gesellschaft für ME/CFS. 📖 [Professional literature]
 
 ## Patientengeschichten
 
