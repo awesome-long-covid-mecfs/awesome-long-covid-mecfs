@@ -39,6 +39,24 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Tests (Questionnaires)
 
+- **[FUNCAP – Functional Capacity](https://www.funcap.no/translations-2/funcap-in-english/)** — Free questionnaire on functional capacity in people with post-exertional malaise (PEM), available in short and full form. 🧰 [Tool]
+
+- **[DePaul Symptom Questionnaires (incl. DSQ-PEM)](https://csh.depaul.edu/academics/centers-and-institutes/ccr/myalgic-encephalomyelitis-cfs/measures)** — Free symptom questionnaires from DePaul University, including a 10-item screen for post-exertional malaise; the page states all instruments are free to use. 🧰 [Tool] 🗂️ [Collection]
+
+- **[10-Minute Lean Test (NASA Lean Test)](https://batemanhornecenter.org/nasa-10-minute-lean-test-2)** — Free Bateman Horne Center protocol recording blood pressure and heart rate during a 10-minute stand/lean to assess orthostatic intolerance. 🧰 [Tool]
+
+- **[COMPASS 31](https://pubmed.ncbi.nlm.nih.gov/23218087)** — Peer-reviewed 31-item patient-reported score for autonomic symptoms across six weighted domains; full text and questionnaire are freely available. 📄 [Study] 🧰 [Tool]
+
+- **[Munich Berlin Symptom Questionnaire (MBSQ)](https://www.medrxiv.org/content/medrxiv/early/2023/08/24/2023.08.23.23293081/DC1/embed/media-1.pdf?download=true)** — Clinician-administered ME/CFS symptom questionnaire (PDF, [mirror](https://akureyrarklinikin.is/wp-content/uploads/2024/08/Munich-Berlin-Symptom-Questionnaire.pdf)); the [study](https://pubmed.ncbi.nlm.nih.gov/38095713) describes its use. 🧰 [Tool] 📄 [Study]
+
+- **[Bell Score](https://www.oiresource.com/cfsscale.htm)** — 0–100 functional-status scale for ME/CFS; the freely accessible copy is reproduced with the author's permission ([online tool](https://meandcfs.org/tools/bell-scale)). 🧰 [Tool]
+
+- **[PROMIS](https://healthmeasures.net/promis-basics/)** — Patient-reported health measures from the NIH-funded HealthMeasures initiative, including fatigue; free for individual clinical and research use, electronic use requires permission. 🧰 [Tool]
+
+- **[WHODAS 2.0](https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health/who-disability-assessment-schedule)** — WHO disability assessment instrument with 12- and 36-item versions across six functioning domains; paper use is free, electronic use requires a licence. 🏛️ [Authority] 🧰 [Tool]
+
+- **[Post-COVID Functional Status Scale (PCFS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7236834)** — Study describing a scale for functional status and everyday limitations after COVID-19. 📄 [Study] 🧰 [Tool]
+
 ## Research & Studies
 
 - **[ME/CFS Research Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/en/)** — Research tracker with plain-language summaries and direct links to primary sources. 🗂️ [Collection]
