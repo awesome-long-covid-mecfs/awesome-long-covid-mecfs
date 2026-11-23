@@ -2,9 +2,7 @@ name: IndexNow
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["pages build and deployment"]
-    types: [completed]
+  push:
     branches: [main]
 
 permissions:
@@ -12,11 +10,30 @@ permissions:
 
 jobs:
   notify:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Wait for Pages build of this commit
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          sha="${{ github.sha }}"
+          for _ in $(seq 1 30); do
+            build="$(gh api "repos/${{ github.repository }}/pages/builds/latest")"
+            status="$(printf '%s' "$build" | jq -r '.status')"
+            commit="$(printf '%s' "$build" | jq -r '.commit')"
+            if [ "$status" = "built" ] && [ "$commit" = "$sha" ]; then
+              echo "Pages build ready: $commit"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "Pages build for $sha did not finish in time"
+          exit 1
 
       - name: Notify IndexNow participants
         run: |
