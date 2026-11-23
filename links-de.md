@@ -72,6 +72,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[SIGHI-Lebensmittel-Verträglichkeitsliste](https://www.mastzellaktivierung.info/downloads/foodlist/11_FoodList_DE_alphabetisch_mitKat.pdf)** — Alphabetisch sortierte Verträglichkeitsliste der Schweizer Interessengemeinschaft Histamin-Intoleranz als PDF. 🧰 [Tool]
 
+- **[MCAS-Diagnostik (MCAS-Hope)](https://mcas-hope.de/mcas/mcas-diagnostik/)** — Informationen des Vereins MCAS-Hope zur Diagnostik über die hausärztliche Praxis und zu möglichen Laboren. 🤝 [Self-help]
+
 ### MCS
 
 *Noch keine geprüften Einträge – Vorschläge willkommen.*

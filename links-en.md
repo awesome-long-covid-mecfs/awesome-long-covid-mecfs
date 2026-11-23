@@ -134,6 +134,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🤝 [Self-help] 🗂️ [Collection]
 
+- **[Solve ME/CFS Initiative](https://solvecfs.org/)** — US non-profit organisation funding biomedical research on ME/CFS and Long COVID, with information for patients, researchers and clinicians. 🤝 [Self-help] 📣 [Advocacy]
+
 ## Daily Life & Care
 
 - **[COVID-19 Initiatives](https://github.com/medero/covid-projects)** — Curated list of projects on air quality, CO₂ monitoring and community protection. 🗂️ [Collection]
