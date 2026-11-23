@@ -76,6 +76,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[SIGHI-Lebensmittel-Verträglichkeitsliste](https://www.mastzellaktivierung.info/downloads/foodlist/11_FoodList_DE_alphabetisch_mitKat.pdf)** — Alphabetisch sortierte Verträglichkeitsliste der Schweizer Interessengemeinschaft Histamin-Intoleranz als PDF. 🧰 [Tool]
 
+- **[Histaminintoleranz.ch (SIGHI)](https://www.histaminintoleranz.ch/de/einleitung.html)** — Einstiegsseite der Schweizer Interessengemeinschaft Histamin-Intoleranz mit Grundlagen zu Histaminintoleranz und Verlinkung auf die Verträglichkeitsliste und weitere Materialien. 🤝 [Self-help] 🗂️ [Collection]
+
 - **[MCAS-Diagnostik (MCAS-Hope)](https://mcas-hope.de/mcas/mcas-diagnostik/)** — Informationen des Vereins MCAS-Hope zur Diagnostik über die hausärztliche Praxis und zu möglichen Laboren; mit einer [Literaturübersicht zu MCAS und ME/CFS](https://www.mastzellenhilfe.de/mcas-und-me-cfs-literatur) der Mastzellenhilfe. 🤝 [Self-help] 📖 [Professional literature]
 
 ### MCS
@@ -108,6 +110,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
+- **[Praxisleitfaden orthostatische Intoleranz / PoTS](https://praxisleitfaden.mecfs.de/pots)** — Leitfaden der Deutschen Gesellschaft für ME/CFS und des Charité Fatigue Centrums zu orthostatischer Intoleranz, PoTS und orthostatischer Hypotonie; der allgemeine Teil ist frei lesbar, ausführliche Angaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
+
 - **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
 
 - **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
@@ -129,6 +133,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Selbsthilfe-Gruppenfinder der Long-Covid-Plattform](https://www.long-covid-plattform.de/selbsthilfegruppen-finden)** — Umkreis- und Schlagwortsuche für Selbsthilfegruppen zu Long COVID, ME/CFS und Post-Vac mit Filter für regionale und bundesweite Angebote. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[NAKOS – Corona-Selbsthilfegruppen](https://www.nakos.de/adressen/corona-selbsthilfegruppen)** — Adressverzeichnis der Nationalen Kontakt- und Informationsstelle für Selbsthilfegruppen zu Corona, Long COVID und Post-COVID mit bundesweiten und regionalen Kontakten. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[lebenszeit-mecfs](https://lebenszeit-mecfs.de/)** — Link- und Informationssammlung einer Betroffenen-Initiative zu ME/CFS, Post-COVID und MCS mit Flyern, Vorlagen, Videos sowie regionalen und Selbsthilfe-Angeboten. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Betroffenenorganisationen
 
@@ -162,6 +168,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Patienteninformationen des Charité Fatigue Centrums](https://cfc.charite.de/fuer_patienten/literatur_und_empfehlungen_fuer_patienten/)** — Sammlung des Charité Fatigue Centrums mit Patienteninformationen, Fragebögen und Videos zu ME/CFS, POTS und Post-COVID. 🏛️ [Authority] 🗂️ [Collection]
 
+- **[ME/CFS-Hilfe (Sozialhummel)](https://sozialhummel.de/mecfs/)** — Sozialdienst für Menschen mit sehr schwerem ME/CFS mit 24-Stunden-Assistenz, Eingliederungshilfe und ambulant betreutem Wohnen; die Seite berichtet über die Kampagne #LebendigBegraben und ein Erfahrungsvideo Betroffener. 🤝 [Self-help] 🗂️ [Collection]
+
 ## Regionale Angebote
 
 - **[Postviral-Beratungsstelle Berlin](https://www.postviral-beratung.berlin/)** — Beratungsstelle des Landes Berlin für Menschen mit postviralem Fatigue-Syndrom und Long COVID, mit Kontakt- und Unterstützungsangeboten; das Angebot ist auf Berlin begrenzt. 🏛️ [Authority]
@@ -185,6 +193,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ### Ernährung & Intoleranzen
 
 - **[InTolerApp](https://intoler.app/)** — Einkaufshelfer zum Scannen von Barcodes und Zutatenlisten mit Filtern für Histamin, Fructose, FODMAP und weitere Intoleranzen; kostenlos testbar. 📱 [App]
+
+- **[Histamin, Fructose & Co. (Baliza)](https://www.baliza.de/apps/histamin.html)** — App mit Nachschlagewerken zu Histamin-, Fructose- und weiteren Lebensmittelunverträglichkeiten für iOS und Android; einzelne zusätzliche Profile sind als In-App-Erweiterung erhältlich. 📱 [App]
 
 ### Sonstiges
 
@@ -242,7 +252,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Chatgruppen
 
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
+- **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
 
 ### Facebook
 
