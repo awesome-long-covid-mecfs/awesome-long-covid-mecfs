@@ -86,7 +86,7 @@ Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken
 - **Einstieg der Sprachdateien:** Jede `links-<sprache>.md` beginnt nach dem Frontmatter mit dem Titel `Awesome Long COVID & ME/CFS Resources – <Sprache>`, zwei kurzen Absätzen, dem Hinweis zum Link-Einreichen, dem ⚠️- und dem ℹ️-Hinweis. Danach folgen Inhaltsverzeichnis und Sprachleiste. Es gibt keine sprachbezogenen README-Anleitungen mehr.
 - **Änderungen in allen Sprachen:** Wird der Einstieg geändert, gehört dieselbe Änderung in alle `links-<sprache>.md` – übersetzt, aber mit gleicher Struktur und denselben Links. `README.md` bleibt die einzige README und enthält nur die Links-Tabelle ohne Anleitung.
 
-- Neue Sprache: erst mit dem User abstimmen, dann `links-<lang>.md` (und bei Bedarf `README-<lang>.md`) anlegen. Danach **alle** Stellen mitaktualisieren: Tabelle in allen READMEs, Sprachleiste in allen Sprachdateien, Seitentitel in den `links-*.md` und die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
+- Neue Sprache: erst mit dem User abstimmen, dann `links-<lang>.md` anlegen. Danach **alle** Stellen mitaktualisieren: Tabelle in `README.md`, Einstieg, Sprachleiste und Seitentitel in allen `links-*.md` sowie die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
 - Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `links-en.md` als Startseite und `links-de.md`); `nav_exclude` hält Meta-Seiten aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
 
 ## 7. Geschützte Bereiche – nie ohne ausdrückliche Anweisung ändern
