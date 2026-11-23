@@ -90,14 +90,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🤝 [Self-help] 🗂️ [Collection]
 
-- **[Solve M.E.](https://solvecfs.org/)** — US nonprofit offering patient and caregiver resources and funding research on ME/CFS and Long COVID. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[Dysautonomia International](https://www.dysautonomiainternational.org/)** — Nonprofit for autonomic disorders including POTS, with support-group and clinician finders and Long COVID research funding. 🤝 [Self-help]
-
-- **[The Ehlers-Danlos Society](https://www.ehlers-danlos.com/)** — International nonprofit with support-group and charity directories and resources on hEDS/HSD, fatigue and dysautonomia. 🤝 [Self-help]
-
-- **[COVID-19 Longhauler Advocacy Project](https://www.longhauler-advocacy.org/)** — US nonprofit offering a patient guide, community and advocacy for Long COVID. 🤝 [Self-help] 📣 [Advocacy]
-
 ## Daily Life & Care
 
 - **[COVID-19 Initiatives](https://github.com/medero/covid-projects)** — Curated list of projects on air quality, CO₂ monitoring and community protection. 🗂️ [Collection]
