@@ -37,6 +37,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking & Pacing](#symptomtracking--pacing)
   - [Ernährung & Intoleranzen](#ernährung--intoleranzen)
+  - [Sonstiges](#sonstiges)
 - [Berichterstattung & Medien](#berichterstattung--medien)
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
@@ -181,6 +182,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ### Ernährung & Intoleranzen
 
 - **[InTolerApp](https://intoler.app/)** — Einkaufshelfer zum Scannen von Barcodes und Zutatenlisten mit Filtern für Histamin, Fructose, FODMAP und weitere Intoleranzen; kostenlos testbar. 📱 [App]
+
+### Sonstiges
+
+- **[Atemübungen – Offene Atmung](https://apps.apple.com/de/app/atem%C3%BCbungen-offene-atmung/id6447329686)** — Atemübungs-Timer für iOS ([Android](https://play.google.com/store/apps/details?id=com.ata.activebt&hl=de-CH&pli=1)) mit über 30 Presets wie 4-7-8- und Boxatmung sowie frei einstellbaren Ein-, Halte-, Aus- und Pausenphasen; offline nutzbar, kostenlos mit Werbung und kostenpflichtigen In-App-Käufen. 📱 [App] 💰 [Commercial] 🆓 [Partly free]
 
 ## Berichterstattung & Medien
 
