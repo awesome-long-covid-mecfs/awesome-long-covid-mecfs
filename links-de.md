@@ -30,6 +30,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [SIBO](#sibo)
 - [Studien & Forschung](#studien--forschung)
 - [Behandlung & Therapie](#behandlung--therapie)
+- [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
 - [Infoblätter für Behandelnde](#infoblätter-für-behandelnde)
 - [Selbsthilfe & Community](#selbsthilfe--community)
 - [Betroffenenorganisationen](#betroffenenorganisationen)
@@ -118,6 +119,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
 
 - **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
+
+## Nicht etablierte Therapieansätze
+
+- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
+
+> ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
 
 ## Infoblätter für Behandelnde
 
