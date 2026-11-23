@@ -6,7 +6,7 @@ nav_order: 3
 locale: de_DE
 ---
 
-🇬🇧 [English](links-en.md) · 🇩🇪 **Deutsch**
+**Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING-de.md).
 
 ## Contents
 
@@ -20,9 +20,11 @@ locale: de_DE
 - [Fachliteratur](#fachliteratur)
 - [Patientengeschichten](#patientengeschichten)
 
-# Ressourcen auf Deutsch
+Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 **Deutsch**
 
-Quellen, die auf Deutsch erscheinen. Marker und Aufnahmekriterien stehen in [`MARKERS.md`](MARKERS.md), in der [README](README-en.md), in [README-de.md](README-de.md) und in [AGENTS.md](AGENTS.md).
+# Deutsche Ressourcen
+
+Quellen, die auf Deutsch erscheinen.
 
 > Keine medizinische Beratung. Die Verlinkung bedeutet keine Empfehlung einer Behandlung.
 

@@ -10,7 +10,7 @@ For **patients, carers and researchers**. This list is multilingual: resources a
 
 > ℹ️ These links are language-specific: the German and English pages list different sources, including regional services and authorities. Choose the language that fits your region.
 
-| | Anleitung | Links |
+| | Guide | Links |
 |---|---|---|
 | 🇬🇧 English | [Guide](README-en.md) | [Links (EN)](links-en.md) |
 | 🇩🇪 Deutsch | [Anleitung](README-de.md) | [Links (DE)](links-de.md) |

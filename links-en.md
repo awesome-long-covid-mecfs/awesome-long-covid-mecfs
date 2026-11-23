@@ -5,7 +5,7 @@ layout: default
 nav_order: 2
 ---
 
-🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)
+**Know a good source?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
 
 ## Contents
 
@@ -19,9 +19,11 @@ nav_order: 2
 - [Professional Literature](#professional-literature)
 - [Patient Stories](#patient-stories)
 
+Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)
+
 # Resources in English
 
-Sources published in English. Markers and admission criteria are documented in [`MARKERS.md`](MARKERS.md), the [README](README-en.md) and [AGENTS.md](AGENTS.md).
+Sources published in English.
 
 > Not medical advice. Linking to a resource is not an endorsement of any treatment.
 
