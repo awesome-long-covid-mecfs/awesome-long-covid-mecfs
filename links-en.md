@@ -146,7 +146,13 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ### Symptom Tracking & Pacing
 
+- **[Guava](https://guavahealth.com/)** — Personal health tracker for symptoms, medications, lab results and medical records, with insights and printable visit summaries; free to join, available for iOS and Android. 📱 [App] 🆓 [Partly free]
+
+- **[Visible](https://www.makevisible.com/)** — Pacing app and wearable for energy-limiting conditions such as Long COVID and ME/CFS; symptom tracking in the free app, wearable and membership are paid. 📱 [App] 🆓 [Partly free]
+
 ### Nutrition & Intolerances
+
+- **[Monash FODMAP Diet App](https://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/)** — App from the Monash University research team with a FODMAP food database, certified-product lookup and recipes for irritable bowel syndrome. 📱 [App]
 
 ## Legal & Benefits
 

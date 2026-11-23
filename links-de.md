@@ -144,7 +144,13 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[me.cfs Tracker](https://mecfs-tracker.app/)** — Drei kostenlose Apps für Tagebuch, Pacing und Begleitung; die Daten bleiben lokal auf den Geräten. 🧰 [Tool] 📱 [App]
 
+- **[blue-ME Pacing & Symptomtagebuch](https://www.blue-me.de/pacing-app-symptom-tagebuch-fuer-me-cfs-post-covid-post-vac-fibromyalgie/)** — App für ME/CFS, Post-COVID, Post-VAC und Fibromyalgie mit Pacing-Timer, Symptom- und Aktivitätstagebuch, Trendanalysen und PDF-Bericht; nach 14 Tagen kostenpflichtig. 📱 [App] 💰 [Commercial]
+
+- **[Fimo Health – Long Covid](https://www.fimohealth.com/en/patienten/longcovid)** — App mit verständlichen Informationen, Symptomtagebuch und täglichen Check-ins zu Long COVID und ME/CFS; kostenpflichtig und nur über kooperierende Krankenkassen nutzbar, die die Kosten übernehmen. 📱 [App] 💰 [Commercial]
+
 ### Ernährung & Intoleranzen
+
+- **[InTolerApp](https://intoler.app/)** — Einkaufshelfer zum Scannen von Barcodes und Zutatenlisten mit Filtern für Histamin, Fructose, FODMAP und weitere Intoleranzen; kostenlos testbar. 📱 [App]
 
 ## Berichterstattung & Medien
 
