@@ -54,9 +54,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[ME/CFS-Forschung (Research Summaries)](https://hanneseh.github.io/ME-CFS-Research-Summaries/de/)** — Research-Tracker mit Kurzerklärungen und direkten Links zu Primärquellen. 🗂️ [Collection]
 
+- **[ME/CFS Research Foundation](https://mecfs-research.org/)** — Stiftung von Betroffenen und Angehörigen, die biomedizinische Forschung zu ME/CFS und Long COVID finanziert und ein Forschungsregister, Projektübersichten und Informationen für Betroffene bereitstellt. 🤝 [Self-help] 📣 [Advocacy]
+
 ## Behandlung & Therapie
 
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
+- **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
 ## Selbsthilfe & Community
 
@@ -67,6 +69,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional. 🤝 [Self-help]
 
 - **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Deutsche Gesellschaft für ME/CFS e. V.](https://www.mecfs.de/)** — Patientenorganisation mit verständlichen Informationen zu ME/CFS und Long COVID, Materialien für Betroffene, Angehörige und Fachpersonen sowie Selbsthilfeangeboten. 🤝 [Self-help] 📖 [Professional literature]
 
 ## Alltag & Versorgung
 
