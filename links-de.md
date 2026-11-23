@@ -29,6 +29,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Selbsthilfe & Community](#selbsthilfe--community)
 - [Betroffenenorganisationen](#betroffenenorganisationen)
 - [Alltag & Versorgung](#alltag--versorgung)
+- [Regionale Angebote](#regionale-angebote)
 - [Hilfsmittel](#hilfsmittel)
 - [Recht & Anträge](#recht--anträge)
 - [Fachliteratur](#fachliteratur)
@@ -74,7 +75,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Alltag & Versorgung
 
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
+- **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
+
+## Regionale Angebote
+
+- **[Postviral-Beratungsstelle Berlin](https://www.postviral-beratung.berlin/)** — Beratungsstelle des Landes Berlin für Menschen mit postviralem Fatigue-Syndrom und Long COVID, mit Kontakt- und Unterstützungsangeboten; das Angebot ist auf Berlin begrenzt. 🏛️ [Authority]
 
 ## Hilfsmittel
 
