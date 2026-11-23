@@ -7,9 +7,7 @@ nav_order: 2
 
 # Resources in English
 
-Sources published in English.
-
-> Not medical advice. Linking to a resource is not an endorsement of any treatment.
+> ⚠️ Not medical advice. Linking to a resource is not an endorsement of any treatment.
 
 **Know a good source?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
 

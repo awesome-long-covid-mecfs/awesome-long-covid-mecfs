@@ -8,9 +8,7 @@ locale: de_DE
 
 # Deutsche Ressourcen
 
-Quellen, die auf Deutsch erscheinen.
-
-> Keine medizinische Beratung. Die Verlinkung bedeutet keine Empfehlung einer Behandlung.
+> ⚠️ Keine medizinische Beratung. Die Verlinkung bedeutet keine Empfehlung einer Behandlung.
 
 **Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING-de.md).
 
