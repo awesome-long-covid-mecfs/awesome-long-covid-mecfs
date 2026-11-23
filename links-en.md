@@ -23,6 +23,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 ## Contents
 
 - [Diagnosis](#diagnosis)
+- [Tests (Questionnaires)](#tests-questionnaires)
 - [Research & Studies](#research--studies)
 - [Treatment & Therapy](#treatment--therapy)
 - [Self-Help & Community](#self-help--community)
@@ -35,6 +36,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 ## Diagnosis
 
 *No reviewed entries yet – suggestions welcome.*
+
+## Tests (Questionnaires)
 
 ## Research & Studies
 

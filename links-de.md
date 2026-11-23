@@ -23,6 +23,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Contents
 
 - [Diagnostik](#diagnostik)
+- [Tests (Fragebögen)](#tests-fragebögen)
 - [Studien & Forschung](#studien--forschung)
 - [Behandlung & Therapie](#behandlung--therapie)
 - [Selbsthilfe & Community](#selbsthilfe--community)
@@ -35,6 +36,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Diagnostik
 
 - **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung. 📋 [Guideline]
+
+## Tests (Fragebögen)
+
+> ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Tests (Questionnaires)](links-en.md#tests-questionnaires) beschrieben.
 
 ## Studien & Forschung
 
