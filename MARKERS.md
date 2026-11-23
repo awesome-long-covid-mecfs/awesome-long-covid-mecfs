@@ -26,6 +26,7 @@ Diese Datei ist die **einzige Quelle** für alle Marker in den Ressourcenlisten.
 | 📌 | `[Preprint]` | Preprint | Not peer-reviewed yet |
 | 💰 | `[Commercial]` | Kommerziell | Commercial offer, mentioned neutrally |
 | 🆓 | `[Partly free]` | Teilweise kostenlos | Some parts are free; other parts require payment |
+| 💳 | `[Membership required]` | Mitgliedschaft erforderlich | Full use requires paid membership |
 | ⚠️ | `[Outdated]` | Veraltet | Historically interesting, no longer current |
 | 🗂️ | `[Collection]` | Sammlung | Curated collection of links or studies |
 | 🧰 | `[Tool]` | Werkzeug | App or web tool |
