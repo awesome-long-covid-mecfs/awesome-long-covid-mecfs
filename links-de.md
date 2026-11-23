@@ -60,7 +60,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Selbsthilfe & Community
 
-- **[Fasynation](https://www.fasynation.de/)** — Infoportal und Podcast zu ME/CFS, Long Covid und chronischer Fatigue. 🤝 [Self-help]
+- **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Betroffenenorganisationen
 
