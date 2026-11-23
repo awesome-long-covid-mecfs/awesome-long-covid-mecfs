@@ -43,6 +43,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
 - [Recht & Anträge](#recht--anträge)
+  - [Vorsorge & Vollmachten](#vorsorge--vollmachten)
 - [Fachliteratur](#fachliteratur)
 - [Patientengeschichten](#patientengeschichten)
 - [Social Media](#social-media)
@@ -241,6 +242,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[mecfs-help.de](https://mecfs-help.de/)** — Kostenloses Browser-Tool, das Schritt für Schritt sozialrechtliche Anträge und Widersprüche für Deutschland und Österreich als PDF erstellt; Eingaben bleiben lokal und erfordern keine Anmeldung. 🧰 [Tool]
 
 - **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
+
+### Vorsorge & Vollmachten
+
+- **[Selbstbestimmt – Online-Vorsorgevollmacht](https://www.verbraucherzentrale.de/onlinevorsorgevollmacht-jetzt-kostenlos-erstellen-und-vorsorgen-76131)** — Kostenloses, ohne Anmeldung nutzbares Online-Tool der Verbraucherzentralen, das Schritt für Schritt eine individuelle Vorsorgevollmacht erstellt; die Vorlage basiert auf einem Muster des Bundesministeriums der Justiz und muss ausgedruckt und unterschrieben werden. 🧰 [Tool]
+
+- **[Selbstbestimmt – Online-Betreuungsverfügung](https://www.verbraucherzentrale.de/selbstbestimmt-betreuungsverfuegung-online-erstellen-76274)** — Kostenloses, ohne Anmeldung nutzbares Online-Tool der Verbraucherzentralen zur Erstellung einer Betreuungsverfügung, mit der festgelegt werden kann, wen das Betreuungsgericht als Betreuer einsetzt; das Dokument muss ausgedruckt und unterschrieben werden. 🧰 [Tool]
+
+- **[Selbstbestimmt – Online-Patientenverfügung](https://www.verbraucherzentrale.de/patientenverfuegung-online)** — Kostenloses, ohne Anmeldung nutzbares Online-Tool der Verbraucherzentralen, das Schritt für Schritt eine Patientenverfügung erstellt; die Textbausteine stammen vom Bundesministerium der Justiz, das Ergebnis muss ausgedruckt und unterschrieben werden. 🧰 [Tool]
+
+- **[Vollmachten – Vorlagen](https://www.kostenlose-vordrucke.de/vollmachten)** — Sammlung kostenloser ausfüllbarer PDF-Vorlagen zu Vollmachten, darunter Vorsorgevollmacht, Patientenverfügung und Schweigepflichtentbindung. 🗂️ [Collection] 💰 [Commercial]
 
 ## Fachliteratur
 
