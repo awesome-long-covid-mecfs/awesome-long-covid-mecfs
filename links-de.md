@@ -82,7 +82,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### MCS
 
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
+- **[MCS-Atemluftinitiative Schleswig-Holstein](https://www.mcs-atemluftinitiative-sh.de/)** — Initiative von und für Betroffene mit Multipler Chemikalien-Sensitivität in Schleswig-Holstein mit Betroffenenstimmen, Studien zur Prävalenz und Hinweisen für ein duft- und rauchfreies Umfeld; die Seite wird laufend ausgebaut. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[MCS Selbsthilfe Rosenheim](https://mcs-rosenheim.de/)** — Selbsthilfenetzwerk zu Multipler Chemikalien-Sensitivität und Umweltkrankheiten mit über 20 Themenseiten, die auf Erfahrungswerten, Fachartikeln und Studien mit Quellenangaben basieren, sowie einer bundesweiten Facebook-Gruppe. 🤝 [Self-help] 🗂️ [Collection]
 
 ### SIBO
 
@@ -119,6 +121,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Infoblätter für Behandelnde
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
+
+- **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
