@@ -16,7 +16,7 @@ Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Res
 
 > ⚠️ **Wichtig:** Keine medizinische Beratung und keine Behandlungsempfehlung. Wir verlinken nur auf Quellen – die Herausgeber verantworten deren Inhalt.
 
-> ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Seite listen unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Bitte die passende Sprache für deine Region wählen.
+> ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Liste enthalten unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Viele wissenschaftliche Studien erscheinen auf Englisch und sind deshalb in der englischen Liste eher zu finden. Bitte wähle die Sprache, die zu deiner Region und deiner Frage passt.
 
 | | Anleitung | Links |
 |---|---|---|

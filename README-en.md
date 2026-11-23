@@ -15,7 +15,7 @@ For **patients, carers and researchers**. This list is multilingual: resources a
 
 > ⚠️ **Important:** Not medical advice or a treatment recommendation. We only link to sources – their publishers are responsible for the content.
 
-> ℹ️ These links are language-specific: the German and English pages list different sources, including regional services and authorities. Choose the language that fits your region.
+> ℹ️ These links are language-specific: the German and English lists contain different sources, including regional services and authorities. Many research studies are published in English and are therefore more likely to appear in the English list. Choose the language that fits your region and your question.
 
 | | Guide | Links |
 |---|---|---|
