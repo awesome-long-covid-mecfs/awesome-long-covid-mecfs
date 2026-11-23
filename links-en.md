@@ -8,15 +8,17 @@ nav_order: 1
 
 # Awesome Long COVID & ME/CFS Resources – English
 
-Curated links and resources on Long COVID / Post-COVID, ME/CFS (myalgic encephalomyelitis / chronic fatigue syndrome), POTS, MCAS, hEDS, fibromyalgia, SIBO, dysautonomia and other post-viral conditions – with a focus on fatigue, PEM and symptom management.
+Curated links and resources on **Long COVID / Post-COVID**, **ME/CFS (myalgic encephalomyelitis / chronic fatigue syndrome)**, POTS, MCAS, hEDS, fibromyalgia, SIBO, dysautonomia and other post-viral conditions – with a focus on fatigue, PEM and symptom management.
 
-For patients, carers and researchers. The list is multilingual: resources appear in the language in which they were published. Every entry is checked by a human before publication.
+For **patients, carers and researchers**. The list is multilingual: resources appear in the language in which they were published. Every entry is checked by a human before publication.
 
 **Know a good source?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
 
 > ⚠️ **Important:** Not medical advice and no treatment recommendation. We only link to sources – their publishers are responsible for their content.
 
 > ℹ️ These links are language-specific: the German and English lists contain different sources, including regional services and authorities. Many research studies are published in English and are therefore more likely to appear in the English list. Choose the language that fits your region and your question.
+
+Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)
 
 ## Contents
 
@@ -29,8 +31,6 @@ For patients, carers and researchers. The list is multilingual: resources appear
 - [Legal & Benefits](#legal--benefits)
 - [Professional Literature](#professional-literature)
 - [Patient Stories](#patient-stories)
-
-Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)
 
 ## Diagnosis
 
