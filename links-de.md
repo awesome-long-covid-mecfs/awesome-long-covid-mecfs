@@ -61,9 +61,15 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
+- **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
+
 ## Selbsthilfe & Community
 
 - **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurzinformationen der Deutschen Gesellschaft für ME/CFS zu ME/CFS, Diagnostik und Versorgung. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Betroffenenorganisationen
 
