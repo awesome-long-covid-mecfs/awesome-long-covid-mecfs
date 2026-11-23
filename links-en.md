@@ -37,6 +37,10 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - [Legal & Benefits](#legal--benefits)
 - [Professional Literature](#professional-literature)
 - [Patient Stories](#patient-stories)
+- [Social Media](#social-media)
+  - [Chat Groups](#chat-groups)
+  - [Facebook](#facebook)
+  - [Instagram](#instagram)
 
 ## Diagnosis
 
@@ -147,5 +151,19 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
 
 ## Patient Stories
+
+*No reviewed entries yet – suggestions welcome.*
+
+## Social Media
+
+### Chat Groups
+
+*No reviewed entries yet – suggestions welcome.*
+
+### Facebook
+
+*No reviewed entries yet – suggestions welcome.*
+
+### Instagram
 
 *No reviewed entries yet – suggestions welcome.*

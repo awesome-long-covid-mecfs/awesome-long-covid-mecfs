@@ -41,6 +41,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Recht & Anträge](#recht--anträge)
 - [Fachliteratur](#fachliteratur)
 - [Patientengeschichten](#patientengeschichten)
+- [Social Media](#social-media)
+  - [Chatgruppen](#chatgruppen)
+  - [Facebook](#facebook)
+  - [Instagram](#instagram)
 
 ## Diagnostik
 
@@ -163,3 +167,17 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[No longer!](https://no-longer.de/)** — Persönlicher Erfahrungsbericht einer betroffenen Person mit eigener Deutung sowie Angeboten zu Supplements und Coaching. ⚠️ [Patient story] 💰 [Commercial]
 
 > ⚠️ Dies ist ein persönlicher Erfahrungsbericht. Die dargestellten Ursachen und Lösungsversprechen sind nicht wissenschaftlich belegt und ersetzen keine ärztliche Beratung.
+
+## Social Media
+
+### Chatgruppen
+
+*Noch keine geprüften Einträge – Vorschläge willkommen.*
+
+### Facebook
+
+*Noch keine geprüften Einträge – Vorschläge willkommen.*
+
+### Instagram
+
+*Noch keine geprüften Einträge – Vorschläge willkommen.*
