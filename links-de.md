@@ -115,7 +115,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
 
-- **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen. 🤝 [Self-help] 🗂️ [Collection]
+- **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen, mit Blog, Forum und einer Datenbank mit Ärztelisten. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurzinformationen der Deutschen Gesellschaft für ME/CFS zu ME/CFS, Diagnostik und Versorgung. 🤝 [Self-help] 🗂️ [Collection]
 
