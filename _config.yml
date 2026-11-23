@@ -5,7 +5,7 @@ description: >-
   fibromyalgia, SIBO, dysautonomia and other post-viral conditions -
   fatigue, PEM and symptom management for patients, carers and researchers.
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.12.0
 
 # Wichtig: interne Links werden in den Markdown-Dateien immer als .md
 # geschrieben. Dieses Plugin wandelt sie beim Build in Website-Links um.
