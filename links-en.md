@@ -27,6 +27,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - [Research & Studies](#research--studies)
 - [Treatment & Therapy](#treatment--therapy)
 - [Self-Help & Community](#self-help--community)
+- [Patient Organisations](#patient-organisations)
 - [Daily Life & Care](#daily-life--care)
 - [Assistive Devices](#assistive-devices)
 - [Legal & Benefits](#legal--benefits)
@@ -74,6 +75,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses. 📣 [Advocacy]
 
 - **[ME/CFS Useful Resources](https://github.com/me-cfs/me-cfs.github.io/blob/main/useful-resources.md)** — Community-curated collection of diagnostic criteria, communities and further ME/CFS resources. 🗂️ [Collection]
+
+## Patient Organisations
 
 ## Daily Life & Care
 

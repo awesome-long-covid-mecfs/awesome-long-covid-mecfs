@@ -27,6 +27,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Studien & Forschung](#studien--forschung)
 - [Behandlung & Therapie](#behandlung--therapie)
 - [Selbsthilfe & Community](#selbsthilfe--community)
+- [Betroffenenorganisationen](#betroffenenorganisationen)
 - [Alltag & Versorgung](#alltag--versorgung)
 - [Hilfsmittel](#hilfsmittel)
 - [Recht & Anträge](#recht--anträge)
@@ -60,6 +61,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Selbsthilfe & Community
 
 - **[Fasynation](https://www.fasynation.de/)** — Infoportal und Podcast zu ME/CFS, Long Covid und chronischer Fatigue. 🤝 [Self-help]
+
+## Betroffenenorganisationen
 
 ## Alltag & Versorgung
 
