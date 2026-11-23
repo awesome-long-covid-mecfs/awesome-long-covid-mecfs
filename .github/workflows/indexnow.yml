@@ -1,0 +1,37 @@
+name: IndexNow
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["pages build and deployment"]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Notify IndexNow participants
+        run: |
+          set -euo pipefail
+          key="$(cat 36116e1a-ab38-4110-b67a-2cae8b6b3e42.txt)"
+          key_location="https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/${key}.txt"
+          payload="$(jq -n \
+            --arg host "awesome-long-covid-mecfs.github.io" \
+            --arg key "$key" \
+            --arg keyLocation "$key_location" \
+            '{host: $host, key: $key, keyLocation: $keyLocation, urlList: [
+              "https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/",
+              "https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/links-de.html"
+            ]}')"
+          curl --fail --silent --show-error --request POST \
+            --header 'Content-Type: application/json; charset=utf-8' \
+            --data "$payload" \
+            https://api.indexnow.org/indexnow
