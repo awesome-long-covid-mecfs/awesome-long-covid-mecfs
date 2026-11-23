@@ -64,6 +64,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Betroffenenorganisationen
 
+- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional. 🤝 [Self-help]
+
+- **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 🤝 [Self-help] 📣 [Advocacy]
+
 ## Alltag & Versorgung
 
 *Noch keine geprüften Einträge – Vorschläge willkommen.*
