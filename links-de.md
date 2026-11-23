@@ -42,7 +42,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Behandlung & Therapie
 
-- **[Praxis Dr. med. Kristina Schultheiss](https://www.dr-med-kristina-schultheiss.de/)** — Online-Sprechstunde und Therapieangebote für Long COVID und ME/CFS; kommerzielles Angebot einer Einzelpraxis. 💰 [Commercial]
+*Noch keine geprüften Einträge – Vorschläge willkommen.*
 
 ## Selbsthilfe & Community
 
@@ -62,7 +62,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Fachliteratur
 
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
+- **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 📖 [Professional literature] 💰 [Commercial]
 
 ## Patientengeschichten
 
