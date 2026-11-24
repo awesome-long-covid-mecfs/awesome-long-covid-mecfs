@@ -201,6 +201,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Elara Health](https://www.elara-health.de/de)** — App zur Erfassung von Energie, Symptomen, Aktivitäten, Ernährung und Stuhlgang mit Auswertungen und exportierbarem Arztbericht; die Basisversion ist derzeit kostenlos und werbefrei. 📱 [App] 💰 [Commercial]
 
+- **[Guava](https://guavahealth.com/)** — Persönliche Gesundheits-App zum Erfassen von Symptomen, Medikamenten, Laborergebnissen und Arztnotizen mit Auswertungen und druckbarer Vorbereitung für Arztbesuche; laut Anbieter in über 20 Sprachen für Web, iOS und Android nutzbar, mit kostenlosem Basisangebot und kostenpflichtigen Zusatzfunktionen. 📱 [App] 🆓 [Partly free]
+
 ### Sonstiges
 
 - **[Atemübungen – Offene Atmung](https://apps.apple.com/de/app/atem%C3%BCbungen-offene-atmung/id6447329686)** — Atemübungs-Timer für iOS ([Android](https://play.google.com/store/apps/details?id=com.ata.activebt&hl=de-CH&pli=1)) mit über 30 Presets wie 4-7-8- und Boxatmung sowie frei einstellbaren Ein-, Halte-, Aus- und Pausenphasen; offline nutzbar, kostenlos mit Werbung und kostenpflichtigen In-App-Käufen. 📱 [App] 💰 [Commercial] 🆓 [Partly free]
