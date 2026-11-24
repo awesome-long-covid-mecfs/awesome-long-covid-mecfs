@@ -41,6 +41,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Sonstiges](#sonstiges)
 - [Recht & Anträge](#recht--anträge)
   - [Beratung & Unterstützung](#beratung--unterstützung)
+  - [Reha](#reha)
   - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
   - [GdB, Merkzeichen & Begutachtung](#gdb-merkzeichen--begutachtung)
   - [Teilhabe & Assistenz](#teilhabe--assistenz)
@@ -181,8 +182,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🧰 [Tool] 🗂️ [Collection]
 
-- **[DAS REHAPORTAL](https://www.dasrehaportal.de/)** — Bundesweite Suche nach ambulanten und stationären Rehakliniken mit Filtern unter anderem nach Region und Barrierefreiheit sowie über 110.000 Patientenbewertungen; für Patient:innen kostenlos und werbefrei, betrieben von der 4QD-Qualitätskliniken.de GmbH und finanziert durch Beiträge teilnehmender Kliniken. 🧰 [Tool] 💰 [Commercial]
-
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
@@ -225,12 +224,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Videosprechstunde (KBV)](https://www.kbv.de/praxis/digitalisierung/anwendungen/videosprechstunde)** — Information der Kassenärztlichen Bundesvereinigung zu Videosprechstunden in ärztlicher und psychotherapeutischer Versorgung; die Leistungen werden über die gesetzliche Krankenversicherung abgerechnet. 🏛️ [Authority]
 
-- **[Reha-Erfahrungen von Betroffenen – qualitative Studie](https://doi.org/10.1016/j.zefq.2024.05.007)** — Studie zu Erfahrungen mit stationärer Rehabilitation bei Long/Post-COVID, zu PEM und zu individuell abgestimmter Reha-Planung; vollständiger Text auch als [PDF bei Zenodo](https://zenodo.org/records/12742336). 📄 [Study]
-
-- **[Reha und ME-cfs? (lebenszeit)](https://lebenszeit-mecfs.de/reha.html)** — Selbsthilfe-Seite einer Betroffenen zu Reha und ME/CFS mit eigener Erfahrung, Grenzen der Mitwirkungspflicht und Angaben zur Bescheinigung der Reha-Unfähigkeit. 🤝 [Self-help] 🗂️ [Collection] 💬 [Patient story]
-
-- **[Reha Ablehnung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/a-z:reha-ablehnung)** — Betroffenen-Wiki mit Widerspruchsverfahren, Muster-Formulierung und Argumenten für eine Reha-Unfähigkeit bei PEM. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
-
 - **[mecfs-help.de](https://mecfs-help.de/)** — Kostenloses Browser-Tool, das Schritt für Schritt sozialrechtliche Anträge und Widersprüche für Deutschland und Österreich als PDF erstellt; Eingaben bleiben lokal und erfordern keine Anmeldung. 🧰 [Tool]
 
 - **[betanet](https://www.betanet.de/)** — Portal des gemeinnützigen beta Instituts mit sozialrechtlichen Informationen und kostenlosen Ratgebern zu Krankheit, Behinderung, Leistungen und Widersprüchen. 🗂️ [Collection]
@@ -248,6 +241,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Sozialverband Deutschland (SoVD)](https://www.sovd.de/)** — Sozialverband mit Beratung zu Sozialrecht, Anträgen und Widersprüchen; die Rechtsberatung setzt eine Mitgliedschaft voraus, der Beitrag liegt je nach Landesverband bei etwa 7–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
+
+### Reha
+
+- **[DAS REHAPORTAL](https://www.dasrehaportal.de/)** — Bundesweite Suche nach ambulanten und stationären Rehakliniken mit Filtern unter anderem nach Region und Barrierefreiheit sowie über 110.000 Patientenbewertungen; für Patient:innen kostenlos und werbefrei, betrieben von der 4QD-Qualitätskliniken.de GmbH und finanziert durch Beiträge teilnehmender Kliniken. 🧰 [Tool] 💰 [Commercial]
+
+- **[Reha-Erfahrungen von Betroffenen – qualitative Studie](https://doi.org/10.1016/j.zefq.2024.05.007)** — Studie zu Erfahrungen mit stationärer Rehabilitation bei Long/Post-COVID, zu PEM und zu individuell abgestimmter Reha-Planung; vollständiger Text auch als [PDF bei Zenodo](https://zenodo.org/records/12742336). 📄 [Study]
+
+- **[Reha und ME-cfs? (lebenszeit)](https://lebenszeit-mecfs.de/reha.html)** — Selbsthilfe-Seite einer Betroffenen zu Reha und ME/CFS mit eigener Erfahrung, Grenzen der Mitwirkungspflicht und Angaben zur Bescheinigung der Reha-Unfähigkeit. 🤝 [Self-help] 🗂️ [Collection] 💬 [Patient story]
+
+- **[Reha Ablehnung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/a-z:reha-ablehnung)** — Betroffenen-Wiki mit Widerspruchsverfahren, Muster-Formulierung und Argumenten für eine Reha-Unfähigkeit bei PEM. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
 
 ### Nahtlosigkeit & Arbeitslosigkeit
 
