@@ -326,6 +326,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[GdB bei ME/CFS und Long Covid (BeHome Care)](https://behome-care.de/ratgeber/gdb-me-cfs-long-covid)** — Kurzratgeber zu GdB, Merkzeichen und Gutachtengespräch mit konkreten Formulierungshilfen zur Belastungsintoleranz bei ME/CFS. 💰 [Commercial]
 
+- **[Handreichung für die Begutachtung von ME/CFS-Betroffenen (Selbsthilfe Freiburg)](https://mecfs-freiburg.de/documents/Handreichung%20f%C3%BCr%20die%20Begutachtung%20von%20MECFS-Betroffenen%20-%20MECFS-Selbsthilfe%20Freiburg%20Stand%20Nov%2024.pdf)** — Vierseitiges PDF zur Vorbereitung auf Gutachtertermine mit Entlastungsmöglichkeiten, Hinweisen zur verzögerten Belastungsreaktion und zur Erhebung schlechter Tage. 🤝 [Self-help]
+
 ### Teilhabe & Assistenz
 
 - **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
@@ -342,11 +344,17 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
 
+- **[Protokolle und Listen zur Krankheitsdokumentation (Fatigatio)](https://www.fatigatio.de/me/cfs/diagnose/protokolle-listen)** — Sammlung kostenloser, direkt herunterladbarer Vorlagen des Bundesverbands ME/CFS: zwei sozialrechtliche Checklisten sowie Protokolle für Beschwerden, Ruhe und Belastung und Schlaf mit Tageseinstufung 1–10, Schrittzahl und Ruhepuls. 🤝 [Self-help] 🗂️ [Collection]
+
 ### Erwerbsminderungsrente
 
 - **[EM-Rente bei ME/CFS: Gutachten und Reha (Fasynation)](https://www.fasynation.de/em-rente-gutachten-me-cfs/)** — Beitrag von Fasynation zum Weg von Krankengeld über Reha und Rentenantrag bis Gutachten und Widerspruch, ergänzt um die Perspektive eines erfahrenen Gutachters. 🤝 [Self-help] 💬 [Patient story]
 
 - **[Erwerbsminderungsrente bei ME/CFS (lebenszeit)](https://lebenszeit-mecfs.de/rechtliches.html)** — Selbsthilfe-Seite mit Eckpunkten für Erstantrag und Widerspruch bei ME/CFS, darunter Tagesablauf, Transportunfähigkeit und konkrete Fragen zu PEM und Verschlechterungsdauer. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[PostVac Tools (Bundesverband PostVac)](https://bundesverband-postvac.de/werkzeuge/)** — Sammlung von 27 Werkzeugen für Antrags- und Widerspruchswege, deren Eingaben lokal im Browser bleiben; darunter Gutachten-Check, Arzt-Anschreiben mit ME/CFS-Kriterien und Akteneinsicht ohne Anreise. 🧰 [Tool] 🤝 [Self-help]
+
+- **[Rehabilitation bei ME/CFS birgt hohes Verschlechterungsrisiko (Deutsche Gesellschaft für ME/CFS)](https://www.mecfs.de/rehabilitation-bei-me-cfs-birgt-verschlechterungsgefahr/)** — Auswertung von Studien und Betroffenerfahrungen zu „Reha vor Rente" mit Argumenten, warum bei ME/CFS die Wiederherstellung der Erwerbsfähigkeit fraglich ist und ambulante Versorgung risikoärmer ist. 🤝 [Self-help] 📣 [Advocacy]
 
 ### Vorsorge & Vollmachten
 
