@@ -207,6 +207,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 🤝 [Self-help] 📣 [Advocacy]
 
+- **[Österreichische Gesellschaft für ME/CFS (ÖG ME/CFS)](https://mecfs.at/)** — Patientenorganisation in Österreich mit Informationen zu ME/CFS, getrennten Bereichen für Betroffene, Angehörige und Fachpersonale sowie politischer Interessenvertretung. 🤝 [Self-help] 📣 [Advocacy]
+
 - **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 🤝 [Self-help] 📣 [Advocacy]
 
 - **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🤝 [Self-help] 🗂️ [Collection]
@@ -350,6 +352,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 - **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Protokolle und Listen zur Krankheitsdokumentation (Fatigatio)](https://www.fatigatio.de/me/cfs/diagnose/protokolle-listen)** — Sammlung kostenloser, direkt herunterladbarer Vorlagen des Bundesverbands ME/CFS: zwei sozialrechtliche Checklisten sowie Protokolle für Beschwerden, Ruhe und Belastung und Schlaf mit Tageseinstufung 1–10, Schrittzahl und Ruhepuls. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[PEM erkennen – 14-Tage-Protokoll (Stimmen aus dem Off)](https://stimmenausdemoff.de/community/pem-erkennen-14-tage-protokoll-pdf-vorlage/)** — Kostenloses 14-Tage-Protokoll von Dr. med. Kristina Schultheiss, das Belastungen und Symptome mit 12–24 h und 24–48 h Verzögerung erfasst und eine Auswertung für das Arztgespräch enthält; die Anleitung warnt ausdrücklich vor Aktivitätssteigerung zum Provokationstesten. 🤝 [Self-help]
 
 ### Erwerbsminderungsrente
 
