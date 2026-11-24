@@ -40,7 +40,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Symptomtracking & Pacing](#symptomtracking--pacing)
   - [Sonstiges](#sonstiges)
 - [Recht & Anträge](#recht--anträge)
-  - [Beratung & Unterstützung](#beratung--unterstützung)
+  - [Beratungs- und Unterstützungsangebote](#beratungs--und-unterstützungsangebote)
   - [Reha](#reha)
   - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
   - [GdB, Merkzeichen & Begutachtung](#gdb-merkzeichen--begutachtung)
@@ -232,7 +232,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[ME/CFS – und nun?](https://sites.google.com/view/mecfs-undnun/start)** — Selbsthilfe-Projekt mit Kapiteln zu Pacing, Hilfsmitteln, sozial- und arbeitsrechtlichen Fragen sowie Materialien für Angehörige und Behandler; die Seite enthält auch ein Spendenprojekt mit selbst genähten Taschen. 🤝 [Self-help] 🗂️ [Collection]
 
-### Beratung & Unterstützung
+### Beratungs- und Unterstützungsangebote
 
 - **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
 
@@ -241,6 +241,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Sozialverband Deutschland (SoVD)](https://www.sovd.de/)** — Sozialverband mit Beratung zu Sozialrecht, Anträgen und Widersprüchen; die Rechtsberatung setzt eine Mitgliedschaft voraus, der Beitrag liegt je nach Landesverband bei etwa 7–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
+
+- **[Stiftung Unabhängige Patientenberatung Deutschland (UPD)](https://patientenberatung.de/)** — Kostenfreie, unabhängige Beratung zu gesundheitlichen und gesundheitsrechtlichen Fragen per Telefon, in Vor-Ort-Stellen und schriftlich über ein Online-Portal; bundesweit und ohne Mitgliedschaft. 🏛️ [Authority]
 
 ### Reha
 
@@ -271,8 +273,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Handreichung für die Begutachtung von ME/CFS-Betroffenen (Selbsthilfe Freiburg)](https://mecfs-freiburg.de/documents/Handreichung%20f%C3%BCr%20die%20Begutachtung%20von%20MECFS-Betroffenen%20-%20MECFS-Selbsthilfe%20Freiburg%20Stand%20Nov%2024.pdf)** — Vierseitiges PDF zur Vorbereitung auf Gutachtertermine mit Entlastungsmöglichkeiten, Hinweisen zur verzögerten Belastungsreaktion und zur Erhebung schlechter Tage. 🤝 [Self-help]
 
 ### Teilhabe & Assistenz
-
-- **[Stiftung Unabhängige Patientenberatung Deutschland (UPD)](https://patientenberatung.de/)** — Kostenfreie, unabhängige Beratung zu gesundheitlichen und gesundheitsrechtlichen Fragen per Telefon, in Vor-Ort-Stellen und schriftlich über ein Online-Portal; bundesweit und ohne Mitgliedschaft. 🏛️ [Authority]
 
 - **[Berufliche Teilhabe bei Long COVID (REHADAT-Wissen)](https://www.rehadat-wissen.de/ausgaben/12-long-covid/)** — Online-Broschüre des BMAS-förderten REHADAT zu Arbeitsplatzanpassungen, Wiedereingliederung und Förderleistungen bei Long COVID, mit Statements von Betroffenen; auch als [PDF bei der BIH](https://www.bih.de/fileadmin/user_upload/Bereich-INA/Downloads/rehadat_wissen_ausgabe12_long_covid.pdf) verfügbar. 🏛️ [Authority]
 
