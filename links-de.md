@@ -312,6 +312,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
 
+- **[ME&CFS](https://meandcfs.org/de)** — Ruhige, belegte Informationen zu ME/CFS von einer betroffenen Person, mit Erklärseiten, Forschung, Werkzeugen und Download-Materialien. 🤝 [Self-help] 🗂️ [Collection]
+
 ### Vereine & Verbände
 
 - **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)). 🤝 [Self-help]

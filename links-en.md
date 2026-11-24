@@ -166,6 +166,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Rolling PEM: What It Is and How to Avoid It](https://tickedoffcodess.com/rolling-pem-what-it-is-and-how-to-avoid-it/)** — Patient-written article on rolling post-exertional malaise and recognising cumulative overexertion in ME/CFS and Long COVID, with cited sources. 💬 [Patient story]
 
+- **[ME&CFS](https://meandcfs.org/)** — Clear, calm information on ME/CFS, written by someone who lives with it, with explanatory pages, research, tools and downloadable materials. 🤝 [Self-help] 🗂️ [Collection]
+
 ### Associations & Charities
 
 - **[#MEAction](https://www.meaction.net/)** — International patient network on ME and Long COVID with campaigns, group and clinician directories and support resources; sign-up is only needed for newsletters and events. 🤝 [Self-help] 📣 [Advocacy]
