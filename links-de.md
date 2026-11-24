@@ -165,7 +165,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
 
-- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige: [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf), [ME/CFS – Diagnose, Behandlung und Hinweise zur Betreuung](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_03-Diagnose_neu.pdf), [ME/CFS – Pacing (Kurzversion)](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_04-Pacing_neu.pdf), [ME/CFS – Krankenhaus: Aufenthalt, Operation und Anästhesie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_02-Krankenhaus_neu.pdf), [ME/CFS – Physiotherapie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_07_Physiotherapie_A4.pdf), [ME/CFS – Psychotherapie](https://www.mecfs.de/wp-content/uploads/2025/03/DG.MECFS_Informationsblatt_08-Psychotherapie.pdf), [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf), [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf). 🤝 [Self-help] 🗂️ [Collection]
+- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige:
+  - [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf)
+  - [ME/CFS – Diagnose, Behandlung und Hinweise zur Betreuung](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_03-Diagnose_neu.pdf)
+  - [ME/CFS – Pacing (Kurzversion)](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_04-Pacing_neu.pdf)
+  - [ME/CFS – Krankenhaus: Aufenthalt, Operation und Anästhesie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_02-Krankenhaus_neu.pdf)
+  - [ME/CFS – Physiotherapie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_07_Physiotherapie_A4.pdf)
+  - [ME/CFS – Psychotherapie](https://www.mecfs.de/wp-content/uploads/2025/03/DG.MECFS_Informationsblatt_08-Psychotherapie.pdf)
+  - [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf)
+  - [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf)
+  🤝 [Self-help] 🗂️ [Collection]
 
 ## Alltag & Versorgung
 
