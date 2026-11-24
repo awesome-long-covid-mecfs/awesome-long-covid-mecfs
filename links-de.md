@@ -145,9 +145,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Nicht etablierte Therapieansätze
 
-- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
-
 > ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
+
+- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
 
 ## Begleiterkrankungen
 
