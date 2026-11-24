@@ -28,8 +28,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Fragebögen](#fragebögen)
 - [Behandlung](#behandlung)
   - [Material für Praxis, Pflege, Krankenhaus und Angehörige](#material-für-praxis-pflege-krankenhaus-und-angehörige)
-  - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
+  - [Pacing](#pacing)
   - [Schwer erkrankt](#schwer-erkrankt)
+  - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
 - [Begleiterkrankungen](#begleiterkrankungen)
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
@@ -113,11 +114,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
 
-- **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
-
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
 
 - **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige:
   - [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf)
@@ -132,11 +129,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
 
-### Nicht etablierte Therapieansätze
+### Pacing
 
-- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
+- **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
 
-> ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
+- **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
 
 ### Schwer erkrankt
 
@@ -145,6 +142,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Pflegeanleitung für schwer und schwerstkranke ME/CFS-Patient:innen](https://www.mecfs.at/wp-content/uploads/2025-8-Pflegeanleitung.pdf)** — Von der Österreichischen Gesellschaft für ME/CFS und der MedUni Wien herausgegebene Pflegeanleitung (Version August 2025) für die Versorgung schwer erkrankter Patient:innen. 📖 [Professional literature] 🧰 [Tool]
 
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
+
+### Nicht etablierte Therapieansätze
+
+- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
+
+> ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
 
 ## Begleiterkrankungen
 

@@ -28,6 +28,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Questionnaires](#questionnaires)
 - [Treatment](#treatment)
   - [Resources for Practice, Care, Hospitals and Carers](#resources-for-practice-care-hospitals-and-carers)
+  - [Pacing](#pacing)
   - [Severe ME/CFS](#severe-mecfs)
 - [Related Conditions](#related-conditions)
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
@@ -94,23 +95,25 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ### Resources for Practice, Care, Hospitals and Carers
 
-- **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
-
-- **[Pacing – Long COVID Physio](https://longcovid.physio/pacing)** — Pacing episode by Long COVID Physio with video, audio and written transcript, translated summaries and references to WHO and World Physiotherapy guidance. 🎬 [Video] 🤝 [Self-help]
-
 - **[Primary Care Guide for MCAS](https://www.mastcellaction.org/assets/_/2026/06/26/771e0b33-f60c-4c61-962a-3d811424d8c1/final-primary-care-guide-2026.pdf)** — Primary care guide for mast cell activation syndrome published by the UK charity Mast Cell Action in 2026 for use in general practice. 📖 [Professional literature]
 
 - **[Physios for ME – information flyer](https://www.physiosforme.com/_files/ugd/4f94c1_c1758bc60a714b9c942291eee6b64e04.pdf)** — Downloadable flyer from the UK group Physios for ME on when and how physiotherapy is appropriate in ME/CFS ([organisation homepage](https://www.physiosforme.com/)). 📖 [Professional literature] 🗂️ [Collection]
 
 - **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
 
-- **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
-
 - **[IACI Provider Manual](https://www.coresinai.org/manual)** — Second edition of a manual from the Cohen Center for Recovery from Complex Chronic Illness with guidance for clinicians treating infection-associated chronic conditions including Long COVID and ME/CFS; the download requires a short form. 📖 [Professional literature]
 
 - **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
 
 - **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
+
+### Pacing
+
+- **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
+
+- **[Pacing – Long COVID Physio](https://longcovid.physio/pacing)** — Pacing episode by Long COVID Physio with video, audio and written transcript, translated summaries and references to WHO and World Physiotherapy guidance. 🎬 [Video] 🤝 [Self-help]
+
+- **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
 
 ### Severe ME/CFS
 
