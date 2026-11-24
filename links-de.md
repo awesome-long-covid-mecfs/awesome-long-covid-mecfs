@@ -283,6 +283,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[ME/CFS-Wiki](https://www.mecfs-wiki.de)** — Privates Wiki mit verständlichen Informationen zu ME/CFS und Sozialleistungen, zu Anträgen, Begutachtungen und Alltag; die Startseite enthält einen Amazon-Affiliate-Link und einen Spendenaufruf. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
 
+- **[ME/CFS – und nun?](https://sites.google.com/view/mecfs-undnun/start)** — Selbsthilfe-Projekt mit Kapiteln zu Pacing, Hilfsmitteln, sozial- und arbeitsrechtlichen Fragen sowie Materialien für Angehörige und Behandler; die Seite enthält auch ein Spendenprojekt mit selbst genähten Taschen. 🤝 [Self-help] 🗂️ [Collection]
+
 ### Nahtlosigkeit & Arbeitslosigkeit
 
 - **[Arbeitslosengeld bei Nahtlosigkeit (betanet)](https://www.betanet.de/arbeitslosengeld-nahtlosigkeit.html)** — Ratgeber des gemeinnützigen beta Instituts zur Nahtlosigkeitsregelung mit Fallbeispielen zu Krankengeldende, abgelehnter Erwerbsminderungsrente und subjektiver Verfügbarkeit. 🗂️ [Collection]
@@ -297,6 +299,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Themenportal Schwerbehinderung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/portal:schwerbehinderung)** — Themenportal des ME/CFS-Wikis zu GdB, Merkzeichen und Nachteilsausgleichen mit Vorlagen für Antragsanlagen, Widerspruch und Formulierungshilfen bei Begutachtungsterminen. 🤝 [Self-help] 🗂️ [Collection] 🧰 [Tool]
 
+- **[GdB bei ME/CFS und Long Covid (BeHome Care)](https://behome-care.de/ratgeber/gdb-me-cfs-long-covid)** — Kurzratgeber zu GdB, Merkzeichen und Gutachtengespräch mit konkreten Formulierungshilfen zur Belastungsintoleranz bei ME/CFS. 💰 [Commercial]
+
 ### Teilhabe & Assistenz
 
 - **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
@@ -309,9 +313,15 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Pflegegradantrag und Pflege bei ME/CFS (lebenszeit)](https://lebenszeit-mecfs.de/pflegegrade.html)** — Ausführliche Selbsthilfe-Seite zum Pflegegradantrag bei ME/CFS mit Modul-für-Modul-Fragen zu PEM, Brainfog, Transportunfähigkeit und Widerspruch nach fehlerhafter Begutachtung. 🤝 [Self-help] 🗂️ [Collection]
 
+- **[Mappe zur Pflegebegutachtung (Tee mit Molly)](https://www.teemitmolly.de/antraege/mappe-vorbereitung-mdk-pflegebegutachtung-mecfs/)** — Kurze Checkliste einer Betroffenen zur Vorbereitung auf den MD-Termin mit Inhaltsübersicht, ausgefülltem Pflegekriterien-Bogen und einer geschwärzten Beispiel-Mappe zum Herunterladen. 🤝 [Self-help] 💬 [Patient story]
+
+- **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
+
 ### Erwerbsminderungsrente
 
 - **[EM-Rente bei ME/CFS: Gutachten und Reha (Fasynation)](https://www.fasynation.de/em-rente-gutachten-me-cfs/)** — Beitrag von Fasynation zum Weg von Krankengeld über Reha und Rentenantrag bis Gutachten und Widerspruch, ergänzt um die Perspektive eines erfahrenen Gutachters. 🤝 [Self-help] 💬 [Patient story]
+
+- **[Erwerbsminderungsrente bei ME/CFS (lebenszeit)](https://lebenszeit-mecfs.de/rechtliches.html)** — Selbsthilfe-Seite mit Eckpunkten für Erstantrag und Widerspruch bei ME/CFS, darunter Tagesablauf, Transportunfähigkeit und konkrete Fragen zu PEM und Verschlechterungsdauer. 🤝 [Self-help] 🗂️ [Collection]
 
 ### Vorsorge & Vollmachten
 
