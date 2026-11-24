@@ -48,6 +48,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
 - [Recht & Anträge](#recht--anträge)
+  - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
+  - [GdB, Merkzeichen & Begutachtung](#gdb-merkzeichen--begutachtung)
+  - [Teilhabe & Assistenz](#teilhabe--assistenz)
+  - [Pflegegrad](#pflegegrad)
+  - [Erwerbsminderungsrente](#erwerbsminderungsrente)
   - [Vorsorge & Vollmachten](#vorsorge--vollmachten)
 - [Fachliteratur](#fachliteratur)
 - [Patientengeschichten](#patientengeschichten)
@@ -61,6 +66,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ### Leitlinien & Kriterien
 
 - **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung. 📋 [Guideline]
+
+- **[S3-Leitlinie Müdigkeit (DEGAM)](https://register.awmf.org/de/leitlinien/detail/053-002)** — S3-Leitlinie „Müdigkeit" der DEGAM (AWMF 053-002) zur Abklärung und Bewertung von Müdigkeit und Belastungsintoleranz, einschließlich postviraler Müdigkeit. 📋 [Guideline]
 
 - **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar. 📋 [Guideline]
 
@@ -260,21 +267,47 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[§ 65 SGB I – Mitwirkungspflichten](https://www.gesetze-im-internet.de/sgb_1/__65.html)** — Gesetzestext zu den Mitwirkungspflichten im Sozialgesetzbuch. 🏛️ [Authority]
 
-- **[Anlage zur Versorgungsmedizin-Verordnung](https://www.gesetze-im-internet.de/versmedv/anlage.html)** — Offizielle Bewertungsgrundsätze für GdB und Merkzeichen. 🏛️ [Authority]
-
-- **[Begleitperson bei Terminen](https://www.bsg.bund.de/SharedDocs/Pressemitteilungen/DE/2022/2022_37.html)** — Pressemitteilung des Bundessozialgerichts zur Begleitperson bei Untersuchungs- und Behandlungsterminen. 🏛️ [Authority]
-
 - **[Videosprechstunde (KBV)](https://www.kbv.de/praxis/digitalisierung/anwendungen/videosprechstunde)** — Information der Kassenärztlichen Bundesvereinigung zu Videosprechstunden in ärztlicher und psychotherapeutischer Versorgung; die Leistungen werden über die gesetzliche Krankenversicherung abgerechnet. 🏛️ [Authority]
 
 - **[Reha-Erfahrungen von Betroffenen – qualitative Studie](https://doi.org/10.1016/j.zefq.2024.05.007)** — Studie zu Erfahrungen mit stationärer Rehabilitation bei Long/Post-COVID, zu PEM und zu individuell abgestimmter Reha-Planung; vollständiger Text auch als [PDF bei Zenodo](https://zenodo.org/records/12742336). 📄 [Study]
-
-- **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
 
 - **[Sozialverband Deutschland (SoVD)](https://www.sovd.de/)** — Sozialverband mit Beratung zu Sozialrecht, Anträgen und Widersprüchen; die Rechtsberatung setzt eine Mitgliedschaft voraus, der Beitrag liegt je nach Landesverband bei etwa 7–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[mecfs-help.de](https://mecfs-help.de/)** — Kostenloses Browser-Tool, das Schritt für Schritt sozialrechtliche Anträge und Widersprüche für Deutschland und Österreich als PDF erstellt; Eingaben bleiben lokal und erfordern keine Anmeldung. 🧰 [Tool]
+
+- **[betanet](https://www.betanet.de/)** — Portal des gemeinnützigen beta Instituts mit sozialrechtlichen Informationen und kostenlosen Ratgebern zu Krankheit, Behinderung, Leistungen und Widersprüchen. 🗂️ [Collection]
+
+- **[ME/CFS-Wiki](https://www.mecfs-wiki.de)** — Privates Wiki mit verständlichen Informationen zu ME/CFS und Sozialleistungen, zu Anträgen, Begutachtungen und Alltag; die Startseite enthält einen Amazon-Affiliate-Link und einen Spendenaufruf. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
+
+### Nahtlosigkeit & Arbeitslosigkeit
+
+- **[Arbeitslosengeld bei Nahtlosigkeit (betanet)](https://www.betanet.de/arbeitslosengeld-nahtlosigkeit.html)** — Ratgeber des gemeinnützigen beta Instituts zur Nahtlosigkeitsregelung mit Fallbeispielen zu Krankengeldende, abgelehnter Erwerbsminderungsrente und subjektiver Verfügbarkeit. 🗂️ [Collection]
+
+### GdB, Merkzeichen & Begutachtung
+
+- **[Anlage zur Versorgungsmedizin-Verordnung](https://www.gesetze-im-internet.de/versmedv/anlage.html)** — Offizielle Bewertungsgrundsätze für GdB und Merkzeichen. 🏛️ [Authority]
+
+- **[Begleitperson bei Terminen](https://www.bsg.bund.de/SharedDocs/Pressemitteilungen/DE/2022/2022_37.html)** — Pressemitteilung des Bundessozialgerichts zur Begleitperson bei Untersuchungs- und Behandlungsterminen. 🏛️ [Authority]
+
+- **[Grad der Behinderung bei Post-COVID (betanet)](https://www.betanet.de/post-covid-schwerbehinderung.html)** — Ratgeber des gemeinnützigen beta Instituts zu GdB-Stufen, Merkzeichen und Nachteilsausgleichen mit eigenem Abschnitt zu Long COVID mit ME/CFS-Symptomen. 🗂️ [Collection]
+
+- **[Themenportal Schwerbehinderung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/portal:schwerbehinderung)** — Themenportal des ME/CFS-Wikis zu GdB, Merkzeichen und Nachteilsausgleichen mit Vorlagen für Antragsanlagen, Widerspruch und Formulierungshilfen bei Begutachtungsterminen. 🤝 [Self-help] 🗂️ [Collection] 🧰 [Tool]
+
+### Teilhabe & Assistenz
+
+- **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
+
+- **[Berufliche Teilhabe bei Long COVID (REHADAT-Wissen)](https://www.rehadat-wissen.de/ausgaben/12-long-covid/)** — Online-Broschüre des BMAS-förderten REHADAT zu Arbeitsplatzanpassungen, Wiedereingliederung und Förderleistungen bei Long COVID, mit Statements von Betroffenen; auch als [PDF bei der BIH](https://www.bih.de/fileadmin/user_upload/Bereich-INA/Downloads/rehadat_wissen_ausgabe12_long_covid.pdf) verfügbar. 🏛️ [Authority]
+
+### Pflegegrad
+
+- **[Pflegegradantrag und Pflege bei ME/CFS (lebenszeit)](https://lebenszeit-mecfs.de/pflegegrade.html)** — Ausführliche Selbsthilfe-Seite zum Pflegegradantrag bei ME/CFS mit Modul-für-Modul-Fragen zu PEM, Brainfog, Transportunfähigkeit und Widerspruch nach fehlerhafter Begutachtung. 🤝 [Self-help] 🗂️ [Collection]
+
+### Erwerbsminderungsrente
+
+- **[EM-Rente bei ME/CFS: Gutachten und Reha (Fasynation)](https://www.fasynation.de/em-rente-gutachten-me-cfs/)** — Beitrag von Fasynation zum Weg von Krankengeld über Reha und Rentenantrag bis Gutachten und Widerspruch, ergänzt um die Perspektive eines erfahrenen Gutachters. 🤝 [Self-help] 💬 [Patient story]
 
 ### Vorsorge & Vollmachten
 
