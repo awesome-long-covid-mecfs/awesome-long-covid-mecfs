@@ -38,7 +38,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Regionale Angebote](#regionale-angebote)
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking & Pacing](#symptomtracking--pacing)
-  - [Ernährung & Intoleranzen](#ernährung--intoleranzen)
   - [Sonstiges](#sonstiges)
 - [Recht & Anträge](#recht--anträge)
   - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
@@ -109,6 +108,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[MCAS-Diagnostik (MCAS-Hope)](https://mcas-hope.de/mcas/mcas-diagnostik/)** — Informationen des Vereins MCAS-Hope zur Diagnostik über die hausärztliche Praxis und zu möglichen Laboren; mit einer [Literaturübersicht zu MCAS und ME/CFS](https://www.mastzellenhilfe.de/mcas-und-me-cfs-literatur) der Mastzellenhilfe. 🤝 [Self-help] 📖 [Professional literature]
 
 - **[Mastzellaktivierung (MCAS) – ruhtenberg.info](https://ruhtenberg.info/mcas/)** — Deutschsprachiger Überblick eines Hamburger Facharztes für Allgemein-, Sport- und Ernährungsmedizin zu möglichen Symptomen, Auslösern und Diagnostik bei MCAS, mit einem eigenen Abschnitt zu Therapieansätzen; der Beitrag wird auf der Website einer Privatpraxis mit Online-Akademie veröffentlicht und wurde zuletzt im September 2025 aktualisiert. 📖 [Professional literature] 💰 [Commercial]
+
+- **[InTolerApp](https://intoler.app/)** — Einkaufshelfer zum Scannen von Barcodes und Zutatenlisten mit Filtern für Histamin, Fructose, FODMAP und weitere Intoleranzen; kostenlos testbar. 📱 [App]
+
+- **[Histamin, Fructose & Co. (Baliza)](https://www.baliza.de/apps/histamin.html)** — App mit Nachschlagewerken zu Histamin-, Fructose- und weiteren Lebensmittelunverträglichkeiten für iOS und Android; einzelne zusätzliche Profile sind als In-App-Erweiterung erhältlich. 📱 [App]
 
 ### MCS
 
@@ -197,12 +200,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Fimo Health – Long Covid](https://www.fimohealth.com/en/patienten/longcovid)** — App mit verständlichen Informationen, Symptomtagebuch und täglichen Check-ins zu Long COVID und ME/CFS; kostenpflichtig und nur über kooperierende Krankenkassen nutzbar, die die Kosten übernehmen. 📱 [App] 💰 [Commercial]
 
 - **[Elara Health](https://www.elara-health.de/de)** — App zur Erfassung von Energie, Symptomen, Aktivitäten, Ernährung und Stuhlgang mit Auswertungen und exportierbarem Arztbericht; die Basisversion ist derzeit kostenlos und werbefrei. 📱 [App] 💰 [Commercial]
-
-### Ernährung & Intoleranzen
-
-- **[InTolerApp](https://intoler.app/)** — Einkaufshelfer zum Scannen von Barcodes und Zutatenlisten mit Filtern für Histamin, Fructose, FODMAP und weitere Intoleranzen; kostenlos testbar. 📱 [App]
-
-- **[Histamin, Fructose & Co. (Baliza)](https://www.baliza.de/apps/histamin.html)** — App mit Nachschlagewerken zu Histamin-, Fructose- und weiteren Lebensmittelunverträglichkeiten für iOS und Android; einzelne zusätzliche Profile sind als In-App-Erweiterung erhältlich. 📱 [App]
 
 ### Sonstiges
 
