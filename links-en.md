@@ -122,6 +122,12 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Subtypes of post-exertional malaise](https://www.meresearch.org.uk/subtypes-of-post-exertional-malaise)** — ME Research UK summary of a study on physical and mental manifestations of post-exertional malaise ([original study](https://doi.org/10.1177/13591053261420598)). 📖 [Professional literature]
 
+- **[mapMECFS](https://mapmecfs.org/)** — Data portal of the ME/CFS Collaborative Research Network for research datasets, with dataset search, an integration tool and an API; access requires registration with an institutional email address and approval. 💾 [Dataset] 🧰 [Tool] 🗂️ [Collection]
+
+- **[searchMECFS](https://searchmecfs.org/)** — Search tool for biospecimens from ME/CFS studies; queries and sample requests require registration and an application through NINDS BRAC. 💾 [Dataset] 🧰 [Tool]
+
+- **[ME/CFS Collaborative Research Network](https://mecfs.rti.org/)** — Website of the NIH-funded research network with news, events, publications, webinars and information on taking part in studies. 🏛️ [Authority] 🗂️ [Collection]
+
 ## Open Source Projects / Code
 
 - **[datalyst](https://github.com/cYoren/datalyst)** — Self-hosted open-source tracker for symptoms, sleep, mood, habits and money, with data export and N-of-1 experiments. 🧰 [Tool]
@@ -133,6 +139,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[PatientPunk](https://github.com/Ely-S/PatientPunk)** — Open-source pipeline for aggregating and structuring patient self-reports from social media into queryable datasets for research. 🧰 [Tool]
 
 - **[solvingmecfs](https://github.com/michaeljelly/solvingmecfs)** — Open-source evidence atlas and analysis repository on ME/CFS research, including a literature model, treatment and trial registers, and re-analyses of public datasets. 🗂️ [Collection] 🧰 [Tool]
+
+- **[BioMapAI](https://github.com/ohlab/BioMapAI)** — Open-source Python deep-learning framework with a pretrained ME/CFS model for omics data, tutorials and example data; the README links to an MIT licence file that is not present in the repository. 🧰 [Tool]
 
 ## Treatment & Therapy
 

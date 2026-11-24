@@ -29,6 +29,7 @@ Diese Datei ist die **einzige Quelle** für alle Marker in den Ressourcenlisten.
 | 💳 | `[Membership required]` | Mitgliedschaft erforderlich | Full use requires paid membership |
 | ⚠️ | `[Outdated]` | Veraltet | Historically interesting, no longer current |
 | 🗂️ | `[Collection]` | Sammlung | Curated collection of links or studies |
+| 💾 | `[Dataset]` | Datensatz | Structured research dataset or collection of research data or samples |
 | 🧰 | `[Tool]` | Werkzeug | Web tool or software without a dedicated smartphone app |
 | 📱 | `[App]` | App | Smartphone or tablet application |
 | 📣 | `[Advocacy]` | Advocacy | Political or advocacy work |
