@@ -115,6 +115,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### MCS
 
+- **[Handbuch „Entgiften Sie Ihren Haushalt" (NonHazCity)](https://www.giftfreie-stadt.de/wp-content/uploads/2023/04/Handbuch.pdf)** — 40-seitiges Handbuch des Interreg-Projekts NonHazCity mit einer raumweisen Übersicht zu Schadstoffen im Haushalt, Hinweisen zu Gefahrensymbolen und Siegeln, Rezepten für Reinigungsmittel und einer kurzen Checkliste; als PDF. 🧰 [Tool] 🗂️ [Collection]
+
 - **[MCS-Atemluftinitiative Schleswig-Holstein](https://www.mcs-atemluftinitiative-sh.de/)** — Initiative von und für Betroffene mit Multipler Chemikalien-Sensitivität in Schleswig-Holstein mit Betroffenenstimmen, Studien zur Prävalenz und Hinweisen für ein duft- und rauchfreies Umfeld; die Seite wird laufend ausgebaut. 🤝 [Self-help] 📣 [Advocacy]
 
 - **[MCS Selbsthilfe Rosenheim](https://mcs-rosenheim.de/)** — Selbsthilfenetzwerk zu Multipler Chemikalien-Sensitivität und Umweltkrankheiten mit über 20 Themenseiten, die auf Erfahrungswerten, Fachartikeln und Studien mit Quellenangaben basieren, sowie einer bundesweiten Facebook-Gruppe. 🤝 [Self-help] 🗂️ [Collection]

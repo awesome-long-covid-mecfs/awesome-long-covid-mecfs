@@ -96,7 +96,11 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth](https://www.spg.pt/wp-content/uploads/2023/03/ACG-Clinical-Guideline-Small-Intestinal-Bacterial-Overgrowth.pdf)** — Clinical guideline of the American College of Gastroenterology on small intestinal bacterial overgrowth as a PDF. 📋 [Guideline]
 
+- **[FODMAP Everyday](https://www.fodmapeveryday.com/)** — Recipe site with a large collection of low-FODMAP recipes, filtering by meal type and diet, plus articles and downloadable shopping lists; the site runs a shop and discloses affiliate relationships. 🗂️ [Collection] 💰 [Commercial]
+
 - **[FoodMarble](https://foodmarble.com/)** — Commercial handheld breath tester with a companion app for logging hydrogen and methane readings, meals and symptoms in the context of SIBO; the manufacturer advises consulting a healthcare professional for diagnosis. 📱 [App] 💰 [Commercial]
+
+- **[Monash FODMAP Recipes](https://www.monashfodmap.com/recipe/)** — Recipe index from the Monash University FODMAP team with low-FODMAP recipes sorted by category, including certified recipes. 🗂️ [Collection]
 
 ## Treatment & Therapy
 
