@@ -1,46 +1,24 @@
----
-title: 🇩🇪 Links (DE)
-description: Kuratierte Links und Ressourcen zu Long COVID / Post-COVID, ME/CFS, POTS, MCAS, hEDS, Fibromyalgie, SIBO, Dysautonomie und weiteren post-viralen Erkrankungen – mit Fokus auf Fatigue, PEM und Symptommanagement.
-layout: default
-nav_order: 2
-locale: de_DE
----
-
-# Awesome Long COVID & ME/CFS Resources – Deutsch
-
-Kuratierte Links und Ressourcen zu **Long COVID / Post-COVID**, **ME/CFS (Myalgische Enzephalomyelitis / Chronisches Fatigue-Syndrom)**, POTS, MCAS, hEDS, Fibromyalgie, SIBO, Dysautonomie und weiteren post-viralen Erkrankungen – mit Fokus auf Fatigue, PEM und Symptommanagement.
-
-Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Ressourcen stehen in der Sprache, in der sie erschienen sind. Jeder Eintrag wird vor der Veröffentlichung von einem Menschen geprüft.
-
-**Du kennst eine gute Quelle?** Öffne das Issue [„Suggest a link"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING-de.md).
-
-> ⚠️ **Wichtig:** Keine medizinische Beratung und keine Behandlungsempfehlung. Wir verlinken nur auf Quellen – die Herausgeber verantworten deren Inhalt.
-
-> ℹ️ Die Links sind sprachbezogen: Die deutsche und die englische Liste enthalten unterschiedliche Quellen – auch regionale Angebote und Behörden können abweichen. Viele wissenschaftliche Studien erscheinen auf Englisch und sind deshalb in der englischen Liste eher zu finden. Bitte wähle die Sprache, die zu deiner Region und deiner Frage passt.
-
-Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 **Deutsch**
-
 ## Contents
 
 - [Einsteiger & Orientierung](#einsteiger--orientierung)
 - [Diagnostik & Tests](#diagnostik--tests)
   - [Leitlinien & Kriterien](#leitlinien--kriterien)
   - [Fragebögen & Selbsttests](#fragebögen--selbsttests)
+- [Behandlung & Therapie](#behandlung--therapie)
+  - [Material für Praxis, Pflege, Krankenhaus und Angehörige](#material-für-praxis-pflege-krankenhaus-und-angehörige)
+  - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
+- [Schwer erkrankt](#schwer-erkrankt)
 - [Begleiterkrankungen: MCAS, MCS, SIBO](#begleiterkrankungen-mcas-mcs-sibo)
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
   - [SIBO](#sibo)
-- [Behandlung & Therapie](#behandlung--therapie)
-  - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
-- [Schwer erkrankt & Pflege](#schwer-erkrankt--pflege)
-- [Material für Praxis, Pflege, Krankenhaus & Angehörige](#material-für-praxis-pflege-krankenhaus--angehörige)
 - [Alltag & Versorgung](#alltag--versorgung)
-- [Regionale Angebote](#regionale-angebote)
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking & Pacing](#symptomtracking--pacing)
   - [Sonstiges](#sonstiges)
 - [Recht & Anträge](#recht--anträge)
   - [Beratungs- und Unterstützungsangebote](#beratungs--und-unterstützungsangebote)
+    - [Regionale Angebote](#regionale-angebote)
   - [Reha](#reha)
   - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
   - [GdB, Merkzeichen & Begutachtung](#gdb-merkzeichen--begutachtung)
@@ -49,7 +27,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Erwerbsminderungsrente](#erwerbsminderungsrente)
   - [Vorsorge & Vollmachten](#vorsorge--vollmachten)
 - [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
-  - [Portale & Community](#portale--community)
+  - [Portale und Community](#portale-und-community)
+    - [Patientengeschichten](#patientengeschichten)
   - [Vereine & Verbände](#vereine--verbände)
 - [Studien & Forschung](#studien--forschung)
 - [Fachliteratur](#fachliteratur)
@@ -57,7 +36,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
   - [Podcasts](#podcasts)
-- [Patientengeschichten](#patientengeschichten)
 - [Social Media](#social-media)
   - [Chatgruppen](#chatgruppen)
   - [Facebook](#facebook)
@@ -97,6 +75,55 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
 
+## Behandlung & Therapie
+
+- **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
+
+- **[Praxisleitfaden orthostatische Intoleranz / PoTS](https://praxisleitfaden.mecfs.de/pots)** — Leitfaden der Deutschen Gesellschaft für ME/CFS und des Charité Fatigue Centrums zu orthostatischer Intoleranz, PoTS und orthostatischer Hypotonie; der allgemeine Teil ist frei lesbar, ausführliche Angaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
+
+- **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
+
+- **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
+
+### Material für Praxis, Pflege, Krankenhaus und Angehörige
+
+- **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
+
+- **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
+
+- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige:
+  - [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf)
+  - [ME/CFS – Diagnose, Behandlung und Hinweise zur Betreuung](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_03-Diagnose_neu.pdf)
+  - [ME/CFS – Pacing (Kurzversion)](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_04-Pacing_neu.pdf)
+  - [ME/CFS – Krankenhaus: Aufenthalt, Operation und Anästhesie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_02-Krankenhaus_neu.pdf)
+  - [ME/CFS – Physiotherapie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_07_Physiotherapie_A4.pdf)
+  - [ME/CFS – Psychotherapie](https://www.mecfs.de/wp-content/uploads/2025/03/DG.MECFS_Informationsblatt_08-Psychotherapie.pdf)
+  - [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf)
+  - [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf)
+  🤝 [Self-help] 🗂️ [Collection]
+
+- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
+
+### Nicht etablierte Therapieansätze
+
+- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
+
+> ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
+
+## Schwer erkrankt
+
+- **[Notfallpass bei ME/CFS (NichtGenesenKids e.V.)](https://nichtgenesenkids.de/2026/10/22/notfallpass-bei-me-cfs-wichtige-informationen-griffbereit/)** — Ausdruckbarer, zum Mitführen gefalteter Notfallpass mit Feldern für Medikamente, Begleiterkrankungen, Unverträglichkeiten und Notfallkontakte sowie Hinweisen zu Transport und Versorgung bei ME/CFS ([PDF](https://nichtgenesenkids.de/wp-content/uploads/2026/10/Notfallpass.pdf)). 🤝 [Self-help] 🧰 [Tool]
+
+- **[Pflegeanleitung für schwer und schwerstkranke ME/CFS-Patient:innen](https://www.mecfs.at/wp-content/uploads/2025-8-Pflegeanleitung.pdf)** — Von der Österreichischen Gesellschaft für ME/CFS und der MedUni Wien herausgegebene Pflegeanleitung (Version August 2025) für die Versorgung schwer erkrankter Patient:innen. 📖 [Professional literature] 🧰 [Tool]
+
+- **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
+
 ## Begleiterkrankungen: MCAS, MCS, SIBO
 
 ### MCAS / Histaminintoleranz
@@ -127,55 +154,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 *Noch keine deutschsprachigen Einträge – die englische Liste enthält eine klinische Leitlinie.*
 
-## Behandlung & Therapie
-
-- **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
-
-- **[Praxisleitfaden orthostatische Intoleranz / PoTS](https://praxisleitfaden.mecfs.de/pots)** — Leitfaden der Deutschen Gesellschaft für ME/CFS und des Charité Fatigue Centrums zu orthostatischer Intoleranz, PoTS und orthostatischer Hypotonie; der allgemeine Teil ist frei lesbar, ausführliche Angaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
-
-- **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
-
-- **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
-
-### Nicht etablierte Therapieansätze
-
-- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
-
-> ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
-
-## Schwer erkrankt & Pflege
-
-- **[Notfallpass bei ME/CFS (NichtGenesenKids e.V.)](https://nichtgenesenkids.de/2026/10/22/notfallpass-bei-me-cfs-wichtige-informationen-griffbereit/)** — Ausdruckbarer, zum Mitführen gefalteter Notfallpass mit Feldern für Medikamente, Begleiterkrankungen, Unverträglichkeiten und Notfallkontakte sowie Hinweisen zu Transport und Versorgung bei ME/CFS ([PDF](https://nichtgenesenkids.de/wp-content/uploads/2026/10/Notfallpass.pdf)). 🤝 [Self-help] 🧰 [Tool]
-
-- **[Pflegeanleitung für schwer und schwerstkranke ME/CFS-Patient:innen](https://www.mecfs.at/wp-content/uploads/2025-8-Pflegeanleitung.pdf)** — Von der Österreichischen Gesellschaft für ME/CFS und der MedUni Wien herausgegebene Pflegeanleitung (Version August 2025) für die Versorgung schwer erkrankter Patient:innen. 📖 [Professional literature] 🧰 [Tool]
-
-- **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
-
-## Material für Praxis, Pflege, Krankenhaus & Angehörige
-
-- **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
-
-- **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
-
-- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige:
-  - [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf)
-  - [ME/CFS – Diagnose, Behandlung und Hinweise zur Betreuung](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_03-Diagnose_neu.pdf)
-  - [ME/CFS – Pacing (Kurzversion)](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_04-Pacing_neu.pdf)
-  - [ME/CFS – Krankenhaus: Aufenthalt, Operation und Anästhesie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_02-Krankenhaus_neu.pdf)
-  - [ME/CFS – Physiotherapie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_07_Physiotherapie_A4.pdf)
-  - [ME/CFS – Psychotherapie](https://www.mecfs.de/wp-content/uploads/2025/03/DG.MECFS_Informationsblatt_08-Psychotherapie.pdf)
-  - [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf)
-  - [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf)
-  🤝 [Self-help] 🗂️ [Collection]
-
-- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
-
 ## Alltag & Versorgung
 
 - **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden. 🧰 [Tool]
@@ -185,12 +163,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
-
-## Regionale Angebote
-
-- **[Postviral-Beratungsstelle Berlin](https://www.postviral-beratung.berlin/)** — Beratungsstelle des Landes Berlin für Menschen mit postviralem Fatigue-Syndrom und Long COVID, mit Kontakt- und Unterstützungsangeboten; das Angebot ist auf Berlin begrenzt. 🏛️ [Authority]
-
-- **[PEDNET-LC](https://pednet-lc.de/)** — Vom Bundesgesundheitsministerium gefördertes Netzwerk aus Kliniken und Forschungseinrichtungen für Kinder und Jugendliche mit Long-COVID-ähnlichen Erkrankungen, mit Postleitzahlensuche für Behandlungszentren. 🏛️ [Authority]
 
 ## Hilfsmittel
 
@@ -216,9 +188,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Wechselwirkungs-Check (Apotheken Umschau)](https://www.apotheken-umschau.de/medikamente/wechselwirkungscheck/)** — Kostenloser Online-Check auf Basis des ABDATA Pharma-Daten-Service für bis zu 15 Medikamente; der Anbieter weist selbst darauf hin, dass die Daten nicht vollständig sind und Nahrungsergänzungsmittel in der Regel nicht berücksichtigt werden. 🧰 [Tool]
 
-## Recht & Anträge
+- **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
 
-- **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection] 🤝 [Self-help]
+## Recht & Anträge
 
 - **[§ 65 SGB I – Mitwirkungspflichten](https://www.gesetze-im-internet.de/sgb_1/__65.html)** — Gesetzestext zu den Mitwirkungspflichten im Sozialgesetzbuch. 🏛️ [Authority]
 
@@ -243,6 +215,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[Stiftung Unabhängige Patientenberatung Deutschland (UPD)](https://patientenberatung.de/)** — Kostenfreie, unabhängige Beratung zu gesundheitlichen und gesundheitsrechtlichen Fragen per Telefon, in Vor-Ort-Stellen und schriftlich über ein Online-Portal; bundesweit und ohne Mitgliedschaft. 🏛️ [Authority]
+
+#### Regionale Angebote
+
+- **[Postviral-Beratungsstelle Berlin](https://www.postviral-beratung.berlin/)** — Beratungsstelle des Landes Berlin für Menschen mit postviralem Fatigue-Syndrom und Long COVID, mit Kontakt- und Unterstützungsangeboten; das Angebot ist auf Berlin begrenzt. 🏛️ [Authority]
+
+- **[PEDNET-LC](https://pednet-lc.de/)** — Vom Bundesgesundheitsministerium gefördertes Netzwerk aus Kliniken und Forschungseinrichtungen für Kinder und Jugendliche mit Long-COVID-ähnlichen Erkrankungen, mit Postleitzahlensuche für Behandlungszentren. 🏛️ [Authority]
 
 ### Reha
 
@@ -282,8 +260,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Mappe zur Pflegebegutachtung (Tee mit Molly)](https://www.teemitmolly.de/antraege/mappe-vorbereitung-mdk-pflegebegutachtung-mecfs/)** — Kurze Checkliste einer Betroffenen zur Vorbereitung auf den MD-Termin mit Inhaltsübersicht, ausgefülltem Pflegekriterien-Bogen und einer geschwärzten Beispiel-Mappe zum Herunterladen. 🤝 [Self-help] 💬 [Patient story]
 
-- **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
-
 - **[Protokolle und Listen zur Krankheitsdokumentation (Fatigatio)](https://www.fatigatio.de/me/cfs/diagnose/protokolle-listen)** — Sammlung kostenloser, direkt herunterladbarer Vorlagen des Bundesverbands ME/CFS: zwei sozialrechtliche Checklisten sowie Protokolle für Beschwerden, Ruhe und Belastung und Schlaf mit Tageseinstufung 1–10, Schrittzahl und Ruhepuls. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[PEM erkennen – 14-Tage-Protokoll (Stimmen aus dem Off)](https://stimmenausdemoff.de/community/pem-erkennen-14-tage-protokoll-pdf-vorlage/)** — Kostenloses 14-Tage-Protokoll von Dr. med. Kristina Schultheiss, das Belastungen und Symptome mit 12–24 h und 24–48 h Verzögerung erfasst und eine Auswertung für das Arztgespräch enthält; die Anleitung warnt ausdrücklich vor Aktivitätssteigerung zum Provokationstesten. 🤝 [Self-help]
@@ -312,7 +288,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Selbsthilfe & Organisationen
 
-### Portale & Community
+### Portale und Community
 
 - **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
 
@@ -329,6 +305,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
 
 - **[ME&CFS](https://meandcfs.org/de)** — Ruhige, belegte Informationen zu ME/CFS von einer betroffenen Person, mit Erklärseiten, Forschung, Werkzeugen und Download-Materialien. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection] 🤝 [Self-help]
+
+#### Patientengeschichten
+
+- **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt. 💬 [Patient story]
+
+- **[No longer!](https://no-longer.de/)** — Persönlicher Erfahrungsbericht einer betroffenen Person mit eigener Deutung sowie Angeboten zu Supplements und Coaching. ⚠️ [Patient story] 💰 [Commercial]
+
+> ⚠️ Dies ist ein persönlicher Erfahrungsbericht. Die dargestellten Ursachen und Lösungsversprechen sind nicht wissenschaftlich belegt und ersetzen keine ärztliche Beratung.
 
 ### Vereine & Verbände
 
@@ -401,14 +387,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Auf Krücken rein, im Rollstuhl raus (Deutschlandfunk Kultur)](https://www.deutschlandfunkkultur.de/behandlung-von-post-covid-patienten-auf-kruecken-rein-im-rollstuhl-raus-dlf-kultur-5fb9afa1-100.html)** — Radiofeature über die Behandlung von Post-COVID-Patient:innen mit den Schwerpunkten Pacing und post-exertionelle Malaise. 🎧 [Podcast]
 
 - **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF. 🎧 [Podcast]
-
-## Patientengeschichten
-
-- **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt. 💬 [Patient story]
-
-- **[No longer!](https://no-longer.de/)** — Persönlicher Erfahrungsbericht einer betroffenen Person mit eigener Deutung sowie Angeboten zu Supplements und Coaching. ⚠️ [Patient story] 💰 [Commercial]
-
-> ⚠️ Dies ist ein persönlicher Erfahrungsbericht. Die dargestellten Ursachen und Lösungsversprechen sind nicht wissenschaftlich belegt und ersetzen keine ärztliche Beratung.
 
 ## Social Media
 

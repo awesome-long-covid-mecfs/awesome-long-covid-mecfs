@@ -1,49 +1,27 @@
----
-title: 🇬🇧 Links (EN)
-description: Curated links and resources on Long COVID, ME/CFS, POTS, MCAS, hEDS, fibromyalgia, SIBO, dysautonomia and other post-viral conditions, with a focus on fatigue, PEM and symptom management.
-layout: default
-permalink: /
-nav_order: 1
----
-
-# Awesome Long COVID & ME/CFS Resources – English
-
-Curated links and resources on **Long COVID / Post-COVID**, **ME/CFS (myalgic encephalomyelitis / chronic fatigue syndrome)**, POTS, MCAS, hEDS, fibromyalgia, SIBO, dysautonomia and other post-viral conditions – with a focus on fatigue, PEM and symptom management.
-
-For **patients, carers and researchers**. The list is multilingual: resources appear in the language in which they were published. Every entry is checked by a human before publication.
-
-**Know a good source?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
-
-> ⚠️ **Important:** Not medical advice and no treatment recommendation. We only link to sources – their publishers are responsible for their content.
-
-> ℹ️ These links are language-specific: the German and English lists contain different sources, including regional services and authorities. Many research studies are published in English and are therefore more likely to appear in the English list. Choose the language that fits your region and your question.
-
-Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md)
-
 ## Contents
 
 - [Getting Started & Orientation](#getting-started--orientation)
 - [Diagnosis & Tests](#diagnosis--tests)
   - [Guidelines & Criteria](#guidelines--criteria)
   - [Questionnaires & Self-tests](#questionnaires--self-tests)
+- [Treatment & Therapy](#treatment--therapy)
+  - [Resources for Practice, Care, Hospitals and Carers](#resources-for-practice-care-hospitals-and-carers)
+- [Severe ME/CFS](#severe-mecfs)
 - [Related Conditions: MCAS, MCS, SIBO](#related-conditions-mcas-mcs-sibo)
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
   - [MCS](#mcs)
   - [SIBO](#sibo)
-- [Treatment & Therapy](#treatment--therapy)
-- [Severe ME/CFS & Care](#severe-mecfs--care)
-- [Resources for Practice, Care, Hospitals & Carers](#resources-for-practice-care-hospitals--carers)
 - [Daily Life & Care](#daily-life--care)
 - [Assistive Devices](#assistive-devices)
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
   - [Nutrition & Intolerances](#nutrition--intolerances)
 - [Legal & Benefits](#legal--benefits)
 - [Self-Help & Organisations](#self-help--organisations)
-  - [Portals & Community](#portals--community)
+  - [Portals and Community](#portals-and-community)
+    - [Patient Stories](#patient-stories)
   - [Associations & Charities](#associations--charities)
 - [Research & Studies](#research--studies)
 - [Professional Literature](#professional-literature)
-- [Patient Stories](#patient-stories)
 - [Social Media](#social-media)
   - [Chat Groups](#chat-groups)
   - [Facebook](#facebook)
@@ -82,6 +60,42 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Post-COVID Functional Status Scale (PCFS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7236834)** — Study describing a scale for functional status and everyday limitations after COVID-19. 📄 [Study] 🧰 [Tool]
 
+## Treatment & Therapy
+
+- **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
+
+- **[Clinical Care Guide](https://batemanhornecenter.org/wp-content/uploads/2025/05/Clinical-Care-Guide-First-Edition-2025-1.pdf)** — Clinical Care Guide (First Edition 2025, V7) of the Bateman Horne Center for managing ME/CFS, Long COVID and IACCs; PDF ([landing page](https://batemanhornecenter.org/clinical-care-guide/)). 📋 [Guideline]
+
+- **[NICE guideline NG206](https://www.nice.org.uk/guidance/ng206)** — UK guideline on diagnosis and management of ME/CFS in children, young people and adults ([recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)); last reviewed January 2025. 📋 [Guideline]
+
+- **[NICE guideline NG188](https://www.nice.org.uk/guidance/NG188/chapter/management)** — UK rapid guideline on managing the long-term effects of COVID-19, with recommendations on self-management and care in primary and community settings; published 2020, last updated January 2024. 🏛️ [Authority] 📋 [Guideline]
+
+### Resources for Practice, Care, Hospitals and Carers
+
+- **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
+
+- **[Pacing – Long COVID Physio](https://longcovid.physio/pacing)** — Pacing episode by Long COVID Physio with video, audio and written transcript, translated summaries and references to WHO and World Physiotherapy guidance. 🎬 [Video] 🤝 [Self-help]
+
+- **[Primary Care Guide for MCAS](https://www.mastcellaction.org/assets/_/2026/06/26/771e0b33-f60c-4c61-962a-3d811424d8c1/final-primary-care-guide-2026.pdf)** — Primary care guide for mast cell activation syndrome published by the UK charity Mast Cell Action in 2026 for use in general practice. 📖 [Professional literature]
+
+- **[Physios for ME – information flyer](https://www.physiosforme.com/_files/ugd/4f94c1_c1758bc60a714b9c942291eee6b64e04.pdf)** — Downloadable flyer from the UK group Physios for ME on when and how physiotherapy is appropriate in ME/CFS ([organisation homepage](https://www.physiosforme.com/)). 📖 [Professional literature] 🗂️ [Collection]
+
+- **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
+
+- **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
+
+- **[IACI Provider Manual](https://www.coresinai.org/manual)** — Second edition of a manual from the Cohen Center for Recovery from Complex Chronic Illness with guidance for clinicians treating infection-associated chronic conditions including Long COVID and ME/CFS; the download requires a short form. 📖 [Professional literature]
+
+- **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
+
+- **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
+
+## Severe ME/CFS
+
+- **[Hospital Support Pack and Anaesthesia & ME/CFS](https://meassociation.org.uk/wp-content/uploads/2025/10/HOSPITAL-SUPPORT-PACK-V3-1.pdf)** — Two free PDF packs from the UK ME Association (October 2025) for hospital stays, operations and anaesthesia in ME/CFS ([anaesthesia document](https://meassociation.org.uk/wp-content/uploads/2025/10/ANAESTHESIA-AND-MECFS-V1-1.pdf)). 🤝 [Self-help] 🧰 [Tool]
+
+- **[ME/CFS Crash Survival Guide](https://batemanhornecenter.org/education/mecfs-guidebook/)** — Practical guide by the Bateman Horne Center for patients, carers and clinicians on preventing and managing ME/CFS crashes. 🤝 [Self-help]
+
 ## Related Conditions: MCAS, MCS, SIBO
 
 ### MCAS / Histamine intolerance
@@ -101,42 +115,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[FoodMarble](https://foodmarble.com/)** — Commercial handheld breath tester with a companion app for logging hydrogen and methane readings, meals and symptoms in the context of SIBO; the manufacturer advises consulting a healthcare professional for diagnosis. 📱 [App] 💰 [Commercial]
 
 - **[Monash FODMAP Recipes](https://www.monashfodmap.com/recipe/)** — Recipe index from the Monash University FODMAP team with low-FODMAP recipes sorted by category, including certified recipes. 🗂️ [Collection]
-
-## Treatment & Therapy
-
-- **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
-
-- **[Clinical Care Guide](https://batemanhornecenter.org/wp-content/uploads/2025/05/Clinical-Care-Guide-First-Edition-2025-1.pdf)** — Clinical Care Guide (First Edition 2025, V7) of the Bateman Horne Center for managing ME/CFS, Long COVID and IACCs; PDF ([landing page](https://batemanhornecenter.org/clinical-care-guide/)). 📋 [Guideline]
-
-- **[NICE guideline NG206](https://www.nice.org.uk/guidance/ng206)** — UK guideline on diagnosis and management of ME/CFS in children, young people and adults ([recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)); last reviewed January 2025. 📋 [Guideline]
-
-- **[NICE guideline NG188](https://www.nice.org.uk/guidance/NG188/chapter/management)** — UK rapid guideline on managing the long-term effects of COVID-19, with recommendations on self-management and care in primary and community settings; published 2020, last updated January 2024. 🏛️ [Authority] 📋 [Guideline]
-
-## Severe ME/CFS & Care
-
-- **[Hospital Support Pack and Anaesthesia & ME/CFS](https://meassociation.org.uk/wp-content/uploads/2025/10/HOSPITAL-SUPPORT-PACK-V3-1.pdf)** — Two free PDF packs from the UK ME Association (October 2025) for hospital stays, operations and anaesthesia in ME/CFS ([anaesthesia document](https://meassociation.org.uk/wp-content/uploads/2025/10/ANAESTHESIA-AND-MECFS-V1-1.pdf)). 🤝 [Self-help] 🧰 [Tool]
-
-- **[ME/CFS Crash Survival Guide](https://batemanhornecenter.org/education/mecfs-guidebook/)** — Practical guide by the Bateman Horne Center for patients, carers and clinicians on preventing and managing ME/CFS crashes. 🤝 [Self-help]
-
-## Resources for Practice, Care, Hospitals & Carers
-
-- **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
-
-- **[Pacing – Long COVID Physio](https://longcovid.physio/pacing)** — Pacing episode by Long COVID Physio with video, audio and written transcript, translated summaries and references to WHO and World Physiotherapy guidance. 🎬 [Video] 🤝 [Self-help]
-
-- **[Primary Care Guide for MCAS](https://www.mastcellaction.org/assets/_/2026/06/26/771e0b33-f60c-4c61-962a-3d811424d8c1/final-primary-care-guide-2026.pdf)** — Primary care guide for mast cell activation syndrome published by the UK charity Mast Cell Action in 2026 for use in general practice. 📖 [Professional literature]
-
-- **[Physios for ME – information flyer](https://www.physiosforme.com/_files/ugd/4f94c1_c1758bc60a714b9c942291eee6b64e04.pdf)** — Downloadable flyer from the UK group Physios for ME on when and how physiotherapy is appropriate in ME/CFS ([organisation homepage](https://www.physiosforme.com/)). 📖 [Professional literature] 🗂️ [Collection]
-
-- **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
-
-- **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
-
-- **[IACI Provider Manual](https://www.coresinai.org/manual)** — Second edition of a manual from the Cohen Center for Recovery from Complex Chronic Illness with guidance for clinicians treating infection-associated chronic conditions including Long COVID and ME/CFS; the download requires a short form. 📖 [Professional literature]
-
-- **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
-
-- **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
 
 ## Daily Life & Care
 
@@ -160,7 +138,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Self-Help & Organisations
 
-### Portals & Community
+### Portals and Community
 
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses; its [ecosystem database](https://crunchme.org/database) collects research, organisations, clinical guidance, registries and funding in one searchable place. 📣 [Advocacy] 🗂️ [Collection]
 
@@ -171,6 +149,12 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[Rolling PEM: What It Is and How to Avoid It](https://tickedoffcodess.com/rolling-pem-what-it-is-and-how-to-avoid-it/)** — Patient-written article on rolling post-exertional malaise and recognising cumulative overexertion in ME/CFS and Long COVID, with cited sources. 💬 [Patient story]
 
 - **[ME&CFS](https://meandcfs.org/)** — Clear, calm information on ME/CFS, written by someone who lives with it, with explanatory pages, research, tools and downloadable materials. 🤝 [Self-help] 🗂️ [Collection]
+
+#### Patient Stories
+
+- **[Unrest](https://www.youtube.com/watch?v=XOpyLTyVxco)** — Documentary film about ME/CFS told from the perspective of patients and researchers. 🎬 [Video] 💬 [Patient story]
+
+- **[Dialogues for a Neglected Illness](https://www.dialogues-mecfs.co.uk/)** — Collection of short English-language videos on ME/CFS with patients, clinicians and researchers. 🎬 [Video] 🗂️ [Collection]
 
 ### Associations & Charities
 
@@ -227,12 +211,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 ## Professional Literature
 
 *No reviewed entries yet – suggestions welcome.*
-
-## Patient Stories
-
-- **[Unrest](https://www.youtube.com/watch?v=XOpyLTyVxco)** — Documentary film about ME/CFS told from the perspective of patients and researchers. 🎬 [Video] 💬 [Patient story]
-
-- **[Dialogues for a Neglected Illness](https://www.dialogues-mecfs.co.uk/)** — Collection of short English-language videos on ME/CFS with patients, clinicians and researchers. 🎬 [Video] 🗂️ [Collection]
 
 ## Social Media
 
