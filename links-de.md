@@ -61,6 +61,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Chatgruppen](#chatgruppen)
   - [Facebook](#facebook)
   - [Instagram](#instagram)
+  - [Reddit](#reddit)
 
 ## Diagnostik & Tests
 
@@ -399,3 +400,7 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 ### Instagram
 
 *Noch keine geprüften Einträge – Vorschläge willkommen.*
+
+### Reddit
+
+- **[r/LongCovid_MECFS_DE](https://www.reddit.com/r/LongCovid_MECFS_DE/)** — Deutschsprachige Reddit-Community zu Long COVID und ME/CFS mit Fokus auf deutsche Themen wie Ärzte, Krankenkasse, Sozialleistungen und Medikamentenverfügbarkeit; offen für Österreich und die Schweiz. 🤝 [Self-help]
