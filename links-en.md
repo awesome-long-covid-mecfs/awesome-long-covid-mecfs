@@ -38,7 +38,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
   - [Nutrition & Intolerances](#nutrition--intolerances)
 - [Self-Help & Organisations](#self-help--organisations)
-  - [Portals and Community](#portals-and-community)
+  - [Portals, Community & Blogs](#portals-community--blogs)
     - [Patient Stories](#patient-stories)
   - [Associations & Charities](#associations--charities)
 - [Legal & Benefits](#legal--benefits)
@@ -154,7 +154,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Self-Help & Organisations
 
-### Portals and Community
+### Portals, Community & Blogs
 
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses; its [ecosystem database](https://crunchme.org/database) collects research, organisations, clinical guidance, registries and funding in one searchable place. 📣 [Advocacy] 🗂️ [Collection]
 

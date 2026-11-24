@@ -40,7 +40,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Symptomtracking](#symptomtracking)
   - [Sonstiges](#sonstiges)
 - [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
-  - [Portale und Community](#portale-und-community)
+  - [Portale, Community & Blogs](#portale-community--blogs)
     - [Patientengeschichten](#patientengeschichten)
   - [Vereine & Verbände](#vereine--verbände)
 - [Recht & Anträge](#recht--anträge)
@@ -147,6 +147,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
+- **[Versorgung von Patient*innen mit schwerer ME/CFS](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Montoya_deutsch.pdf)** — Deutschsprachige Übersetzung eines Fachbeitrags zur Versorgung von Menschen mit schwerer und sehr schwerer ME/CFS als PDF des Charité Fatigue Centrums.
+
 ### Nicht etablierte Therapieansätze
 
 > ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
@@ -213,7 +215,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen.
 
-### Portale und Community
+### Portale, Community & Blogs
 
 - **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🗂️ [Collection]
 
@@ -232,6 +234,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[ME&CFS](https://meandcfs.org/de)** — Ruhige, belegte Informationen zu ME/CFS von einer betroffenen Person, mit Erklärseiten, Forschung, Werkzeugen und Download-Materialien. 🗂️ [Collection]
 
 - **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection]
+
+- **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 💰 [Commercial]
 
 #### Patientengeschichten
 
@@ -376,10 +380,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
 
 ## Fachliteratur
-
-- **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 💰 [Commercial]
-
-- **[Versorgung von Patient*innen mit schwerer ME/CFS](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Montoya_deutsch.pdf)** — Deutschsprachige Übersetzung eines Fachbeitrags zur Versorgung von Menschen mit schwerer und sehr schwerer ME/CFS als PDF des Charité Fatigue Centrums.
 
 - **[Stigmatisierende Narrative über ME/CFS](https://www.mecfs.de/stigmatisierende-narrative-ueber-mecfs/)** — Auswertung entsprechender Darstellungen in der deutschsprachigen medizinischen Fachliteratur durch die Deutsche Gesellschaft für ME/CFS.
 
