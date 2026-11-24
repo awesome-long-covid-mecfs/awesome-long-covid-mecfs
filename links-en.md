@@ -37,11 +37,11 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - [Assistive Devices](#assistive-devices)
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
   - [Nutrition & Intolerances](#nutrition--intolerances)
-- [Legal & Benefits](#legal--benefits)
 - [Self-Help & Organisations](#self-help--organisations)
   - [Portals and Community](#portals-and-community)
     - [Patient Stories](#patient-stories)
   - [Associations & Charities](#associations--charities)
+- [Legal & Benefits](#legal--benefits)
 - [Research & Studies](#research--studies)
 - [Professional Literature](#professional-literature)
 - [Social Media](#social-media)
@@ -152,10 +152,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Monash FODMAP Diet App](https://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/)** — App from the Monash University research team with a FODMAP food database, certified-product lookup and recipes for irritable bowel syndrome. 📱 [App]
 
-## Legal & Benefits
-
-*No reviewed entries yet – suggestions welcome.*
-
 ## Self-Help & Organisations
 
 ### Portals and Community
@@ -189,6 +185,10 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🗂️ [Collection]
 
 - **[Solve ME/CFS Initiative](https://solvecfs.org/)** — US non-profit organisation funding biomedical research on ME/CFS and Long COVID, with information for patients, researchers and clinicians. 📣 [Advocacy]
+
+## Legal & Benefits
+
+*No reviewed entries yet – suggestions welcome.*
 
 ## Research & Studies
 

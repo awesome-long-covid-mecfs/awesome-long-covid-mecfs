@@ -23,11 +23,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Contents
 
 - [Erste Schritte](#erste-schritte)
-  - [Arzt- und Therapeutensuche](#arzt-und-therapeutensuche)
 - [Diagnostik](#diagnostik)
   - [Leitlinien](#leitlinien)
   - [Fragebögen](#fragebögen)
 - [Behandlung](#behandlung)
+  - [Arzt- und Therapeutensuche](#arzt-und-therapeutensuche)
   - [Material für Praxis, Pflege, Krankenhaus und Angehörige](#material-für-praxis-pflege-krankenhaus-und-angehörige)
   - [Pacing](#pacing)
   - [Schwer erkrankt](#schwer-erkrankt)
@@ -39,6 +39,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking](#symptomtracking)
   - [Sonstiges](#sonstiges)
+- [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
+  - [Portale und Community](#portale-und-community)
+    - [Patientengeschichten](#patientengeschichten)
+  - [Vereine & Verbände](#vereine--verbände)
 - [Recht & Anträge](#recht--anträge)
   - [Beratungs- und Unterstützungsangebote](#beratungs--und-unterstützungsangebote)
     - [Regionale Angebote](#regionale-angebote)
@@ -49,10 +53,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Pflegegrad](#pflegegrad)
   - [Erwerbsminderungsrente](#erwerbsminderungsrente)
   - [Vorsorge & Vollmachten](#vorsorge--vollmachten)
-- [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
-  - [Portale und Community](#portale-und-community)
-    - [Patientengeschichten](#patientengeschichten)
-  - [Vereine & Verbände](#vereine--verbände)
 - [Studien & Forschung](#studien--forschung)
 - [Fachliteratur](#fachliteratur)
 - [Berichterstattung & Medien](#berichterstattung--medien)
@@ -75,12 +75,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Was ist Post-Exertionelle Malaise (PEM)?](https://www.youtube.com/watch?v=8v1-4_27V-Q)** — Kurzes Erklärvideo der Deutschen Gesellschaft für ME/CFS und von Long COVID Deutschland zu post-exertioneller Malaise als Kernsymptom von ME/CFS. 🎬 [Video] 🤝 [Self-help]
 
 - **[Was ist Pacing?](https://www.youtube.com/watch?v=a6LS4afZSg8)** — Kurzes Erklärvideo derselben Herausgeber zum Umgang mit der individuellen Belastungsgrenze bei ME/CFS. 🎬 [Video] 🤝 [Self-help]
-
-### Arzt- und Therapeutensuche
-
-- **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden.
-
-- **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🗂️ [Collection]
 
 ## Diagnostik
 
@@ -112,13 +106,15 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
 
-- **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
+### Arzt- und Therapeutensuche
+
+- **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden.
+
+- **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🗂️ [Collection]
 
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
 
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
@@ -132,6 +128,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf)
   - [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf)
   🤝 [Self-help] 🗂️ [Collection]
+
+- **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
 
 - **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
 
@@ -210,6 +208,60 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
+
+## Selbsthilfe & Organisationen
+
+- **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen.
+
+### Portale und Community
+
+- **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🗂️ [Collection]
+
+- **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen, mit Blog, Forum und einer Datenbank mit Ärztelisten. 🗂️ [Collection]
+
+- **[Selbsthilfe-Gruppenfinder der Long-Covid-Plattform](https://www.long-covid-plattform.de/selbsthilfegruppen-finden)** — Umkreis- und Schlagwortsuche für Selbsthilfegruppen zu Long COVID, ME/CFS und Post-Vac mit Filter für regionale und bundesweite Angebote. 🗂️ [Collection]
+
+- **[NAKOS – Corona-Selbsthilfegruppen](https://www.nakos.de/adressen/corona-selbsthilfegruppen)** — Adressverzeichnis der Nationalen Kontakt- und Informationsstelle für Selbsthilfegruppen zu Corona, Long COVID und Post-COVID mit bundesweiten und regionalen Kontakten. 🗂️ [Collection]
+
+- **[lebenszeit-mecfs](https://lebenszeit-mecfs.de/)** — Link- und Informationssammlung einer Betroffenen-Initiative zu ME/CFS, Post-COVID und MCS mit Flyern, Vorlagen, Videos sowie regionalen und Selbsthilfe-Angeboten. 🗂️ [Collection]
+
+- **[Tee mit Molly](https://www.teemitmolly.de/)** — Persönliches Portal einer Betroffenen mit Blog, Podcast „Teepause", Linksammlung und Antragshilfen; die Linksammlung enthält Amazon-Affiliate-Links und Spendenaufrufe, einzelne Blogbeiträge sind persönliche Erfahrungen. 🗂️ [Collection] 💰 [Commercial]
+
+- **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
+
+- **[ME&CFS](https://meandcfs.org/de)** — Ruhige, belegte Informationen zu ME/CFS von einer betroffenen Person, mit Erklärseiten, Forschung, Werkzeugen und Download-Materialien. 🗂️ [Collection]
+
+- **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection]
+
+#### Patientengeschichten
+
+- **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt.
+
+- **[No longer!](https://no-longer.de/)** — Persönlicher Erfahrungsbericht einer betroffenen Person mit eigener Deutung sowie Angeboten zu Supplements und Coaching. 💰 [Commercial]
+
+> ⚠️ Dies ist ein persönlicher Erfahrungsbericht. Die dargestellten Ursachen und Lösungsversprechen sind nicht wissenschaftlich belegt und ersetzen keine ärztliche Beratung.
+
+### Vereine & Verbände
+
+- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)).
+
+- **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 📣 [Advocacy]
+
+- **[Deutsche Gesellschaft für ME/CFS e. V.](https://www.mecfs.de/)** — Patientenorganisation mit verständlichen Informationen zu ME/CFS und Long COVID, Materialien für Betroffene, Angehörige und Fachpersonen sowie Selbsthilfeangeboten. 📖 [Professional literature]
+
+- **[startaMEvolution e. V.](https://startamevolution.org/)** — Initiative von Betroffenen und Angehörigen zu Long COVID und ME/CFS mit Ratgebern, Erfahrungsberichten und Veranstaltungen. 📣 [Advocacy]
+
+- **[Lost Voices Stiftung](https://lost-voices-stiftung.org/)** — Stiftung für Aufklärung, Forschungsförderung und Interessenvertretung zu ME/CFS. 📣 [Advocacy]
+
+- **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie.
+
+- **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 📣 [Advocacy]
+
+- **[Österreichische Gesellschaft für ME/CFS (ÖG ME/CFS)](https://mecfs.at/)** — Patientenorganisation in Österreich mit Informationen zu ME/CFS, getrennten Bereichen für Betroffene, Angehörige und Fachpersonale sowie politischer Interessenvertretung. 📣 [Advocacy]
+
+- **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 📣 [Advocacy]
+
+- **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🗂️ [Collection]
 
 ## Recht & Anträge
 
@@ -305,60 +357,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Vollmachten – Vorlagen](https://www.kostenlose-vordrucke.de/vollmachten)** — Sammlung kostenloser ausfüllbarer PDF-Vorlagen zu Vollmachten, darunter Vorsorgevollmacht, Patientenverfügung und Schweigepflichtentbindung. 🗂️ [Collection] 💰 [Commercial]
 
-## Selbsthilfe & Organisationen
-
-- **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen.
-
-### Portale und Community
-
-- **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🗂️ [Collection]
-
-- **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen, mit Blog, Forum und einer Datenbank mit Ärztelisten. 🗂️ [Collection]
-
-- **[Selbsthilfe-Gruppenfinder der Long-Covid-Plattform](https://www.long-covid-plattform.de/selbsthilfegruppen-finden)** — Umkreis- und Schlagwortsuche für Selbsthilfegruppen zu Long COVID, ME/CFS und Post-Vac mit Filter für regionale und bundesweite Angebote. 🗂️ [Collection]
-
-- **[NAKOS – Corona-Selbsthilfegruppen](https://www.nakos.de/adressen/corona-selbsthilfegruppen)** — Adressverzeichnis der Nationalen Kontakt- und Informationsstelle für Selbsthilfegruppen zu Corona, Long COVID und Post-COVID mit bundesweiten und regionalen Kontakten. 🗂️ [Collection]
-
-- **[lebenszeit-mecfs](https://lebenszeit-mecfs.de/)** — Link- und Informationssammlung einer Betroffenen-Initiative zu ME/CFS, Post-COVID und MCS mit Flyern, Vorlagen, Videos sowie regionalen und Selbsthilfe-Angeboten. 🗂️ [Collection]
-
-- **[Tee mit Molly](https://www.teemitmolly.de/)** — Persönliches Portal einer Betroffenen mit Blog, Podcast „Teepause", Linksammlung und Antragshilfen; die Linksammlung enthält Amazon-Affiliate-Links und Spendenaufrufe, einzelne Blogbeiträge sind persönliche Erfahrungen. 🗂️ [Collection] 💰 [Commercial]
-
-- **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
-
-- **[ME&CFS](https://meandcfs.org/de)** — Ruhige, belegte Informationen zu ME/CFS von einer betroffenen Person, mit Erklärseiten, Forschung, Werkzeugen und Download-Materialien. 🗂️ [Collection]
-
-- **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection]
-
-#### Patientengeschichten
-
-- **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt.
-
-- **[No longer!](https://no-longer.de/)** — Persönlicher Erfahrungsbericht einer betroffenen Person mit eigener Deutung sowie Angeboten zu Supplements und Coaching. 💰 [Commercial]
-
-> ⚠️ Dies ist ein persönlicher Erfahrungsbericht. Die dargestellten Ursachen und Lösungsversprechen sind nicht wissenschaftlich belegt und ersetzen keine ärztliche Beratung.
-
-### Vereine & Verbände
-
-- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)).
-
-- **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 📣 [Advocacy]
-
-- **[Deutsche Gesellschaft für ME/CFS e. V.](https://www.mecfs.de/)** — Patientenorganisation mit verständlichen Informationen zu ME/CFS und Long COVID, Materialien für Betroffene, Angehörige und Fachpersonen sowie Selbsthilfeangeboten. 📖 [Professional literature]
-
-- **[startaMEvolution e. V.](https://startamevolution.org/)** — Initiative von Betroffenen und Angehörigen zu Long COVID und ME/CFS mit Ratgebern, Erfahrungsberichten und Veranstaltungen. 📣 [Advocacy]
-
-- **[Lost Voices Stiftung](https://lost-voices-stiftung.org/)** — Stiftung für Aufklärung, Forschungsförderung und Interessenvertretung zu ME/CFS. 📣 [Advocacy]
-
-- **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie.
-
-- **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 📣 [Advocacy]
-
-- **[Österreichische Gesellschaft für ME/CFS (ÖG ME/CFS)](https://mecfs.at/)** — Patientenorganisation in Österreich mit Informationen zu ME/CFS, getrennten Bereichen für Betroffene, Angehörige und Fachpersonale sowie politischer Interessenvertretung. 📣 [Advocacy]
-
-- **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 📣 [Advocacy]
-
-- **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🗂️ [Collection]
-
 ## Studien & Forschung
 
 - **[ME/CFS-Forschung (Research Summaries)](https://hanneseh.github.io/ME-CFS-Research-Summaries/de/)** — Research-Tracker mit Kurzerklärungen und direkten Links zu Primärquellen. 🗂️ [Collection]
@@ -384,6 +382,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Versorgung von Patient*innen mit schwerer ME/CFS](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Montoya_deutsch.pdf)** — Deutschsprachige Übersetzung eines Fachbeitrags zur Versorgung von Menschen mit schwerer und sehr schwerer ME/CFS als PDF des Charité Fatigue Centrums.
 
 - **[Stigmatisierende Narrative über ME/CFS](https://www.mecfs.de/stigmatisierende-narrative-ueber-mecfs/)** — Auswertung entsprechender Darstellungen in der deutschsprachigen medizinischen Fachliteratur durch die Deutsche Gesellschaft für ME/CFS.
+
+- **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
 
 ## Berichterstattung & Medien
 
