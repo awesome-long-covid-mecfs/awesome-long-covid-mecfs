@@ -37,18 +37,18 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - [Assistive Devices](#assistive-devices)
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
   - [Nutrition & Intolerances](#nutrition--intolerances)
-- [Self-Help & Organisations](#self-help--organisations)
+- [Self-Help Networks](#self-help-networks)
   - [Portals, Community & Blogs](#portals-community--blogs)
     - [Patient Stories](#patient-stories)
   - [Associations & Charities](#associations--charities)
+  - [Social Media](#social-media)
+    - [Chat Groups](#chat-groups)
+    - [Facebook](#facebook)
+    - [Instagram](#instagram)
+    - [Reddit](#reddit)
 - [Legal & Benefits](#legal--benefits)
 - [Research & Studies](#research--studies)
 - [Professional Literature](#professional-literature)
-- [Social Media](#social-media)
-  - [Chat Groups](#chat-groups)
-  - [Facebook](#facebook)
-  - [Instagram](#instagram)
-  - [Reddit](#reddit)
 - [Open Source Projects / Code](#open-source-projects--code)
   - [Research / Literature Tooling](#research--literature-tooling)
 
@@ -152,7 +152,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Monash FODMAP Diet App](https://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/)** — App from the Monash University research team with a FODMAP food database, certified-product lookup and recipes for irritable bowel syndrome. 📱 [App]
 
-## Self-Help & Organisations
+## Self-Help Networks
 
 ### Portals, Community & Blogs
 
@@ -185,6 +185,28 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🗂️ [Collection]
 
 - **[Solve ME/CFS Initiative](https://solvecfs.org/)** — US non-profit organisation funding biomedical research on ME/CFS and Long COVID, with information for patients, researchers and clinicians. 📣 [Advocacy]
+
+### Social Media
+
+#### Chat Groups
+
+- **[ME Connected](https://meassociation.org.uk/support/me-connect-support)** — Moderated Discord community run by the ME Association for people with ME/CFS and Long Covid, with over 2,000 members and channels for support, symptoms and social topics. 🤝 [Self-help]
+
+#### Facebook
+
+*No reviewed entries yet – suggestions welcome.*
+
+#### Instagram
+
+*No reviewed entries yet – suggestions welcome.*
+
+#### Reddit
+
+- **[r/cfs](https://www.reddit.com/r/cfs/)** — Long-established ME/CFS community covering research, treatments and personal stories; frequently named the main ME/CFS forum on Reddit. 🤝 [Self-help]
+
+- **[r/CFSScience](https://www.reddit.com/r/CFSScience/)** — Reddit community for discussing research studies and science on ME/CFS and Long COVID; the subreddit points to r/cfs for more general topics. 🤝 [Self-help]
+
+- **[r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)** — Community for people with symptoms lasting longer than four weeks after COVID-19, focused on shared experiences, symptom advice and mutual support. 🤝 [Self-help]
 
 ## Legal & Benefits
 
@@ -232,27 +254,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 *No reviewed entries yet – suggestions welcome.*
 
-## Social Media
-
-### Chat Groups
-
-- **[ME Connected](https://meassociation.org.uk/support/me-connect-support)** — Moderated Discord community run by the ME Association for people with ME/CFS and Long Covid, with over 2,000 members and channels for support, symptoms and social topics. 🤝 [Self-help]
-
-### Facebook
-
-*No reviewed entries yet – suggestions welcome.*
-
-### Instagram
-
-*No reviewed entries yet – suggestions welcome.*
-
-### Reddit
-
-- **[r/cfs](https://www.reddit.com/r/cfs/)** — Long-established ME/CFS community covering research, treatments and personal stories; frequently named the main ME/CFS forum on Reddit. 🤝 [Self-help]
-
-- **[r/CFSScience](https://www.reddit.com/r/CFSScience/)** — Reddit community for discussing research studies and science on ME/CFS and Long COVID; the subreddit points to r/cfs for more general topics. 🤝 [Self-help]
-
-- **[r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)** — Community for people with symptoms lasting longer than four weeks after COVID-19, focused on shared experiences, symptom advice and mutual support. 🤝 [Self-help]
 ## Open Source Projects / Code
 
 - **[datalyst](https://github.com/cYoren/datalyst)** — Self-hosted open-source tracker for symptoms, sleep, mood, habits and money, with data export and N-of-1 experiments. 🧰 [Tool]

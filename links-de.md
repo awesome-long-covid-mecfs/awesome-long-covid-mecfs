@@ -39,10 +39,15 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking](#symptomtracking)
   - [Sonstiges](#sonstiges)
-- [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
+- [Selbsthilfe-Netzwerke](#selbsthilfe-netzwerke)
   - [Portale, Community & Blogs](#portale-community--blogs)
     - [Patientengeschichten](#patientengeschichten)
   - [Vereine & Verbände](#vereine--verbände)
+  - [Social Media](#social-media)
+    - [Chatgruppen](#chatgruppen)
+    - [Facebook](#facebook)
+    - [Instagram](#instagram)
+    - [Reddit](#reddit)
 - [Recht & Anträge](#recht--anträge)
   - [Beratungs- und Unterstützungsangebote](#beratungs--und-unterstützungsangebote)
     - [Regionale Angebote](#regionale-angebote)
@@ -59,11 +64,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
   - [Podcasts](#podcasts)
-- [Social Media](#social-media)
-  - [Chatgruppen](#chatgruppen)
-  - [Facebook](#facebook)
-  - [Instagram](#instagram)
-  - [Reddit](#reddit)
 - [Open-Source-Projekte / Code](links-en.md#open-source-projects--code)
 
 ## Erste Schritte
@@ -211,7 +211,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
-## Selbsthilfe & Organisationen
+## Selbsthilfe-Netzwerke
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen.
 
@@ -266,6 +266,26 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 📣 [Advocacy]
 
 - **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🗂️ [Collection]
+
+### Social Media
+
+#### Chatgruppen
+
+- **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
+- **[ME Chat-Gruppe „Plaudergarten"](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
+
+#### Facebook
+
+- **[Long COVID Deutschland (Facebook-Gruppe)](https://www.facebook.com/groups/longcoviddeutschland/)** — Von der Initiative Long COVID Deutschland betriebene Online-Selbsthilfegruppe mit mehr als 10.000 Betroffenen und Angehörigen. 🤝 [Self-help]
+- **[ME/CFS Treffpunkt Österreich](https://www.facebook.com/groups/1440341549389981)** — Facebook-Gruppe der Österreichischen Gesellschaft für ME/CFS für Betroffene und Angehörige; Beitritt nach Beantwortung von Fragen. 🤝 [Self-help]
+
+#### Instagram
+
+*Noch keine geprüften Einträge – Vorschläge willkommen.*
+
+#### Reddit
+
+- **[r/LongCovid_MECFS_DE](https://www.reddit.com/r/LongCovid_MECFS_DE/)** — Deutschsprachige Reddit-Community zu Long COVID und ME/CFS mit Fokus auf deutsche Themen wie Ärzte, Krankenkasse, Sozialleistungen und Medikamentenverfügbarkeit; offen für Österreich und die Schweiz. 🤝 [Self-help]
 
 ## Recht & Anträge
 
@@ -409,25 +429,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF.
 
-## Social Media
-
-### Chatgruppen
-
-- **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
-- **[ME Chat-Gruppe „Plaudergarten"](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
-
-### Facebook
-
-- **[Long COVID Deutschland (Facebook-Gruppe)](https://www.facebook.com/groups/longcoviddeutschland/)** — Von der Initiative Long COVID Deutschland betriebene Online-Selbsthilfegruppe mit mehr als 10.000 Betroffenen und Angehörigen. 🤝 [Self-help]
-- **[ME/CFS Treffpunkt Österreich](https://www.facebook.com/groups/1440341549389981)** — Facebook-Gruppe der Österreichischen Gesellschaft für ME/CFS für Betroffene und Angehörige; Beitritt nach Beantwortung von Fragen. 🤝 [Self-help]
-
-### Instagram
-
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
-
-### Reddit
-
-- **[r/LongCovid_MECFS_DE](https://www.reddit.com/r/LongCovid_MECFS_DE/)** — Deutschsprachige Reddit-Community zu Long COVID und ME/CFS mit Fokus auf deutsche Themen wie Ärzte, Krankenkasse, Sozialleistungen und Medikamentenverfügbarkeit; offen für Österreich und die Schweiz. 🤝 [Self-help]
 ## Open-Source-Projekte / Code
 
 Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste gepflegt: **[Open Source Projects / Code (EN)](links-en.md#open-source-projects--code)**.
