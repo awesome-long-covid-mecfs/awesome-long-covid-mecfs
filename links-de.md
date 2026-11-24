@@ -30,25 +30,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
   - [SIBO](#sibo)
-- [Studien & Forschung](#studien--forschung)
-- [Open-Source-Projekte / Code](links-en.md#open-source-projects--code)
 - [Behandlung & Therapie](#behandlung--therapie)
+  - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
 - [Schwer erkrankt & Pflege](#schwer-erkrankt--pflege)
-- [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
 - [Material für Praxis, Pflege, Krankenhaus & Angehörige](#material-für-praxis-pflege-krankenhaus--angehörige)
-- [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
-  - [Portale & Community](#portale--community)
-  - [Vereine & Verbände](#vereine--verbände)
 - [Alltag & Versorgung](#alltag--versorgung)
 - [Regionale Angebote](#regionale-angebote)
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking & Pacing](#symptomtracking--pacing)
   - [Ernährung & Intoleranzen](#ernährung--intoleranzen)
   - [Sonstiges](#sonstiges)
-- [Berichterstattung & Medien](#berichterstattung--medien)
-  - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
-  - [Fachvorträge & Interviews](#fachvorträge--interviews)
-  - [Podcasts](#podcasts)
 - [Recht & Anträge](#recht--anträge)
   - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
   - [GdB, Merkzeichen & Begutachtung](#gdb-merkzeichen--begutachtung)
@@ -56,13 +47,22 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Pflegegrad](#pflegegrad)
   - [Erwerbsminderungsrente](#erwerbsminderungsrente)
   - [Vorsorge & Vollmachten](#vorsorge--vollmachten)
+- [Selbsthilfe & Organisationen](#selbsthilfe--organisationen)
+  - [Portale & Community](#portale--community)
+  - [Vereine & Verbände](#vereine--verbände)
+- [Studien & Forschung](#studien--forschung)
 - [Fachliteratur](#fachliteratur)
+- [Berichterstattung & Medien](#berichterstattung--medien)
+  - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
+  - [Fachvorträge & Interviews](#fachvorträge--interviews)
+  - [Podcasts](#podcasts)
 - [Patientengeschichten](#patientengeschichten)
 - [Social Media](#social-media)
   - [Chatgruppen](#chatgruppen)
   - [Facebook](#facebook)
   - [Instagram](#instagram)
   - [Reddit](#reddit)
+- [Open-Source-Projekte / Code](links-en.md#open-source-projects--code)
 
 ## Einsteiger & Orientierung
 
@@ -120,28 +120,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 *Noch keine deutschsprachigen Einträge – die englische Liste enthält eine klinische Leitlinie.*
 
-## Studien & Forschung
-
-- **[ME/CFS-Forschung (Research Summaries)](https://hanneseh.github.io/ME-CFS-Research-Summaries/de/)** — Research-Tracker mit Kurzerklärungen und direkten Links zu Primärquellen. 🗂️ [Collection]
-
-- **[ME/CFS Research Foundation](https://mecfs-research.org/)** — Stiftung von Betroffenen und Angehörigen, die biomedizinische Forschung zu ME/CFS und Long COVID finanziert und ein Forschungsregister, Projektübersichten und Informationen für Betroffene bereitstellt. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[Postinfektiöse Erkrankungen – Stellungnahme 2026](https://www.leopoldina.org/fileadmin/user_upload/Dokumente/2026_Leopoldina-Stellungnahme_Postinfekti%C3%B6se_Erkrankungen.pdf)** — Stellungnahme der Nationalen Akademie der Wissenschaften Leopoldina zu Versorgung, Dateninfrastruktur, Forschung und Prävention ([Publikationsseite](https://www.leopoldina.org/ergebnisse-und-termine/publikationen/detail/postinfektioese-erkrankungen-versorgung-dateninfrastruktur-forschung-und-praevention-2026)). 🏛️ [Authority]
-
-- **[Forschungsförderung Long COVID und ME/CFS in Deutschland](https://mecfs-research.org/fundingreport-long-covid-and-mecfs/)** — Bestandsaufnahme der öffentlichen Forschungsförderung durch die ME/CFS Research Foundation ([Bericht als PDF](https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf)). 📊 [Systematic review]
-
-- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/)** — Register, das schwer und schwerst betroffene ME-Patientinnen und -Patienten mit biomedizinischer und häuslicher Forschung verbindet. 🤝 [Self-help]
-
-- **[Neue Erkenntnisse zu molekularen Ursachen von Long COVID](https://dgfi.org/neue-erkenntnisse-zu-molekularen-ursachen-von-long-covid/)** — Meldung der Deutschen Gesellschaft für Infektiologie über eine Studie zu Botenstoffen bei anhaltenden Entzündungen in der Nasenschleimhaut nach Post-Covid. 📄 [Study]
-
-- **[Spike-Protein in den Hirnhäuten](https://www.helmholtz.de/newsroom/artikel/das-spike-protein-kann-ueber-jahre-in-den-hirnhaeuten-verbleiben/)** — Meldung der Helmholtz-Gemeinschaft über eine Studie zum Verbleib von Spike-Protein nach einer SARS-CoV-2-Infektion. 📄 [Study]
-
-- **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
-
-## Open-Source-Projekte / Code
-
-Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste gepflegt: **[Open Source Projects / Code (EN)](links-en.md#open-source-projects--code)**.
-
 ## Behandlung & Therapie
 
 - **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
@@ -151,6 +129,12 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 - **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
 
 - **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
+
+### Nicht etablierte Therapieansätze
+
+- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
+
+> ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
 
 ## Schwer erkrankt & Pflege
 
@@ -166,12 +150,6 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
 
-## Nicht etablierte Therapieansätze
-
-- **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
-
-> ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
-
 ## Material für Praxis, Pflege, Krankenhaus & Angehörige
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
@@ -185,46 +163,6 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 - **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
 
 - **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige: [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf), [ME/CFS – Diagnose, Behandlung und Hinweise zur Betreuung](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_03-Diagnose_neu.pdf), [ME/CFS – Pacing (Kurzversion)](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_04-Pacing_neu.pdf), [ME/CFS – Krankenhaus: Aufenthalt, Operation und Anästhesie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_02-Krankenhaus_neu.pdf), [ME/CFS – Physiotherapie](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_07_Physiotherapie_A4.pdf), [ME/CFS – Psychotherapie](https://www.mecfs.de/wp-content/uploads/2025/03/DG.MECFS_Informationsblatt_08-Psychotherapie.pdf), [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf), [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf). 🤝 [Self-help] 🗂️ [Collection]
-
-## Selbsthilfe & Organisationen
-
-### Portale & Community
-
-- **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen, mit Blog, Forum und einer Datenbank mit Ärztelisten. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Selbsthilfe-Gruppenfinder der Long-Covid-Plattform](https://www.long-covid-plattform.de/selbsthilfegruppen-finden)** — Umkreis- und Schlagwortsuche für Selbsthilfegruppen zu Long COVID, ME/CFS und Post-Vac mit Filter für regionale und bundesweite Angebote. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[NAKOS – Corona-Selbsthilfegruppen](https://www.nakos.de/adressen/corona-selbsthilfegruppen)** — Adressverzeichnis der Nationalen Kontakt- und Informationsstelle für Selbsthilfegruppen zu Corona, Long COVID und Post-COVID mit bundesweiten und regionalen Kontakten. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[lebenszeit-mecfs](https://lebenszeit-mecfs.de/)** — Link- und Informationssammlung einer Betroffenen-Initiative zu ME/CFS, Post-COVID und MCS mit Flyern, Vorlagen, Videos sowie regionalen und Selbsthilfe-Angeboten. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Tee mit Molly](https://www.teemitmolly.de/)** — Persönliches Portal einer Betroffenen mit Blog, Podcast „Teepause", Linksammlung und Antragshilfen; die Linksammlung enthält Amazon-Affiliate-Links und Spendenaufrufe, einzelne Blogbeiträge sind persönliche Erfahrungen. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
-
-- **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
-
-### Vereine & Verbände
-
-- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)). 🤝 [Self-help]
-
-- **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[Deutsche Gesellschaft für ME/CFS e. V.](https://www.mecfs.de/)** — Patientenorganisation mit verständlichen Informationen zu ME/CFS und Long COVID, Materialien für Betroffene, Angehörige und Fachpersonen sowie Selbsthilfeangeboten. 🤝 [Self-help] 📖 [Professional literature]
-
-- **[startaMEvolution e. V.](https://startamevolution.org/)** — Initiative von Betroffenen und Angehörigen zu Long COVID und ME/CFS mit Ratgebern, Erfahrungsberichten und Veranstaltungen. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[Lost Voices Stiftung](https://lost-voices-stiftung.org/)** — Stiftung für Aufklärung, Forschungsförderung und Interessenvertretung zu ME/CFS. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie. 🤝 [Self-help]
-
-- **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[Österreichische Gesellschaft für ME/CFS (ÖG ME/CFS)](https://mecfs.at/)** — Patientenorganisation in Österreich mit Informationen zu ME/CFS, getrennten Bereichen für Betroffene, Angehörige und Fachpersonale sowie politischer Interessenvertretung. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Alltag & Versorgung
 
@@ -271,30 +209,6 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 - **[Atemübungen – Offene Atmung](https://apps.apple.com/de/app/atem%C3%BCbungen-offene-atmung/id6447329686)** — Atemübungs-Timer für iOS ([Android](https://play.google.com/store/apps/details?id=com.ata.activebt&hl=de-CH&pli=1)) mit über 30 Presets wie 4-7-8- und Boxatmung sowie frei einstellbaren Ein-, Halte-, Aus- und Pausenphasen; offline nutzbar, kostenlos mit Werbung und kostenpflichtigen In-App-Käufen. 📱 [App] 💰 [Commercial] 🆓 [Partly free]
 
 - **[Wechselwirkungs-Check (Apotheken Umschau)](https://www.apotheken-umschau.de/medikamente/wechselwirkungscheck/)** — Kostenloser Online-Check auf Basis des ABDATA Pharma-Daten-Service für bis zu 15 Medikamente; der Anbieter weist selbst darauf hin, dass die Daten nicht vollständig sind und Nahrungsergänzungsmittel in der Regel nicht berücksichtigt werden. 🧰 [Tool]
-
-## Berichterstattung & Medien
-
-### Dokumentationen & Fernsehbeiträge
-
-- **[ME/CFS bei 3sat nano](https://www.3sat.de/wissen/nano/260901-mecfs-long-covid-sendung-nano-100.html)** — Beitrag des Wissenschaftsmagazins nano über neue Studien zu möglichen Fehlsteuerungen des Immunsystems bei ME/CFS. 🎬 [Video]
-
-- **[Die rätselhafte Krankheit – Leben mit ME/CFS](https://www.youtube.com/watch?v=1UzSBI4OPwo)** — ARTE-Dokumentation über ME/CFS und die Suche nach Ursachen, Biomarkern und Behandlungsmöglichkeiten; die von der Freiburger Mediathek verlinkte Fassung ist nicht mehr öffentlich erreichbar. 🎬 [Video]
-
-- **[Hirschhausen – was von Corona übrig bleibt](https://www.ardmediathek.de/video/hirschhausens-check-up/hirschhausen-was-von-corona-uebrig-bleibt/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL2hpcnNjaGhhdXNlbnMtY2hlY2stdXAvMjAyMy0wNi0xMl8yMC0xNS1NRVNa)** — ARD-Sendung über anhaltende Beschwerden nach COVID-19 und ME/CFS bei Kindern und Jugendlichen; nur in der Mediathek verfügbar. 🎬 [Video]
-
-- **[Jede Anstrengung ist zu viel – Diagnose: Chronisches Fatigue Syndrom](https://www.zdf.de/dokumentation/37-grad/37-jede-anstrengung-ist-zu-viel-100.html)** — ZDF-Reportage über das Leben mit ME/CFS und die Schwierigkeit, Belastungsgrenzen zu erkennen; nur in der Mediathek verfügbar. 🎬 [Video]
-
-### Fachvorträge & Interviews
-
-- **[Ulrich Timm im Gespräch mit Prof. Carmen Scheibenbogen](https://www.ardmediathek.de/video/ulrich-timm-im-gespraech/ulrich-timm-im-gespraech-mit-prof-carmen-scheibenbogen/tagesschau24/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTBiNGExMTItNGMwNC00MGViLWIwYzUtYmVmMDY1YzQ1MDRl)** — Video-Interview über ME/CFS und die Forschungslage nach Covid. 🎬 [Video]
-
-- **[Wie Betroffene von ME/CFS sich im Stich gelassen fühlen](https://www.youtube.com/watch?v=Flkbe7tbk_s)** — Gesprächsrunde der Badischen Zeitung mit einem betroffenen Vater und einer Professorin über Versorgung und Forschung. 🎬 [Video] 💬 [Patient story]
-
-### Podcasts
-
-- **[Auf Krücken rein, im Rollstuhl raus (Deutschlandfunk Kultur)](https://www.deutschlandfunkkultur.de/behandlung-von-post-covid-patienten-auf-kruecken-rein-im-rollstuhl-raus-dlf-kultur-5fb9afa1-100.html)** — Radiofeature über die Behandlung von Post-COVID-Patient:innen mit den Schwerpunkten Pacing und post-exertionelle Malaise. 🎧 [Podcast]
-
-- **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF. 🎧 [Podcast]
 
 ## Recht & Anträge
 
@@ -380,6 +294,64 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Vollmachten – Vorlagen](https://www.kostenlose-vordrucke.de/vollmachten)** — Sammlung kostenloser ausfüllbarer PDF-Vorlagen zu Vollmachten, darunter Vorsorgevollmacht, Patientenverfügung und Schweigepflichtentbindung. 🗂️ [Collection] 💰 [Commercial]
 
+## Selbsthilfe & Organisationen
+
+### Portale & Community
+
+- **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen, mit Blog, Forum und einer Datenbank mit Ärztelisten. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Selbsthilfe-Gruppenfinder der Long-Covid-Plattform](https://www.long-covid-plattform.de/selbsthilfegruppen-finden)** — Umkreis- und Schlagwortsuche für Selbsthilfegruppen zu Long COVID, ME/CFS und Post-Vac mit Filter für regionale und bundesweite Angebote. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[NAKOS – Corona-Selbsthilfegruppen](https://www.nakos.de/adressen/corona-selbsthilfegruppen)** — Adressverzeichnis der Nationalen Kontakt- und Informationsstelle für Selbsthilfegruppen zu Corona, Long COVID und Post-COVID mit bundesweiten und regionalen Kontakten. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[lebenszeit-mecfs](https://lebenszeit-mecfs.de/)** — Link- und Informationssammlung einer Betroffenen-Initiative zu ME/CFS, Post-COVID und MCS mit Flyern, Vorlagen, Videos sowie regionalen und Selbsthilfe-Angeboten. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Tee mit Molly](https://www.teemitmolly.de/)** — Persönliches Portal einer Betroffenen mit Blog, Podcast „Teepause", Linksammlung und Antragshilfen; die Linksammlung enthält Amazon-Affiliate-Links und Spendenaufrufe, einzelne Blogbeiträge sind persönliche Erfahrungen. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
+
+- **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
+
+### Vereine & Verbände
+
+- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)). 🤝 [Self-help]
+
+- **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Deutsche Gesellschaft für ME/CFS e. V.](https://www.mecfs.de/)** — Patientenorganisation mit verständlichen Informationen zu ME/CFS und Long COVID, Materialien für Betroffene, Angehörige und Fachpersonen sowie Selbsthilfeangeboten. 🤝 [Self-help] 📖 [Professional literature]
+
+- **[startaMEvolution e. V.](https://startamevolution.org/)** — Initiative von Betroffenen und Angehörigen zu Long COVID und ME/CFS mit Ratgebern, Erfahrungsberichten und Veranstaltungen. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Lost Voices Stiftung](https://lost-voices-stiftung.org/)** — Stiftung für Aufklärung, Forschungsförderung und Interessenvertretung zu ME/CFS. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie. 🤝 [Self-help]
+
+- **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Österreichische Gesellschaft für ME/CFS (ÖG ME/CFS)](https://mecfs.at/)** — Patientenorganisation in Österreich mit Informationen zu ME/CFS, getrennten Bereichen für Betroffene, Angehörige und Fachpersonale sowie politischer Interessenvertretung. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🤝 [Self-help] 🗂️ [Collection]
+
+## Studien & Forschung
+
+- **[ME/CFS-Forschung (Research Summaries)](https://hanneseh.github.io/ME-CFS-Research-Summaries/de/)** — Research-Tracker mit Kurzerklärungen und direkten Links zu Primärquellen. 🗂️ [Collection]
+
+- **[ME/CFS Research Foundation](https://mecfs-research.org/)** — Stiftung von Betroffenen und Angehörigen, die biomedizinische Forschung zu ME/CFS und Long COVID finanziert und ein Forschungsregister, Projektübersichten und Informationen für Betroffene bereitstellt. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Postinfektiöse Erkrankungen – Stellungnahme 2026](https://www.leopoldina.org/fileadmin/user_upload/Dokumente/2026_Leopoldina-Stellungnahme_Postinfekti%C3%B6se_Erkrankungen.pdf)** — Stellungnahme der Nationalen Akademie der Wissenschaften Leopoldina zu Versorgung, Dateninfrastruktur, Forschung und Prävention ([Publikationsseite](https://www.leopoldina.org/ergebnisse-und-termine/publikationen/detail/postinfektioese-erkrankungen-versorgung-dateninfrastruktur-forschung-und-praevention-2026)). 🏛️ [Authority]
+
+- **[Forschungsförderung Long COVID und ME/CFS in Deutschland](https://mecfs-research.org/fundingreport-long-covid-and-mecfs/)** — Bestandsaufnahme der öffentlichen Forschungsförderung durch die ME/CFS Research Foundation ([Bericht als PDF](https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf)). 📊 [Systematic review]
+
+- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/)** — Register, das schwer und schwerst betroffene ME-Patientinnen und -Patienten mit biomedizinischer und häuslicher Forschung verbindet. 🤝 [Self-help]
+
+- **[Neue Erkenntnisse zu molekularen Ursachen von Long COVID](https://dgfi.org/neue-erkenntnisse-zu-molekularen-ursachen-von-long-covid/)** — Meldung der Deutschen Gesellschaft für Infektiologie über eine Studie zu Botenstoffen bei anhaltenden Entzündungen in der Nasenschleimhaut nach Post-Covid. 📄 [Study]
+
+- **[Spike-Protein in den Hirnhäuten](https://www.helmholtz.de/newsroom/artikel/das-spike-protein-kann-ueber-jahre-in-den-hirnhaeuten-verbleiben/)** — Meldung der Helmholtz-Gemeinschaft über eine Studie zum Verbleib von Spike-Protein nach einer SARS-CoV-2-Infektion. 📄 [Study]
+
+- **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
+
 ## Fachliteratur
 
 - **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 📖 [Professional literature] 💰 [Commercial]
@@ -387,6 +359,30 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 - **[Versorgung von Patient*innen mit schwerer ME/CFS](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Montoya_deutsch.pdf)** — Deutschsprachige Übersetzung eines Fachbeitrags zur Versorgung von Menschen mit schwerer und sehr schwerer ME/CFS als PDF des Charité Fatigue Centrums. 📖 [Professional literature]
 
 - **[Stigmatisierende Narrative über ME/CFS](https://www.mecfs.de/stigmatisierende-narrative-ueber-mecfs/)** — Auswertung entsprechender Darstellungen in der deutschsprachigen medizinischen Fachliteratur durch die Deutsche Gesellschaft für ME/CFS. 📖 [Professional literature]
+
+## Berichterstattung & Medien
+
+### Dokumentationen & Fernsehbeiträge
+
+- **[ME/CFS bei 3sat nano](https://www.3sat.de/wissen/nano/260901-mecfs-long-covid-sendung-nano-100.html)** — Beitrag des Wissenschaftsmagazins nano über neue Studien zu möglichen Fehlsteuerungen des Immunsystems bei ME/CFS. 🎬 [Video]
+
+- **[Die rätselhafte Krankheit – Leben mit ME/CFS](https://www.youtube.com/watch?v=1UzSBI4OPwo)** — ARTE-Dokumentation über ME/CFS und die Suche nach Ursachen, Biomarkern und Behandlungsmöglichkeiten; die von der Freiburger Mediathek verlinkte Fassung ist nicht mehr öffentlich erreichbar. 🎬 [Video]
+
+- **[Hirschhausen – was von Corona übrig bleibt](https://www.ardmediathek.de/video/hirschhausens-check-up/hirschhausen-was-von-corona-uebrig-bleibt/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL2hpcnNjaGhhdXNlbnMtY2hlY2stdXAvMjAyMy0wNi0xMl8yMC0xNS1NRVNa)** — ARD-Sendung über anhaltende Beschwerden nach COVID-19 und ME/CFS bei Kindern und Jugendlichen; nur in der Mediathek verfügbar. 🎬 [Video]
+
+- **[Jede Anstrengung ist zu viel – Diagnose: Chronisches Fatigue Syndrom](https://www.zdf.de/dokumentation/37-grad/37-jede-anstrengung-ist-zu-viel-100.html)** — ZDF-Reportage über das Leben mit ME/CFS und die Schwierigkeit, Belastungsgrenzen zu erkennen; nur in der Mediathek verfügbar. 🎬 [Video]
+
+### Fachvorträge & Interviews
+
+- **[Ulrich Timm im Gespräch mit Prof. Carmen Scheibenbogen](https://www.ardmediathek.de/video/ulrich-timm-im-gespraech/ulrich-timm-im-gespraech-mit-prof-carmen-scheibenbogen/tagesschau24/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTBiNGExMTItNGMwNC00MGViLWIwYzUtYmVmMDY1YzQ1MDRl)** — Video-Interview über ME/CFS und die Forschungslage nach Covid. 🎬 [Video]
+
+- **[Wie Betroffene von ME/CFS sich im Stich gelassen fühlen](https://www.youtube.com/watch?v=Flkbe7tbk_s)** — Gesprächsrunde der Badischen Zeitung mit einem betroffenen Vater und einer Professorin über Versorgung und Forschung. 🎬 [Video] 💬 [Patient story]
+
+### Podcasts
+
+- **[Auf Krücken rein, im Rollstuhl raus (Deutschlandfunk Kultur)](https://www.deutschlandfunkkultur.de/behandlung-von-post-covid-patienten-auf-kruecken-rein-im-rollstuhl-raus-dlf-kultur-5fb9afa1-100.html)** — Radiofeature über die Behandlung von Post-COVID-Patient:innen mit den Schwerpunkten Pacing und post-exertionelle Malaise. 🎧 [Podcast]
+
+- **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF. 🎧 [Podcast]
 
 ## Patientengeschichten
 
@@ -415,3 +411,6 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 ### Reddit
 
 - **[r/LongCovid_MECFS_DE](https://www.reddit.com/r/LongCovid_MECFS_DE/)** — Deutschsprachige Reddit-Community zu Long COVID und ME/CFS mit Fokus auf deutsche Themen wie Ärzte, Krankenkasse, Sozialleistungen und Medikamentenverfügbarkeit; offen für Österreich und die Schweiz. 🤝 [Self-help]
+## Open-Source-Projekte / Code
+
+Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste gepflegt: **[Open Source Projects / Code (EN)](links-en.md#open-source-projects--code)**.

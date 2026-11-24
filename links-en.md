@@ -30,20 +30,18 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
   - [MCS](#mcs)
   - [SIBO](#sibo)
-- [Research & Studies](#research--studies)
-- [Open Source Projects / Code](#open-source-projects--code)
-  - [Research / Literature Tooling](#research--literature-tooling)
 - [Treatment & Therapy](#treatment--therapy)
 - [Severe ME/CFS & Care](#severe-mecfs--care)
 - [Resources for Practice, Care, Hospitals & Carers](#resources-for-practice-care-hospitals--carers)
-- [Self-Help & Organisations](#self-help--organisations)
-  - [Portals & Community](#portals--community)
-  - [Associations & Charities](#associations--charities)
 - [Daily Life & Care](#daily-life--care)
 - [Assistive Devices](#assistive-devices)
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
   - [Nutrition & Intolerances](#nutrition--intolerances)
 - [Legal & Benefits](#legal--benefits)
+- [Self-Help & Organisations](#self-help--organisations)
+  - [Portals & Community](#portals--community)
+  - [Associations & Charities](#associations--charities)
+- [Research & Studies](#research--studies)
 - [Professional Literature](#professional-literature)
 - [Patient Stories](#patient-stories)
 - [Social Media](#social-media)
@@ -51,6 +49,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Facebook](#facebook)
   - [Instagram](#instagram)
   - [Reddit](#reddit)
+- [Open Source Projects / Code](#open-source-projects--code)
+  - [Research / Literature Tooling](#research--literature-tooling)
 
 ## Getting Started & Orientation
 
@@ -98,6 +98,88 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[FoodMarble](https://foodmarble.com/)** — Commercial handheld breath tester with a companion app for logging hydrogen and methane readings, meals and symptoms in the context of SIBO; the manufacturer advises consulting a healthcare professional for diagnosis. 📱 [App] 💰 [Commercial]
 
+## Treatment & Therapy
+
+- **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
+
+- **[Clinical Care Guide](https://batemanhornecenter.org/wp-content/uploads/2025/05/Clinical-Care-Guide-First-Edition-2025-1.pdf)** — Clinical Care Guide (First Edition 2025, V7) of the Bateman Horne Center for managing ME/CFS, Long COVID and IACCs; PDF ([landing page](https://batemanhornecenter.org/clinical-care-guide/)). 📋 [Guideline]
+
+- **[NICE guideline NG206](https://www.nice.org.uk/guidance/ng206)** — UK guideline on diagnosis and management of ME/CFS in children, young people and adults ([recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)); last reviewed January 2025. 📋 [Guideline]
+
+- **[NICE guideline NG188](https://www.nice.org.uk/guidance/NG188/chapter/management)** — UK rapid guideline on managing the long-term effects of COVID-19, with recommendations on self-management and care in primary and community settings; published 2020, last updated January 2024. 🏛️ [Authority] 📋 [Guideline]
+
+## Severe ME/CFS & Care
+
+- **[Hospital Support Pack and Anaesthesia & ME/CFS](https://meassociation.org.uk/wp-content/uploads/2025/10/HOSPITAL-SUPPORT-PACK-V3-1.pdf)** — Two free PDF packs from the UK ME Association (October 2025) for hospital stays, operations and anaesthesia in ME/CFS ([anaesthesia document](https://meassociation.org.uk/wp-content/uploads/2025/10/ANAESTHESIA-AND-MECFS-V1-1.pdf)). 🤝 [Self-help] 🧰 [Tool]
+
+- **[ME/CFS Crash Survival Guide](https://batemanhornecenter.org/education/mecfs-guidebook/)** — Practical guide by the Bateman Horne Center for patients, carers and clinicians on preventing and managing ME/CFS crashes. 🤝 [Self-help]
+
+## Resources for Practice, Care, Hospitals & Carers
+
+- **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
+
+- **[Pacing – Long COVID Physio](https://longcovid.physio/pacing)** — Pacing episode by Long COVID Physio with video, audio and written transcript, translated summaries and references to WHO and World Physiotherapy guidance. 🎬 [Video] 🤝 [Self-help]
+
+- **[Primary Care Guide for MCAS](https://www.mastcellaction.org/assets/_/2026/06/26/771e0b33-f60c-4c61-962a-3d811424d8c1/final-primary-care-guide-2026.pdf)** — Primary care guide for mast cell activation syndrome published by the UK charity Mast Cell Action in 2026 for use in general practice. 📖 [Professional literature]
+
+- **[Physios for ME – information flyer](https://www.physiosforme.com/_files/ugd/4f94c1_c1758bc60a714b9c942291eee6b64e04.pdf)** — Downloadable flyer from the UK group Physios for ME on when and how physiotherapy is appropriate in ME/CFS ([organisation homepage](https://www.physiosforme.com/)). 📖 [Professional literature] 🗂️ [Collection]
+
+- **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
+
+- **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
+
+- **[IACI Provider Manual](https://www.coresinai.org/manual)** — Second edition of a manual from the Cohen Center for Recovery from Complex Chronic Illness with guidance for clinicians treating infection-associated chronic conditions including Long COVID and ME/CFS; the download requires a short form. 📖 [Professional literature]
+
+- **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
+
+- **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
+
+## Daily Life & Care
+
+- **[COVID-19 Initiatives](https://github.com/medero/covid-projects)** — Curated list of projects on air quality, CO₂ monitoring and community protection. 🗂️ [Collection]
+
+## Assistive Devices
+
+### Symptom Tracking & Pacing
+
+- **[Guava](https://guavahealth.com/)** — Personal health tracker for symptoms, medications, lab results and medical records, with insights and printable visit summaries; free to join, available for iOS and Android. 📱 [App] 🆓 [Partly free]
+
+- **[Visible](https://www.makevisible.com/)** — Pacing app and wearable for energy-limiting conditions such as Long COVID and ME/CFS; symptom tracking in the free app, wearable and membership are paid. 📱 [App] 🆓 [Partly free]
+
+### Nutrition & Intolerances
+
+- **[Monash FODMAP Diet App](https://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/)** — App from the Monash University research team with a FODMAP food database, certified-product lookup and recipes for irritable bowel syndrome. 📱 [App]
+
+## Legal & Benefits
+
+*No reviewed entries yet – suggestions welcome.*
+
+## Self-Help & Organisations
+
+### Portals & Community
+
+- **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses; its [ecosystem database](https://crunchme.org/database) collects research, organisations, clinical guidance, registries and funding in one searchable place. 📣 [Advocacy] 🗂️ [Collection]
+
+- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research. 🤝 [Self-help]
+
+- **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid. 🤝 [Self-help]
+
+- **[Rolling PEM: What It Is and How to Avoid It](https://tickedoffcodess.com/rolling-pem-what-it-is-and-how-to-avoid-it/)** — Patient-written article on rolling post-exertional malaise and recognising cumulative overexertion in ME/CFS and Long COVID, with cited sources. 💬 [Patient story]
+
+### Associations & Charities
+
+- **[#MEAction](https://www.meaction.net/)** — International patient network on ME and Long COVID with campaigns, group and clinician directories and support resources; sign-up is only needed for newsletters and events. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[The ME Association](https://meassociation.org.uk/)** — UK charity providing a free helpline, fact sheets and local groups for people with ME/CFS. 🤝 [Self-help]
+
+- **[Action for ME](https://www.actionforme.org.uk/)** — UK charity offering support services, forums and under-18 support for people with ME/CFS. 🤝 [Self-help]
+
+- **[Long Covid Kids](https://www.longcovidkids.org/)** — UK charity supporting children and young people with Long COVID and ME and their families, with an education toolkit. 🤝 [Self-help]
+
+- **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Solve ME/CFS Initiative](https://solvecfs.org/)** — US non-profit organisation funding biomedical research on ME/CFS and Long COVID, with information for patients, researchers and clinicians. 🤝 [Self-help] 📣 [Advocacy]
+
 ## Research & Studies
 
 - **[ME/CFS Research Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/en/)** — Research tracker with plain-language summaries and direct links to primary sources. 🗂️ [Collection]
@@ -136,110 +218,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[PLRC Registry](https://patientresearchcovid19.com/plrc-registry/)** — Research registry of the Patient-Led Research Collaborative for adults with Long COVID anywhere in the world, with questionnaires every three months and optional study matching. 🤝 [Self-help] 🗂️ [Collection]
 
-## Open Source Projects / Code
-
-- **[datalyst](https://github.com/cYoren/datalyst)** — Self-hosted open-source tracker for symptoms, sleep, mood, habits and money, with data export and N-of-1 experiments. 🧰 [Tool]
-
-- **[MEasure-CFS](https://github.com/Felixmk99/MEasure-CFS)** — Open-source health analytics dashboard for ME/CFS and Long COVID with Visible CSV import, pacing-related charts, and intervention analysis. 🧰 [Tool]
-
-- **[mecfs_bioinformatics](https://github.com/trafalmadorian97/mecfs_bioinformatics)** — Reproducible open-source analysis pipeline for biostatistical datasets related to ME/CFS, including GWAS and biobank data. 🗂️ [Collection] 🧰 [Tool]
-
-- **[PatientPunk](https://github.com/Ely-S/PatientPunk)** — Open-source pipeline for aggregating and structuring patient self-reports from social media into queryable datasets for research. 🧰 [Tool]
-
-- **[solvingmecfs](https://github.com/michaeljelly/solvingmecfs)** — Open-source evidence atlas and analysis repository on ME/CFS research, including a literature model, treatment and trial registers, and re-analyses of public datasets. 🗂️ [Collection] 🧰 [Tool]
-
-- **[BioMapAI](https://github.com/ohlab/BioMapAI)** — Open-source Python deep-learning framework with a pretrained ME/CFS model for omics data, tutorials and example data; the README links to an MIT licence file that is not present in the repository. 🧰 [Tool]
-
-### Research / Literature Tooling
-
-- **[ASReview](https://github.com/asreview/asreview)** — Open-source active-learning tool for screening large bodies of literature, with prioritisation, labelling and simulation for systematic reviews. 🧰 [Tool]
-
-- **[pyalex](https://github.com/J535D165/pyalex)** — Lightweight Python client for the OpenAlex API to retrieve and filter publication metadata; a free OpenAlex API key is recommended for higher request limits. 🧰 [Tool]
-
-- **[pubmed_parser](https://github.com/titipata/pubmed_parser)** — Python parser for PubMed Open-Access and MEDLINE XML, including E-Utilities, for extracting publication metadata and abstracts. 🧰 [Tool]
-
-## Treatment & Therapy
-
-- **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
-
-- **[Clinical Care Guide](https://batemanhornecenter.org/wp-content/uploads/2025/05/Clinical-Care-Guide-First-Edition-2025-1.pdf)** — Clinical Care Guide (First Edition 2025, V7) of the Bateman Horne Center for managing ME/CFS, Long COVID and IACCs; PDF ([landing page](https://batemanhornecenter.org/clinical-care-guide/)). 📋 [Guideline]
-
-- **[NICE guideline NG206](https://www.nice.org.uk/guidance/ng206)** — UK guideline on diagnosis and management of ME/CFS in children, young people and adults ([recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)); last reviewed January 2025. 📋 [Guideline]
-
-- **[NICE guideline NG188](https://www.nice.org.uk/guidance/NG188/chapter/management)** — UK rapid guideline on managing the long-term effects of COVID-19, with recommendations on self-management and care in primary and community settings; published 2020, last updated January 2024. 🏛️ [Authority] 📋 [Guideline]
-
-## Severe ME/CFS & Care
-
-- **[Hospital Support Pack and Anaesthesia & ME/CFS](https://meassociation.org.uk/wp-content/uploads/2025/10/HOSPITAL-SUPPORT-PACK-V3-1.pdf)** — Two free PDF packs from the UK ME Association (October 2025) for hospital stays, operations and anaesthesia in ME/CFS ([anaesthesia document](https://meassociation.org.uk/wp-content/uploads/2025/10/ANAESTHESIA-AND-MECFS-V1-1.pdf)). 🤝 [Self-help] 🧰 [Tool]
-
-- **[ME/CFS Crash Survival Guide](https://batemanhornecenter.org/education/mecfs-guidebook/)** — Practical guide by the Bateman Horne Center for patients, carers and clinicians on preventing and managing ME/CFS crashes. 🤝 [Self-help]
-
-## Resources for Practice, Care, Hospitals & Carers
-
-- **[Pacing Upright Activity handout](https://batemanhornecenter.org/wp-content/uploads/2023/12/Pacing-Upright-Activity-Handout-1-002-20231207.pdf)** — Short handout from the Bateman Horne Center on pacing upright activity for people with ME/CFS and related conditions. 🧰 [Tool] 📖 [Professional literature]
-
-- **[Pacing – Long COVID Physio](https://longcovid.physio/pacing)** — Pacing episode by Long COVID Physio with video, audio and written transcript, translated summaries and references to WHO and World Physiotherapy guidance. 🎬 [Video] 🤝 [Self-help]
-
-- **[Primary Care Guide for MCAS](https://www.mastcellaction.org/assets/_/2026/06/26/771e0b33-f60c-4c61-962a-3d811424d8c1/final-primary-care-guide-2026.pdf)** — Primary care guide for mast cell activation syndrome published by the UK charity Mast Cell Action in 2026 for use in general practice. 📖 [Professional literature]
-
-- **[Physios for ME – information flyer](https://www.physiosforme.com/_files/ugd/4f94c1_c1758bc60a714b9c942291eee6b64e04.pdf)** — Downloadable flyer from the UK group Physios for ME on when and how physiotherapy is appropriate in ME/CFS ([organisation homepage](https://www.physiosforme.com/)). 📖 [Professional literature] 🗂️ [Collection]
-
-- **[Post-Exertional Malaise – lecture slides](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf)** — Project ECHO slide deck on post-exertional malaise from the Bateman Horne Center. 📖 [Professional literature]
-
-- **[Staying Within Your Energy Envelope](https://batemanhornecenter.org/wp-content/uploads/2024/06/20240516-LunchLearn.pdf)** — Bateman Horne Center Lunch & Learn recap (May 2024) on modifying everyday tasks to stay within an energy envelope. 📖 [Professional literature] 🧰 [Tool]
-
-- **[IACI Provider Manual](https://www.coresinai.org/manual)** — Second edition of a manual from the Cohen Center for Recovery from Complex Chronic Illness with guidance for clinicians treating infection-associated chronic conditions including Long COVID and ME/CFS; the download requires a short form. 📖 [Professional literature]
-
-- **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
-
-- **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
-
-## Self-Help & Organisations
-
-### Portals & Community
-
-- **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses; its [ecosystem database](https://crunchme.org/database) collects research, organisations, clinical guidance, registries and funding in one searchable place. 📣 [Advocacy] 🗂️ [Collection]
-
-- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research. 🤝 [Self-help]
-
-- **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid. 🤝 [Self-help]
-
-- **[Rolling PEM: What It Is and How to Avoid It](https://tickedoffcodess.com/rolling-pem-what-it-is-and-how-to-avoid-it/)** — Patient-written article on rolling post-exertional malaise and recognising cumulative overexertion in ME/CFS and Long COVID, with cited sources. 💬 [Patient story]
-
-### Associations & Charities
-
-- **[#MEAction](https://www.meaction.net/)** — International patient network on ME and Long COVID with campaigns, group and clinician directories and support resources; sign-up is only needed for newsletters and events. 🤝 [Self-help] 📣 [Advocacy]
-
-- **[The ME Association](https://meassociation.org.uk/)** — UK charity providing a free helpline, fact sheets and local groups for people with ME/CFS. 🤝 [Self-help]
-
-- **[Action for ME](https://www.actionforme.org.uk/)** — UK charity offering support services, forums and under-18 support for people with ME/CFS. 🤝 [Self-help]
-
-- **[Long Covid Kids](https://www.longcovidkids.org/)** — UK charity supporting children and young people with Long COVID and ME and their families, with an education toolkit. 🤝 [Self-help]
-
-- **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Solve ME/CFS Initiative](https://solvecfs.org/)** — US non-profit organisation funding biomedical research on ME/CFS and Long COVID, with information for patients, researchers and clinicians. 🤝 [Self-help] 📣 [Advocacy]
-
-## Daily Life & Care
-
-- **[COVID-19 Initiatives](https://github.com/medero/covid-projects)** — Curated list of projects on air quality, CO₂ monitoring and community protection. 🗂️ [Collection]
-
-## Assistive Devices
-
-### Symptom Tracking & Pacing
-
-- **[Guava](https://guavahealth.com/)** — Personal health tracker for symptoms, medications, lab results and medical records, with insights and printable visit summaries; free to join, available for iOS and Android. 📱 [App] 🆓 [Partly free]
-
-- **[Visible](https://www.makevisible.com/)** — Pacing app and wearable for energy-limiting conditions such as Long COVID and ME/CFS; symptom tracking in the free app, wearable and membership are paid. 📱 [App] 🆓 [Partly free]
-
-### Nutrition & Intolerances
-
-- **[Monash FODMAP Diet App](https://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/)** — App from the Monash University research team with a FODMAP food database, certified-product lookup and recipes for irritable bowel syndrome. 📱 [App]
-
-## Legal & Benefits
-
-*No reviewed entries yet – suggestions welcome.*
-
 ## Professional Literature
 
 *No reviewed entries yet – suggestions welcome.*
@@ -271,3 +249,24 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[r/CFSScience](https://www.reddit.com/r/CFSScience/)** — Reddit community for discussing research studies and science on ME/CFS and Long COVID; the subreddit points to r/cfs for more general topics. 🤝 [Self-help]
 
 - **[r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)** — Community for people with symptoms lasting longer than four weeks after COVID-19, focused on shared experiences, symptom advice and mutual support. 🤝 [Self-help]
+## Open Source Projects / Code
+
+- **[datalyst](https://github.com/cYoren/datalyst)** — Self-hosted open-source tracker for symptoms, sleep, mood, habits and money, with data export and N-of-1 experiments. 🧰 [Tool]
+
+- **[MEasure-CFS](https://github.com/Felixmk99/MEasure-CFS)** — Open-source health analytics dashboard for ME/CFS and Long COVID with Visible CSV import, pacing-related charts, and intervention analysis. 🧰 [Tool]
+
+- **[mecfs_bioinformatics](https://github.com/trafalmadorian97/mecfs_bioinformatics)** — Reproducible open-source analysis pipeline for biostatistical datasets related to ME/CFS, including GWAS and biobank data. 🗂️ [Collection] 🧰 [Tool]
+
+- **[PatientPunk](https://github.com/Ely-S/PatientPunk)** — Open-source pipeline for aggregating and structuring patient self-reports from social media into queryable datasets for research. 🧰 [Tool]
+
+- **[solvingmecfs](https://github.com/michaeljelly/solvingmecfs)** — Open-source evidence atlas and analysis repository on ME/CFS research, including a literature model, treatment and trial registers, and re-analyses of public datasets. 🗂️ [Collection] 🧰 [Tool]
+
+- **[BioMapAI](https://github.com/ohlab/BioMapAI)** — Open-source Python deep-learning framework with a pretrained ME/CFS model for omics data, tutorials and example data; the README links to an MIT licence file that is not present in the repository. 🧰 [Tool]
+
+### Research / Literature Tooling
+
+- **[ASReview](https://github.com/asreview/asreview)** — Open-source active-learning tool for screening large bodies of literature, with prioritisation, labelling and simulation for systematic reviews. 🧰 [Tool]
+
+- **[pyalex](https://github.com/J535D165/pyalex)** — Lightweight Python client for the OpenAlex API to retrieve and filter publication metadata; a free OpenAlex API key is recommended for higher request limits. 🧰 [Tool]
+
+- **[pubmed_parser](https://github.com/titipata/pubmed_parser)** — Python parser for PubMed Open-Access and MEDLINE XML, including E-Utilities, for extracting publication metadata and abstracts. 🧰 [Tool]
