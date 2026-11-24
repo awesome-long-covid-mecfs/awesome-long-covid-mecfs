@@ -36,7 +36,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [SIBO](#sibo)
 - [Alltag & Versorgung](#alltag--versorgung)
 - [Hilfsmittel](#hilfsmittel)
-  - [Symptomtracking & Pacing](#symptomtracking--pacing)
+  - [Symptomtracking](#symptomtracking)
   - [Sonstiges](#sonstiges)
 - [Recht & Anträge](#recht--anträge)
   - [Beratungs- und Unterstützungsangebote](#beratungs--und-unterstützungsangebote)
@@ -188,7 +188,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Hilfsmittel
 
-### Symptomtracking & Pacing
+### Symptomtracking
 
 - **[MeinEnergieKompass](https://www.stefan-fischer.net/app)** — Kostenlose, werbefreie Pacing-App für ME/CFS, Post-COVID, Post-Vac und Fibromyalgie; Energie, Symptome und Aktivitäten lassen sich erfassen, Verläufe als PDF exportieren, alle Daten bleiben lokal auf dem Gerät. 📱 [App]
 
