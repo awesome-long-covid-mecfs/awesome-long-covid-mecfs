@@ -401,6 +401,7 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 ### Facebook
 
 - **[Long COVID Deutschland (Facebook-Gruppe)](https://www.facebook.com/groups/longcoviddeutschland/)** — Von der Initiative Long COVID Deutschland betriebene Online-Selbsthilfegruppe mit mehr als 10.000 Betroffenen und Angehörigen. 🤝 [Self-help]
+- **[ME/CFS Treffpunkt Österreich](https://www.facebook.com/groups/1440341549389981)** — Facebook-Gruppe der Österreichischen Gesellschaft für ME/CFS für Betroffene und Angehörige; Beitritt nach Beantwortung von Fragen. 🤝 [Self-help]
 
 ### Instagram
 
