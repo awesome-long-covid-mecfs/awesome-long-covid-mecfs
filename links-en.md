@@ -22,11 +22,11 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Contents
 
-- [Getting Started & Orientation](#getting-started--orientation)
-- [Diagnosis & Tests](#diagnosis--tests)
-  - [Guidelines & Criteria](#guidelines--criteria)
-  - [Questionnaires & Self-tests](#questionnaires--self-tests)
-- [Treatment & Therapy](#treatment--therapy)
+- [Getting Started](#getting-started)
+- [Diagnosis](#diagnosis)
+  - [Guidelines](#guidelines)
+  - [Questionnaires](#questionnaires)
+- [Treatment](#treatment)
   - [Resources for Practice, Care, Hospitals and Carers](#resources-for-practice-care-hospitals-and-carers)
   - [Severe ME/CFS](#severe-mecfs)
 - [Related Conditions](#related-conditions)
@@ -52,17 +52,17 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - [Open Source Projects / Code](#open-source-projects--code)
   - [Research / Literature Tooling](#research--literature-tooling)
 
-## Getting Started & Orientation
+## Getting Started
 
 - **[What is ME/CFS?](https://www.youtube.com/watch?v=vQWVZdGm508)** — Short video introducing ME/CFS from the Bateman Horne Center. 🎬 [Video]
 
-## Diagnosis & Tests
+## Diagnosis
 
-### Guidelines & Criteria
+### Guidelines
 
 *No reviewed entries yet – suggestions welcome.*
 
-### Questionnaires & Self-tests
+### Questionnaires
 
 - **[FUNCAP – Functional Capacity](https://www.funcap.no/translations-2/funcap-in-english/)** — Free questionnaire on functional capacity in people with post-exertional malaise (PEM), available in short and full form. 🧰 [Tool]
 
@@ -82,7 +82,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[Post-COVID Functional Status Scale (PCFS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7236834)** — Study describing a scale for functional status and everyday limitations after COVID-19. 📄 [Study] 🧰 [Tool]
 
-## Treatment & Therapy
+## Treatment
 
 - **[RTHM](https://www.rthm.com/)** — AI-based platform for Long COVID, ME/CFS, MCAS, POTS and related conditions where users can upload health data and lab results for a personalized health roadmap; AI use and lab-result review are free, while video consultations, lab tests and medications are paid and some services are limited to the US. 🧰 [Tool] 🆓 [Partly free] 💰 [Commercial]
 

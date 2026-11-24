@@ -22,11 +22,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Contents
 
-- [Einsteiger & Orientierung](#einsteiger--orientierung)
-- [Diagnostik & Tests](#diagnostik--tests)
-  - [Leitlinien & Kriterien](#leitlinien--kriterien)
-  - [Fragebögen & Selbsttests](#fragebögen--selbsttests)
-- [Behandlung & Therapie](#behandlung--therapie)
+- [Erste Schritte](#erste-schritte)
+- [Diagnostik](#diagnostik)
+  - [Leitlinien](#leitlinien)
+  - [Fragebögen](#fragebögen)
+- [Behandlung](#behandlung)
   - [Material für Praxis, Pflege, Krankenhaus und Angehörige](#material-für-praxis-pflege-krankenhaus-und-angehörige)
   - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
   - [Schwer erkrankt](#schwer-erkrankt)
@@ -65,7 +65,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Reddit](#reddit)
 - [Open-Source-Projekte / Code](links-en.md#open-source-projects--code)
 
-## Einsteiger & Orientierung
+## Erste Schritte
 
 - **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
 
@@ -75,9 +75,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Was ist Pacing?](https://www.youtube.com/watch?v=a6LS4afZSg8)** — Kurzes Erklärvideo derselben Herausgeber zum Umgang mit der individuellen Belastungsgrenze bei ME/CFS. 🎬 [Video] 🤝 [Self-help]
 
-## Diagnostik & Tests
+## Diagnostik
 
-### Leitlinien & Kriterien
+### Leitlinien
 
 - **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung. 📋 [Guideline]
 
@@ -85,9 +85,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar. 📋 [Guideline]
 
-### Fragebögen & Selbsttests
+### Fragebögen
 
-> ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Diagnosis & Tests](links-en.md#diagnosis--tests) beschrieben.
+> ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Diagnosis](links-en.md#diagnosis) beschrieben.
 
 - **[FUNCAP – Funktionale Kapazität](https://www.funcap.no/translations-2/funcap-auf-deutch/)** — Kostenloser Fragebogen zur Erfassung funktioneller Kapazität bei Belastungsintoleranz (PEM), mit Kurz- und Langversion. 🧰 [Tool]
 
@@ -97,7 +97,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
 
-## Behandlung & Therapie
+## Behandlung
 
 - **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
