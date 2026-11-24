@@ -31,6 +31,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [SIBO](#sibo)
 - [Research & Studies](#research--studies)
 - [Open Source Projects / Code](#open-source-projects--code)
+  - [Research / Literature Tooling](#research--literature-tooling)
 - [Treatment & Therapy](#treatment--therapy)
 - [Severe ME/CFS & Care](#severe-mecfs--care)
 - [Resources for Practice, Care, Hospitals & Carers](#resources-for-practice-care-hospitals--carers)
@@ -141,6 +142,14 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[solvingmecfs](https://github.com/michaeljelly/solvingmecfs)** — Open-source evidence atlas and analysis repository on ME/CFS research, including a literature model, treatment and trial registers, and re-analyses of public datasets. 🗂️ [Collection] 🧰 [Tool]
 
 - **[BioMapAI](https://github.com/ohlab/BioMapAI)** — Open-source Python deep-learning framework with a pretrained ME/CFS model for omics data, tutorials and example data; the README links to an MIT licence file that is not present in the repository. 🧰 [Tool]
+
+### Research / Literature Tooling
+
+- **[ASReview](https://github.com/asreview/asreview)** — Open-source active-learning tool for screening large bodies of literature, with prioritisation, labelling and simulation for systematic reviews. 🧰 [Tool]
+
+- **[pyalex](https://github.com/J535D165/pyalex)** — Lightweight Python client for the OpenAlex API to retrieve and filter publication metadata; a free OpenAlex API key is recommended for higher request limits. 🧰 [Tool]
+
+- **[pubmed_parser](https://github.com/titipata/pubmed_parser)** — Python parser for PubMed Open-Access and MEDLINE XML, including E-Utilities, for extracting publication metadata and abstracts. 🧰 [Tool]
 
 ## Treatment & Therapy
 
