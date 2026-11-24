@@ -249,7 +249,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ### Chat Groups
 
-*No reviewed entries yet – suggestions welcome.*
+- **[ME Connected](https://meassociation.org.uk/support/me-connect-support)** — Moderated Discord community run by the ME Association for people with ME/CFS and Long Covid, with over 2,000 members and channels for support, symptoms and social topics. 🤝 [Self-help]
 
 ### Facebook
 
