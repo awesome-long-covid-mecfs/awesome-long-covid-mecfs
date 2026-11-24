@@ -40,6 +40,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Symptomtracking & Pacing](#symptomtracking--pacing)
   - [Sonstiges](#sonstiges)
 - [Recht & Anträge](#recht--anträge)
+  - [Beratung & Unterstützung](#beratung--unterstützung)
   - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
   - [GdB, Merkzeichen & Begutachtung](#gdb-merkzeichen--begutachtung)
   - [Teilhabe & Assistenz](#teilhabe--assistenz)
@@ -145,13 +146,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Notfallpass bei ME/CFS (NichtGenesenKids e.V.)](https://nichtgenesenkids.de/2026/10/22/notfallpass-bei-me-cfs-wichtige-informationen-griffbereit/)** — Ausdruckbarer, zum Mitführen gefalteter Notfallpass mit Feldern für Medikamente, Begleiterkrankungen, Unverträglichkeiten und Notfallkontakte sowie Hinweisen zu Transport und Versorgung bei ME/CFS ([PDF](https://nichtgenesenkids.de/wp-content/uploads/2026/10/Notfallpass.pdf)). 🤝 [Self-help] 🧰 [Tool]
 
-- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
-
 - **[Pflegeanleitung für schwer und schwerstkranke ME/CFS-Patient:innen](https://www.mecfs.at/wp-content/uploads/2025-8-Pflegeanleitung.pdf)** — Von der Österreichischen Gesellschaft für ME/CFS und der MedUni Wien herausgegebene Pflegeanleitung (Version August 2025) für die Versorgung schwer erkrankter Patient:innen. 📖 [Professional literature] 🧰 [Tool]
 
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
-
-- **[ME/CFS-Hilfe (Sozialhummel)](https://sozialhummel.de/mecfs/)** — Sozialdienst für Menschen mit sehr schwerem ME/CFS mit 24-Stunden-Assistenz, Eingliederungshilfe und ambulant betreutem Wohnen; die Seite berichtet über die Kampagne #LebendigBegraben und ein Erfahrungsvideo Betroffener. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
 
@@ -177,6 +174,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf)
   - [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf)
   🤝 [Self-help] 🗂️ [Collection]
+
+- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
 
 ## Alltag & Versorgung
 
@@ -234,10 +233,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Reha Ablehnung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/a-z:reha-ablehnung)** — Betroffenen-Wiki mit Widerspruchsverfahren, Muster-Formulierung und Argumenten für eine Reha-Unfähigkeit bei PEM. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
 
-- **[Sozialverband Deutschland (SoVD)](https://www.sovd.de/)** — Sozialverband mit Beratung zu Sozialrecht, Anträgen und Widersprüchen; die Rechtsberatung setzt eine Mitgliedschaft voraus, der Beitrag liegt je nach Landesverband bei etwa 7–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
-
-- **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
-
 - **[mecfs-help.de](https://mecfs-help.de/)** — Kostenloses Browser-Tool, das Schritt für Schritt sozialrechtliche Anträge und Widersprüche für Deutschland und Österreich als PDF erstellt; Eingaben bleiben lokal und erfordern keine Anmeldung. 🧰 [Tool]
 
 - **[betanet](https://www.betanet.de/)** — Portal des gemeinnützigen beta Instituts mit sozialrechtlichen Informationen und kostenlosen Ratgebern zu Krankheit, Behinderung, Leistungen und Widersprüchen. 🗂️ [Collection]
@@ -245,6 +240,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[ME/CFS-Wiki](https://www.mecfs-wiki.de)** — Privates Wiki mit verständlichen Informationen zu ME/CFS und Sozialleistungen, zu Anträgen, Begutachtungen und Alltag; die Startseite enthält einen Amazon-Affiliate-Link und einen Spendenaufruf. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
 
 - **[ME/CFS – und nun?](https://sites.google.com/view/mecfs-undnun/start)** — Selbsthilfe-Projekt mit Kapiteln zu Pacing, Hilfsmitteln, sozial- und arbeitsrechtlichen Fragen sowie Materialien für Angehörige und Behandler; die Seite enthält auch ein Spendenprojekt mit selbst genähten Taschen. 🤝 [Self-help] 🗂️ [Collection]
+
+### Beratung & Unterstützung
+
+- **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
+
+- **[ME/CFS-Hilfe (Sozialhummel)](https://sozialhummel.de/mecfs/)** — Seite des Sozialdienstes Sozialhummel zu schwerem und sehr schwerem ME/CFS mit Aufklärung zur Erkrankung, Kampagne #LebendigBegraben, Erfahrungsbericht einer Betroffenen, online ME/CFS-Sprechstunde und Hinweisen zu Pflege, Eingliederungshilfe und 24-Stunden-Assistenz; ein Wohnprojekt ist in Planung. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Sozialverband Deutschland (SoVD)](https://www.sovd.de/)** — Sozialverband mit Beratung zu Sozialrecht, Anträgen und Widersprüchen; die Rechtsberatung setzt eine Mitgliedschaft voraus, der Beitrag liegt je nach Landesverband bei etwa 7–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
+
+- **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 ### Nahtlosigkeit & Arbeitslosigkeit
 
@@ -265,8 +270,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Handreichung für die Begutachtung von ME/CFS-Betroffenen (Selbsthilfe Freiburg)](https://mecfs-freiburg.de/documents/Handreichung%20f%C3%BCr%20die%20Begutachtung%20von%20MECFS-Betroffenen%20-%20MECFS-Selbsthilfe%20Freiburg%20Stand%20Nov%2024.pdf)** — Vierseitiges PDF zur Vorbereitung auf Gutachtertermine mit Entlastungsmöglichkeiten, Hinweisen zur verzögerten Belastungsreaktion und zur Erhebung schlechter Tage. 🤝 [Self-help]
 
 ### Teilhabe & Assistenz
-
-- **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
 
 - **[Stiftung Unabhängige Patientenberatung Deutschland (UPD)](https://patientenberatung.de/)** — Kostenfreie, unabhängige Beratung zu gesundheitlichen und gesundheitsrechtlichen Fragen per Telefon, in Vor-Ort-Stellen und schriftlich über ein Online-Portal; bundesweit und ohne Mitgliedschaft. 🏛️ [Authority]
 
