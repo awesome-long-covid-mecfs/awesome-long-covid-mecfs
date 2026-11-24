@@ -261,4 +261,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ### Reddit
 
+- **[r/cfs](https://www.reddit.com/r/cfs/)** — Long-established ME/CFS community covering research, treatments and personal stories; frequently named the main ME/CFS forum on Reddit. 🤝 [Self-help]
+
 - **[r/CFSScience](https://www.reddit.com/r/CFSScience/)** — Reddit community for discussing research studies and science on ME/CFS and Long COVID; the subreddit points to r/cfs for more general topics. 🤝 [Self-help]
