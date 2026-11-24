@@ -400,7 +400,7 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 ### Facebook
 
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
+- **[Long COVID Deutschland (Facebook-Gruppe)](https://www.facebook.com/groups/longcoviddeutschland/)** — Von der Initiative Long COVID Deutschland betriebene Online-Selbsthilfegruppe mit mehr als 10.000 Betroffenen und Angehörigen. 🤝 [Self-help]
 
 ### Instagram
 
