@@ -162,33 +162,33 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses; its [ecosystem database](https://crunchme.org/database) collects research, organisations, clinical guidance, registries and funding in one searchable place. 📣 [Advocacy] 🗂️ [Collection]
 
-- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research. 🤝 [Self-help]
+- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research.
 
-- **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid. 🤝 [Self-help]
+- **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid.
 
 - **[Rolling PEM: What It Is and How to Avoid It](https://tickedoffcodess.com/rolling-pem-what-it-is-and-how-to-avoid-it/)** — Patient-written article on rolling post-exertional malaise and recognising cumulative overexertion in ME/CFS and Long COVID, with cited sources. 💬 [Patient story]
 
-- **[ME&CFS](https://meandcfs.org/)** — Clear, calm information on ME/CFS, written by someone who lives with it, with explanatory pages, research, tools and downloadable materials. 🤝 [Self-help] 🗂️ [Collection]
+- **[ME&CFS](https://meandcfs.org/)** — Clear, calm information on ME/CFS, written by someone who lives with it, with explanatory pages, research, tools and downloadable materials. 🗂️ [Collection]
 
 #### Patient Stories
 
-- **[Unrest](https://www.youtube.com/watch?v=XOpyLTyVxco)** — Documentary film about ME/CFS told from the perspective of patients and researchers. 🎬 [Video] 💬 [Patient story]
+- **[Unrest](https://www.youtube.com/watch?v=XOpyLTyVxco)** — Documentary film about ME/CFS told from the perspective of patients and researchers. 🎬 [Video]
 
 - **[Dialogues for a Neglected Illness](https://www.dialogues-mecfs.co.uk/)** — Collection of short English-language videos on ME/CFS with patients, clinicians and researchers. 🎬 [Video] 🗂️ [Collection]
 
 ### Associations & Charities
 
-- **[#MEAction](https://www.meaction.net/)** — International patient network on ME and Long COVID with campaigns, group and clinician directories and support resources; sign-up is only needed for newsletters and events. 🤝 [Self-help] 📣 [Advocacy]
+- **[#MEAction](https://www.meaction.net/)** — International patient network on ME and Long COVID with campaigns, group and clinician directories and support resources; sign-up is only needed for newsletters and events. 📣 [Advocacy]
 
-- **[The ME Association](https://meassociation.org.uk/)** — UK charity providing a free helpline, fact sheets and local groups for people with ME/CFS. 🤝 [Self-help]
+- **[The ME Association](https://meassociation.org.uk/)** — UK charity providing a free helpline, fact sheets and local groups for people with ME/CFS.
 
-- **[Action for ME](https://www.actionforme.org.uk/)** — UK charity offering support services, forums and under-18 support for people with ME/CFS. 🤝 [Self-help]
+- **[Action for ME](https://www.actionforme.org.uk/)** — UK charity offering support services, forums and under-18 support for people with ME/CFS.
 
-- **[Long Covid Kids](https://www.longcovidkids.org/)** — UK charity supporting children and young people with Long COVID and ME and their families, with an education toolkit. 🤝 [Self-help]
+- **[Long Covid Kids](https://www.longcovidkids.org/)** — UK charity supporting children and young people with Long COVID and ME and their families, with an education toolkit.
 
-- **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🤝 [Self-help] 🗂️ [Collection]
+- **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🗂️ [Collection]
 
-- **[Solve ME/CFS Initiative](https://solvecfs.org/)** — US non-profit organisation funding biomedical research on ME/CFS and Long COVID, with information for patients, researchers and clinicians. 🤝 [Self-help] 📣 [Advocacy]
+- **[Solve ME/CFS Initiative](https://solvecfs.org/)** — US non-profit organisation funding biomedical research on ME/CFS and Long COVID, with information for patients, researchers and clinicians. 📣 [Advocacy]
 
 ## Research & Studies
 
