@@ -34,7 +34,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
   - [MCS](#mcs)
   - [SIBO](#sibo)
-- [Daily Life & Care](#daily-life--care)
 - [Assistive Devices](#assistive-devices)
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
   - [Nutrition & Intolerances](#nutrition--intolerances)
@@ -140,10 +139,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[FoodMarble](https://foodmarble.com/)** — Commercial handheld breath tester with a companion app for logging hydrogen and methane readings, meals and symptoms in the context of SIBO; the manufacturer advises consulting a healthcare professional for diagnosis. 📱 [App] 💰 [Commercial]
 
 - **[Monash FODMAP Recipes](https://www.monashfodmap.com/recipe/)** — Recipe index from the Monash University FODMAP team with low-FODMAP recipes sorted by category, including certified recipes. 🗂️ [Collection]
-
-## Daily Life & Care
-
-- **[COVID-19 Initiatives](https://github.com/medero/covid-projects)** — Curated list of projects on air quality, CO₂ monitoring and community protection. 🗂️ [Collection]
 
 ## Assistive Devices
 
@@ -271,6 +266,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[solvingmecfs](https://github.com/michaeljelly/solvingmecfs)** — Open-source evidence atlas and analysis repository on ME/CFS research, including a literature model, treatment and trial registers, and re-analyses of public datasets. 🗂️ [Collection] 🧰 [Tool]
 
 - **[BioMapAI](https://github.com/ohlab/BioMapAI)** — Open-source Python deep-learning framework with a pretrained ME/CFS model for omics data, tutorials and example data; the README links to an MIT licence file that is not present in the repository. 🧰 [Tool]
+
+- **[COVID-19 Initiatives](https://github.com/medero/covid-projects)** — Curated list of projects on air quality, CO₂ monitoring and community protection. 🗂️ [Collection]
 
 ### Research / Literature Tooling
 

@@ -23,6 +23,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Contents
 
 - [Erste Schritte](#erste-schritte)
+  - [Arzt- und Therapeutensuche](#arzt-und-therapeutensuche)
 - [Diagnostik](#diagnostik)
   - [Leitlinien](#leitlinien)
   - [Fragebögen](#fragebögen)
@@ -35,7 +36,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
   - [SIBO](#sibo)
-- [Alltag & Versorgung](#alltag--versorgung)
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking](#symptomtracking)
   - [Sonstiges](#sonstiges)
@@ -75,6 +75,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Was ist Post-Exertionelle Malaise (PEM)?](https://www.youtube.com/watch?v=8v1-4_27V-Q)** — Kurzes Erklärvideo der Deutschen Gesellschaft für ME/CFS und von Long COVID Deutschland zu post-exertioneller Malaise als Kernsymptom von ME/CFS. 🎬 [Video] 🤝 [Self-help]
 
 - **[Was ist Pacing?](https://www.youtube.com/watch?v=a6LS4afZSg8)** — Kurzes Erklärvideo derselben Herausgeber zum Umgang mit der individuellen Belastungsgrenze bei ME/CFS. 🎬 [Video] 🤝 [Self-help]
+
+### Arzt- und Therapeutensuche
+
+- **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden. 🧰 [Tool]
+
+- **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🧰 [Tool] 🗂️ [Collection]
 
 ## Diagnostik
 
@@ -179,16 +185,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 *Noch keine deutschsprachigen Einträge – die englische Liste enthält eine klinische Leitlinie.*
 
-## Alltag & Versorgung
-
-- **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden. 🧰 [Tool]
-
-- **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🧰 [Tool] 🗂️ [Collection]
-
-- **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
-
-- **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
-
 ## Hilfsmittel
 
 ### Symptomtracking
@@ -212,6 +208,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Wechselwirkungs-Check (Apotheken Umschau)](https://www.apotheken-umschau.de/medikamente/wechselwirkungscheck/)** — Kostenloser Online-Check auf Basis des ABDATA Pharma-Daten-Service für bis zu 15 Medikamente; der Anbieter weist selbst darauf hin, dass die Daten nicht vollständig sind und Nahrungsergänzungsmittel in der Regel nicht berücksichtigt werden. 🧰 [Tool]
 
 - **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
 ## Recht & Anträge
 
@@ -308,6 +306,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Vollmachten – Vorlagen](https://www.kostenlose-vordrucke.de/vollmachten)** — Sammlung kostenloser ausfüllbarer PDF-Vorlagen zu Vollmachten, darunter Vorsorgevollmacht, Patientenverfügung und Schweigepflichtentbindung. 🗂️ [Collection] 💰 [Commercial]
 
 ## Selbsthilfe & Organisationen
+
+- **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
 
 ### Portale und Community
 
