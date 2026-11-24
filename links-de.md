@@ -30,6 +30,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [MCS](#mcs)
   - [SIBO](#sibo)
 - [Studien & Forschung](#studien--forschung)
+- [Open-Source-Projekte / Code](links-en.md#open-source-projects--code)
 - [Behandlung & Therapie](#behandlung--therapie)
 - [Schwer erkrankt & Pflege](#schwer-erkrankt--pflege)
 - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
@@ -114,6 +115,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Spike-Protein in den Hirnhäuten](https://www.helmholtz.de/newsroom/artikel/das-spike-protein-kann-ueber-jahre-in-den-hirnhaeuten-verbleiben/)** — Meldung der Helmholtz-Gemeinschaft über eine Studie zum Verbleib von Spike-Protein nach einer SARS-CoV-2-Infektion. 📄 [Study]
 
 - **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
+
+## Open-Source-Projekte / Code
+
+Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste gepflegt: **[Open Source Projects / Code (EN)](links-en.md#open-source-projects--code)**.
 
 ## Behandlung & Therapie
 

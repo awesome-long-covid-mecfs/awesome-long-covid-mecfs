@@ -30,6 +30,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [MCS](#mcs)
   - [SIBO](#sibo)
 - [Research & Studies](#research--studies)
+- [Open Source Projects / Code](#open-source-projects--code)
 - [Treatment & Therapy](#treatment--therapy)
 - [Severe ME/CFS & Care](#severe-mecfs--care)
 - [Resources for Practice, Care, Hospitals & Carers](#resources-for-practice-care-hospitals--carers)
@@ -120,6 +121,18 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[Noise and light hypersensitivity in ME/CFS](https://www.meresearch.org.uk/noise-and-light-hypersensitivity-in-me-cfs)** — ME Research UK summary of a study comparing sensory hypersensitivity in ME/CFS and multiple sclerosis ([original study](https://pubmed.ncbi.nlm.nih.gov/36977713/)). 📖 [Professional literature]
 
 - **[Subtypes of post-exertional malaise](https://www.meresearch.org.uk/subtypes-of-post-exertional-malaise)** — ME Research UK summary of a study on physical and mental manifestations of post-exertional malaise ([original study](https://doi.org/10.1177/13591053261420598)). 📖 [Professional literature]
+
+## Open Source Projects / Code
+
+- **[datalyst](https://github.com/cYoren/datalyst)** — Self-hosted open-source tracker for symptoms, sleep, mood, habits and money, with data export and N-of-1 experiments. 🧰 [Tool]
+
+- **[MEasure-CFS](https://github.com/Felixmk99/MEasure-CFS)** — Open-source health analytics dashboard for ME/CFS and Long COVID with Visible CSV import, pacing-related charts, and intervention analysis. 🧰 [Tool]
+
+- **[mecfs_bioinformatics](https://github.com/trafalmadorian97/mecfs_bioinformatics)** — Reproducible open-source analysis pipeline for biostatistical datasets related to ME/CFS, including GWAS and biobank data. 🗂️ [Collection] 🧰 [Tool]
+
+- **[PatientPunk](https://github.com/Ely-S/PatientPunk)** — Open-source pipeline for aggregating and structuring patient self-reports from social media into queryable datasets for research. 🧰 [Tool]
+
+- **[solvingmecfs](https://github.com/michaeljelly/solvingmecfs)** — Open-source evidence atlas and analysis repository on ME/CFS research, including a literature model, treatment and trial registers, and re-analyses of public datasets. 🗂️ [Collection] 🧰 [Tool]
 
 ## Treatment & Therapy
 
