@@ -47,6 +47,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Berichterstattung & Medien](#berichterstattung--medien)
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
+  - [Podcasts](#podcasts)
 - [Recht & Anträge](#recht--anträge)
   - [Nahtlosigkeit & Arbeitslosigkeit](#nahtlosigkeit--arbeitslosigkeit)
   - [GdB, Merkzeichen & Begutachtung](#gdb-merkzeichen--begutachtung)
@@ -167,6 +168,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
+- **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
+
 ## Selbsthilfe & Organisationen
 
 ### Portale & Community
@@ -261,9 +264,27 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[ME/CFS bei 3sat nano](https://www.3sat.de/wissen/nano/260901-mecfs-long-covid-sendung-nano-100.html)** — Beitrag des Wissenschaftsmagazins nano über neue Studien zu möglichen Fehlsteuerungen des Immunsystems bei ME/CFS. 🎬 [Video]
 
+- **[Was ist Post-Exertionelle Malaise (PEM)?](https://www.youtube.com/watch?v=8v1-4_27V-Q)** — Kurzes Erklärvideo der Deutschen Gesellschaft für ME/CFS und von Long COVID Deutschland zu post-exertioneller Malaise als Kernsymptom von ME/CFS. 🎬 [Video] 🤝 [Self-help]
+
+- **[Was ist Pacing?](https://www.youtube.com/watch?v=a6LS4afZSg8)** — Kurzes Erklärvideo derselben Herausgeber zum Umgang mit der individuellen Belastungsgrenze bei ME/CFS. 🎬 [Video] 🤝 [Self-help]
+
+- **[Die rätselhafte Krankheit – Leben mit ME/CFS](https://www.youtube.com/watch?v=1UzSBI4OPwo)** — ARTE-Dokumentation über ME/CFS und die Suche nach Ursachen, Biomarkern und Behandlungsmöglichkeiten; die von der Freiburger Mediathek verlinkte Fassung ist nicht mehr öffentlich erreichbar. 🎬 [Video]
+
+- **[Hirschhausen – was von Corona übrig bleibt](https://www.ardmediathek.de/video/hirschhausens-check-up/hirschhausen-was-von-corona-uebrig-bleibt/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL2hpcnNjaGhhdXNlbnMtY2hlY2stdXAvMjAyMy0wNi0xMl8yMC0xNS1NRVNa)** — ARD-Sendung über anhaltende Beschwerden nach COVID-19 und ME/CFS bei Kindern und Jugendlichen; nur in der Mediathek verfügbar. 🎬 [Video]
+
+- **[Jede Anstrengung ist zu viel – Diagnose: Chronisches Fatigue Syndrom](https://www.zdf.de/dokumentation/37-grad/37-jede-anstrengung-ist-zu-viel-100.html)** — ZDF-Reportage über das Leben mit ME/CFS und die Schwierigkeit, Belastungsgrenzen zu erkennen; nur in der Mediathek verfügbar. 🎬 [Video]
+
 ### Fachvorträge & Interviews
 
 - **[Ulrich Timm im Gespräch mit Prof. Carmen Scheibenbogen](https://www.ardmediathek.de/video/ulrich-timm-im-gespraech/ulrich-timm-im-gespraech-mit-prof-carmen-scheibenbogen/tagesschau24/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTBiNGExMTItNGMwNC00MGViLWIwYzUtYmVmMDY1YzQ1MDRl)** — Video-Interview über ME/CFS und die Forschungslage nach Covid. 🎬 [Video]
+
+- **[Wie Betroffene von ME/CFS sich im Stich gelassen fühlen](https://www.youtube.com/watch?v=Flkbe7tbk_s)** — Gesprächsrunde der Badischen Zeitung mit einem betroffenen Vater und einer Professorin über Versorgung und Forschung. 🎬 [Video] 💬 [Patient story]
+
+### Podcasts
+
+- **[Auf Krücken rein, im Rollstuhl raus (Deutschlandfunk Kultur)](https://www.deutschlandfunkkultur.de/behandlung-von-post-covid-patienten-auf-kruecken-rein-im-rollstuhl-raus-dlf-kultur-5fb9afa1-100.html)** — Radiofeature über die Behandlung von Post-COVID-Patient:innen mit den Schwerpunkten Pacing und post-exertionelle Malaise. 🎧 [Podcast]
+
+- **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF. 🎧 [Podcast]
 
 ## Recht & Anträge
 

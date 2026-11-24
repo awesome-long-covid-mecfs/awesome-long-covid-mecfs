@@ -34,6 +34,7 @@ Diese Datei ist die **einzige Quelle** für alle Marker in den Ressourcenlisten.
 | 📱 | `[App]` | App | Smartphone or tablet application |
 | 📣 | `[Advocacy]` | Advocacy | Political or advocacy work |
 | 🎬 | `[Video]` | Video | Video recording such as a documentary, interview or lecture |
+| 🎧 | `[Podcast]` | Podcast | Audio programme or podcast episode |
 
 ## Rules
 

@@ -241,7 +241,9 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Patient Stories
 
-*No reviewed entries yet – suggestions welcome.*
+- **[Unrest](https://www.youtube.com/watch?v=XOpyLTyVxco)** — Documentary film about ME/CFS told from the perspective of patients and researchers. 🎬 [Video] 💬 [Patient story]
+
+- **[Dialogues for a Neglected Illness](https://www.dialogues-mecfs.co.uk/)** — Collection of short English-language videos on ME/CFS with patients, clinicians and researchers. 🎬 [Video] 🗂️ [Collection]
 
 ## Social Media
 
