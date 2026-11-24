@@ -129,6 +129,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[ME/CFS Collaborative Research Network](https://mecfs.rti.org/)** — Website of the NIH-funded research network with news, events, publications, webinars and information on taking part in studies. 🏛️ [Authority] 🗂️ [Collection]
 
+- **[PLRC Registry](https://patientresearchcovid19.com/plrc-registry/)** — Research registry of the Patient-Led Research Collaborative for adults with Long COVID anywhere in the world, with questionnaires every three months and optional study matching. 🤝 [Self-help] 🗂️ [Collection]
+
 ## Open Source Projects / Code
 
 - **[datalyst](https://github.com/cYoren/datalyst)** — Self-hosted open-source tracker for symptoms, sleep, mood, habits and money, with data export and N-of-1 experiments. 🧰 [Tool]
