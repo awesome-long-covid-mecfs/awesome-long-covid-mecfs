@@ -396,6 +396,7 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 ### Chatgruppen
 
 - **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
+- **[ME Chat-Gruppe „Plaudergarten"](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
 
 ### Facebook
 
