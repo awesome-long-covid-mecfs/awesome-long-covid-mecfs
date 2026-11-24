@@ -150,8 +150,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
-- **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
-
 ## Material für Praxis, Pflege, Krankenhaus & Angehörige
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
@@ -286,6 +284,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Protokolle und Listen zur Krankheitsdokumentation (Fatigatio)](https://www.fatigatio.de/me/cfs/diagnose/protokolle-listen)** — Sammlung kostenloser, direkt herunterladbarer Vorlagen des Bundesverbands ME/CFS: zwei sozialrechtliche Checklisten sowie Protokolle für Beschwerden, Ruhe und Belastung und Schlaf mit Tageseinstufung 1–10, Schrittzahl und Ruhepuls. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[PEM erkennen – 14-Tage-Protokoll (Stimmen aus dem Off)](https://stimmenausdemoff.de/community/pem-erkennen-14-tage-protokoll-pdf-vorlage/)** — Kostenloses 14-Tage-Protokoll von Dr. med. Kristina Schultheiss, das Belastungen und Symptome mit 12–24 h und 24–48 h Verzögerung erfasst und eine Auswertung für das Arztgespräch enthält; die Anleitung warnt ausdrücklich vor Aktivitätssteigerung zum Provokationstesten. 🤝 [Self-help]
+
+- **[Beratungsdatenbank Pflege (Stiftung ZQP)](https://www.zqp.de/beratung-pflege/)** — Kostenlose, werbefreie Datenbank der Stiftung ZQP zur Suche nach Beratungsstellen in Deutschland, darunter Pflegestützpunkte, Wohlfahrtsverbände und von den Pflegekassen anerkannte Stellen; die Beratung kann auch bei der Antragstellung auf Pflege unterstützen, das ZQP selbst berät nicht. 🗂️ [Collection]
 
 ### Erwerbsminderungsrente
 
