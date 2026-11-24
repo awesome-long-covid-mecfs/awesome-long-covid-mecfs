@@ -298,6 +298,10 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Reha-Erfahrungen von Betroffenen – qualitative Studie](https://doi.org/10.1016/j.zefq.2024.05.007)** — Studie zu Erfahrungen mit stationärer Rehabilitation bei Long/Post-COVID, zu PEM und zu individuell abgestimmter Reha-Planung; vollständiger Text auch als [PDF bei Zenodo](https://zenodo.org/records/12742336). 📄 [Study]
 
+- **[Reha und ME-cfs? (lebenszeit)](https://lebenszeit-mecfs.de/reha.html)** — Selbsthilfe-Seite einer Betroffenen zu Reha und ME/CFS mit eigener Erfahrung, Grenzen der Mitwirkungspflicht und Angaben zur Bescheinigung der Reha-Unfähigkeit. 🤝 [Self-help] 🗂️ [Collection] 💬 [Patient story]
+
+- **[Reha Ablehnung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/a-z:reha-ablehnung)** — Betroffenen-Wiki mit Widerspruchsverfahren, Muster-Formulierung und Argumenten für eine Reha-Unfähigkeit bei PEM. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
+
 - **[Sozialverband Deutschland (SoVD)](https://www.sovd.de/)** — Sozialverband mit Beratung zu Sozialrecht, Anträgen und Widersprüchen; die Rechtsberatung setzt eine Mitgliedschaft voraus, der Beitrag liegt je nach Landesverband bei etwa 7–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
 
 - **[Sozialverband VdK Deutschland](https://www.vdk.de/mitgliedschaft/rechtsberatung/)** — Sozialverband mit Rechtsberatung zu Rente, Gesundheit, Pflege und Behinderung; die Beratung ist für Mitglieder, der Beitrag liegt je nach Landesverband bei etwa 5–8 € pro Monat. 🤝 [Self-help] 📣 [Advocacy] 💳 [Membership required]
