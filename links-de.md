@@ -209,6 +209,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🧰 [Tool] 🗂️ [Collection]
 
+- **[DAS REHAPORTAL](https://www.dasrehaportal.de/)** — Bundesweite Suche nach ambulanten und stationären Rehakliniken mit Filtern unter anderem nach Region und Barrierefreiheit sowie über 110.000 Patientenbewertungen; für Patient:innen kostenlos und werbefrei, betrieben von der 4QD-Qualitätskliniken.de GmbH und finanziert durch Beiträge teilnehmender Kliniken. 🧰 [Tool] 💰 [Commercial]
+
 - **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
 
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
