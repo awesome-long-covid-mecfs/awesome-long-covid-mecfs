@@ -22,6 +22,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Contents
 
+- [Einsteiger & Orientierung](#einsteiger--orientierung)
 - [Diagnostik & Tests](#diagnostik--tests)
   - [Leitlinien & Kriterien](#leitlinien--kriterien)
   - [Fragebögen & Selbsttests](#fragebögen--selbsttests)
@@ -62,6 +63,16 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Facebook](#facebook)
   - [Instagram](#instagram)
   - [Reddit](#reddit)
+
+## Einsteiger & Orientierung
+
+- **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
+
+- **[Patienteninformationen des Charité Fatigue Centrums](https://cfc.charite.de/fuer_patienten/literatur_und_empfehlungen_fuer_patienten/)** — Sammlung des Charité Fatigue Centrums mit Patienteninformationen, Fragebögen und Videos zu ME/CFS, POTS und Post-COVID. 🏛️ [Authority] 🗂️ [Collection]
+
+- **[Was ist Post-Exertionelle Malaise (PEM)?](https://www.youtube.com/watch?v=8v1-4_27V-Q)** — Kurzes Erklärvideo der Deutschen Gesellschaft für ME/CFS und von Long COVID Deutschland zu post-exertioneller Malaise als Kernsymptom von ME/CFS. 🎬 [Video] 🤝 [Self-help]
+
+- **[Was ist Pacing?](https://www.youtube.com/watch?v=a6LS4afZSg8)** — Kurzes Erklärvideo derselben Herausgeber zum Umgang mit der individuellen Belastungsgrenze bei ME/CFS. 🎬 [Video] 🤝 [Self-help]
 
 ## Diagnostik & Tests
 
@@ -223,13 +234,9 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[DAS REHAPORTAL](https://www.dasrehaportal.de/)** — Bundesweite Suche nach ambulanten und stationären Rehakliniken mit Filtern unter anderem nach Region und Barrierefreiheit sowie über 110.000 Patientenbewertungen; für Patient:innen kostenlos und werbefrei, betrieben von der 4QD-Qualitätskliniken.de GmbH und finanziert durch Beiträge teilnehmender Kliniken. 🧰 [Tool] 💰 [Commercial]
 
-- **[Long-COVID-Informationsflyer](https://www.bmg-longcovid.de/service/downloads/informationsflyer)** — Informationsflyer des Bundesgesundheitsministeriums zu Long COVID als PDF. 🏛️ [Authority]
-
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
-
-- **[Patienteninformationen des Charité Fatigue Centrums](https://cfc.charite.de/fuer_patienten/literatur_und_empfehlungen_fuer_patienten/)** — Sammlung des Charité Fatigue Centrums mit Patienteninformationen, Fragebögen und Videos zu ME/CFS, POTS und Post-COVID. 🏛️ [Authority] 🗂️ [Collection]
 
 ## Regionale Angebote
 
@@ -270,10 +277,6 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 ### Dokumentationen & Fernsehbeiträge
 
 - **[ME/CFS bei 3sat nano](https://www.3sat.de/wissen/nano/260901-mecfs-long-covid-sendung-nano-100.html)** — Beitrag des Wissenschaftsmagazins nano über neue Studien zu möglichen Fehlsteuerungen des Immunsystems bei ME/CFS. 🎬 [Video]
-
-- **[Was ist Post-Exertionelle Malaise (PEM)?](https://www.youtube.com/watch?v=8v1-4_27V-Q)** — Kurzes Erklärvideo der Deutschen Gesellschaft für ME/CFS und von Long COVID Deutschland zu post-exertioneller Malaise als Kernsymptom von ME/CFS. 🎬 [Video] 🤝 [Self-help]
-
-- **[Was ist Pacing?](https://www.youtube.com/watch?v=a6LS4afZSg8)** — Kurzes Erklärvideo derselben Herausgeber zum Umgang mit der individuellen Belastungsgrenze bei ME/CFS. 🎬 [Video] 🤝 [Self-help]
 
 - **[Die rätselhafte Krankheit – Leben mit ME/CFS](https://www.youtube.com/watch?v=1UzSBI4OPwo)** — ARTE-Dokumentation über ME/CFS und die Suche nach Ursachen, Biomarkern und Behandlungsmöglichkeiten; die von der Freiburger Mediathek verlinkte Fassung ist nicht mehr öffentlich erreichbar. 🎬 [Video]
 

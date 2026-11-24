@@ -22,6 +22,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Contents
 
+- [Getting Started & Orientation](#getting-started--orientation)
 - [Diagnosis & Tests](#diagnosis--tests)
   - [Guidelines & Criteria](#guidelines--criteria)
   - [Questionnaires & Self-tests](#questionnaires--self-tests)
@@ -50,6 +51,10 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Facebook](#facebook)
   - [Instagram](#instagram)
   - [Reddit](#reddit)
+
+## Getting Started & Orientation
+
+- **[What is ME/CFS?](https://www.youtube.com/watch?v=vQWVZdGm508)** — Short video introducing ME/CFS from the Bateman Horne Center. 🎬 [Video]
 
 ## Diagnosis & Tests
 
