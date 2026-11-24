@@ -7,8 +7,8 @@
 - [Behandlung & Therapie](#behandlung--therapie)
   - [Material für Praxis, Pflege, Krankenhaus und Angehörige](#material-für-praxis-pflege-krankenhaus-und-angehörige)
   - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
-- [Schwer erkrankt](#schwer-erkrankt)
-- [Begleiterkrankungen: MCAS, MCS, SIBO](#begleiterkrankungen-mcas-mcs-sibo)
+  - [Schwer erkrankt](#schwer-erkrankt)
+- [Begleiterkrankungen](#begleiterkrankungen)
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
   - [SIBO](#sibo)
@@ -116,7 +116,7 @@
 
 > ⚠️ Hier werden Anwendungsprotokolle verlinkt. Die Liste gibt keine Behandlungsempfehlung und bewertet Wirksamkeit und Sicherheit nicht; die Quelle ist ein Betroffenenprojekt, keine Fachgesellschaft.
 
-## Schwer erkrankt
+### Schwer erkrankt
 
 - **[Notfallpass bei ME/CFS (NichtGenesenKids e.V.)](https://nichtgenesenkids.de/2026/10/22/notfallpass-bei-me-cfs-wichtige-informationen-griffbereit/)** — Ausdruckbarer, zum Mitführen gefalteter Notfallpass mit Feldern für Medikamente, Begleiterkrankungen, Unverträglichkeiten und Notfallkontakte sowie Hinweisen zu Transport und Versorgung bei ME/CFS ([PDF](https://nichtgenesenkids.de/wp-content/uploads/2026/10/Notfallpass.pdf)). 🤝 [Self-help] 🧰 [Tool]
 
@@ -124,7 +124,7 @@
 
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
-## Begleiterkrankungen: MCAS, MCS, SIBO
+## Begleiterkrankungen
 
 ### MCAS / Histaminintoleranz
 
@@ -168,8 +168,6 @@
 
 ### Symptomtracking & Pacing
 
-- **[me.cfs Tracker](https://mecfs-tracker.app/)** — Drei kostenlose Apps für Tagebuch, Pacing und Begleitung; die Daten bleiben lokal auf den Geräten. 🧰 [Tool] 📱 [App]
-
 - **[MeinEnergieKompass](https://www.stefan-fischer.net/app)** — Kostenlose, werbefreie Pacing-App für ME/CFS, Post-COVID, Post-Vac und Fibromyalgie; Energie, Symptome und Aktivitäten lassen sich erfassen, Verläufe als PDF exportieren, alle Daten bleiben lokal auf dem Gerät. 📱 [App]
 
 - **[blue-ME Pacing & Symptomtagebuch](https://www.blue-me.de/pacing-app-symptom-tagebuch-fuer-me-cfs-post-covid-post-vac-fibromyalgie/)** — App für ME/CFS, Post-COVID, Post-VAC und Fibromyalgie mit Pacing-Timer, Symptom- und Aktivitätstagebuch, Trendanalysen und PDF-Bericht; nach 14 Tagen kostenpflichtig. 📱 [App] 💰 [Commercial]
@@ -191,8 +189,6 @@
 - **[Hilfsmittelversorgung Rollstuhl (ME/CFS – und nun?)](https://sites.google.com/view/mecfs-undnun/mecfs-und-nun-alle-kapitel/vom-umgang-mit-der-erkrankung/wie-bekomme-ich-notwendige-hilfsmittel-welche-sind-sinnvoll/hilfsmittelversorgung-rollstuhl)** — Selbsthilfe-Handreichung mit Formulierungshilfen für den Rollstuhlantrag, die Gehstrecke, Schrittzähler und PEM nach Belastung als Argumente für einen Antrieb nutzt. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Recht & Anträge
-
-- **[§ 65 SGB I – Mitwirkungspflichten](https://www.gesetze-im-internet.de/sgb_1/__65.html)** — Gesetzestext zu den Mitwirkungspflichten im Sozialgesetzbuch. 🏛️ [Authority]
 
 - **[Videosprechstunde (KBV)](https://www.kbv.de/praxis/digitalisierung/anwendungen/videosprechstunde)** — Information der Kassenärztlichen Bundesvereinigung zu Videosprechstunden in ärztlicher und psychotherapeutischer Versorgung; die Leistungen werden über die gesetzliche Krankenversicherung abgerechnet. 🏛️ [Authority]
 

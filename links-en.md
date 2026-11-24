@@ -6,8 +6,8 @@
   - [Questionnaires & Self-tests](#questionnaires--self-tests)
 - [Treatment & Therapy](#treatment--therapy)
   - [Resources for Practice, Care, Hospitals and Carers](#resources-for-practice-care-hospitals-and-carers)
-- [Severe ME/CFS](#severe-mecfs)
-- [Related Conditions: MCAS, MCS, SIBO](#related-conditions-mcas-mcs-sibo)
+  - [Severe ME/CFS](#severe-mecfs)
+- [Related Conditions](#related-conditions)
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
   - [MCS](#mcs)
   - [SIBO](#sibo)
@@ -90,13 +90,13 @@
 
 - **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
 
-## Severe ME/CFS
+### Severe ME/CFS
 
 - **[Hospital Support Pack and Anaesthesia & ME/CFS](https://meassociation.org.uk/wp-content/uploads/2025/10/HOSPITAL-SUPPORT-PACK-V3-1.pdf)** — Two free PDF packs from the UK ME Association (October 2025) for hospital stays, operations and anaesthesia in ME/CFS ([anaesthesia document](https://meassociation.org.uk/wp-content/uploads/2025/10/ANAESTHESIA-AND-MECFS-V1-1.pdf)). 🤝 [Self-help] 🧰 [Tool]
 
 - **[ME/CFS Crash Survival Guide](https://batemanhornecenter.org/education/mecfs-guidebook/)** — Practical guide by the Bateman Horne Center for patients, carers and clinicians on preventing and managing ME/CFS crashes. 🤝 [Self-help]
 
-## Related Conditions: MCAS, MCS, SIBO
+## Related Conditions
 
 ### MCAS / Histamine intolerance
 
