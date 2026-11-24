@@ -96,6 +96,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[MCAS-Diagnostik (MCAS-Hope)](https://mcas-hope.de/mcas/mcas-diagnostik/)** — Informationen des Vereins MCAS-Hope zur Diagnostik über die hausärztliche Praxis und zu möglichen Laboren; mit einer [Literaturübersicht zu MCAS und ME/CFS](https://www.mastzellenhilfe.de/mcas-und-me-cfs-literatur) der Mastzellenhilfe. 🤝 [Self-help] 📖 [Professional literature]
 
+- **[Mastzellaktivierung (MCAS) – ruhtenberg.info](https://ruhtenberg.info/mcas/)** — Deutschsprachiger Überblick eines Hamburger Facharztes für Allgemein-, Sport- und Ernährungsmedizin zu möglichen Symptomen, Auslösern und Diagnostik bei MCAS, mit einem eigenen Abschnitt zu Therapieansätzen; der Beitrag wird auf der Website einer Privatpraxis mit Online-Akademie veröffentlicht und wurde zuletzt im September 2025 aktualisiert. 📖 [Professional literature] 💰 [Commercial]
+
 ### MCS
 
 - **[MCS-Atemluftinitiative Schleswig-Holstein](https://www.mcs-atemluftinitiative-sh.de/)** — Initiative von und für Betroffene mit Multipler Chemikalien-Sensitivität in Schleswig-Holstein mit Betroffenenstimmen, Studien zur Prävalenz und Hinweisen für ein duft- und rauchfreies Umfeld; die Seite wird laufend ausgebaut. 🤝 [Self-help] 📣 [Advocacy]
