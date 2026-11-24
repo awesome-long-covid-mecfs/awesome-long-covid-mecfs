@@ -191,6 +191,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Tee mit Molly](https://www.teemitmolly.de/)** — Persönliches Portal einer Betroffenen mit Blog, Podcast „Teepause", Linksammlung und Antragshilfen; die Linksammlung enthält Amazon-Affiliate-Links und Spendenaufrufe, einzelne Blogbeiträge sind persönliche Erfahrungen. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
 
+- **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
+
 ### Vereine & Verbände
 
 - **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)). 🤝 [Self-help]
