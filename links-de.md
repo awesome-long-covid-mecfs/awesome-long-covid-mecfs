@@ -299,6 +299,8 @@ Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste 
 
 - **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
 
+- **[Stiftung Unabhängige Patientenberatung Deutschland (UPD)](https://patientenberatung.de/)** — Kostenfreie, unabhängige Beratung zu gesundheitlichen und gesundheitsrechtlichen Fragen per Telefon, in Vor-Ort-Stellen und schriftlich über ein Online-Portal; bundesweit und ohne Mitgliedschaft. 🏛️ [Authority]
+
 - **[Berufliche Teilhabe bei Long COVID (REHADAT-Wissen)](https://www.rehadat-wissen.de/ausgaben/12-long-covid/)** — Online-Broschüre des BMAS-förderten REHADAT zu Arbeitsplatzanpassungen, Wiedereingliederung und Förderleistungen bei Long COVID, mit Statements von Betroffenen; auch als [PDF bei der BIH](https://www.bih.de/fileadmin/user_upload/Bereich-INA/Downloads/rehadat_wissen_ausgabe12_long_covid.pdf) verfügbar. 🏛️ [Authority]
 
 ### Pflegegrad
