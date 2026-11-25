@@ -187,7 +187,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **Einträge mit fragilen Zielen geprüft (EN):** `oiresource.com/cfsscale.htm` liefert 200; Lizenz-/Kurskosten-Einträge ohne Marker-Änderung belassen (braucht Rücksprache)
 - [x] Formatierung: zwei fehlende Leerzeilen zwischen Einträgen in `links-de.md` ergänzt (Schlusspunkte waren überall vorhanden)
 - [x] DE-Einstieg: „Suggest a link" → „Link vorschlagen"; EN bleibt unverändert, weil es der Name der Issue-Vorlage ist
-- [ ] Doppelten Guava-Link klären: gleiche URL in beiden Sprachdateien, DE-Beschreibung nennt zwar 20+ Sprachen, eine eigene DE-Fassung ist aber nicht verlinkt
+- [x] **Entscheidung Guava-Doppel:** Eintrag bleibt in beiden Sprachdateien, weil die App laut Anbieter auch Deutsch unterstützt; DE-Text präzisiert jetzt „App auch auf Deutsch, Website englischsprachig". `/de` und `/de/` liefern 404
 - [x] **Entscheidung: Verteilung EN/DE bleibt bewusst asymmetrisch** – für die vielen DE-Themen (Recht, Berichterstattung) sind keine guten englischen Quellen bekannt; keine Angleichung anstreben
 - [x] **Inhaltsverzeichnisse aufgeräumt**: EN 6 und DE 1 TOC-Zeilen für entfernte Rubriken gestrichen; DE-Verweise auf EN erlaubt, EN verweist nicht auf DE
 - [x] Sitemap-Eintrag der Google-Verifizierungsdatei entfernt: `sitemap: false` als Frontmatter in der Datei selbst; die Verifizierungszeile bleibt unverändert, `_config.yml` bleibt unangetastet. Nach dem nächsten Build live prüfen

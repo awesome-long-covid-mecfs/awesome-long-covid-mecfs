@@ -201,7 +201,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Elara Health](https://www.elara-health.de/de)** — App zur Erfassung von Energie, Symptomen, Aktivitäten, Ernährung und Stuhlgang mit Auswertungen und exportierbarem Arztbericht; die Basisversion ist derzeit kostenlos und werbefrei. 📱 [App] 💰 [Commercial] 🆓 [Partly free]
 
-- **[Guava](https://guavahealth.com/)** — Persönliche Gesundheits-App zum Erfassen von Symptomen, Medikamenten, Laborergebnissen und Arztnotizen mit Auswertungen, druckbarer Vorbereitung für Arztbesuche und frei anpassbaren eigenen Tracking-Parametern; Medikamentenerinnerungen, Zugriff für Angehörige sowie die Einbindung von Smartwatches und weiteren Geräten werden unterstützt; laut Anbieter in über 20 Sprachen für Web, iOS und Android nutzbar, mit kostenlosem Basisangebot und kostenpflichtigen Zusatzfunktionen. 📱 [App] 🆓 [Partly free]
+- **[Guava](https://guavahealth.com/)** — Persönliche Gesundheits-App zum Erfassen von Symptomen, Medikamenten, Laborergebnissen und Arztnotizen mit Auswertungen, druckbarer Vorbereitung für Arztbesuche und frei anpassbaren eigenen Tracking-Parametern; Medikamentenerinnerungen, Zugriff für Angehörige sowie die Einbindung von Smartwatches und weiteren Geräten werden unterstützt; laut Anbieter in über 20 Sprachen nutzbar, darunter Deutsch, und im Web sowie für iOS und Android verfügbar; die Website selbst ist englischsprachig. Kostenloses Basisangebot und kostenpflichtige Zusatzfunktionen. 📱 [App] 🆓 [Partly free]
 
 ### Sonstiges
 
