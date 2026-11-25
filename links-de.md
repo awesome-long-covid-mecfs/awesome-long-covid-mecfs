@@ -252,7 +252,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 📣 [Advocacy]
 
-- **[Deutsche Gesellschaft für ME/CFS e. V.](https://www.mecfs.de/)** — Patientenorganisation mit verständlichen Informationen zu ME/CFS und Long COVID, Materialien für Betroffene, Angehörige und Fachpersonen sowie Selbsthilfeangeboten. 📖 [Professional literature]
+- **[Deutsche Gesellschaft für ME/CFS e. V.](https://www.mecfs.de/)** — Patientenorganisation mit verständlichen Informationen zu ME/CFS und Long COVID, Materialien für Betroffene, Angehörige und Fachpersonen sowie Selbsthilfeangeboten. 🤝 [Self-help] 📣 [Advocacy]
 
 - **[startaMEvolution e. V.](https://startamevolution.org/)** — Initiative von Betroffenen und Angehörigen zu Long COVID und ME/CFS mit Ratgebern, Erfahrungsberichten und Veranstaltungen. 📣 [Advocacy]
 
@@ -394,7 +394,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Postinfektiöse Erkrankungen – Stellungnahme 2026](https://www.leopoldina.org/fileadmin/user_upload/Dokumente/2026_Leopoldina-Stellungnahme_Postinfekti%C3%B6se_Erkrankungen.pdf)** — Stellungnahme der Nationalen Akademie der Wissenschaften Leopoldina zu Versorgung, Dateninfrastruktur, Forschung und Prävention ([Publikationsseite](https://www.leopoldina.org/ergebnisse-und-termine/publikationen/detail/postinfektioese-erkrankungen-versorgung-dateninfrastruktur-forschung-und-praevention-2026)). 🏛️ [Authority]
 
-- **[Forschungsförderung Long COVID und ME/CFS in Deutschland](https://mecfs-research.org/fundingreport-long-covid-and-mecfs/)** — Bestandsaufnahme der öffentlichen Forschungsförderung durch die ME/CFS Research Foundation ([Bericht als PDF](https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf)). 📊 [Systematic review]
+- **[Forschungsförderung Long COVID und ME/CFS in Deutschland](https://mecfs-research.org/fundingreport-long-covid-and-mecfs/)** — Bestandsaufnahme der öffentlichen Forschungsförderung durch die ME/CFS Research Foundation ([Bericht als PDF](https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf)). 📖 [Professional literature]
 
 - **[Die Top 100 Therapiestudien zu PAIS](https://mecfs-research.org/news-top100paistrials/)** — Gastbeitrag von Dr. Fred Dejonckheere bei der ME/CFS Research Foundation mit einer Übersicht über 100 interventionelle Studien zu postakuten Infektionssyndromen; die Stiftung weist ausdrücklich darauf hin, dass die genannten Interventionen keine Therapieempfehlung darstellen. 🗂️ [Collection]
 
