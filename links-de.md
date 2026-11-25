@@ -112,6 +112,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden.
 
+- **[Post-COVID-Ambulanz der Inneren Medizin – Uniklinikum Jena](https://www.uniklinikum-jena.de/kim4/Die+Klinik/Ambulanzen/Anmeldebogen+Post_COVID_Ambulanz-p-852.html)** — Anmeldebogen für die Post-COVID-Ambulanz mit ausführlichem Fragebogen und Terminvereinbarung per E-Mail; Überweisung erforderlich, Videosprechstunde möglich, Wartezeit beachten und nach dem Termin kein schriftlicher Befund (Stand Januar 2026). 🏛️ [Authority]
+
 - **[TeleClinic](https://www.teleclinic.com/)** — Kommerzielle Plattform für Videosprechstunden mit Registrierung; sie ist nicht ME/CFS-spezifisch, verweist auf ärztliches Ermessen und nennt eine Kostenübernahme durch gesetzliche Krankenkassen. 💰 [Commercial]
 
 - **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🗂️ [Collection]
