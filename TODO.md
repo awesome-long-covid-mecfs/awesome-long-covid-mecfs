@@ -190,15 +190,15 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [ ] Doppelten Guava-Link klären: gleiche URL in beiden Sprachdateien, DE-Beschreibung nennt zwar 20+ Sprachen, eine eigene DE-Fassung ist aber nicht verlinkt
 - [x] **Entscheidung: Verteilung EN/DE bleibt bewusst asymmetrisch** – für die vielen DE-Themen (Recht, Berichterstattung) sind keine guten englischen Quellen bekannt; keine Angleichung anstreben
 - [ ] **Inhaltsverzeichnisse aufräumen** (EN 30 / DE 44 Zeilen): leere Einträge entfernen; bei leeren **DE**-Kategorien auf die englische Fassung verweisen — **nicht umgekehrt** (EN-Kategorien nicht auf DE umleiten)
-- [ ] Sitemap-Eintrag der Google-Verifizierungsdatei `google2da9e7ad2ffa83cd.html` entfernen (live bestätigt)
-- [ ] Leeres GitHub-Wiki deaktivieren oder füllen; Projects ebenfalls prüfen
+- [x] Sitemap-Eintrag der Google-Verifizierungsdatei entfernt: `sitemap: false` als Frontmatter in der Datei selbst; die Verifizierungszeile bleibt unverändert, `_config.yml` bleibt unangetastet. Nach dem nächsten Build live prüfen
+- [x] GitHub-Wiki und Projects deaktiviert (`has_wiki: false`, `has_projects: false`) — beide waren ungenutzt; Projekte konnten wegen fehlendem `read:project`-Scope nicht einzeln gelistet werden
 - [x] **Info, keine Blockade für die Veröffentlichung:** der `sindresorhus/awesome`-Index ist derzeit gesperrt (PRs pausiert, 30-Tage-Regel ab 22.11., 4 fremde PRs zu reviewen). Fehlende Voraussetzungen für später: GitHub-Topic **`awesome`** neben `awesome-list`, **Awesome-Badge** in der README, `Contents` als erste Sektion, keine `Licence`-Sektion in der README, `awesome-lint` laufen lassen. Liste kann unabhängig davon veröffentlicht und in Communities vorgeschlagen werden
 - [ ] **Community-Info per E-Mail – Zielgruppen mit Kontaktweg:** DG ME/CFS (`info@dg.mecfs.de`, Kontaktformular deaktiviert); Long COVID Deutschland (Kontaktformular, bittet ausdrücklich um keine individuellen Diagnose-/Therapiefragen → sachlicher Ressourcen-Hinweis); Fatigatio e.V. (Kontaktformular/Presse); Fasynation (`info (at) fasynation.de`, ehrenamtliches Portal, Podcast, Fasy.Mail); CrunchME (Datenbank/Advocacy, Kontakt über die Website); ME/CFS-Wiki und weitere Betroffenen-Portale, Wikis und Blogs; #MEAction, Long COVID Support, Patient-Led Research Collaborative. WhatsApp- und Facebook-Gruppen nur über die Admins, nicht massenhaft anschreiben — Regeln zu Eigenwerbung vorher prüfen
 - [ ] **E-Mail-Vorlage erstellen** (DE + EN): kurzer sachlicher Hinweis auf die Liste, keine medizinische Bewertung, Bitte um Feedback statt um Weiterleitung
 
 ## Optional (nach der Veröffentlichung)
 
-- [ ] **Manuelle Linkprüfung vor einer grösseren Ankündigung** — `.github/workflows/link-check.yml` nutzt bewusst `fail: false` (seit Initial-Import `d9d01ce`, Kommentar: viele Gesundheitsseiten blockieren Bot-Prüfer). Der Check meldet Probleme, bricht aber nichts ab. Keine Änderung am Workflow geplant; bei Bedarf stichprobenartig von Hand prüfen
+- [x] **Manuelle Linkprüfung vor einer grösseren Ankündigung** — `.github/workflows/link-check.yml` nutzt bewusst `fail: false` (viele Gesundheitsseiten blockieren Bot-Prüfer); Workflow bleibt unverändert. Stichprobe vom 25.11.: 11 markierte URLs alle HTTP 200; Mediathek-/Geo-Sperren und WhatsApp-Login bleiben ungeprüft
 
 ---
 
