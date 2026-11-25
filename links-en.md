@@ -216,6 +216,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[ME/CFS Research Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/en/)** — Research tracker with plain-language summaries and direct links to primary sources. 🗂️ [Collection]
 
+- **[ME/CFS Research Foundation](https://mecfs-research.org/en/)** — Foundation of patients, relatives and supporters that funds biomedical research into ME/CFS and Long COVID and provides a research register, project overviews and information for patients. 🤝 [Self-help] 📣 [Advocacy]
+
 - **[COVID Studies (Zotero group library)](https://www.zotero.org/groups/5006109/covidstudies/library)** — Public group library collecting COVID-related studies; no login required. 🗂️ [Collection]
 
 - **[OpenSource Med](https://opensourcemed.info/)** — Independent open-access research initiative with a daily-updated tracker ([source code](https://github.com/MattH55/osmf-research-tracker)), research notes and tools for candidate compounds, biomarkers and registered trials in Long COVID and other post-viral conditions. 🗂️ [Collection] 🧰 [Tool]
