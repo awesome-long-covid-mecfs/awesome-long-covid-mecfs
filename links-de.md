@@ -110,6 +110,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden.
 
+- **[TeleClinic](https://www.teleclinic.com/)** — Kommerzielle Plattform für Videosprechstunden mit Registrierung; sie ist nicht ME/CFS-spezifisch, verweist auf ärztliches Ermessen und nennt eine Kostenübernahme durch gesetzliche Krankenkassen. 💰 [Commercial]
+
 - **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🗂️ [Collection]
 
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
