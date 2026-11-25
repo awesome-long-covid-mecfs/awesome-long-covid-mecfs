@@ -166,7 +166,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] Forschung/Studien weiter unterteilen und aufräumen (Freigabe 25.11.: Portale vs. Einzelstudien in beiden Sprachdateien)
 - [ ] Restliche offene ToDos in dieser Datei abarbeiten
 - [ ] Nicht verwendete Kategorien entfernen oder in die englische Liste verweisen
-- [ ] Prüfen, welche Seiten und Gruppen sich für eine E-Mail-Ankündigung eignen (Themenpassung, Regeln, Kontaktweg)
+- [x] Prüfen, welche Seiten und Gruppen sich für eine E-Mail-Ankündigung eignen (Themenpassung, Regeln, Kontaktweg) — Ergebnis im Abschnitt „Info: wen ich kontaktieren kann"
 - [ ] Vorlage für die Ankündigungs-E-Mail erstellen (deutsch und englisch)
 - [ ] ToDo-Liste aktualisieren und Bearbeitungsreste bereinigen
 - [ ] Repo aufräumen (verwaiste Dateien und Konfigurationsreste prüfen)
@@ -195,6 +195,38 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **Info, keine Blockade für die Veröffentlichung:** der `sindresorhus/awesome`-Index ist derzeit gesperrt (PRs pausiert, 30-Tage-Regel ab 22.11., 4 fremde PRs zu reviewen). Fehlende Voraussetzungen für später: GitHub-Topic **`awesome`** neben `awesome-list`, **Awesome-Badge** in der README, `Contents` als erste Sektion, keine `Licence`-Sektion in der README, `awesome-lint` laufen lassen. Liste kann unabhängig davon veröffentlicht und in Communities vorgeschlagen werden
 - [x] **Community-Info per E-Mail – Zielgruppen mit Kontaktweg (Recherche abgeschlossen):** DG ME/CFS (`info@dg.mecfs.de`, Kontaktformular deaktiviert); Long COVID Deutschland (Kontaktformular, bittet ausdrücklich um keine individuellen Diagnose-/Therapiefragen → sachlicher Ressourcen-Hinweis); Fatigatio e.V. (Kontaktformular/Presse); Fasynation (`info (at) fasynation.de`, ehrenamtliches Portal, Podcast, Fasy.Mail); CrunchME (Datenbank/Advocacy, Kontakt über die Website); ME/CFS-Wiki und weitere Betroffenen-Portale, Wikis und Blogs; #MEAction, Long COVID Support, Patient-Led Research Collaborative. **Versand erst nach separater Freigabe**; WhatsApp- und Facebook-Gruppen nur über die Admins, nicht massenhaft anschreiben — Regeln zu Eigenwerbung vorher prüfen
 - [ ] **E-Mail-Vorlage erstellen** (DE + EN): kurzer sachlicher Hinweis auf die Liste, keine medizinische Bewertung, Bitte um Feedback statt um Weiterleitung
+
+### Info: wen ich kontaktieren kann (Kontaktwege geprüft am 25.11.2026)
+
+Adressen stammen aus den Impressums- und Kontaktseiten der verlinkten Angebote. **Noch nichts versenden — Versand nur nach separate Freigabe.** Fünf Anbieter widersprechen ausdrücklich unaufgeforderter Werbung oder Informationspost (lebenszeit, ME/CFS-Wiki, startaMEvolution, Fasynation, ME-CFS Portal): Nachricht kurz, sachlich, nicht werblich halten.
+
+**Vereine und Portale mit E-Mail-Adresse**
+
+- DG ME/CFS: `info@dg.mecfs.de` (Kontaktformular deaktiviert)
+- ME-Hilfe e. V.: `kontakt@me-hilfe.de`
+- Verein ME/CFS & PAIVS Hilfe: `info@mecfs-paivs-hilfe.de`
+- startaMEvolution e. V.: `hello@startamevolution.org`, Impressum `johanna.w@startamevolution.org` — Widerspruch gegen Werbe-E-Mails
+- Fasynation: `info@fasynation.de`, Formular unter `/kontakt-2/` — Postfach derzeit pausiert, bei Bedarf „Wichtig oder Unaufschiebbar" markieren; keine persönliche Beratung oder Arztvermittlung
+- Das ME-CFS Portal: `info@me-cfs.net` — Regeln: keine kommerzielle Werbung ohne Absprache, keine privaten Spendenaufrufe, kein Spam; Team beantwortet keine allgemeinen Fragen
+- ME/CFS-Wiki: `sb_impressum2026@bursch.com` oder Feedbackformular auf jeder Seite — Widerspruch gegen Werbung und Meinungsforschung
+- ME/CFS – und nun?: `mecfsundnun@gmail.com`
+- mecfs-help.de: `mecfs.hilfe@gmail.com`
+- Tee mit Molly: `hallo@teemitmolly.de`, zusätzlich Formular unter `/kontakt/`
+- Tipps für LC, PV und ME/CFS Betroffene (Padlet): `tipps.fuer.lc.pv.und.me-cfs.betroffene@gmx.de` — Erreichbarkeit unbekannt
+- lebenszeit-mecfs.de: `lebenszeit-cfs@web.de` — Widerspruch gegen unaufgeforderte Werbung und Informationsmaterialien
+- No longer!: `tobims79@proton.me` (Impressumsadresse; auf der Startseite steht zusätzlich eine veraltete Yahoo-Adresse)
+- Long COVID Deutschland: Kontaktformular — ausdrücklich keine individuellen Diagnose-/Therapiefragen, sachlicher Ressourcen-Hinweis passt
+- Fatigatio e. V.: Kontaktformular / Presseformular
+- CrunchME: Kontakt über die Website (Datenbank und Advocacy)
+- #MEAction, Long COVID Support, Patient-Led Research Collaborative: Kontaktformular bzw. Community-Team
+- Leben mit ME/CFS: **kein öffentlicher Kontaktweg gefunden** (Impressum leer) — nur Kommentarfunktion, keine Adresse erfinden
+
+**Reminder: Facebook- und WhatsApp-Gruppen**
+
+- Nicht massenhaft anschreiben, nur Admin-Kontakt; Regeln zu Eigenwerbung in jeder Gruppe vorher prüfen.
+- Facebook: Gruppen aus `links-de.md` (u. a. Long COVID Deutschland, ME/CFS Treffpunkt Österreich), nur sachlicher Hinweis durch Admins.
+- Signal/WhatsApp: „Plaudergarten" (`me-cfs-chat.net`) hat keinen veröffentlichten E-Mail-Kontakt; Beitrittshilfe per SMS/Text an `+41 78 758 11 81`, keine Telefonate. `hello@email.com` dort ist ein unbearbeiteter Platzhalter im HTML — **nicht verwenden**.
+- Der WhatsApp-Kanal aus `links-de.md` braucht ebenfalls Admin-Kontakt; Login-Wand nicht geprüft.
 
 ## Optional (nach der Veröffentlichung)
 
