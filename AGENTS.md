@@ -1,118 +1,119 @@
 ---
-title: KI-Regeln (AGENTS.md)
+title: AI Rules (AGENTS.md)
 layout: default
 nav_order: 5
 nav_exclude: true
 sitemap: false
 ---
 
-# AGENTS.md – Regeln für KI-Assistenten
+# AGENTS.md – Rules for AI assistants
 
-Diese Datei gilt für alle KI-Assistenten, die in diesem Ordner arbeiten. Sie ist verbindlich; bei Widersprüchen mit anderen Dateien gewinnt sie.
+This file applies to all AI assistants working in this folder. It is binding; in case of conflict with other files, it takes precedence.
 
-## 1. Was dieses Projekt ist
+## 1. What this project is
 
-Eine **Inhalts-Sammlung**, kein Programm. Das Ergebnis sind gut kuratierte Markdown-Dateien. Die Website (GitHub Pages mit `just-the-docs`) wird daraus nur erzeugt.
+A **content collection**, not a program. The result is well-curated Markdown files. The website (GitHub Pages with `just-the-docs`) is generated from them only.
 
-**Single Source of Truth für Inhalte:** `README.md` (GitHub-Ansicht), `links-de.md`, `links-en.md` und weitere `links-<sprache>.md`.
-**Single Source of Truth für Marker:** `MARKERS.md` – daraus werden Legende, Issue-Formulare und Einträge abgeleitet. Alles andere ist Konfiguration oder erzeugtes Ergebnis.
+**Single source of truth for content:** `README.md` (GitHub view), `links-de.md`, `links-en.md` and further `links-<language>.md` files.
+**Single source of truth for markers:** `MARKERS.md` – the legend, issue forms and entries are derived from it. Everything else is configuration or generated output.
 
-## 2. Grundsatz: Vorschlag → Anmerkungen → Freigabe → Umsetzung
+## 2. Principle: proposal → comments → approval → implementation
 
-Der Normalablauf für neue Inhalte:
+The normal flow for new content:
 
-1. Der User gibt einen Link (oder eine Idee) an.
-2. Die KI **prüft und schlägt vor**, wie und wo der Eintrag eingetragen wird – noch ohne Dateiänderung.
-3. Der User macht Anmerkungen und sagt erst dann **„freigegeben"**.
-4. Nach dieser ausdrücklichen Freigabe darf die KI **den Rest machen**: Datei schreiben, committen und pushen.
+1. The user provides a link (or an idea).
+2. The AI **checks and proposes** how and where to add the entry – without changing any file yet.
+3. The user makes comments and only then says **“approved”** (German: „freigegeben").
+4. After this explicit approval, the AI may **do the rest**: write the file, commit and push.
 
-- Ohne Freigabe: **nie** Dateien ändern, committen oder pushen. Bei Unklarheit Empfehlung geben statt editieren.
-- Die Freigabe gilt nur für den konkreten, besprochenen Eintrag – nicht als Dauererlaubnis für alles Weitere.
-- Ändere nie stillschweigend bestehende Einträge, um sie "zu verbessern". Entferne Inhalte nur, wenn es verlangt und begründet ist (z. B. toter Link).
-- Ein logischer Eintrag pro Änderung. Keine Sammel-Commits verschiedener Themen.
+- Without approval: **never** change files, commit or push. If anything is unclear, give a recommendation instead of editing.
+- Approval applies only to the specific entry discussed – not as standing permission for anything else.
+- Never silently change existing entries to "improve" them. Remove content only when asked and justified (e.g. dead link).
+- One logical entry per change. No combined commits of unrelated topics.
 
-## 3. Vertrauensgrenze (besonders wichtig bei Gesundheitsthemen)
+## 3. Trust boundary (especially important for health topics)
 
-- **Keine medizinischen Behauptungen erfinden.** Was nicht in der verlinkten Quelle steht, wird nicht behauptet.
-- Hat der User **keine Beschreibung** mitgegeben, darf die KI die Seite öffnen und **eine kurze Zusammenfassung aus deren Inhalt** schreiben – nicht mehr. Keine externen Fakten, keine Bewertung, keine Schlussfolgerungen ergänzen.
-- Nicht aus dem Training "wissen", dass eine Quelle seriös ist. Link öffnen und prüfen. Wenn nicht prüfbar: neutral formulieren oder flaggen – nie behaupten.
-- **Keine Heilversprechen, keine Therapieempfehlung, keine Diagnosehilfe.** Einträge verlinken auf Quellen, sie bewerten nicht deren Wahrheit.
-- Umstrittene oder veraltete Quellen nur mit sichtbarem Marker (`[Outdated]`, `[Preprint]`) und neutraler Beschreibung.
-- Bei Unsicherheit zu Evidenz, Einordnung oder Quelle: **dem User eine Empfehlung geben, bevor etwas geschrieben wird.**
+- **Do not invent medical claims.** Do not state anything that is not in the linked source.
+- If the user gave **no description**, the AI may open the page and write **a short summary of its content** – nothing more. No external facts, no assessment, no conclusions.
+- Do not "know" from training that a source is reputable. Open and check the link. If it cannot be checked, phrase it neutrally or flag it – never claim it.
+- **No promises of cure, no treatment recommendations, no diagnostic help.** Entries link to sources; they do not judge their truth.
+- Controversial or outdated sources only with a visible marker (`[Outdated]`, `[Preprint]`) and a neutral description.
+- If unsure about evidence, classification or source: **give the user a recommendation before writing anything.**
 
-## 4. Aufnahmekriterien
+## 4. Inclusion criteria
 
-Aufnehmen, wenn die Quelle:
-- thematisch passt (Long COVID, ME/CFS, Post-Viral, POTS, MCAS, hEDS, Fibromyalgie als Begleiterkrankung),
-- in sich geschlossen und dauerhaft erreichbar ist (stabile URL, keine URL-Shortener),
-- keine Bezahlung oder Registrierung erzwingt (sonst `[Commercial]` markieren),
-- nicht rein werblich ist (Affiliate-Links ablehnen),
-- eine klare Herkunft hat (Behörde, Fachgesellschaft, Wissenschaft, Selbsthilfe, Erfahrungsbericht).
+Include a source when it:
 
-Nicht aufnehmen: Heilversprechen, Verschwörungsquellen, Paywall-only-Inhalte ohne freie Zusammenfassung, reine Werbung, doppelte Links.
+- fits the topic (Long COVID, ME/CFS, post-viral, POTS, MCAS, hEDS, fibromyalgia as a coexisting condition),
+- is self-contained and permanently reachable (stable URL, no URL shorteners),
+- does not force payment or registration (otherwise mark `[Commercial]`),
+- is not purely promotional (reject affiliate links),
+- has a clear origin (authority, professional association, science, self-help, personal experience).
 
-**Ausnahme bei doppelten Links:** Dieselbe Ressource darf in mehreren Sprachdateien stehen, wenn es dafür **jeweils eine eigene Sprachfassung** gibt. Die deutsche Version kommt nach `links-de.md`, die englische Version nach `links-en.md`. Zwei-identische Links in *derselben* Datei bleiben unerwünscht.
+Do not include: miracle cures, conspiracy sources, paywall-only content without a free summary, pure advertising, duplicate links.
 
-## 5. Eintragsformat
+**Exception for duplicate links:** The same resource may appear in several language files if there is **a separate language version for each**. The German version goes in `links-de.md`, the English version in `links-en.md`. Two identical links in *the same* file remain undesirable.
 
-```
-- **[Name der Quelle](https://...)** — Ein neutraler Satz zur Beschreibung. 📄 [Study]
-```
-
-- Ein Satz, kurzer Text, am Ende ein Punkt.
-- **Ein Datumsmarker `[Stand: …]` wird vorerst weggelassen** (Entscheidung des Users). Nicht eigenmächtig wieder ergänzen.
-- Das Icon **immer zusammen mit dem Textmarker** schreiben (z. B. `📄 [Study]`), nie nur das Emoji – sonst können Screenreader den Eintrag nicht einordnen.
-- **Alle Marker stehen auf Englisch.** Die vollständige Liste mit deutscher Übersetzung steht in [`MARKERS.md`](MARKERS.md) – dort ergänzen, nicht hier kopieren.
-- Mehrere Marker pro Eintrag sind erlaubt. Häufen sich bestimmte Kombinationen, kann daraus eine neue Kategorie entstehen – dann vorher mit dem User abstimmen.
-- **Keine Sterne, keine Gut-schlecht-Bewertung.** Nur den Quellentyp benennen – die Leserinnen und Leser urteilen selbst.
-- Sprache des Eintrags bestimmt die Datei: deutsche Quellen → `links-de.md`, englische → `links-en.md`.
-- Neue Sprachdatei nur nach Absprache mit dem User anlegen; Dateiname `links-<lang>.md`. Danach die Sprachleiste in **allen** Dateien mitaktualisieren (siehe Abschnitt 6).
-
-### Warn-Kästen
-
-Wenn ein Eintrag eine klare Warnung braucht, direkt darunter schreiben:
+## 5. Entry format
 
 ```
-> ⚠️ Diese Quelle ist veraltet – bitte nur im historischen Kontext nutzen.
+- **[Name of the source](https://...)** — A neutral sentence describing it. 📄 [Study]
 ```
 
-Nur verwenden bei `⚠️ [Outdated]` oder bei Quellen mit begründeten Bedenken (z. B. nicht mehr erreichbar, umstritten – dann mit Quellenangabe). **Nicht** für `[Preprint]` oder `[Commercial]` – dafür reichen die Marker. Keine medizinische Bewertung in den Kasten schreiben, nur einen sachlichen Hinweis.
+- One sentence, short text, ending with a period.
+- **A date marker `[Stand: …]` is omitted for now** (user decision). Do not re-add it on your own.
+- Always write the icon **together with the text marker** (e.g. `📄 [Study]`), never the emoji alone – otherwise screen readers cannot classify the entry.
+- **All markers are in English.** The full list with German translations is in [`MARKERS.md`](MARKERS.md) – add them there, do not copy them here.
+- Several markers per entry are allowed. If certain combinations pile up, a new category may emerge – agree with the user first.
+- **No stars, no good/bad rating.** Name the source type only – readers judge for themselves.
+- The language of the entry determines the file: German sources → `links-de.md`, English → `links-en.md`.
+- Only create a new language file after agreeing with the user; filename `links-<lang>.md`. Then update the language bar in **all** files (see section 6).
 
-## 6. Platzierung
+### Warning boxes
 
-- Eintrag in die **passende thematische Unterkategorie** der Sprachdatei.
-- Innerhalb einer Kategorie alphabetisch nach Namen, falls die Liste alphabetisch ist; sonst am Ende der Kategorie. Nicht willkürlich oben/unten mischen.
-- Keine neue Kategorie ohne Absprache – die vorläufigen Kategorien stehen in den Sprachdateien.
-- Mehrsprachige Quelle: **eine eigene Sprachfassung pro Sprachdatei** – deutsche Fassung nach `links-de.md`, englische Fassung nach `links-en.md`. Das ist die erlaubte Ausnahme vom Doppel-link-Verbot (siehe Abschnitt 4). Kein Kurzverweis nötig, wenn beide Fassungen vorhanden sind.
-- **Einstieg der Sprachdateien:** Jede `links-<sprache>.md` beginnt nach dem Frontmatter mit dem Titel `Awesome Long COVID & ME/CFS Resources – <Sprache>`, zwei kurzen Absätzen, dem Hinweis zum Link-Einreichen, dem ⚠️- und dem ℹ️-Hinweis. Danach folgt die Sprachleiste, dann das Inhaltsverzeichnis. Es gibt keine sprachbezogenen README-Anleitungen mehr.
-- **Änderungen in allen Sprachen:** Wird der Einstieg geändert, gehört dieselbe Änderung in alle `links-<sprache>.md` – übersetzt, aber mit gleicher Struktur und denselben Links. `README.md` bleibt die einzige README und verlinkt in der Tabelle nur noch auf die Links.
+If an entry needs a clear warning, put it directly below:
 
-- Neue Sprache: erst mit dem User abstimmen, dann `links-<lang>.md` anlegen. Danach **alle** Stellen mitaktualisieren: Tabelle in `README.md`, Einstieg, Sprachleiste und Seitentitel in allen `links-*.md` sowie die Sprachliste im Issue-Formular. Sonst entstehen verwaiste Links.
-- Die Website-Sprachnavigation läuft über die Seitentitel der Dateien mit Frontmatter (aktuell `links-en.md` als Startseite und `links-de.md`); `nav_exclude` hält Meta-Seiten aus der Seitenleiste. Englisch steht immer zuerst, dann Deutsch, dann weitere Sprachen.
+```
+> ⚠️ This source is outdated – please use it only in a historical context.
+```
 
-## 7. Geschützte Bereiche – nie ohne ausdrückliche Anweisung ändern
+Use only for `⚠️ [Outdated]` or sources with justified concerns (e.g. no longer reachable, controversial – then with a source reference). **Not** for `[Preprint]` or `[Commercial]` – the markers are enough there. Do not put a medical assessment in the box, only a factual note.
 
-- `README.md`: Abschnitte "Important"/"Wichtig" (Disclaimer), "Legende"
+## 6. Placement
+
+- Put the entry in the **appropriate thematic subsection** of the language file.
+- Within a category, alphabetical by name if the list is alphabetical; otherwise at the end of the category. Do not mix top/bottom arbitrarily.
+- No new category without agreement – the provisional categories are in the language files.
+- Multilingual source: **one separate language version per language file** – German version in `links-de.md`, English version in `links-en.md`. This is the permitted exception to the duplicate-link rule (see section 4). No short cross-reference needed if both versions exist.
+- **Intro of the language files:** Every `links-<language>.md` starts after the front matter with the title `Awesome Long COVID & ME/CFS Resources – <Language>`, two short paragraphs, the hint for submitting links, the ⚠️ and the ℹ️ notice. Then comes the language bar, then the table of contents. There are no language-specific README instructions any more.
+- **Changes in all languages:** If the intro is changed, the same change belongs in every `links-<language>.md` – translated, but with the same structure and the same links. `README.md` remains the only README and links only to the lists in its table.
+
+- New language: agree with the user first, then create `links-<lang>.md`. Then update **all** places: the table in `README.md`, the intro, the language bar and the page titles in all `links-*.md` files, and the language list in the issue form. Otherwise orphaned links appear.
+- Website language navigation runs through the page titles of the files with front matter (currently `links-en.md` as the home page and `links-de.md`); `nav_exclude` keeps meta pages out of the sidebar. English always comes first, then German, then further languages.
+
+## 7. Protected areas – never change without explicit instruction
+
+- `README.md`: sections "Important"/"Wichtig" (disclaimer), "Legende"
 - `MARKERS.md`, `AGENTS.md`, `CONTRIBUTING.md`, `CONTRIBUTING-de.md`, `CODE_OF_CONDUCT.md`
-- `_config.yml`, `.github/` (Workflows, Issue-Templates)
+- `_config.yml`, `.github/` (workflows, issue templates)
 - `LICENSE.txt`
-- Bestehende Einträge anderer Personen
+- Existing entries by other people
 
-## 8. Interne Links
+## 8. Internal links
 
-Interne Links werden **immer als `.md` geschrieben**, z. B. `[Deutsch](links-de.md)`.
-Das Plugin `jekyll-relative-links` wandelt sie beim Build automatisch in Website-Links um.
-**Niemals** `.md` manuell in `.html` ändern – das zerstört die Links im GitHub-Repo und ist überflüssig.
+Internal links are **always written as `.md`**, e.g. `[Deutsch](links-de.md)`.
+The plugin `jekyll-relative-links` converts them into website links at build time.
+**Never** manually change `.md` to `.html` – that breaks the links in the GitHub repo and is unnecessary.
 
-## 9. Ablauf für einen Änderungsvorschlag
+## 9. Workflow for a change proposal
 
-1. Scope prüfen: passt der Eintrag überhaupt hierher?
-2. Quelle/Link prüfen: erreichbar, stabil, Herkunft klar?
-3. Einzigartigkeit prüfen: ist die Quelle schon gelistet? (Ausnahme: eigene Sprachfassung in anderer Datei – erlaubt.)
-4. Platzierung bestimmen: richtige Sprachdatei, richtige Kategorie.
-5. Formulierung: Hat der User keine Beschreibung gegeben, Seite öffnen und eine **kurze Zusammenfassung aus deren Inhalt** schreiben. Sonst die Vorgabe des Users übernehmen. Kein Heilversprechen, Marker setzen – kein Datumsmarker.
-6. **Vorschlag zurückgeben** – Dateien noch nicht ändern, noch nicht committen, noch nicht pushen.
-7. User-Anmerkungen einarbeiten und **auf „freigegeben" warten**.
-8. Erst nach Freigabe: Datei schreiben, committen und pushen. Danach kurz berichten, was passiert ist.
+1. Check scope: does the entry fit here at all?
+2. Check the source/link: reachable, stable, origin clear?
+3. Check uniqueness: is the source already listed? (Exception: its own language version in another file – allowed.)
+4. Determine placement: correct language file, correct category.
+5. Wording: if the user gave no description, open the page and write a **short summary of its content**. Otherwise use the user's wording. No promises of cure, set markers – no date marker.
+6. **Return the proposal** – do not change files, commit or push yet.
+7. Incorporate user comments and **wait for “approved” / „freigegeben"**.
+8. Only after approval: write the file, commit and push. Then briefly report what happened.
 
-Im Vorschlag kurz berichten: **Entscheidung** (aufnehmen / ablehnen / nur empfehlen), **welche Dateien** betroffen wären, **welche Prüfung** gemacht wurde, **was unsicher** ist.
+In the proposal briefly report: **decision** (include / reject / recommend only), **which files** would be affected, **which checks** were made, **what is uncertain**.
