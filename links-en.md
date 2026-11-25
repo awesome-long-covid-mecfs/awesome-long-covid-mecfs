@@ -220,6 +220,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[OpenSource Med](https://opensourcemed.info/)** — Independent open-access research initiative with a daily-updated tracker ([source code](https://github.com/MattH55/osmf-research-tracker)), research notes and tools for candidate compounds, biomarkers and registered trials in Long COVID and other post-viral conditions. 🗂️ [Collection] 🧰 [Tool]
 
+- **[The Top 100 Interventional Trials in PAIS](https://mecfs-research.org/en/news-top100paistrials/)** — Guest article by Dr Fred Dejonckheere on the ME/CFS Research Foundation site reviewing 100 interventional trials in post-acute infection syndromes; the foundation explicitly notes that the interventions mentioned are not treatment recommendations. 🗂️ [Collection]
+
 - **[MEpedia](https://me-pedia.org/wiki/Welcome_to_MEpedia)** — Patient-written encyclopedia on ME/CFS and related topics, founded by the MEAction Network; articles are freely readable without an account. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Metformin after COVID-19 (ACTIV-6)](https://doi.org/10.1093/cid/ciag335)** — Randomized trial on metformin and the presence of COVID-19 symptoms six months after infection (Clinical Infectious Diseases, 2026). 📄 [Study]

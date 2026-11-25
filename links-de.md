@@ -269,6 +269,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Social Media
 
+- **[ME/CFS Forschung (WhatsApp-Kanal)](https://whatsapp.com/channel/0029Vb6OeJg4inotDv8K0K2b)** — WhatsApp-Kanal mit aktuellen Studien, Erkenntnissen und Veranstaltungen zu postinfektiösen Syndromen wie PC, PV und ME/CFS.
+
 #### Chatgruppen
 
 - **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
@@ -390,6 +392,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Postinfektiöse Erkrankungen – Stellungnahme 2026](https://www.leopoldina.org/fileadmin/user_upload/Dokumente/2026_Leopoldina-Stellungnahme_Postinfekti%C3%B6se_Erkrankungen.pdf)** — Stellungnahme der Nationalen Akademie der Wissenschaften Leopoldina zu Versorgung, Dateninfrastruktur, Forschung und Prävention ([Publikationsseite](https://www.leopoldina.org/ergebnisse-und-termine/publikationen/detail/postinfektioese-erkrankungen-versorgung-dateninfrastruktur-forschung-und-praevention-2026)). 🏛️ [Authority]
 
 - **[Forschungsförderung Long COVID und ME/CFS in Deutschland](https://mecfs-research.org/fundingreport-long-covid-and-mecfs/)** — Bestandsaufnahme der öffentlichen Forschungsförderung durch die ME/CFS Research Foundation ([Bericht als PDF](https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf)). 📊 [Systematic review]
+
+- **[Die Top 100 Therapiestudien zu PAIS](https://mecfs-research.org/news-top100paistrials/)** — Gastbeitrag von Dr. Fred Dejonckheere bei der ME/CFS Research Foundation mit einer Übersicht über 100 interventionelle Studien zu postakuten Infektionssyndromen; die Stiftung weist ausdrücklich darauf hin, dass die genannten Interventionen keine Therapieempfehlung darstellen. 🗂️ [Collection]
 
 - **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/)** — Register, das schwer und schwerst betroffene ME-Patientinnen und -Patienten mit biomedizinischer und häuslicher Forschung verbindet. 🤝 [Self-help]
 
