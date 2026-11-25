@@ -80,11 +80,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Leitlinien
 
-- **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung.
+- **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung. 📋 [Guideline]
 
-- **[S3-Leitlinie Müdigkeit (DEGAM)](https://register.awmf.org/de/leitlinien/detail/053-002)** — S3-Leitlinie „Müdigkeit" der DEGAM (AWMF 053-002) zur Abklärung und Bewertung von Müdigkeit und Belastungsintoleranz, einschließlich postviraler Müdigkeit.
+- **[S3-Leitlinie Müdigkeit (DEGAM)](https://register.awmf.org/de/leitlinien/detail/053-002)** — S3-Leitlinie „Müdigkeit" der DEGAM (AWMF 053-002) zur Abklärung und Bewertung von Müdigkeit und Belastungsintoleranz, einschließlich postviraler Müdigkeit. 📋 [Guideline]
 
-- **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar.
+- **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar. 📋 [Guideline]
 
 ### Fragebögen
 
@@ -120,7 +120,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
-- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige:
+- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige. 🤝 [Self-help] 🗂️ [Collection]
   - [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf)
   - [ME/CFS – Diagnose, Behandlung und Hinweise zur Betreuung](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_03-Diagnose_neu.pdf)
   - [ME/CFS – Pacing (Kurzversion)](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_04-Pacing_neu.pdf)
@@ -129,7 +129,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [ME/CFS – Psychotherapie](https://www.mecfs.de/wp-content/uploads/2025/03/DG.MECFS_Informationsblatt_08-Psychotherapie.pdf)
   - [ME/CFS – Informationen für die Schule](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_05-Schule_neu.pdf)
   - [ME/CFS – Informationen für Arbeitgebende](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_06-Arbeit.pdf)
-  🤝 [Self-help] 🗂️ [Collection]
 
 - **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
 
@@ -185,7 +184,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### SIBO
 
-*Noch keine deutschsprachigen Einträge – die englische Liste enthält eine klinische Leitlinie.*
+*Noch keine deutschsprachigen Einträge – die englische Liste enthält Einträge zu SIBO.*
 
 ## Hilfsmittel
 
@@ -193,13 +192,13 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[MeinEnergieKompass](https://www.stefan-fischer.net/app)** — Kostenlose, werbefreie Pacing-App für ME/CFS, Post-COVID, Post-Vac und Fibromyalgie; Energie, Symptome und Aktivitäten lassen sich erfassen, Verläufe als PDF exportieren, alle Daten bleiben lokal auf dem Gerät. 📱 [App]
 
-- **[blue-ME Pacing & Symptomtagebuch](https://www.blue-me.de/pacing-app-symptom-tagebuch-fuer-me-cfs-post-covid-post-vac-fibromyalgie/)** — App für ME/CFS, Post-COVID, Post-VAC und Fibromyalgie mit Pacing-Timer, Symptom- und Aktivitätstagebuch, Trendanalysen und PDF-Bericht; nach 14 Tagen kostenpflichtig. 📱 [App] 💰 [Commercial]
+- **[blue-ME Pacing & Symptomtagebuch](https://www.blue-me.de/pacing-app-symptom-tagebuch-fuer-me-cfs-post-covid-post-vac-fibromyalgie/)** — App für ME/CFS, Post-COVID, Post-VAC und Fibromyalgie mit Pacing-Timer, Symptom- und Aktivitätstagebuch, Trendanalysen und PDF-Bericht; nach 14 Tagen kostenpflichtig. 📱 [App] 💰 [Commercial] 🆓 [Partly free]
 
 - **[mypacing](https://mypacing.app/)** — Kostenlose Pacing-App für iOS ([App Store](https://apps.apple.com/de/app/mypacing-pacing-tagebuch/id6795426603)) und Android ([Google Play](https://play.google.com/store/apps/details?id=app.mypacing.mypacing_app)) mit 20-sekündigem Check-in sowie Ruhepuls-, HRV- und Schlafwerten aus Apple Health bzw. Health Connect; ohne Werbung, laut Anbieter kein Medizinprodukt. 📱 [App]
 
 - **[Fimo Health – Long Covid](https://www.fimohealth.com/en/patienten/longcovid)** — App mit verständlichen Informationen, Symptomtagebuch und täglichen Check-ins zu Long COVID und ME/CFS; kostenpflichtig und nur über kooperierende Krankenkassen nutzbar, die die Kosten übernehmen. 📱 [App] 💰 [Commercial]
 
-- **[Elara Health](https://www.elara-health.de/de)** — App zur Erfassung von Energie, Symptomen, Aktivitäten, Ernährung und Stuhlgang mit Auswertungen und exportierbarem Arztbericht; die Basisversion ist derzeit kostenlos und werbefrei. 📱 [App] 💰 [Commercial]
+- **[Elara Health](https://www.elara-health.de/de)** — App zur Erfassung von Energie, Symptomen, Aktivitäten, Ernährung und Stuhlgang mit Auswertungen und exportierbarem Arztbericht; die Basisversion ist derzeit kostenlos und werbefrei. 📱 [App] 💰 [Commercial] 🆓 [Partly free]
 
 - **[Guava](https://guavahealth.com/)** — Persönliche Gesundheits-App zum Erfassen von Symptomen, Medikamenten, Laborergebnissen und Arztnotizen mit Auswertungen, druckbarer Vorbereitung für Arztbesuche und frei anpassbaren eigenen Tracking-Parametern; Medikamentenerinnerungen, Zugriff für Angehörige sowie die Einbindung von Smartwatches und weiteren Geräten werden unterstützt; laut Anbieter in über 20 Sprachen für Web, iOS und Android nutzbar, mit kostenlosem Basisangebot und kostenpflichtigen Zusatzfunktionen. 📱 [App] 🆓 [Partly free]
 
@@ -271,16 +270,18 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Social Media
 
-- **[ME/CFS Forschung (WhatsApp-Kanal)](https://whatsapp.com/channel/0029Vb6OeJg4inotDv8K0K2b)** — WhatsApp-Kanal mit aktuellen Studien, Erkenntnissen und Veranstaltungen zu postinfektiösen Syndromen wie PC, PV und ME/CFS.
+- **[ME/CFS Forschung (WhatsApp-Kanal)](https://whatsapp.com/channel/0029Vb6OeJg4inotDv8K0K2b)** — WhatsApp-Kanal mit aktuellen Studien, Erkenntnissen und Veranstaltungen zu postinfektiösen Syndromen wie PC, PV und ME/CFS. 🤝 [Self-help]
 
 #### Chatgruppen
 
 - **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
+
 - **[ME Chat-Gruppe „Plaudergarten"](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
 
 #### Facebook
 
 - **[Long COVID Deutschland (Facebook-Gruppe)](https://www.facebook.com/groups/longcoviddeutschland/)** — Von der Initiative Long COVID Deutschland betriebene Online-Selbsthilfegruppe mit mehr als 10.000 Betroffenen und Angehörigen. 🤝 [Self-help]
+
 - **[ME/CFS Treffpunkt Österreich](https://www.facebook.com/groups/1440341549389981)** — Facebook-Gruppe der Österreichischen Gesellschaft für ME/CFS für Betroffene und Angehörige; Beitritt nach Beantwortung von Fragen. 🤝 [Self-help]
 
 #### Instagram
@@ -431,9 +432,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Podcasts
 
-- **[Auf Krücken rein, im Rollstuhl raus (Deutschlandfunk Kultur)](https://www.deutschlandfunkkultur.de/behandlung-von-post-covid-patienten-auf-kruecken-rein-im-rollstuhl-raus-dlf-kultur-5fb9afa1-100.html)** — Radiofeature über die Behandlung von Post-COVID-Patient:innen mit den Schwerpunkten Pacing und post-exertionelle Malaise.
+- **[Auf Krücken rein, im Rollstuhl raus (Deutschlandfunk Kultur)](https://www.deutschlandfunkkultur.de/behandlung-von-post-covid-patienten-auf-kruecken-rein-im-rollstuhl-raus-dlf-kultur-5fb9afa1-100.html)** — Radiofeature über die Behandlung von Post-COVID-Patient:innen mit den Schwerpunkten Pacing und post-exertionelle Malaise. 🎧 [Podcast]
 
-- **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF.
+- **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF. 🎧 [Podcast]
 
 ## Open-Source-Projekte / Code
 
