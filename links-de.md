@@ -4,6 +4,7 @@ description: Kuratierte Links und Ressourcen zu Long COVID / Post-COVID, ME/CFS,
 layout: default
 nav_order: 2
 locale: de_DE
+lang: de
 ---
 
 # Awesome Long COVID & ME/CFS Resources – Deutsch
