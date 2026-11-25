@@ -163,7 +163,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 
 **Vom User vorgegeben**
 
-- [ ] Forschung/Studien weiter unterteilen und aufräumen (Unterkategorien prüfen, Einträge verschieben)
+- [x] Forschung/Studien weiter unterteilen und aufräumen (Freigabe 25.11.: Portale vs. Einzelstudien in beiden Sprachdateien)
 - [ ] Restliche offene ToDos in dieser Datei abarbeiten
 - [ ] Nicht verwendete Kategorien entfernen oder in die englische Liste verweisen
 - [ ] Prüfen, welche Seiten und Gruppen sich für eine E-Mail-Ankündigung eignen (Themenpassung, Regeln, Kontaktweg)
@@ -174,7 +174,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 **Befunde aus der Inhaltsprüfung (25.11.2026, Stand nach Commit `dcb38ea`)**
 
 - [x] ToDo-Inhaltsstand korrigieren: **80 EN- / 134 DE-Einträge** statt „erste 10 Links" (Zeilen 30 und 50 dieser Datei)
-- [ ] `## Research & Studies` (EN, 20 Einträge) und `## Studien & Forschung` (DE, 9) unterteilen; neue H3 brauchen User-Abstimmung und müssen in **beide** Inhaltsverzeichnisse
+- [x] `## Research & Studies` (EN, 20) und `## Studien & Forschung` (DE, 9) unterteilt: EN 11 Portale / 9 Studien, DE 7 Portale / 2 Studien; H3 und Inhaltsverzeichnisse in beiden Dateien ergänzt
 - [ ] Leere Kategorien auflösen: EN 6 (`Guidelines`, `MCS`, `Facebook`, `Instagram`, `Legal & Benefits`, `Professional Literature`), DE 3 (`SIBO`, `Instagram`, `Open-Source-Projekte / Code`)
 - [x] Veralteten DE-Hinweis bei SIBO korrigieren: verweist jetzt auf die vorhandenen englischen SIBO-Einträge statt auf die leere Leitlinien-Sektion
 - [x] **Marker-Set weiter bereinigen** – mehr Übersicht, nur wichtige Marker: fehlende 📋 bei den drei DE-Leitlinien, 🤝 am WhatsApp-Kanal, abgehängte Marker wieder am Eintrag; 💬 bei Erfahrungsberichten bleibt offen

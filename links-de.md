@@ -59,6 +59,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Erwerbsminderungsrente](#erwerbsminderungsrente)
   - [Vorsorge & Vollmachten](#vorsorge--vollmachten)
 - [Studien & Forschung](#studien--forschung)
+  - [Forschungsportale](#forschungsportale)
+  - [Einzelstudien](#einzelstudien)
 - [Fachliteratur](#fachliteratur)
 - [Berichterstattung & Medien](#berichterstattung--medien)
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
@@ -388,6 +390,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ## Studien & Forschung
 
+### Forschungsportale
+
 - **[ME/CFS-Forschung (Research Summaries)](https://hanneseh.github.io/ME-CFS-Research-Summaries/de/)** — Research-Tracker mit Kurzerklärungen und direkten Links zu Primärquellen. 🗂️ [Collection]
 
 - **[ME/CFS Research Foundation](https://mecfs-research.org/)** — Stiftung von Betroffenen und Angehörigen, die biomedizinische Forschung zu ME/CFS und Long COVID finanziert und ein Forschungsregister, Projektübersichten und Informationen für Betroffene bereitstellt. 🤝 [Self-help] 📣 [Advocacy]
@@ -400,11 +404,13 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/)** — Register, das schwer und schwerst betroffene ME-Patientinnen und -Patienten mit biomedizinischer und häuslicher Forschung verbindet. 🤝 [Self-help]
 
+- **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
+
+### Einzelstudien
+
 - **[Neue Erkenntnisse zu molekularen Ursachen von Long COVID](https://dgfi.org/neue-erkenntnisse-zu-molekularen-ursachen-von-long-covid/)** — Meldung der Deutschen Gesellschaft für Infektiologie über eine Studie zu Botenstoffen bei anhaltenden Entzündungen in der Nasenschleimhaut nach Post-Covid. 📄 [Study]
 
 - **[Spike-Protein in den Hirnhäuten](https://www.helmholtz.de/newsroom/artikel/das-spike-protein-kann-ueber-jahre-in-den-hirnhaeuten-verbleiben/)** — Meldung der Helmholtz-Gemeinschaft über eine Studie zum Verbleib von Spike-Protein nach einer SARS-CoV-2-Infektion. 📄 [Study]
-
-- **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
 
 ## Fachliteratur
 

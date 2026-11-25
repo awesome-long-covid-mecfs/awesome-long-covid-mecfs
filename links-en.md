@@ -48,6 +48,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
     - [Reddit](#reddit)
 - [Legal & Benefits](#legal--benefits)
 - [Research & Studies](#research--studies)
+  - [Research Portals](#research-portals)
+  - [Individual Studies](#individual-studies)
 - [Professional Literature](#professional-literature)
 - [Open Source Projects / Code](#open-source-projects--code)
   - [Research / Literature Tooling](#research--literature-tooling)
@@ -214,6 +216,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Research & Studies
 
+### Research Portals
+
 - **[ME/CFS Research Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/en/)** — Research tracker with plain-language summaries and direct links to primary sources. 🗂️ [Collection]
 
 - **[ME/CFS Research Foundation](https://mecfs-research.org/en/)** — Foundation of patients, relatives and supporters that funds biomedical research into ME/CFS and Long COVID and provides a research register, project overviews and information for patients. 🤝 [Self-help] 📣 [Advocacy]
@@ -225,6 +229,18 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[The Top 100 Interventional Trials in PAIS](https://mecfs-research.org/en/news-top100paistrials/)** — Guest article by Dr Fred Dejonckheere on the ME/CFS Research Foundation site reviewing 100 interventional trials in post-acute infection syndromes; the foundation explicitly notes that the interventions mentioned are not treatment recommendations. 🗂️ [Collection]
 
 - **[MEpedia](https://me-pedia.org/wiki/Welcome_to_MEpedia)** — Patient-written encyclopedia on ME/CFS and related topics, founded by the MEAction Network; articles are freely readable without an account. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Health Rising](https://www.healthrising.org/)** — Site collecting reports and commentary on research and treatment developments in ME/CFS and fibromyalgia. 🗂️ [Collection]
+
+- **[mapMECFS](https://mapmecfs.org/)** — Data portal of the ME/CFS Collaborative Research Network for research datasets, with dataset search, an integration tool and an API; access requires registration with an institutional email address and approval. 💾 [Dataset] 🧰 [Tool] 🗂️ [Collection]
+
+- **[searchMECFS](https://searchmecfs.org/)** — Search tool for biospecimens from ME/CFS studies; queries and sample requests require registration and an application through NINDS BRAC. 💾 [Dataset] 🧰 [Tool]
+
+- **[ME/CFS Collaborative Research Network](https://mecfs.rti.org/)** — Website of the NIH-funded research network with news, events, publications, webinars and information on taking part in studies. 🏛️ [Authority] 🗂️ [Collection]
+
+- **[PLRC Registry](https://patientresearchcovid19.com/plrc-registry/)** — Research registry of the Patient-Led Research Collaborative for adults with Long COVID anywhere in the world, with questionnaires every three months and optional study matching. 🤝 [Self-help] 🗂️ [Collection]
+
+### Individual Studies
 
 - **[Metformin after COVID-19 (ACTIV-6)](https://doi.org/10.1093/cid/ciag335)** — Randomized trial on metformin and the presence of COVID-19 symptoms six months after infection (Clinical Infectious Diseases, 2026). 📄 [Study]
 
@@ -240,19 +256,9 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[When do infections lead to long COVID?](https://www.nature.com/articles/d41586-026-02683-2)** — Nature feature on the search for triggers and treatments of post-viral syndromes. 📖 [Professional literature]
 
-- **[Health Rising](https://www.healthrising.org/)** — Site collecting reports and commentary on research and treatment developments in ME/CFS and fibromyalgia. 🗂️ [Collection]
-
 - **[Noise and light hypersensitivity in ME/CFS](https://www.meresearch.org.uk/noise-and-light-hypersensitivity-in-me-cfs)** — ME Research UK summary of a study comparing sensory hypersensitivity in ME/CFS and multiple sclerosis ([original study](https://pubmed.ncbi.nlm.nih.gov/36977713/)). 📖 [Professional literature]
 
 - **[Subtypes of post-exertional malaise](https://www.meresearch.org.uk/subtypes-of-post-exertional-malaise)** — ME Research UK summary of a study on physical and mental manifestations of post-exertional malaise ([original study](https://doi.org/10.1177/13591053261420598)). 📖 [Professional literature]
-
-- **[mapMECFS](https://mapmecfs.org/)** — Data portal of the ME/CFS Collaborative Research Network for research datasets, with dataset search, an integration tool and an API; access requires registration with an institutional email address and approval. 💾 [Dataset] 🧰 [Tool] 🗂️ [Collection]
-
-- **[searchMECFS](https://searchmecfs.org/)** — Search tool for biospecimens from ME/CFS studies; queries and sample requests require registration and an application through NINDS BRAC. 💾 [Dataset] 🧰 [Tool]
-
-- **[ME/CFS Collaborative Research Network](https://mecfs.rti.org/)** — Website of the NIH-funded research network with news, events, publications, webinars and information on taking part in studies. 🏛️ [Authority] 🗂️ [Collection]
-
-- **[PLRC Registry](https://patientresearchcovid19.com/plrc-registry/)** — Research registry of the Patient-Led Research Collaborative for adults with Long COVID anywhere in the world, with questionnaires every three months and optional study matching. 🤝 [Self-help] 🗂️ [Collection]
 
 ## Professional Literature
 
