@@ -66,7 +66,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
   - [Podcasts](#podcasts)
-- [Open-Source-Projekte / Code](links-en.md#open-source-projects--code)
+- [Open-Source-Projekte / Code](#open-source-projekte--code)
 
 ## Erste Schritte
 
@@ -442,4 +442,6 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 ## Open-Source-Projekte / Code
 
-Die kuratierten Open-Source-Codeprojekte werden derzeit in der englischen Liste gepflegt: **[Open Source Projects / Code (EN)](links-en.md#open-source-projects--code)**.
+- **[mecfs-paperwork](https://mecfs-paperwork.de/)** — Offline-first Web-Tool zum Erstellen und Verwalten von ME/CFS-Formpacks mit Export als DOCX, PDF und JSON; einsetzbar für Off-Label-Anträge, E-Mails an Abgeordnete und einen Briefgenerator zu neuen ICD-10-Codes; alle Daten bleiben im Browser auf dem Gerät, der Quellcode liegt unter Apache-2. auf [GitHub](https://github.com/WBT112/mecfs-paperwork). 🧰 [Tool]
+
+Weitere kuratierte Open-Source-Codeprojekte werden in der englischen Liste gepflegt: **[Open Source Projects / Code (EN)](links-en.md#open-source-projects--code)**.
