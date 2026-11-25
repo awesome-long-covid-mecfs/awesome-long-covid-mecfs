@@ -178,7 +178,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [ ] Leere Kategorien auflösen: EN 6 (`Guidelines`, `MCS`, `Facebook`, `Instagram`, `Legal & Benefits`, `Professional Literature`), DE 3 (`SIBO`, `Instagram`, `Open-Source-Projekte / Code`)
 - [x] Veralteten DE-Hinweis bei SIBO korrigieren: verweist jetzt auf die vorhandenen englischen SIBO-Einträge statt auf die leere Leitlinien-Sektion
 - [x] **Marker-Set weiter bereinigen** – mehr Übersicht, nur wichtige Marker: fehlende 📋 bei den drei DE-Leitlinien, 🤝 am WhatsApp-Kanal, abgehängte Marker wieder am Eintrag; 💬 bei Erfahrungsberichten bleibt offen
-- [ ] Falsche Marker korrigieren: 📊 `[Systematic review]` an der DE-Forschungsförderung und 📖 `[Professional literature]` an der DG ME/CFS (passender 🤝/📣)
+- [x] Falsche Marker korrigieren: Förderbericht → 📖 `[Professional literature]`, DG ME/CFS → 🤝 `[Self-help]` 📣 `[Advocacy]`
 - [x] Widersprüchliche Marker korrigieren: 🆓 [Partly free] bei blue-ME (14 Tage kostenlos) und Elara Health (Basisversion kostenlos) ergänzt
 - [x] Zwei Warn-Kästen geprüft: ⚠️-Hinweis steht direkt unter dem Eintrag; kein `[Outdated]` nötig, weil keine Quelle veraltet ist (AGENTS.md §5 erlaubt Warn-Kästen auch bei begründeten Bedenken)
 - [x] Ungenutzte Marker klären: 🎧 `[Podcast]` auf den zwei DE-Podcasts ergänzt; `[Preprint]` nur bei Bedarf behalten, `[Outdated]` **behalten** (AGENTS.md §5 regelt dafür die Warn-Kästen)
@@ -186,7 +186,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **Einträge mit fragilen Zielen geprüft (DE):** 8 URLs per HTTP alle 200 (YouTube, ARD, ZDF, 3sat, Charité-PDF, Freiburg-PDF, linktr.ee, WhatsApp). Mediathek-/Geo-Sperren, YouTube-Verfügbarkeit und WhatsApp-Login-Wand sind damit nicht geklärt; Einträge unverändert
 - [x] **Einträge mit fragilen Zielen geprüft (EN):** `oiresource.com/cfsscale.htm` liefert 200; Lizenz-/Kurskosten-Einträge ohne Marker-Änderung belassen (braucht Rücksprache)
 - [x] Formatierung: zwei fehlende Leerzeilen zwischen Einträgen in `links-de.md` ergänzt (Schlusspunkte waren überall vorhanden)
-- [ ] DE-Einstieg: unübersetztes Label „Suggest a link" anpassen
+- [x] DE-Einstieg: „Suggest a link" → „Link vorschlagen"; EN bleibt unverändert, weil es der Name der Issue-Vorlage ist
 - [ ] Doppelten Guava-Link klären: gleiche URL in beiden Sprachdateien, DE-Beschreibung nennt zwar 20+ Sprachen, eine eigene DE-Fassung ist aber nicht verlinkt
 - [x] **Entscheidung: Verteilung EN/DE bleibt bewusst asymmetrisch** – für die vielen DE-Themen (Recht, Berichterstattung) sind keine guten englischen Quellen bekannt; keine Angleichung anstreben
 - [ ] **Inhaltsverzeichnisse aufräumen** (EN 30 / DE 44 Zeilen): leere Einträge entfernen; bei leeren **DE**-Kategorien auf die englische Fassung verweisen — **nicht umgekehrt** (EN-Kategorien nicht auf DE umleiten)
