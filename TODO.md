@@ -27,7 +27,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] Unterkategorien festgelegt (Diagnostik, Studien/Forschung, Behandlung/Therapie, Selbsthilfe & Community, Alltag & Versorgung, Hilfsmittel, Recht & Anträge, Fachliteratur, Patientengeschichten)
 - [x] Sprachebenen festlegt – Englisch primär, Deutsch, weitere möglich; eigene Sprachfassung pro Datei erlaubt
 - [x] Einheitliches Eintragsformat festgelegt – Icon + englischer Marker, kein Datum
-- [x] Erste Ressourcen gesammelt – 10 geprüfte Links in beiden Sprachdateien
+- [x] Erste Ressourcen gesammelt – aktuell 80 geprüfte Links in `links-en.md` und 134 in `links-de.md`
 - [x] Linkprüfung vor dem Publish – alle Links auf Erreichbarkeit geprüft, zwei heikle Seiten mit Marker/Warnung aufgenommen
 
 ## Qualität & Sicherheit
@@ -47,7 +47,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 
 ## Nächste Schritte (vom User vorgegeben)
 
-- [ ] Inhalte: erste 10 Links sind drin – weitere Ressourcen sammeln ist der nächste grosse Schritt
+- [ ] Inhalte: 80 EN- / 134 DE-Einträge – weitere Ressourcen sammeln ist der nächste grosse Schritt
 - [x] Eigenes GitHub-Repo angelegt: Name genau `awesome-long-covid-mecfs`, ohne README initialisiert
 - [x] Ordnerinhalt in das neue Repo kopiert und gepusht
 - [x] GitHub Pages aktiviert (Branch `main`, Pfad `/`) – per GitHub-API gesetzt
@@ -145,7 +145,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **README-Struktur und Einstieg** – `README-en.md` ist jetzt Website-Startseite (`permalink: /`), `README.md` bleibt die GitHub-README ohne Frontmatter und wird per `exclude` nicht gebaut. Buttons und Live-Link entfernt; stattdessen eine 2×2-Tabelle „Anleitung/Ressourcen × Deutsch/Englisch" mit Hinweis auf sprach- und regionsspezifische Quellen. Warnung gekürzt und mit ⚠️ versehen. Verweise in `links-*.md`, `MARKERS.md` und `AGENTS.md` auf `README-en.md` umgestellt.
 - [x] **Themenliste direkt in den READMEs** – automatisch aus einer Quelle geht das nicht: GitHub rendert READMEs ohne Jekyll/Liquid, `include`-Tags und `site.pages`-Variablen würden als Klartext erscheinen. War als normale Markdown-Liste umgesetzt und auf Wunsch des Users wieder aus den Readmes entfernt; die Kategorienlisten stehen weiterhin oben in `links-*.md`.
 - [x] **Lange Abschnitte einklappen** mit nativem `<details markdown="block">` in beiden READMEs – „Was wir nicht aufnehmen", „Contributing"/„Mitmachen" und „Licence"/„Lizenz". Abweichung vom Vorschlag: drei einzelne Aufklapper statt eines gemeinsamen, damit die geschützte „Legende" an ihrer Stelle sichtbar bleibt; die H2-Überschriften bleiben aussen (Anker und TOC erhalten). Kein JavaScript, GitHub-kompatibel, per Tastatur und Screenreader bedienbar; „Important" und „Legende" bleiben unangetastet; die Sprachleiste wurde später aus den Readmes entfernt.
-- [ ] **Lesbarkeit auf der Website erhöhen** – `_sass/custom/setup.scss` mit `$font-size-4: 1rem;`, `$font-size-5: 1.125rem;` und `$nav-width: 18rem;` (Fliesstext heute 14 px) ist noch offen; `remote_theme` ist jetzt auf `@v0.12.0` gepinnt. Wirkt nur auf der Website, nicht in der GitHub-README-Ansicht.
+- [x] **Lesbarkeit auf der Website erhöhen** – vom User am 25.11.2026 als erledigt bestätigt; Live-CSS liefert desktop `html{font-size:1rem}`, mobil `.875rem`. Die ursprünglich genannte Datei `_sass/custom/setup.scss` existiert nicht (nur `_sass/custom/custom.scss`). Wirkt nur auf der Website, nicht in der GitHub-README-Ansicht.
 - [x] **IndexNow eingerichtet** – öffentlicher Key `36116e1a-ab38-4110-b67a-2cae8b6b3e42.txt` im Repo; `.github/workflows/indexnow.yml` meldet bei Push auf `main` (nach gewartetem Pages-Build) und manuell die zwei Seiten an Bing/Yandex/Seznam/Naver/Yep; `workflow_run` funktioniert für den Pages-Workflow nicht. Google ist nicht Teil des Protokolls und braucht weiterhin Search Console. Bei Repo-Umzug Key und `keyLocation` mitziehen.
 - [x] **SEO-Metadaten aktualisiert** – `description` beider Link-Seiten entspricht jetzt dem neuen Einstieg (inkl. SIBO, Dysautonomie, PEM); sechs Meta-Seiten haben `sitemap: false` und erscheinen nicht mehr in der Sitemap.
 - [x] **Google Search Console: Property angelegt** – URL-Präfix `https://awesome-long-covid-mecfs.github.io/awesome-long-covid-mecfs/`. Verifizierung per HTML-Datei `google2da9e7ad2ffa83cd.html` (live HTTP 200), Sitemap eingereicht und Indexierung für `/` und `/links-de.html` angefordert. Die Google Indexing API ist für diese Seite nicht nutzbar (nur JobPosting/BroadcastEvent).
@@ -158,6 +158,47 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] **Sprachbezogene Readmes entfernt** – `README-de.md` und `README-en.md` gelöscht; ihr Einstieg steht jetzt übersetzt auf `links-en.md`/`links-de.md`, `links-en.md` ist die Website-Startseite (`permalink: /`), und die Tabelle in `README.md` hat nur noch die Spalte „Links". Alle Verweise in `AGENTS.md`, `CONTRIBUTING*.md`, `MARKERS.md`, `_config.yml` und diesem ToDo sind angepasst.
 - [x] **Seitenleisten-Titel umgebrochen** – lokale `_includes/title.html` schreibt „Awesome" in die erste Zeile, den Rest darunter; Schrift und Padding im CSS angepasst, damit die Zeilen in die Kopfzeile passen.
 - [x] **Seitenleisten-Layout korrigiert** – `_sass/custom/custom.scss` verkleinert den Site-Titel und entfernt den ungenutzten Platz links der Seitenleiste (`.side-bar` auf 16.5rem, innere Elemente auf 100%). Die Datei muss bei Theme-Updates gegengeprüft werden.
+
+## Vorbereitung Community-Vorschlag (vom User angeregt, 25.11.2026)
+
+**Vom User vorgegeben**
+
+- [ ] Forschung/Studien weiter unterteilen und aufräumen (Unterkategorien prüfen, Einträge verschieben)
+- [ ] Restliche offene ToDos in dieser Datei abarbeiten
+- [ ] Nicht verwendete Kategorien entfernen oder in die englische Liste verweisen
+- [ ] Prüfen, welche Seiten und Gruppen sich für eine E-Mail-Ankündigung eignen (Themenpassung, Regeln, Kontaktweg)
+- [ ] Vorlage für die Ankündigungs-E-Mail erstellen (deutsch und englisch)
+- [ ] ToDo-Liste aktualisieren und Bearbeitungsreste bereinigen
+- [ ] Repo aufräumen (verwaiste Dateien und Konfigurationsreste prüfen)
+
+**Befunde aus der Inhaltsprüfung (25.11.2026, Stand nach Commit `dcb38ea`)**
+
+- [x] ToDo-Inhaltsstand korrigieren: **80 EN- / 134 DE-Einträge** statt „erste 10 Links" (Zeilen 30 und 50 dieser Datei)
+- [ ] `## Research & Studies` (EN, 20 Einträge) und `## Studien & Forschung` (DE, 9) unterteilen; neue H3 brauchen User-Abstimmung und müssen in **beide** Inhaltsverzeichnisse
+- [ ] Leere Kategorien auflösen: EN 6 (`Guidelines`, `MCS`, `Facebook`, `Instagram`, `Legal & Benefits`, `Professional Literature`), DE 3 (`SIBO`, `Instagram`, `Open-Source-Projekte / Code`)
+- [x] Veralteten DE-Hinweis bei SIBO korrigieren: verweist jetzt auf die vorhandenen englischen SIBO-Einträge statt auf die leere Leitlinien-Sektion
+- [x] **Marker-Set weiter bereinigen** – mehr Übersicht, nur wichtige Marker: fehlende 📋 bei den drei DE-Leitlinien, 🤝 am WhatsApp-Kanal, abgehängte Marker wieder am Eintrag; 💬 bei Erfahrungsberichten bleibt offen
+- [ ] Falsche Marker korrigieren: 📊 `[Systematic review]` an der DE-Forschungsförderung und 📖 `[Professional literature]` an der DG ME/CFS (passender 🤝/📣)
+- [x] Widersprüchliche Marker korrigieren: 🆓 [Partly free] bei blue-ME (14 Tage kostenlos) und Elara Health (Basisversion kostenlos) ergänzt
+- [ ] Zwei Warn-Kästen prüfen: ⚠️-Sichtbarkeit auch am Eintrag selbst sicherstellen — aber **keinen** `[Outdated]`-Marker vergeben, solange die Quelle nicht veraltet ist (AGENTS.md §5 erlaubt Warn-Kästen auch bei begründeten Bedenken)
+- [x] Ungenutzte Marker klären: 🎧 `[Podcast]` auf den zwei DE-Podcasts ergänzt; `[Preprint]` nur bei Bedarf behalten, `[Outdated]` **behalten** (AGENTS.md §5 regelt dafür die Warn-Kästen)
+- [ ] Umgang mit DocCheck-Login als Zugangshürde festlegen (bisher kein Marker dafür)
+- [x] **Einträge mit fragilen Zielen geprüft (DE):** 8 URLs per HTTP alle 200 (YouTube, ARD, ZDF, 3sat, Charité-PDF, Freiburg-PDF, linktr.ee, WhatsApp). Mediathek-/Geo-Sperren, YouTube-Verfügbarkeit und WhatsApp-Login-Wand sind damit nicht geklärt; Einträge unverändert
+- [x] **Einträge mit fragilen Zielen geprüft (EN):** `oiresource.com/cfsscale.htm` liefert 200; Lizenz-/Kurskosten-Einträge ohne Marker-Änderung belassen (braucht Rücksprache)
+- [x] Formatierung: zwei fehlende Leerzeilen zwischen Einträgen in `links-de.md` ergänzt (Schlusspunkte waren überall vorhanden)
+- [ ] DE-Einstieg: unübersetztes Label „Suggest a link" anpassen
+- [ ] Doppelten Guava-Link klären: gleiche URL in beiden Sprachdateien, DE-Beschreibung nennt zwar 20+ Sprachen, eine eigene DE-Fassung ist aber nicht verlinkt
+- [ ] **Entscheidung: Verteilung EN/DE bleibt bewusst asymmetrisch** – für die vielen DE-Themen (Recht, Berichterstattung) sind keine guten englischen Quellen bekannt; keine Angleichung anstreben
+- [ ] **Inhaltsverzeichnisse aufräumen** (EN 30 / DE 44 Zeilen): leere Einträge entfernen; bei leeren **DE**-Kategorien auf die englische Fassung verweisen — **nicht umgekehrt** (EN-Kategorien nicht auf DE umleiten)
+- [ ] Sitemap-Eintrag der Google-Verifizierungsdatei `google2da9e7ad2ffa83cd.html` entfernen (live bestätigt)
+- [ ] Leeres GitHub-Wiki deaktivieren oder füllen; Projects ebenfalls prüfen
+- [ ] **Info, keine Blockade für die Veröffentlichung:** der `sindresorhus/awesome`-Index ist derzeit gesperrt (PRs pausiert, 30-Tage-Regel ab 22.11., 4 fremde PRs zu reviewen). Fehlende Voraussetzungen für später: GitHub-Topic **`awesome`** neben `awesome-list`, **Awesome-Badge** in der README, `Contents` als erste Sektion, keine `Licence`-Sektion in der README, `awesome-lint` laufen lassen. Liste kann unabhängig davon veröffentlicht und in Communities vorgeschlagen werden
+- [ ] **Community-Info per E-Mail – Zielgruppen mit Kontaktweg:** DG ME/CFS (`info@dg.mecfs.de`, Kontaktformular deaktiviert); Long COVID Deutschland (Kontaktformular, bittet ausdrücklich um keine individuellen Diagnose-/Therapiefragen → sachlicher Ressourcen-Hinweis); Fatigatio e.V. (Kontaktformular/Presse); Fasynation (`info (at) fasynation.de`, ehrenamtliches Portal, Podcast, Fasy.Mail); CrunchME (Datenbank/Advocacy, Kontakt über die Website); ME/CFS-Wiki und weitere Betroffenen-Portale, Wikis und Blogs; #MEAction, Long COVID Support, Patient-Led Research Collaborative. WhatsApp- und Facebook-Gruppen nur über die Admins, nicht massenhaft anschreiben — Regeln zu Eigenwerbung vorher prüfen
+- [ ] **E-Mail-Vorlage erstellen** (DE + EN): kurzer sachlicher Hinweis auf die Liste, keine medizinische Bewertung, Bitte um Feedback statt um Weiterleitung
+
+## Optional (nach der Veröffentlichung)
+
+- [ ] **Manuelle Linkprüfung vor einer grösseren Ankündigung** — `.github/workflows/link-check.yml` nutzt bewusst `fail: false` (seit Initial-Import `d9d01ce`, Kommentar: viele Gesundheitsseiten blockieren Bot-Prüfer). Der Check meldet Probleme, bricht aber nichts ab. Keine Änderung am Workflow geplant; bei Bedarf stichprobenartig von Hand prüfen
 
 ---
 
