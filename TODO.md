@@ -175,7 +175,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 
 - [x] ToDo-Inhaltsstand korrigieren: **80 EN- / 134 DE-Einträge** statt „erste 10 Links" (Zeilen 30 und 50 dieser Datei)
 - [x] `## Research & Studies` (EN, 20) und `## Studien & Forschung` (DE, 9) unterteilt: EN 11 Portale / 9 Studien, DE 7 Portale / 2 Studien; H3 und Inhaltsverzeichnisse in beiden Dateien ergänzt
-- [ ] Leere Kategorien auflösen: EN 6 (`Guidelines`, `MCS`, `Facebook`, `Instagram`, `Legal & Benefits`, `Professional Literature`), DE 3 (`SIBO`, `Instagram`, `Open-Source-Projekte / Code`)
+- [x] Leere Kategorien aufgelöst: EN 6 entfernt (`Guidelines`, `MCS`, `Facebook`, `Instagram`, `Legal & Benefits`, `Professional Literature`), DE `Instagram` entfernt; DE `SIBO` verweist jetzt auf die EN-Liste, `Open-Source-Projekte / Code` bleibt als Querverweis erhalten
 - [x] Veralteten DE-Hinweis bei SIBO korrigieren: verweist jetzt auf die vorhandenen englischen SIBO-Einträge statt auf die leere Leitlinien-Sektion
 - [x] **Marker-Set weiter bereinigen** – mehr Übersicht, nur wichtige Marker: fehlende 📋 bei den drei DE-Leitlinien, 🤝 am WhatsApp-Kanal, abgehängte Marker wieder am Eintrag; 💬 bei Erfahrungsberichten bleibt offen
 - [x] Falsche Marker korrigieren: Förderbericht → 📖 `[Professional literature]`, DG ME/CFS → 🤝 `[Self-help]` 📣 `[Advocacy]`
@@ -189,7 +189,7 @@ Veröffentlicht als GitHub-Repo `awesome-long-covid-mecfs`, mehrsprachig, Sprach
 - [x] DE-Einstieg: „Suggest a link" → „Link vorschlagen"; EN bleibt unverändert, weil es der Name der Issue-Vorlage ist
 - [ ] Doppelten Guava-Link klären: gleiche URL in beiden Sprachdateien, DE-Beschreibung nennt zwar 20+ Sprachen, eine eigene DE-Fassung ist aber nicht verlinkt
 - [x] **Entscheidung: Verteilung EN/DE bleibt bewusst asymmetrisch** – für die vielen DE-Themen (Recht, Berichterstattung) sind keine guten englischen Quellen bekannt; keine Angleichung anstreben
-- [ ] **Inhaltsverzeichnisse aufräumen** (EN 30 / DE 44 Zeilen): leere Einträge entfernen; bei leeren **DE**-Kategorien auf die englische Fassung verweisen — **nicht umgekehrt** (EN-Kategorien nicht auf DE umleiten)
+- [x] **Inhaltsverzeichnisse aufgeräumt**: EN 6 und DE 1 TOC-Zeilen für entfernte Rubriken gestrichen; DE-Verweise auf EN erlaubt, EN verweist nicht auf DE
 - [x] Sitemap-Eintrag der Google-Verifizierungsdatei entfernt: `sitemap: false` als Frontmatter in der Datei selbst; die Verifizierungszeile bleibt unverändert, `_config.yml` bleibt unangetastet. Nach dem nächsten Build live prüfen
 - [x] GitHub-Wiki und Projects deaktiviert (`has_wiki: false`, `has_projects: false`) — beide waren ungenutzt; Projekte konnten wegen fehlendem `read:project`-Scope nicht einzeln gelistet werden
 - [x] **Info, keine Blockade für die Veröffentlichung:** der `sindresorhus/awesome`-Index ist derzeit gesperrt (PRs pausiert, 30-Tage-Regel ab 22.11., 4 fremde PRs zu reviewen). Fehlende Voraussetzungen für später: GitHub-Topic **`awesome`** neben `awesome-list`, **Awesome-Badge** in der README, `Contents` als erste Sektion, keine `Licence`-Sektion in der README, `awesome-lint` laufen lassen. Liste kann unabhängig davon veröffentlicht und in Communities vorgeschlagen werden

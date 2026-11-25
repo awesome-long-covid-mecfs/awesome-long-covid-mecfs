@@ -46,7 +46,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Social Media](#social-media)
     - [Chatgruppen](#chatgruppen)
     - [Facebook](#facebook)
-    - [Instagram](#instagram)
     - [Reddit](#reddit)
 - [Recht & Anträge](#recht--anträge)
   - [Beratungs- und Unterstützungsangebote](#beratungs--und-unterstützungsangebote)
@@ -186,7 +185,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### SIBO
 
-*Noch keine deutschsprachigen Einträge – die englische Liste enthält Einträge zu SIBO.*
+Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)**.
 
 ## Hilfsmittel
 
@@ -285,10 +284,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Long COVID Deutschland (Facebook-Gruppe)](https://www.facebook.com/groups/longcoviddeutschland/)** — Von der Initiative Long COVID Deutschland betriebene Online-Selbsthilfegruppe mit mehr als 10.000 Betroffenen und Angehörigen. 🤝 [Self-help]
 
 - **[ME/CFS Treffpunkt Österreich](https://www.facebook.com/groups/1440341549389981)** — Facebook-Gruppe der Österreichischen Gesellschaft für ME/CFS für Betroffene und Angehörige; Beitritt nach Beantwortung von Fragen. 🤝 [Self-help]
-
-#### Instagram
-
-*Noch keine geprüften Einträge – Vorschläge willkommen.*
 
 #### Reddit
 

@@ -24,7 +24,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - [Getting Started](#getting-started)
 - [Diagnosis](#diagnosis)
-  - [Guidelines](#guidelines)
   - [Questionnaires](#questionnaires)
 - [Treatment](#treatment)
   - [Resources for Practice, Care, Hospitals and Carers](#resources-for-practice-care-hospitals-and-carers)
@@ -32,7 +31,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Severe ME/CFS](#severe-mecfs)
 - [Related Conditions](#related-conditions)
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
-  - [MCS](#mcs)
   - [SIBO](#sibo)
 - [Assistive Devices](#assistive-devices)
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
@@ -43,14 +41,10 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Associations & Charities](#associations--charities)
   - [Social Media](#social-media)
     - [Chat Groups](#chat-groups)
-    - [Facebook](#facebook)
-    - [Instagram](#instagram)
     - [Reddit](#reddit)
-- [Legal & Benefits](#legal--benefits)
 - [Research & Studies](#research--studies)
   - [Research Portals](#research-portals)
   - [Individual Studies](#individual-studies)
-- [Professional Literature](#professional-literature)
 - [Open Source Projects / Code](#open-source-projects--code)
   - [Research / Literature Tooling](#research--literature-tooling)
 
@@ -59,10 +53,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[What is ME/CFS?](https://www.youtube.com/watch?v=vQWVZdGm508)** — Short video introducing ME/CFS from the Bateman Horne Center. 🎬 [Video]
 
 ## Diagnosis
-
-### Guidelines
-
-*No reviewed entries yet – suggestions welcome.*
 
 ### Questionnaires
 
@@ -128,10 +118,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[SIGHI Food Compatibility List (English)](https://www.mastzellaktivierung.info/downloads/foodlist/21_FoodList_EN_alphabetic_withCateg.pdf)** — English, alphabetically sorted food compatibility list of the Swiss Interest Group Histamine Intolerance for the histamine elimination diet; free PDF. 🧰 [Tool]
 
-### MCS
-
-*No reviewed entries yet – suggestions welcome.*
-
 ### SIBO
 
 - **[ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth](https://www.spg.pt/wp-content/uploads/2023/03/ACG-Clinical-Guideline-Small-Intestinal-Bacterial-Overgrowth.pdf)** — Clinical guideline of the American College of Gastroenterology on small intestinal bacterial overgrowth as a PDF. 📋 [Guideline]
@@ -194,14 +180,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[ME Connected](https://meassociation.org.uk/support/me-connect-support)** — Moderated Discord community run by the ME Association for people with ME/CFS and Long Covid, with over 2,000 members and channels for support, symptoms and social topics. 🤝 [Self-help]
 
-#### Facebook
-
-*No reviewed entries yet – suggestions welcome.*
-
-#### Instagram
-
-*No reviewed entries yet – suggestions welcome.*
-
 #### Reddit
 
 - **[r/cfs](https://www.reddit.com/r/cfs/)** — Long-established ME/CFS community covering research, treatments and personal stories; frequently named the main ME/CFS forum on Reddit. 🤝 [Self-help]
@@ -209,10 +187,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[r/CFSScience](https://www.reddit.com/r/CFSScience/)** — Reddit community for discussing research studies and science on ME/CFS and Long COVID; the subreddit points to r/cfs for more general topics. 🤝 [Self-help]
 
 - **[r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)** — Community for people with symptoms lasting longer than four weeks after COVID-19, focused on shared experiences, symptom advice and mutual support. 🤝 [Self-help]
-
-## Legal & Benefits
-
-*No reviewed entries yet – suggestions welcome.*
 
 ## Research & Studies
 
@@ -259,10 +233,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[Noise and light hypersensitivity in ME/CFS](https://www.meresearch.org.uk/noise-and-light-hypersensitivity-in-me-cfs)** — ME Research UK summary of a study comparing sensory hypersensitivity in ME/CFS and multiple sclerosis ([original study](https://pubmed.ncbi.nlm.nih.gov/36977713/)). 📖 [Professional literature]
 
 - **[Subtypes of post-exertional malaise](https://www.meresearch.org.uk/subtypes-of-post-exertional-malaise)** — ME Research UK summary of a study on physical and mental manifestations of post-exertional malaise ([original study](https://doi.org/10.1177/13591053261420598)). 📖 [Professional literature]
-
-## Professional Literature
-
-*No reviewed entries yet – suggestions welcome.*
 
 ## Open Source Projects / Code
 
