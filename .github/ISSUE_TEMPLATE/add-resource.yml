@@ -35,21 +35,11 @@ body:
         - Other
     validations:
       required: true
-  - type: dropdown
+  - type: input
     id: category
     attributes:
       label: Best-fit category
-      options:
-        - Diagnosis
-        - Research & Studies
-        - Treatment & Therapy
-        - Self-Help & Community
-        - Daily Life & Care
-        - Assistive Devices
-        - Legal & Benefits
-        - Professional Literature
-        - Patient Stories
-        - Not sure
+      description: Use a heading from the contents list at the top of links-en.md or links-de.md.
     validations:
       required: true
   - type: dropdown
@@ -66,10 +56,16 @@ body:
         - Professional literature
         - Preprint
         - Commercial
+        - Partly free
+        - Membership required
         - Outdated
         - Collection
+        - Dataset
         - Tool
+        - App
         - Advocacy
+        - Video
+        - Podcast
         - Not sure
     validations:
       required: true
