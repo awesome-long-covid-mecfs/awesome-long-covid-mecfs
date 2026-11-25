@@ -28,7 +28,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Leitlinien](#leitlinien)
   - [Fragebögen](#fragebögen)
 - [Behandlung](#behandlung)
-  - [Arzt- und Therapeutensuche](#arzt-und-therapeutensuche)
+  - [Arzt- und Therapeutensuche](#arzt--und-therapeutensuche)
   - [Material für Praxis, Pflege, Krankenhaus und Angehörige](#material-für-praxis-pflege-krankenhaus-und-angehörige)
   - [Pacing](#pacing)
   - [Schwer erkrankt](#schwer-erkrankt)
