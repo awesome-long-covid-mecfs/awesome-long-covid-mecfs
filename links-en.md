@@ -146,9 +146,9 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[CrunchME](https://crunchme.org/)** — Data-informed advocacy for ME/CFS, Long COVID and other infection-associated chronic illnesses; its [ecosystem database](https://crunchme.org/database) collects research, organisations, clinical guidance, registries and funding in one searchable place. 📣 [Advocacy] 🗂️ [Collection]
 
-- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research.
+- **[Severe & Very Severe ME Research Registry](https://severe-me-registry.de/en/start/)** — Registry connecting people with severe and very severe ME to biomedical and home-based research. 🤝 [Self-help]
 
-- **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid.
+- **[Pacing Strategies](https://cfsselfhelp.org/library/9-pacing-strategies)** — Free chapter of the ME/CFS & FM Self-Help Program on pacing and energy management; the full courses are paid. 🤝 [Self-help] 💰 [Commercial] 🆓 [Partly free]
 
 - **[Rolling PEM: What It Is and How to Avoid It](https://tickedoffcodess.com/rolling-pem-what-it-is-and-how-to-avoid-it/)** — Patient-written article on rolling post-exertional malaise and recognising cumulative overexertion in ME/CFS and Long COVID, with cited sources. 💬 [Patient story]
 
@@ -164,11 +164,11 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[#MEAction](https://www.meaction.net/)** — International patient network on ME and Long COVID with campaigns, group and clinician directories and support resources; sign-up is only needed for newsletters and events. 📣 [Advocacy]
 
-- **[The ME Association](https://meassociation.org.uk/)** — UK charity providing a free helpline, fact sheets and local groups for people with ME/CFS.
+- **[The ME Association](https://meassociation.org.uk/)** — UK charity providing a free helpline, fact sheets and local groups for people with ME/CFS. 🤝 [Self-help]
 
-- **[Action for ME](https://www.actionforme.org.uk/)** — UK charity offering support services, forums and under-18 support for people with ME/CFS.
+- **[Action for ME](https://www.actionforme.org.uk/)** — UK charity offering support services, forums and under-18 support for people with ME/CFS. 🤝 [Self-help]
 
-- **[Long Covid Kids](https://www.longcovidkids.org/)** — UK charity supporting children and young people with Long COVID and ME and their families, with an education toolkit.
+- **[Long Covid Kids](https://www.longcovidkids.org/)** — UK charity supporting children and young people with Long COVID and ME and their families, with an education toolkit. 🤝 [Self-help]
 
 - **[Patient-Led Research Collaborative](https://patientresearchcovid19.com/)** — International group of Long COVID patients conducting patient-led research and publishing plain-language resources. 🗂️ [Collection]
 
