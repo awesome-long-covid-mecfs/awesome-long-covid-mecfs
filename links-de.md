@@ -316,6 +316,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[ME Kollektiv](https://mekollektiv.com/)** — Sammlung von Ressourcen zu ME/CFS; der verlinkte [Google-Drive-Ordner](https://drive.google.com/drive/folders/1sXfcYVY4e8y213ELYC3nqr9OJj4J5n0D) bündelt eine Studiensammlung, Informationen und Leitlinien. 🗂️ [Collection]
 
+- **[Post-Vac-Syndrom Deutschland e. V.](https://postvac.org/ueber-uns/)** — Von Betroffenen gegründeter, wissenschaftlich orientierter Verein zu Post-Vac, der das Forum weiterführt und auch Post-COVID und ME/CFS einbezieht; mit [Forum](https://postvac.org/community/) und [Ärzte-Verzeichnis](https://postvac.org/aerzte-verzeichnis/). 🤝 [Self-help] 📣 [Advocacy]
+
 ### Social Media
 
 - **[ME/CFS Forschung (WhatsApp-Kanal)](https://whatsapp.com/channel/0029Vb6OeJg4inotDv8K0K2b)** — WhatsApp-Kanal mit aktuellen Studien, Erkenntnissen und Veranstaltungen zu postinfektiösen Syndromen wie PC, PV und ME/CFS. 🤝 [Self-help]
