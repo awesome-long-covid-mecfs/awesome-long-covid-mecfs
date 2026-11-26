@@ -406,6 +406,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Forschungsagenda der Charité AG Scheibenbogen](https://immunologie.charite.de/forschung/ag_scheibenbogen/schwerpunkte)** — Überblick über laufende Forschungsprojekte der Arbeitsgruppe an der Charité, unter anderem zu Autoantikörpern und Epstein-Barr-Virus. 🏛️ [Authority]
 
+- **[ME/CFS Studien MeinEnergieKompass](https://studien.meinenergiekompass.de)** — Sammlung wissenschaftlicher ME/CFS-Studien mit verständlichen, KI-unterstützt erstellten Zusammenfassungen, durchsuchbar nach Tags, Stichworten, Autor:innen, DOI und Abstract; das Archiv wird laufend erweitert. 🗂️ [Collection]
+
 ### Einzelstudien
 
 - **[Neue Erkenntnisse zu molekularen Ursachen von Long COVID](https://dgfi.org/neue-erkenntnisse-zu-molekularen-ursachen-von-long-covid/)** — Meldung der Deutschen Gesellschaft für Infektiologie über eine Studie zu Botenstoffen bei anhaltenden Entzündungen in der Nasenschleimhaut nach Post-Covid. 📄 [Study]
