@@ -156,7 +156,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Anästhesieleitfaden bei ME/CFS](https://www.millionsmissing.de/anaesthesie-narkose/)** — Deutsche Zusammenfassung empfohlener Verfahren und Vorsichtsmaßnahmen bei Operationen und Narkose für ME/CFS-Betroffene (Stand Januar 2025). 📋 [Guideline]
 
-- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog. 📖 [Professional literature] 🧰 [Tool]
+- **[SOP Transport und Notfallversorgung von ME/CFS-Patient:innen](https://www.pacing-mecfs.de/content/files/2025/07/SOP_Transport_MECFS-Patienten_Rev_2.pdf)** — Vom Rettungsmediziner Dr. Dennis Ritter verfasste Arbeitsanleitung (Rev. 2, 2025) für einen reizarmen, schonenden Transport, bereitgestellt auf Tanjas Pacing Blog ([Mirror](https://public-health.meduniwien.ac.at/fileadmin/content/OE/public-health/Primary_Care_Medicine/PDFs/SOP_Transport_MECFS-Patienten_Rev_2.pdf)). 📖 [Professional literature] 🧰 [Tool]
 
 ### Pacing
 
