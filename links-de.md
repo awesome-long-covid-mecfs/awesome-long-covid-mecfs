@@ -138,6 +138,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[116 117 Terminbuchung](https://www.116117-termine.de/)** — Online-Terminvermittlung des Ärztlichen Bereitschaftsdienstes für Hausarzt- und Facharzttermine außerhalb der üblichen Praxiszeiten. 🏛️ [Authority]
 
+- **[Spezialklinik Neukirchen](https://www.spezialklinik-neukirchen.de/)** — Private Akutklinik mit komplementärmedizinischem Konzept, die auch CFS/ME, MCS und Fibromyalgie als Umwelterkrankungen aufführt; laut Klinikangabe ist sie von allen deutschen und österreichischen Krankenkassen anerkannt, bei Aufnahme übernimmt die Kasse den Aufenthalt, während einige speziellere Untersuchungen und Behandlungen nicht von der Kasse bezahlt werden. 💰 [Commercial]
+
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
@@ -263,6 +265,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 - **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen, mit Blog, Forum und einer Datenbank mit Ärztelisten. 🗂️ [Collection]
 
 - **[Selbsthilfe-Gruppenfinder der Long-Covid-Plattform](https://www.long-covid-plattform.de/selbsthilfegruppen-finden)** — Umkreis- und Schlagwortsuche für Selbsthilfegruppen zu Long COVID, ME/CFS und Post-Vac mit Filter für regionale und bundesweite Angebote. 🗂️ [Collection]
+  - [Aktuelle Meldungen der Long-Covid-Plattform](https://www.long-covid-plattform.de/long-covid-news)
 
 - **[NAKOS – Corona-Selbsthilfegruppen](https://www.nakos.de/adressen/corona-selbsthilfegruppen)** — Adressverzeichnis der Nationalen Kontakt- und Informationsstelle für Selbsthilfegruppen zu Corona, Long COVID und Post-COVID mit bundesweiten und regionalen Kontakten. 🗂️ [Collection]
 

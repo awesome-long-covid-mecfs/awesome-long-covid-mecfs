@@ -156,6 +156,10 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[ME&CFS](https://meandcfs.org/)** — Clear, calm information on ME/CFS, written by someone who lives with it, with explanatory pages, research, tools and downloadable materials. 🗂️ [Collection]
 
+- **[Science for ME](https://s4me.info/)** — Science-focused patient forum on ME/CFS with active weekly news summaries and sections for research, treatments and patient experiences; posting requires registration. 🤝 [Self-help]
+
+- **[Phoenix Rising Forums](https://forums.phoenixrising.me/)** — Long-standing English-language ME/CFS forum with sections on research, treatments and self-help; it hosts a wide range of patient views and is not a source of medical advice. 🤝 [Self-help]
+
 #### Patient Stories
 
 - **[Unrest](https://www.youtube.com/watch?v=XOpyLTyVxco)** — Documentary film about ME/CFS told from the perspective of patients and researchers. 🎬 [Video]
@@ -189,6 +193,12 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[r/CFSScience](https://www.reddit.com/r/CFSScience/)** — Reddit community for discussing research studies and science on ME/CFS and Long COVID; the subreddit points to r/cfs for more general topics. 🤝 [Self-help]
 
 - **[r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)** — Community for people with symptoms lasting longer than four weeks after COVID-19, focused on shared experiences, symptom advice and mutual support. 🤝 [Self-help]
+
+#### Bluesky
+
+- **[ME/CFS & Long COVID Starter Pack](https://bsky.app/starter-pack/mecfshawaii.bsky.social/3lcjcoslntq2u)** — Bluesky starter pack following 125 ME/CFS and Long COVID organisations, researchers and patient accounts; requires a Bluesky account. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[LongCovid feed](https://bsky.app/profile/allyann.bsky.social/feed/aaaj6ooucgyta)** — Bluesky keyword feed collecting posts with Long COVID and ME/CFS hashtags such as #LongCovid, #pwLC and PASC; no editorial selection and a Bluesky account is required. 🗂️ [Collection]
 
 ## Research & Studies
 
