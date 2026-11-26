@@ -78,6 +78,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Was ist Pacing?](https://www.youtube.com/watch?v=a6LS4afZSg8)** — Kurzes Erklärvideo derselben Herausgeber zum Umgang mit der individuellen Belastungsgrenze bei ME/CFS. 🎬 [Video] 🤝 [Self-help]
 
+- **[Einstiegshilfe zu ME](https://drive.google.com/file/d/1-v31dBmNwWReSdm3D_89cEQbphj87UlA/view?usp=drive_link)** — Privat von einer schwer erkrankten Person zusammengestellte Einstiegshilfe als Word-Dokument mit verlinkten Informationen zu PEM, Pacing, Diagnostik, Alltag und Anträgen; laut Eigenangabe für Smartphone, PC und Ausdruck optimiert und wird fortlaufend aktualisiert. 🗂️ [Collection]
+
 ## Diagnostik
 
 ### Leitlinien
