@@ -52,7 +52,7 @@ Include a source when it:
 
 Do not include: miracle cures, conspiracy sources, paywall-only content without a free summary, pure advertising, duplicate links.
 
-**Exception for duplicate links:** The same resource may appear in several language files if there is **a separate language version for each**. The German version goes in `links-de.md`, the English version in `links-en.md`. Two identical links in *the same* file remain undesirable.
+**Exception for duplicate links:** The same resource may appear in several language files if there is **a separate language version for each**. The German version goes in `links-de.md`, the English version in `links-en.md`. Two identical links in *the same* file remain undesirable. A resource counts as a separate language version if its app/content is fully usable in the file language, even when the website URL is identical.
 
 ## 5. Entry format
 
