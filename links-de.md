@@ -80,6 +80,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Einstiegshilfe zu ME](https://drive.google.com/file/d/1-v31dBmNwWReSdm3D_89cEQbphj87UlA/view?usp=drive_link)** — Privat von einer schwer erkrankten Person zusammengestellte Einstiegshilfe als Word-Dokument mit verlinkten Informationen zu PEM, Pacing, Diagnostik, Alltag und Anträgen; laut Eigenangabe für Smartphone, PC und Ausdruck optimiert und wird fortlaufend aktualisiert. 🗂️ [Collection]
 
+- **[Was ist ME/CFS?](https://www.mecfs.de/was-ist-me-cfs/#Behandlung)** — Informationsseite der Deutschen Gesellschaft für ME/CFS zu ME/CFS mit einem Abschnitt zu Behandlung und Lebensqualität.
+
+- **[Begriffe und Abkürzungen rund um ME/CFS](https://www.teemitmolly.de/wp-content/uploads/2025/08/Begriffe-und-Abkuerzungen-rund-um-ME.pdf)** — Von Chrizzo und Molly für den Podcast Teepause erstelltes Glossar zu Begriffen und Abkürzungen rund um ME/CFS ([Podcast „Teepause"](https://www.teemitmolly.de/podcast-teepause/)). 🎧 [Podcast]
+
 ## Diagnostik
 
 ### Leitlinien
@@ -145,6 +149,14 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis“ der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
+
+- **[Pacing (Deutsche Gesellschaft für ME/CFS)](https://www.mecfs.de/was-ist-me-cfs/pacing/)** — Seite der Deutschen Gesellschaft für ME/CFS zu Pacing als grundlegender Strategie des Krankheitsmanagements und zum Umgang mit der individuellen Belastungsgrenze. 🤝 [Self-help]
+
+- **[Vier-Phasen-Konzept (Dr. med. Kristina Schultheiß)](https://www.dr-med-kristina-schultheiss.de/post/das-vier-phasen-konzept-bei-long-covid-me-cfs-und-warum-sch%C3%BCtzen-zuerst-kommt)** — Beitrag einer Internistin und Kardiologin zum Vier-Phasen-Konzept bei Long COVID und ME/CFS, in dem Schutz vor Belastung zuerst steht; ergänzend ein Beitrag zu [Phasenmodellen](https://www.fasynation.de/phasenmodelle-behandlung-me-cfs-long-covid/) von Fasynation. 💰 [Commercial]
+
+- **[Pacing with Garmin](https://sites.google.com/view/pacing-with-garmin/)** — Website zu Pacing-Apps für Garmin-Uhren mit Anleitungen, kompatiblen Modellen und direkten App-Links; der Betreiber weist darauf hin, dass die Apps kein Medizinprodukt seien und keine entsprechende Genauigkeit beanspruchten, und erläutert ein laufendes Verfahren zur möglichen Einstufung. 🧰 [Tool]
+
+- **[30/30-Regel (Fasynation)](https://www.fasynation.de/30-sekunden-regel-prof-simon/)** — Beitrag von Fasynation zur 30/30-Regel nach Prof. Dr. Dr. Simon mit 30 Sekunden Aktivität und 30 Sekunden Pause, gedacht für Bell Scores bis etwa 30. 🤝 [Self-help]
 
 ### Schwer erkrankt
 
@@ -218,6 +230,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Hörbücherei des BSVÖ](https://www.hoerbuecherei.at/aktuelles/hoerbuecher-als-wertvolle-unterstuetzung-bei-mecfs)** — Kostenloser digitaler Hörbuchdienst für Menschen, die aus gesundheitlichen Gründen keine herkömmlichen Bücher lesen können; die Anmeldung erfordert einen entsprechenden Nachweis, Hörbücher gibt es per App oder als Versand. 🧰 [Tool] 📱 [App]
 
+- **[Hilfsmittelliste (ME Kollektiv)](https://mekollektiv.com/ressourcen/)** — Liste mit Ideen für Hilfsmittel, die den Alltag bei ME erleichtern können. 🗂️ [Collection]
+
 ## Selbsthilfe-Netzwerke
 
 - **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
@@ -225,6 +239,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 ### Portale, Community & Blogs
 
 - **[Fasynation](https://www.fasynation.de/)** — Ehrenamtliches Portal von Betroffenen für Betroffene mit Podcast, Blog und Ressourcenlisten (u. a. Ärzte sowie von Betroffenen bewertete Reha-Einrichtungen) zu ME/CFS und Long Covid; der kostenlose interne Bereich ist nach E-Mail-Anmeldung zugänglich. 🗂️ [Collection]
+
+- **[Community-Umfrage 2026 (Fasynation)](https://www.fasynation.de/grosse-umfrage-2026-me-cfs-long-post-covid/)** — Community-Umfrage zu Puls-Pacing und zu Methoden, die Betroffene subjektiv als wirksam einschätzen; keine wissenschaftliche Studie und keine Behandlungsempfehlung. 🤝 [Self-help]
 
 - **[Das ME-CFS Portal](https://www.me-cfs.net/)** — Deutschsprachige Online-Selbsthilfegruppe für Betroffene, Angehörige und Interessierte zu ME/CFS, Long COVID und verwandten Syndromen, mit Blog, Forum und einer Datenbank mit Ärztelisten. 🗂️ [Collection]
 
@@ -240,7 +256,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[ME&CFS](https://meandcfs.org/de)** — Ruhige, belegte Informationen zu ME/CFS von einer betroffenen Person, mit Erklärseiten, Forschung, Werkzeugen und Download-Materialien. 🗂️ [Collection]
 
-- **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection]
+- **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt, darunter [KI-Tipps in einem Breakout-Room](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/breakout-room/Bk5x4dL7lZ5N4Zgz-K5gBvaMy7kJBvpV7). 🗂️ [Collection]
 
 - **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 💰 [Commercial]
 
@@ -273,6 +289,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 - **[ME-Hilfe e. V.](https://me-hilfe.de)** — Verein für die Unterstützung und Vertretung von Menschen mit ME/CFS, Long COVID, Post-COVID und Post-Vac sowie deren Angehörigen; mit einem [Leitfaden für Angehörige, Pflegende und Alltagshelfende](https://me-hilfe.de/wp-content/uploads/2026/02/ME-CFS-Leitfaden-ME-Hilfe-20251015.pdf) als PDF. 📣 [Advocacy]
 
 - **[Österreichische Gesellschaft für ME/CFS – Betroffene](https://mecfs.at/betroffene/)** — Bereich der Österreichischen Gesellschaft für ME/CFS mit kostenlosen Leitfäden zu sozialer Absicherung, Vernetzung und Downloads für Betroffene. 🗂️ [Collection]
+
+- **[ME Kollektiv](https://mekollektiv.com/)** — Sammlung von Ressourcen zu ME/CFS; der verlinkte [Google-Drive-Ordner](https://drive.google.com/drive/folders/1sXfcYVY4e8y213ELYC3nqr9OJj4J5n0D) bündelt eine Studiensammlung, Informationen und Leitlinien. 🗂️ [Collection]
 
 ### Social Media
 
@@ -355,6 +373,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 ### Teilhabe & Assistenz
 
 - **[Berufliche Teilhabe bei Long COVID (REHADAT-Wissen)](https://www.rehadat-wissen.de/ausgaben/12-long-covid/)** — Online-Broschüre des BMAS-förderten REHADAT zu Arbeitsplatzanpassungen, Wiedereingliederung und Förderleistungen bei Long COVID, mit Statements von Betroffenen; auch als [PDF bei der BIH](https://www.bih.de/fileadmin/user_upload/Bereich-INA/Downloads/rehadat_wissen_ausgabe12_long_covid.pdf) verfügbar. 🏛️ [Authority]
+
+- **[Agentur für Haushaltshilfe](https://www.agentur-fuer-haushaltshilfe.de/me-cfs/)** — Agentur für Haushaltshilfe und Alltagsbegleitung, die Mitarbeitende eigenen Angaben zufolge speziell zu ME schult.
 
 ### Pflegegrad
 
