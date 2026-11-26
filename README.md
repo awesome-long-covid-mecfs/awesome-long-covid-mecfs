@@ -4,7 +4,11 @@ Curated resources on **Long COVID / Post-COVID**, **ME/CFS (Myalgic Encephalomye
 
 For **patients, carers and researchers**. This list is multilingual: resources appear in the language in which they were published. Every entry is checked by a human before it goes live.
 
-**Know a link that belongs here?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
+**Know a link that belongs here?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email:
+
+`awesome-long-covid-mecfs[at]sags-per-mail.de`
+
+(Replace `[at]` with `@`.) Details: [Contributing](CONTRIBUTING.md).
 
 > ⚠️ **Important:** Not medical advice or a treatment recommendation. We only link to sources – their publishers are responsible for the content.
 
@@ -50,7 +54,11 @@ Found a dead link? Use ["Broken link"](https://github.com/awesome-long-covid-mec
 
 If you know GitHub, you can also send a pull request – please follow [CONTRIBUTING.md](CONTRIBUTING.md) and [AGENTS.md](AGENTS.md).
 
-**Without a GitHub account:** email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). The address is written this way so simple spam crawlers cannot collect it.
+**Without a GitHub account:** email:
+
+`awesome-long-covid-mecfs[at]sags-per-mail.de`
+
+(Replace `[at]` with `@`.) The address is written this way so simple spam crawlers cannot collect it.
 
 </details>
 

@@ -12,7 +12,11 @@ Curated links and resources on **Long COVID / Post-COVID**, **ME/CFS (myalgic en
 
 For **patients, carers and researchers**. The list is multilingual: resources appear in the language in which they were published. Every entry is checked by a human before publication.
 
-**Know a good source?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email `awesome-long-covid-mecfs[at]sags-per-mail.de` (replace `[at]` with `@`). Details: [Contributing](CONTRIBUTING.md).
+**Know a good source?** Open the [“Suggest a link” issue](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) or email:
+
+`awesome-long-covid-mecfs[at]sags-per-mail.de`
+
+(Replace `[at]` with `@`.) Details: [Contributing](CONTRIBUTING.md).
 
 > ⚠️ **Important:** Not medical advice and no treatment recommendation. We only link to sources – their publishers are responsible for their content.
 
