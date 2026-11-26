@@ -13,7 +13,7 @@ Kuratierte Links und Ressourcen zu **Long COVID / Post-COVID**, **ME/CFS (Myalgi
 
 Für **Betroffene, Angehörige und Forschende**. Die Liste ist mehrsprachig: Ressourcen stehen in der Sprache, in der sie erschienen sind. Jeder Eintrag wird vor der Veröffentlichung von einem Menschen geprüft.
 
-**Du kennst eine gute Quelle?** Öffne das Issue [„Link vorschlagen"](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING-de.md).
+**Du kennst eine gute Quelle?** Öffne das Issue [„Link vorschlagen“](https://github.com/awesome-long-covid-mecfs/awesome-long-covid-mecfs/issues/new/choose) oder schreib an `awesome-long-covid-mecfs[at]sags-per-mail.de` (`[at]` durch `@` ersetzen). Details: [Mitmachen](CONTRIBUTING-de.md).
 
 > ⚠️ **Wichtig:** Keine medizinische Beratung und keine Behandlungsempfehlung. Wir verlinken nur auf Quellen – die Herausgeber verantworten deren Inhalt.
 
@@ -84,7 +84,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[S2k-Leitlinie Long-/Post-COVID](https://register.awmf.org/de/leitlinien/detail/020-027)** — Symptomorientierte Diagnostik und Therapie, AWMF-Leitlinie 020-027 in der aktuellen Fassung. 📋 [Guideline]
 
-- **[S3-Leitlinie Müdigkeit (DEGAM)](https://register.awmf.org/de/leitlinien/detail/053-002)** — S3-Leitlinie „Müdigkeit" der DEGAM (AWMF 053-002) zur Abklärung und Bewertung von Müdigkeit und Belastungsintoleranz, einschließlich postviraler Müdigkeit. 📋 [Guideline]
+- **[S3-Leitlinie Müdigkeit (DEGAM)](https://register.awmf.org/de/leitlinien/detail/053-002)** — S3-Leitlinie „Müdigkeit“ der DEGAM (AWMF 053-002) zur Abklärung und Bewertung von Müdigkeit und Belastungsintoleranz, einschließlich postviraler Müdigkeit. 📋 [Guideline]
 
 - **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar. 📋 [Guideline]
 
@@ -116,7 +116,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[TeleClinic](https://www.teleclinic.com/)** — Kommerzielle Plattform für Videosprechstunden mit Registrierung; sie ist nicht ME/CFS-spezifisch, verweist auf ärztliches Ermessen und nennt eine Kostenübernahme durch gesetzliche Krankenkassen. 💰 [Commercial]
 
-- **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?" kann „Online-Beratung" als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🗂️ [Collection]
+- **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?“ kann „Online-Beratung“ als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🗂️ [Collection]
 
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
 
@@ -140,7 +140,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Pacing
 
-- **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis" der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
+- **[Pacing-Broschüre (SGME)](https://cdn.sgme.ch/pdf/Pacing-Broschuere.pdf)** — Broschüre „Leben mit Myalgischer Enzephalomyelitis“ der Schweizerischen Gesellschaft für ME & CFS zum Pacing als Technik des Energiemanagements als PDF. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[PEM-Avoidance-Toolkit (Open Medicine Foundation)](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)** — Deutschsprachiger Leitfaden der Open Medicine Foundation zum Vermeiden von post-exertioneller Malaise als PDF (Entwurf aus dem Jahr 2017). 🧰 [Tool] 🤝 [Self-help]
 
@@ -180,7 +180,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### MCS
 
-- **[Handbuch „Entgiften Sie Ihren Haushalt" (NonHazCity)](https://www.giftfreie-stadt.de/wp-content/uploads/2023/04/Handbuch.pdf)** — 40-seitiges Handbuch des Interreg-Projekts NonHazCity mit einer raumweisen Übersicht zu Schadstoffen im Haushalt, Hinweisen zu Gefahrensymbolen und Siegeln, Rezepten für Reinigungsmittel und einer kurzen Checkliste; als PDF. 🧰 [Tool] 🗂️ [Collection]
+- **[Handbuch „Entgiften Sie Ihren Haushalt“ (NonHazCity)](https://www.giftfreie-stadt.de/wp-content/uploads/2023/04/Handbuch.pdf)** — 40-seitiges Handbuch des Interreg-Projekts NonHazCity mit einer raumweisen Übersicht zu Schadstoffen im Haushalt, Hinweisen zu Gefahrensymbolen und Siegeln, Rezepten für Reinigungsmittel und einer kurzen Checkliste; als PDF. 🧰 [Tool] 🗂️ [Collection]
 
 - **[MCS-Atemluftinitiative Schleswig-Holstein](https://www.mcs-atemluftinitiative-sh.de/)** — Initiative von und für Betroffene mit Multipler Chemikalien-Sensitivität in Schleswig-Holstein mit Betroffenenstimmen, Studien zur Prävalenz und Hinweisen für ein duft- und rauchfreies Umfeld; die Seite wird laufend ausgebaut. 🤝 [Self-help] 📣 [Advocacy]
 
@@ -232,7 +232,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[lebenszeit-mecfs](https://lebenszeit-mecfs.de/)** — Link- und Informationssammlung einer Betroffenen-Initiative zu ME/CFS, Post-COVID und MCS mit Flyern, Vorlagen, Videos sowie regionalen und Selbsthilfe-Angeboten. 🗂️ [Collection]
 
-- **[Tee mit Molly](https://www.teemitmolly.de/)** — Persönliches Portal einer Betroffenen mit Blog, Podcast „Teepause", Linksammlung und Antragshilfen; die Linksammlung enthält Amazon-Affiliate-Links und Spendenaufrufe, einzelne Blogbeiträge sind persönliche Erfahrungen. 🗂️ [Collection] 💰 [Commercial]
+- **[Tee mit Molly](https://www.teemitmolly.de/)** — Persönliches Portal einer Betroffenen mit Blog, Podcast „Teepause“, Linksammlung und Antragshilfen; die Linksammlung enthält Amazon-Affiliate-Links und Spendenaufrufe, einzelne Blogbeiträge sind persönliche Erfahrungen. 🗂️ [Collection] 💰 [Commercial]
 
 - **[CFS·Magazin](https://cfsmag.de/)** — Deutschsprachiges Magazin für Betroffene und Angehörige mit Alltagstipps, Wegweiser zu Versorgung und Selbsthilfe, Erfahrungsberichten und Zusammenfassungen neuer Studien; Forschungsbeiträge entstehen laut Arbeitsweise automatisch und ohne redaktionelle Einzelprüfung. 🗂️ [Collection] 💰 [Commercial]
 
@@ -280,7 +280,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
 
-- **[ME Chat-Gruppe „Plaudergarten"](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
+- **[ME Chat-Gruppe „Plaudergarten“](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
 
 #### Facebook
 
@@ -374,7 +374,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[PostVac Tools (Bundesverband PostVac)](https://bundesverband-postvac.de/werkzeuge/)** — Sammlung von 27 Werkzeugen für Antrags- und Widerspruchswege, deren Eingaben lokal im Browser bleiben; darunter Gutachten-Check, Arzt-Anschreiben mit ME/CFS-Kriterien und Akteneinsicht ohne Anreise. 🧰 [Tool] 🤝 [Self-help]
 
-- **[Rehabilitation bei ME/CFS birgt hohes Verschlechterungsrisiko (Deutsche Gesellschaft für ME/CFS)](https://www.mecfs.de/rehabilitation-bei-me-cfs-birgt-verschlechterungsgefahr/)** — Auswertung von Studien und Betroffenerfahrungen zu „Reha vor Rente" mit Argumenten, warum bei ME/CFS die Wiederherstellung der Erwerbsfähigkeit fraglich ist und ambulante Versorgung risikoärmer ist. 🤝 [Self-help] 📣 [Advocacy]
+- **[Rehabilitation bei ME/CFS birgt hohes Verschlechterungsrisiko (Deutsche Gesellschaft für ME/CFS)](https://www.mecfs.de/rehabilitation-bei-me-cfs-birgt-verschlechterungsgefahr/)** — Auswertung von Studien und Betroffenerfahrungen zu „Reha vor Rente“ mit Argumenten, warum bei ME/CFS die Wiederherstellung der Erwerbsfähigkeit fraglich ist und ambulante Versorgung risikoärmer ist. 🤝 [Self-help] 📣 [Advocacy]
 
 ### Vorsorge & Vollmachten
 
