@@ -442,6 +442,6 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 ## Open-Source-Projekte / Code
 
-- **[mecfs-paperwork](https://mecfs-paperwork.de/)** — Offline-first Web-Tool zum Erstellen und Verwalten von ME/CFS-Formpacks mit Export als DOCX, PDF und JSON; einsetzbar für Off-Label-Anträge, E-Mails an Abgeordnete und einen Briefgenerator zu neuen ICD-10-Codes; alle Daten bleiben im Browser auf dem Gerät, der Quellcode liegt unter Apache-2. auf [GitHub](https://github.com/WBT112/mecfs-paperwork). 🧰 [Tool]
+- **[mecfs-paperwork](https://mecfs-paperwork.de/)** — Offline-first Web-Tool zum Erstellen und Verwalten von ME/CFS-Formpacks mit Export als DOCX, PDF und JSON; einsetzbar für Off-Label-Anträge, E-Mails an Abgeordnete und einen Briefgenerator zu neuen ICD-10-Codes; alle Daten bleiben im Browser auf dem Gerät, der Quellcode liegt unter Apache-2.0-Lizenz auf [GitHub](https://github.com/WBT112/mecfs-paperwork). 🧰 [Tool]
 
 Weitere kuratierte Open-Source-Codeprojekte werden in der englischen Liste gepflegt: **[Open Source Projects / Code (EN)](links-en.md#open-source-projects--code)**.
