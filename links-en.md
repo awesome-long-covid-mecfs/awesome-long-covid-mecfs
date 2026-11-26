@@ -84,6 +84,8 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[NICE guideline NG188](https://www.nice.org.uk/guidance/NG188/chapter/management)** — UK rapid guideline on managing the long-term effects of COVID-19, with recommendations on self-management and care in primary and community settings; published 2020, last updated January 2024. 🏛️ [Authority] 📋 [Guideline]
 
+- **[ME Doctors](https://medoctors.org/)** — Community-maintained directory of clinicians for ME/CFS, Long COVID and related conditions with entries from several countries; the site offers country pages and a language switch. 🗂️ [Collection]
+
 ### Resources for Practice, Care, Hospitals and Carers
 
 - **[Primary Care Guide for MCAS](https://www.mastcellaction.org/assets/_/2026/06/26/771e0b33-f60c-4c61-962a-3d811424d8c1/final-primary-care-guide-2026.pdf)** — Primary care guide for mast cell activation syndrome published by the UK charity Mast Cell Action in 2026 for use in general practice. 📖 [Professional literature]

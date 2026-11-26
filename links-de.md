@@ -94,17 +94,21 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[D-A-CH-Konsensus-Statement zu ME/CFS](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093804/)** — Konsensuspapier von Fachgesellschaften aus Deutschland, Österreich und der Schweiz zu Diagnostik und Behandlung (PDF-Mirrors bei [me-cfs.net](https://www.me-cfs.net/images/Downloads/Interdisziplinres_kollaboratives_D-A-CH_Konsensus-Statement_-_s00508-024-02372-y.pdf) und [postviral.at](https://www.postviral.at/fileadmin/user_upload/508_2024_Article_2372.pdf)); frei lesbar. 📋 [Guideline]
 
+- **[Diagnostik- und Ersttherapie-Algorithmus für ME/CFS (MedUni Wien)](https://public-health.meduniwien.ac.at/fileadmin/content/OE/public-health/Primary_Care_Medicine/PDFs/2025.06.13_Empfehlung__Diagnostik-_und_Ersttherapie-Algorithmus_fuer_MECFS_auf_der_Basisversorgungsebene.pdf)** — Empfehlung der Medizinischen Universität Wien für Diagnostik und erste Therapie in der Basisversorgung (2025) als PDF. 📋 [Guideline]
+
 ### Fragebögen
 
 > ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Diagnosis](links-en.md#diagnosis) beschrieben.
 
 - **[FUNCAP – Funktionale Kapazität](https://www.funcap.no/translations-2/funcap-auf-deutch/)** — Kostenloser Fragebogen zur Erfassung funktioneller Kapazität bei Belastungsintoleranz (PEM), mit Kurz- und Langversion. 🧰 [Tool]
 
-- **[Passiver 10-Minuten-Stehtest](https://www.pots-dysautonomia.net/_files/ugd/9808d3_8efacee9e3d446c5b3b2bb33b6f73e78.pdf)** — Zweiseitige deutsche Anleitung für einen stehenden Belastungstest zu Hause; die englische Fassung steht in der englischen Liste. 🧰 [Tool]
+- **[Passiver 10-Minuten-Stehtest](https://www.pots-dysautonomia.net/_files/ugd/9808d3_8efacee9e3d446c5b3b2bb33b6f73e78.pdf)** — Zweiseitige deutsche Anleitung für einen stehenden Belastungstest zu Hause; die englische Fassung steht in der englischen Liste ([Vorbereitung in der Praxis als PDF](https://www.mecfs.de/wp-content/uploads/2025/07/Vorbereitung-Stehtest-in-Praxis-1.pdf)). 🧰 [Tool]
 
 - **[Munich Berlin Symptom Questionnaire (MBSQ)](https://www.tauernklinikum.at/media/Fragebogen-MECFS-MBSQ-ERWACHSENE.pdf)** — Ärztlicher Anamnesebogen zu ME/CFS (PDF, [Spiegel](https://www.sarkoidose-selbsthilfe.eu/imgs/MECFS_MBSQ.pdf)); die [Studie](https://pubmed.ncbi.nlm.nih.gov/38095713) beschreibt die Anwendung. 🧰 [Tool] 📄 [Study]
 
 - **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
+
+- **[Kanadische Kriterien mit Auswertung (Charité)](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Kanadische_Kriterien_mitAuswertung.pdf)** — PDF des Charité Fatigue Centrums mit den kanadischen Diagnosekriterien und einem Auswertungsbogen für den Bell-Score. 🧰 [Tool]
 
 ## Behandlung
 
@@ -113,6 +117,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[Praxisleitfaden orthostatische Intoleranz / PoTS](https://praxisleitfaden.mecfs.de/pots)** — Leitfaden der Deutschen Gesellschaft für ME/CFS und des Charité Fatigue Centrums zu orthostatischer Intoleranz, PoTS und orthostatischer Hypotonie; der allgemeine Teil ist frei lesbar, ausführliche Angaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
 - **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
+
+- **[Begleitende Psychotherapie bei ME/CFS (Deutsche Gesellschaft für ME/CFS)](https://www.mecfs.de/psychotherapie/)** — Information der Deutschen Gesellschaft für ME/CFS zur begleitenden Psychotherapie; sie macht deutlich, dass Psychotherapie die Erkrankung nicht verursacht und nicht heilt, sondern etwa beim Umgang mit Belastungsgrenzen und in der Krankheitsverarbeitung unterstützen kann. 🤝 [Self-help]
+
+- **[Long-COVID Off-Label-Use (BfArM)](https://www.bfarm.de/DE/Arzneimittel/Zulassung/Zulassungsrelevante-Themen/Expertengruppe-Long-COVID-Off-Label-Use/_node.html)** — Seite des Bundesinstituts für Arzneimittel und Medizinprodukte zur Expertengruppe „Long-COVID Off-Label-Use“ mit Hintergründen und Empfehlungen zur Anwendung von Arzneimitteln außerhalb der zugelassenen Indikation. 🏛️ [Authority]
 
 ### Arzt- und Therapeutensuche
 
@@ -123,6 +131,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[TeleClinic](https://www.teleclinic.com/)** — Kommerzielle Plattform für Videosprechstunden mit Registrierung; sie ist nicht ME/CFS-spezifisch, verweist auf ärztliches Ermessen und nennt eine Kostenübernahme durch gesetzliche Krankenkassen. 💰 [Commercial]
 
 - **[Therapeutensuche (therapie.de)](https://www.therapie.de/therapeutensuche/)** — Verzeichnis von Psychotherapeutinnen und -therapeuten; bei „Welche Methode?“ kann „Online-Beratung“ als Filter gewählt werden, und die Profile bieten eine direkte Kontaktmöglichkeit per E-Mail. 🗂️ [Collection]
+
+- **[ME Doctors (deutsche Seite)](https://medoctors.org/de)** — Gemeinschaftlich gepflegtes Verzeichnis von Ärztinnen und Ärzten für ME/CFS, Long COVID und verwandte Erkrankungen in mehreren Ländern und Sprachen; die deutsche Seite zeigt Einträge aus Deutschland und lässt sich auf der Website auch auf Englisch umstellen. 🗂️ [Collection]
+
+- **[Bürgertelefon und regionale Kliniksuche (BMG)](https://www.bmg-longcovid.de/service/buergertelefon-und-regionale-kliniksuche)** — Seite des Bundesgesundheitsministeriums mit dem Bürgertelefon zu Fragen der Kranken- und Pflegeversicherung und einer Liste von Kliniken und Ambulanzen zu Long COVID; die Liste steht ganz unten auf der Seite. 🏛️ [Authority]
+
+- **[116 117 Terminbuchung](https://www.116117-termine.de/)** — Online-Terminvermittlung des Ärztlichen Bereitschaftsdienstes für Hausarzt- und Facharzttermine außerhalb der üblichen Praxiszeiten. 🏛️ [Authority]
 
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
 
@@ -179,6 +193,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ### MCAS / Histaminintoleranz
 
 - **[Checkliste Mastzellaktivierung (Universität Bonn)](https://www.humangenetics-bonn.de/wp-content/uploads/2024/01/Checkliste-Patientenversion-3-2022.pdf)** — Patienten-Checkliste des Bonner Instituts für Humangenetik zu möglichen mastzellvermittelten Beschwerden; Originaldokument als PDF. 🧰 [Tool]
+
+- **[Fragebogen zur Feststellung eines Mastzellmediatorfreisetzungssyndroms](https://drive.google.com/open?id=1JD0D1natGdtGZzPsZoJ0--ByhDQTg8-C)** — Patientenfragebogen als PDF mit einem Teil für Beschwerden und Intensitäten sowie Abschnitten, die von der behandelnden Ärztin oder dem Arzt ausgefüllt werden. 🧰 [Tool]
+
+- **[Merkblatt histaminarme Ernährung (SIGHI)](https://www.histaminintoleranz.ch/downloads/SIGHI-Merkblatt_histaminarmeErnaehrung.pdf)** — Merkblatt der Schweizer Interessengemeinschaft Histamin-Intoleranz zur histaminarmen Ernährung als PDF. 🧰 [Tool] 🤝 [Self-help]
 
 - **[SIGHI-Lebensmittel-Verträglichkeitsliste](https://www.mastzellaktivierung.info/downloads/foodlist/11_FoodList_DE_alphabetisch_mitKat.pdf)** — Alphabetisch sortierte Verträglichkeitsliste der Schweizer Interessengemeinschaft Histamin-Intoleranz als PDF. 🧰 [Tool]
 
@@ -260,6 +278,12 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 💰 [Commercial]
 
+- **[MEcfs Space (Link-Hub)](https://lnk.bio/mecfs.space)** — Link-Hub einer Initiative von selbst erkrankten, ehrenamtlich engagierten Menschen mit kostenlosen Online-Treffen wie Lichtmomente und RelaxME, reizarmen Angeboten auch für schwer betroffene ME/CFS-Personen sowie Vorlagen, Downloads und Petitionen. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Taskcards-Linksammlung zu ME/CFS](https://www.taskcards.de/#/board/03b2be3d-3002-4654-84c6-bcf429afd9bc/view)** — Öffentliche Pinnwand mit einer von Betroffenen gepflegten Linksammlung zu ME/CFS, Long COVID und Post-Vac, sortiert in Themenlisten von Informationen über Diagnostik und Therapie bis zu Apps, Büchern und Aktivismus. 🗂️ [Collection]
+
+- **[mecfs.dev](https://mecfs.dev/)** — Private, fortlaufend erweiterte Informationssammlung in zwei Teilen: allgemeine Einführung mit Glossar, Leitlinien, Arztlisten, Fachartikeln, Sozialrecht, Podcasts sowie Diagnostik und Therapie; die Autorin übernimmt keine Gewähr für die Inhalte. 🗂️ [Collection]
+
 #### Patientengeschichten
 
 - **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt. 💬 [Patient story]
@@ -299,6 +323,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 #### Chatgruppen
 
 - **[Gruppenfinder (ME/CFS & PAIVS Hilfe e.V.)](https://mecfs-paivs-hilfe.de/gruppenfinder.html)** — Verzeichnis von Chatgruppen des Vereins für Betroffene von ME/CFS und PAIVS über WhatsApp und Signal. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[ME-Einstiegshilfe (WhatsApp-Gruppe)](https://chat.whatsapp.com/JXnpUMGb41j90GEjrvgp04)** — WhatsApp-Gruppe zur Einstiegshilfe für ME-Betroffene; der Einladungslink kann ablaufen, aktualisierte Links stehen im Abschnitt „WhatsApp Kanal“ der [Einstiegshilfe zu ME](https://drive.google.com/file/d/1-v31dBmNwWReSdm3D_89cEQbphj87UlA/view?usp=drive_link). 🤝 [Self-help]
 
 - **[ME Chat-Gruppe „Plaudergarten“](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
 
@@ -463,6 +489,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 - **[Auf Krücken rein, im Rollstuhl raus (Deutschlandfunk Kultur)](https://www.deutschlandfunkkultur.de/behandlung-von-post-covid-patienten-auf-kruecken-rein-im-rollstuhl-raus-dlf-kultur-5fb9afa1-100.html)** — Radiofeature über die Behandlung von Post-COVID-Patient:innen mit den Schwerpunkten Pacing und post-exertionelle Malaise. 🎧 [Podcast]
 
 - **[Genesen, aber nicht gesund (NDR Info)](https://www.ndr.de/nachrichten/info/Sonderfolge-Genesen-aber-nicht-gesund,audio1107280.html)** — Radiobericht über Long-COVID-Verläufe und die Abgrenzung zu ME/CFS, mit Transkript als PDF. 🎧 [Podcast]
+
+- **[Hör mal, wer da liegt](https://www.podcast.de/podcast/3603654/hoer-mal-wer-da-liegt)** — Im Liegen aufgezeichneter Talk-Podcast von Pascal Hillgruber (ME/CFS und CCI) mit Gesprächen über das Leben mit unsichtbaren Erkrankungen, Awareness und Unterstützung. 🎧 [Podcast]
 
 ## Open-Source-Projekte / Code
 
