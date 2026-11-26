@@ -39,7 +39,7 @@ Diese Datei ist die **einzige Quelle** für alle Marker in den Ressourcenlisten.
 ## Rules
 
 - The icon is **always written together with the text marker**, e.g. `📄 [Study]`. Never the emoji alone – screen readers need the text.
-- Several markers can be combined on one entry, e.g. `⚠️ [Patient story] 💰 [Commercial]`.
+- Several markers can be combined on one entry, e.g. `💬 [Patient story] 💰 [Commercial]`.
 - If a certain combination occurs often, a new category may be created – agree with the user first.
 - No stars and no "good/bad" ratings. Markers name the **type** of source; readers judge for themselves.
 - New markers are added here first, then referenced everywhere else.
