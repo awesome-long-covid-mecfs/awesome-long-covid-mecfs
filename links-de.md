@@ -110,7 +110,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 ### Arzt- und Therapeutensuche
 
-- **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden.
+- **[Doctolib](https://www.doctolib.de/)** — Online-Plattform zur Suche und Buchung von Arzt- und Therapieterminen, auch für Videosprechstunden. 💰 [Commercial]
 
 - **[Post-COVID-Ambulanz der Inneren Medizin – Uniklinikum Jena](https://www.uniklinikum-jena.de/kim4/Die+Klinik/Ambulanzen/Anmeldebogen+Post_COVID_Ambulanz-p-852.html)** — Anmeldebogen für die Post-COVID-Ambulanz mit ausführlichem Fragebogen und Terminvereinbarung per E-Mail; Überweisung erforderlich, Videosprechstunde möglich, Wartezeit beachten und nach dem Termin kein schriftlicher Befund (Stand Januar 2026). 🏛️ [Authority]
 
@@ -152,7 +152,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Pflegeleitfaden für schweres ME/CFS](https://doi.org/10.1007/s10354-026-01155-6)** — Transdisziplinäres Expert:innen-Statement zur häuslichen Versorgung von Menschen mit schwerem ME/CFS in der Wiener Medizinischen Wochenschrift (2026); open access unter CC BY 4.0. 📖 [Professional literature]
 
-- **[Versorgung von Patient*innen mit schwerer ME/CFS](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Montoya_deutsch.pdf)** — Deutschsprachige Übersetzung eines Fachbeitrags zur Versorgung von Menschen mit schwerer und sehr schwerer ME/CFS als PDF des Charité Fatigue Centrums.
+- **[Versorgung von Patient*innen mit schwerer ME/CFS](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Montoya_deutsch.pdf)** — Deutschsprachige Übersetzung eines Fachbeitrags zur Versorgung von Menschen mit schwerer und sehr schwerer ME/CFS als PDF des Charité Fatigue Centrums. 📖 [Professional literature]
 
 ### Nicht etablierte Therapieansätze
 
@@ -218,7 +218,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 ## Selbsthilfe-Netzwerke
 
-- **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen.
+- **[INSEA aktiv](https://www.insea-aktiv.de/)** — Kostenlose, bundesweite Selbstmanagementkurse für Menschen mit chronischen Erkrankungen und Angehörige, auch online und telefonisch; die Kurse sind peer-geführt und geben keine krankheitsspezifischen Behandlungsempfehlungen. 🤝 [Self-help]
 
 ### Portale, Community & Blogs
 
@@ -244,7 +244,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 #### Patientengeschichten
 
-- **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt.
+- **[Leben mit ME/CFS](https://www.lebenmitmecfs.de/)** — Persönlicher Blog einer Betroffenen mit fortlaufend erscheinenden Erfahrungsberichten und Alltagstipps zu ME/CFS, Pacing und Energiehaushalt. 💬 [Patient story]
 
 - **[No longer!](https://no-longer.de/)** — Persönlicher Erfahrungsbericht einer betroffenen Person mit eigener Deutung sowie Angeboten zu Supplements und Coaching. 💰 [Commercial]
 
@@ -252,7 +252,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 ### Vereine & Verbände
 
-- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)).
+- **[Fatigatio e.V. – Bundesverband ME/CFS](https://www.fatigatio.de/)** — Deutsche Patientenorganisation mit regionalen Selbsthilfegruppen, Beratung zu sozialen und rechtlichen Fragen sowie einer jährlichen Fachtagung; die Informationen sind frei zugänglich, eine Mitgliedschaft ist optional ([Telefonteam](https://www.fatigatio.de/wir-fuer-sie/unterstuetzung/telefonteam)). 🤝 [Self-help] 📣 [Advocacy]
 
 - **[NichtGenesenKids e.V.](https://nichtgenesenkids.de/)** — Bundesweite Anlaufstelle für Familien und Betroffene mit ME/CFS, Long Covid und verwandten postinfektiösen Erkrankungen, mit Materialien zu Schule und Behörden sowie Veranstaltungen; die Teilnahme an der Veranstaltungsreihe setzt eine Newsletter-Anmeldung voraus. 📣 [Advocacy]
 
@@ -262,7 +262,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Lost Voices Stiftung](https://lost-voices-stiftung.org/)** — Stiftung für Aufklärung, Forschungsförderung und Interessenvertretung zu ME/CFS. 📣 [Advocacy]
 
-- **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie.
+- **[Elterninitiative für ME/CFS-kranke Kinder und Jugendliche](https://eimecfs.de/)** — Verein von Eltern betroffener Kinder mit Informationen, Online-Treffen und Materialien zu Schule und Familie. 🤝 [Self-help]
 
 - **[Verein ME/CFS & PAIVS Hilfe](https://mecfs-paivs-hilfe.de/)** — Gemeinnütziger Verein aus Hannover mit Informationen zu PAIVS und ME/CFS, Erfahrungsberichten, Veranstaltungen sowie Materialien für Alltag, Schule und Anträge. 📣 [Advocacy]
 
@@ -412,7 +412,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 ## Fachliteratur
 
-- **[Stigmatisierende Narrative über ME/CFS](https://www.mecfs.de/stigmatisierende-narrative-ueber-mecfs/)** — Auswertung entsprechender Darstellungen in der deutschsprachigen medizinischen Fachliteratur durch die Deutsche Gesellschaft für ME/CFS.
+- **[Stigmatisierende Narrative über ME/CFS](https://www.mecfs.de/stigmatisierende-narrative-ueber-mecfs/)** — Auswertung entsprechender Darstellungen in der deutschsprachigen medizinischen Fachliteratur durch die Deutsche Gesellschaft für ME/CFS. 📖 [Professional literature]
 
 - **[Qualitätszirkel Long COVID und ME/CFS (KBV)](https://www.kbv.de/documents/praxis/tools-und-services/qz/long-covid/qualitaetszirkel-long-covid.pdf)** — Modul für Moderierende der Kassenärztlichen Bundesvereinigung (Oktober 2025) zur Versorgung von Patient:innen mit Long COVID und ME/CFS mit Arbeitszielen, Fallbeispielen, Sitzungsablauf und Informationsquellen. 🏛️ [Authority] 📖 [Professional literature]
 
