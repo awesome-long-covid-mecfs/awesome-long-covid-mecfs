@@ -69,6 +69,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Berichterstattung & Medien](#berichterstattung--medien)
   - [Dokumentationen & Fernsehbeiträge](#dokumentationen--fernsehbeiträge)
   - [Fachvorträge & Interviews](#fachvorträge--interviews)
+  - [YouTube-Kanäle](#youtube-kanäle)
   - [Podcasts](#podcasts)
 - [Open-Source-Projekte / Code](#open-source-projekte--code)
 
@@ -511,6 +512,12 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 - **[Ulrich Timm im Gespräch mit Prof. Carmen Scheibenbogen](https://www.ardmediathek.de/video/ulrich-timm-im-gespraech/ulrich-timm-im-gespraech-mit-prof-carmen-scheibenbogen/tagesschau24/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTBiNGExMTItNGMwNC00MGViLWIwYzUtYmVmMDY1YzQ1MDRl)** — Video-Interview über ME/CFS und die Forschungslage nach Covid. 🎬 [Video]
 
 - **[Wie Betroffene von ME/CFS sich im Stich gelassen fühlen](https://www.youtube.com/watch?v=Flkbe7tbk_s)** — Gesprächsrunde der Badischen Zeitung mit einem betroffenen Vater und einer Professorin über Versorgung und Forschung. 🎬 [Video] 💬 [Patient story]
+
+### YouTube-Kanäle
+
+- **[Fatigatio e.V. (YouTube-Kanal)](https://www.youtube.com/@FatigatioeV)** — Kanal des Bundesverbands ME/CFS mit Playlists der jährlichen ME/CFS-Fachtagungen (Fachvorträge zu Versorgung, Therapie, Forschung und Teilhabe). 🤝 [Self-help] 📣 [Advocacy] 🎬 [Video]
+
+- **[ME/CFS und Long COVID erklärt (YouTube-Kanal)](https://www.youtube.com/@mecfsundlongcoviderklaert)** — Gemeinsamer Kanal von Long COVID Deutschland und der Deutschen Gesellschaft für ME/CFS mit Erklärvideos zu ME/CFS und Long COVID (PEM, Pacing u. a.). 🤝 [Self-help] 🎬 [Video]
 
 ### Podcasts
 

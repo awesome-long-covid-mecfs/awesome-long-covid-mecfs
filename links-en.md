@@ -46,6 +46,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Social Media](#social-media)
     - [Chat Groups](#chat-groups)
     - [Reddit](#reddit)
+  - [YouTube Channels](#youtube-channels)
 - [Research & Studies](#research--studies)
   - [Research Portals](#research-portals)
   - [Individual Studies](#individual-studies)
@@ -203,6 +204,22 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[ME/CFS & Long COVID Starter Pack](https://bsky.app/starter-pack/mecfshawaii.bsky.social/3lcjcoslntq2u)** — Bluesky starter pack following 125 ME/CFS and Long COVID organisations, researchers and patient accounts; requires a Bluesky account. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[LongCovid feed](https://bsky.app/profile/allyann.bsky.social/feed/aaaj6ooucgyta)** — Bluesky keyword feed collecting posts with Long COVID and ME/CFS hashtags such as #LongCovid, #pwLC and PASC; no editorial selection and a Bluesky account is required. 🗂️ [Collection]
+
+### YouTube Channels
+
+- **[ME/CFS Research Foundation (YouTube channel)](https://www.youtube.com/@MECFSResearchFoundation)** — Channel of the foundation with recordings of the International ME/CFS Conference (lectures on research and therapy, in English). 📣 [Advocacy] 🎬 [Video]
+
+- **[Bateman Horne Center (YouTube channel)](https://www.youtube.com/@batemanhornecenter)** — Channel with provider education, "Coffee with a Clinician" series and Project ECHO (case-based learning for clinicians on ME/CFS, Long COVID and related conditions). 📋 [Guideline] 🎬 [Video]
+
+- **[Open Medicine Foundation (OMF) (YouTube channel)](https://www.youtube.com/@openmedf)** — Channel with journal club, interviews and conference recordings on ME/CFS and Long COVID. 📣 [Advocacy] 🎬 [Video]
+
+- **[Solve M.E. (YouTube channel)](https://www.youtube.com/@SolveME)** — Channel with webinars on ME/CFS and Long COVID (research, therapy, patient perspectives). 📣 [Advocacy] 🎬 [Video]
+
+- **[The ME Action Network (YouTube channel)](https://www.youtube.com/@TheMEActionNetwork)** — Channel with expert interviews, advocacy and ME/CFS expert events. 📣 [Advocacy] 🎬 [Video]
+
+- **[FatigueScienceTalks (YouTube channel)](https://www.youtube.com/@FatigueScienceTalks)** — Channel with lectures on fatigue, ME/CFS and Long COVID (COFFI Consumer Advisory Group). 🤝 [Self-help] 🎬 [Video]
+
+- **[Long COVID Web (YouTube channel)](https://www.youtube.com/@LongCOVIDWeb)** — Channel with webinars on Long COVID (research, care, patient perspectives). 📣 [Advocacy] 🎬 [Video]
 
 ## Research & Studies
 
