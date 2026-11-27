@@ -319,6 +319,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Tipps für LC, PV und ME/CFS Betroffene](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/tipps-fur-lc-pv-und-me-cfs-betroffene-22c54boyggtr9q70)** — Community-Padlet mit praktischen Tipps zu Begutachtung, Pflegegrad, Widersprüchen, Reha und Versorgung; die Inhalte werden von Betroffenen gepflegt, darunter [KI-Tipps in einem Breakout-Room](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/breakout-room/Bk5x4dL7lZ5N4Zgz-K5gBvaMy7kJBvpV7). 🗂️ [Collection]
 
+- **[Behandlungen und Erkrankungen – ME/CFS (Padlet)](https://padlet.com/tippsfuerlcpvundmecfsbetroffene/behandlungen-und-erkrankungen-me-cfs-3sopc251euawh1ag)** — Community-Padlet derselben Betreiber mit Material zu Behandlung und Begleiterkrankungen: PDFs zu Krankenhausaufenthalt, Narkose und Notfallpass, Charité-Therapieempfehlungen sowie Spalten zu Akutem Infekt, Pacing, POTS, MCAS, Nahrungsergänzung, Off-Label-Medikamenten (u. a. LDN, LDA, Mestinon) und Sauerstofftherapie (HBOT, IHHT); die Inhalte werden von Betroffenen gepflegt. 🗂️ [Collection]
+
 - **[Blog Dr. med. Kristina Schultheiß](https://www.dr-med-kristina-schultheiss.de/blog)** — Blog einer Internistin und Kardiologin mit Beiträgen zu Long COVID, ME/CFS, PoTS und MCAS, darunter Einordnungen von Studien und Therapiethemen; die Inhalte werden vor Veröffentlichung fachlich geprüft. 💰 [Commercial]
 
 - **[MEcfs Space (Link-Hub)](https://lnk.bio/mecfs.space)** — Link-Hub einer Initiative von selbst erkrankten, ehrenamtlich engagierten Menschen mit kostenlosen Online-Treffen wie Lichtmomente und RelaxME, reizarmen Angeboten auch für schwer betroffene ME/CFS-Personen sowie Vorlagen, Downloads und Petitionen. 🤝 [Self-help] 🗂️ [Collection]
