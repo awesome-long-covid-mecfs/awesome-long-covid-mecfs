@@ -43,6 +43,14 @@ Found a dead link? Use the **“Broken link”** template.
 5. Follow [MARKERS.md](MARKERS.md) and [AGENTS.md](AGENTS.md).
 6. Briefly describe why the source should be included.
 
+### Entry example
+
+The sentence neutrally describes **what** the source is, **who** provides it, and **what is special** about it (access, language, scope):
+
+```
+- **[ME/CFS Research Foundation](https://mecfs-research.org/en/)** — Foundation of patients, relatives and supporters that funds biomedical research into ME/CFS and Long COVID and provides a research register, project overviews and information for patients. 🤝 [Self-help] 📣 [Advocacy]
+```
+
 ## What we do not include
 
 Miracle cures, advertising, affiliate links, paywall-only content, conspiracy sources, URL shorteners, duplicate entries.

@@ -44,6 +44,14 @@ Kaputter Link? Vorlage **„Broken link"** verwenden.
 5. [MARKERS.md](MARKERS.md) und [AGENTS.md](AGENTS.md) beachten.
 6. Kurz begründen, warum die Quelle aufgenommen werden sollte.
 
+### Eintragsbeispiel
+
+Der Satz beschreibt neutral, **was** die Quelle ist, **von wem** sie stammt und **was daran besonders** ist (Zugang, Sprache, Umfang):
+
+```
+- **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige. 🤝 [Self-help] 🗂️ [Collection]
+```
+
 ## Was wir nicht aufnehmen
 
 Heilversprechen, Werbung, Affiliate-Links, Inhalte hinter Bezahlschranke ohne freie Zusammenfassung, Verschwörungsquellen, URL-Shortener, doppelte Einträge.
