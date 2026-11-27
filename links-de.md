@@ -226,6 +226,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Histamin, Fructose & Co. (Baliza)](https://www.baliza.de/apps/histamin.html)** — App mit Nachschlagewerken zu Histamin-, Fructose- und weiteren Lebensmittelunverträglichkeiten für iOS und Android; einzelne zusätzliche Profile sind als In-App-Erweiterung erhältlich. 📱 [App]
 
+- **[Moldmaus](https://moldmaus.blogspot.com/)** — Selbsthilfeplattform einer Betroffenen zu Schimmel und Feuchtigkeit im Wohnraum, die Schimmelbelastung auch als möglichen Auslöser oder Verstärker von Beschwerden wie MCAS, Histaminintoleranz und ME/CFS thematisiert; mit Artikelübersichten zu Messungen (u. a. ERMI), Sanierung und Umzug, dazu eigenes Buch, Produktempfehlungen, Rabatt-Codes und kostenpflichtige Beratungsangebote. 🤝 [Self-help] 💰 [Commercial]
+
 ### MCS
 
 - **[Handbuch „Entgiften Sie Ihren Haushalt“ (NonHazCity)](https://www.giftfreie-stadt.de/wp-content/uploads/2023/04/Handbuch.pdf)** — 40-seitiges Handbuch des Interreg-Projekts NonHazCity mit einer raumweisen Übersicht zu Schadstoffen im Haushalt, Hinweisen zu Gefahrensymbolen und Siegeln, Rezepten für Reinigungsmittel und einer kurzen Checkliste; als PDF. 🧰 [Tool] 🗂️ [Collection]
