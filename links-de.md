@@ -100,6 +100,10 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Diagnostik- und Ersttherapie-Algorithmus für ME/CFS (MedUni Wien)](https://public-health.meduniwien.ac.at/fileadmin/content/OE/public-health/Primary_Care_Medicine/PDFs/2025.06.13_Empfehlung__Diagnostik-_und_Ersttherapie-Algorithmus_fuer_MECFS_auf_der_Basisversorgungsebene.pdf)** — Empfehlung der Medizinischen Universität Wien für Diagnostik und erste Therapie in der Basisversorgung (2025) als PDF. 📋 [Guideline]
 
+- **[Internationale Konsensleitlinie für Ärzte (ICC)](https://www.me-aktuell.de/wp-content/uploads/ME_ICC_Leitlinie.pdf)** — Deutsche Übersetzung der Internationalen Konsensleitlinie zu ME von Carruthers und van de Sande (Copyright 2012) als PDF. 📋 [Guideline] ⚠️ [Outdated]
+
+> ⚠️ Diese Leitlinie stammt aus dem Jahr 2012 – bitte nur im historischen Kontext nutzen.
+
 ### Fragebögen
 
 > ℹ️ Weitere Tests und Scores sind in der englischen Liste unter [Diagnosis](links-en.md#diagnosis) beschrieben.
@@ -110,9 +114,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Munich Berlin Symptom Questionnaire (MBSQ)](https://www.tauernklinikum.at/media/Fragebogen-MECFS-MBSQ-ERWACHSENE.pdf)** — Ärztlicher Anamnesebogen zu ME/CFS (PDF, [Spiegel](https://www.sarkoidose-selbsthilfe.eu/imgs/MECFS_MBSQ.pdf)); die [Studie](https://pubmed.ncbi.nlm.nih.gov/38095713) beschreibt die Anwendung. 🧰 [Tool] 📄 [Study]
 
-- **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
+- **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([Kanadische Kriterien (CCC) und Bell-Score – weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
 
 - **[Kanadische Kriterien mit Auswertung (Charité)](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/Kanadische_Kriterien_mitAuswertung.pdf)** — PDF des Charité Fatigue Centrums mit den kanadischen Diagnosekriterien und einem Auswertungsbogen für den Bell-Score. 🧰 [Tool]
+
+- **[DSQ-PEM – Screening auf post-exertionelle Malaise](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/ZZ_alte_Dateien/Landing_Page/DSQ-PEM_TUM.pdf)** — Deutsche Übersetzung und Adaptation des DSQ-Short-Form-PEM-Fragebogens durch die TU München für Erwachsene (Version 1, 2021). 🧰 [Tool]
 
 ## Behandlung
 
@@ -124,7 +130,11 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Begleitende Psychotherapie bei ME/CFS (Deutsche Gesellschaft für ME/CFS)](https://www.mecfs.de/psychotherapie/)** — Information der Deutschen Gesellschaft für ME/CFS zur begleitenden Psychotherapie; sie macht deutlich, dass Psychotherapie die Erkrankung nicht verursacht und nicht heilt, sondern etwa beim Umgang mit Belastungsgrenzen und in der Krankheitsverarbeitung unterstützen kann. 🤝 [Self-help]
 
-- **[Long-COVID Off-Label-Use (BfArM)](https://www.bfarm.de/DE/Arzneimittel/Zulassung/Zulassungsrelevante-Themen/Expertengruppe-Long-COVID-Off-Label-Use/_node.html)** — Seite des Bundesinstituts für Arzneimittel und Medizinprodukte zur Expertengruppe „Long-COVID Off-Label-Use“ mit Hintergründen und Empfehlungen zur Anwendung von Arzneimitteln außerhalb der zugelassenen Indikation. 🏛️ [Authority]
+- **[Long-COVID Off-Label-Use (BfArM)](https://www.bfarm.de/DE/Arzneimittel/Zulassung/Zulassungsrelevante-Themen/Expertengruppe-Long-COVID-Off-Label-Use/_node.html)** — Seite des Bundesinstituts für Arzneimittel und Medizinprodukte zur Expertengruppe „Long-COVID Off-Label-Use“ mit Hintergründen und Empfehlungen zur Anwendung von Arzneimitteln außerhalb der zugelassenen Indikation sowie einem [Therapie-Kompass](https://www.bfarm.de/DE/Arzneimittel/Zulassung/Zulassungsrelevante-Themen/Expertengruppe-Long-COVID-Off-Label-Use/_node.html#therapiekompass) mit Empfehlungen zur symptomorientierten Arzneimitteltherapie. 🏛️ [Authority]
+
+- **[Diagnostik- und Therapieschema Long COVID / Post-Vac (Neuropraxis Solothurn)](https://www.neuropraxis-solothurn.ch/long-covid-solothurn#Therapieschema)** — Schema von Dr. med. Maja Strasser (Stand Juni 2026), basierend auf dem D-A-CH-Konsensus, mit [Diagnostik- und Therapieschema als PDF](https://cdn.prod.website-files.com/628217c73d5d8d1afd068a4c/692433eee6301e7e945967d7_39f25d3edf4ca92a5fff6edfbb9c23cc_Long%20Covid%20Behandlungsschema_v24112025.pdf), [Checkliste](https://cdn.prod.website-files.com/628217c73d5d8d1afd068a4c/68c1cbc5efed3b5a704b5a94_ChecklisteGesundheitskompass.docx) und [Symptom- und Therapietagebuch](https://cdn.prod.website-files.com/628217c73d5d8d1afd068a4c/68c1cbc4c4d909385d3e9ad4_LC_PI_ME-CFS_Therapie%20und%20Symptom-Tagebuch_V1.3.xlsx) von PD Dr. Jürg Streuli; die Praxis nimmt laut Seite keine neuen Long-COVID-Patient:innen auf. 📖 [Professional literature]
+
+- **[Pragmatische Diagnostik und Therapie bei Long Covid (Dr. Michael Stingl)](https://drive.google.com/file/d/18Vt53ZR0af34qpe9iCfujirNZdkzaNbH/view)** — 13-seitiges PDF des Wiener Neurologen zu Anamnese, Diagnostik und Therapie mit Fokus auf PEM und orthostatische Dysregulation; ohne Anmeldung lesbar. 📖 [Professional literature]
 
 ### Arzt- und Therapeutensuche
 
@@ -143,6 +153,12 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[116 117 Terminbuchung](https://www.116117-termine.de/)** — Online-Terminvermittlung des Ärztlichen Bereitschaftsdienstes für Hausarzt- und Facharzttermine außerhalb der üblichen Praxiszeiten. 🏛️ [Authority]
 
 - **[Spezialklinik Neukirchen](https://www.spezialklinik-neukirchen.de/)** — Private Akutklinik mit komplementärmedizinischem Konzept, die auch CFS/ME, MCS und Fibromyalgie als Umwelterkrankungen aufführt; laut Klinikangabe ist sie von allen deutschen und österreichischen Krankenkassen anerkannt, bei Aufnahme übernimmt die Kasse den Aufenthalt, während einige speziellere Untersuchungen und Behandlungen nicht von der Kasse bezahlt werden. 💰 [Commercial]
+
+- **[Long Covid Online Klinik](https://www.longcovidklinik.at/)** — Telemedizinische Plattform österreichischer Wahlärzt:innen für Videosprechstunden bei Long COVID, Post-COVID, ME/CFS und PAIVS; Termine nur online, Honorare zahlen Patient:innen direkt. 💰 [Commercial]
+
+- **[Zentrum für Präzisionsmedizin und systemische Erkrankungen (ZPSE)](https://www.cbtmed.de/praxen/zpse/)** — Diagnostikzentrum der CBT Bonn MVZ GmbH bei chronischer Erschöpfung, ME/CFS, MCAS, Long COVID und Post-Vac, nur für Erwachsene, mit Fragebögen vor dem Termin. 💰 [Commercial]
+
+- **[Privatpraxis Dr. med. Kai Störring](https://www.longcovid-cfs-genesung.de/)** — Privatpraxis in Köln für Long COVID und ME/CFS mit Selbstzahlung, Hausbesuchen und Buchung über Doctolib; laut Seite sind Ersttermine für 2026 ausgeschöpft. 💰 [Commercial]
 
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
 
@@ -336,6 +352,10 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 - **[ME-Einstiegshilfe (WhatsApp-Gruppe)](https://chat.whatsapp.com/JXnpUMGb41j90GEjrvgp04)** — WhatsApp-Gruppe zur Einstiegshilfe für ME-Betroffene; der Einladungslink kann ablaufen, aktualisierte Links stehen im Abschnitt „WhatsApp Kanal“ der [Einstiegshilfe zu ME](https://drive.google.com/file/d/1-v31dBmNwWReSdm3D_89cEQbphj87UlA/view?usp=drive_link). 🤝 [Self-help]
 
 - **[ME Chat-Gruppe „Plaudergarten“](https://me-cfs-chat.net/)** — Deutschsprachige Signal-Gruppe für ME/CFS-, Fibromyalgie- und Long-COVID-Betroffene sowie Angehörige zum Austausch, mit eigener Angehörigen-Gruppe und WhatsApp-Hilfe beim Beitritt. 🤝 [Self-help]
+
+- **[ME-CFS Portal (Discord)](https://discord.com/invite/samhpkZ5pQ)** — Discord-Server des ME-CFS Portals zum Austausch für Betroffene und Angehörige; der Einladungslink kann ablaufen. 🤝 [Self-help]
+
+- **[ME-CFS und wir (Discord)](https://discord.gg/rjuJMBJsMX)** — Discord-Server zum Austausch für ME/CFS-Betroffene; der Einladungslink kann ablaufen. 🤝 [Self-help]
 
 #### Facebook
 
