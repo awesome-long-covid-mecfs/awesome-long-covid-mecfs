@@ -85,9 +85,9 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Einstiegshilfe zu ME](https://drive.google.com/file/d/1-v31dBmNwWReSdm3D_89cEQbphj87UlA/view?usp=drive_link)** — Privat von einer schwer erkrankten Person zusammengestellte Einstiegshilfe als Word-Dokument mit verlinkten Informationen zu PEM, Pacing, Diagnostik, Alltag und Anträgen; laut Eigenangabe für Smartphone, PC und Ausdruck optimiert und wird fortlaufend aktualisiert. 🗂️ [Collection]
 
-- **[Was ist ME/CFS?](https://www.mecfs.de/was-ist-me-cfs/#Behandlung)** — Informationsseite der Deutschen Gesellschaft für ME/CFS zu ME/CFS mit einem Abschnitt zu Behandlung und Lebensqualität.
+- **[Was ist ME/CFS?](https://www.mecfs.de/was-ist-me-cfs/#Behandlung)** — Informationsseite der Deutschen Gesellschaft für ME/CFS zu ME/CFS mit einem Abschnitt zu Behandlung und Lebensqualität. 🤝 [Self-help]
 
-- **[Begriffe und Abkürzungen rund um ME/CFS](https://www.teemitmolly.de/wp-content/uploads/2025/08/Begriffe-und-Abkuerzungen-rund-um-ME.pdf)** — Von Chrizzo und Molly für den Podcast Teepause erstelltes Glossar zu Begriffen und Abkürzungen rund um ME/CFS ([Podcast „Teepause"](https://www.teemitmolly.de/podcast-teepause/)). 🎧 [Podcast]
+- **[Begriffe und Abkürzungen rund um ME/CFS](https://www.teemitmolly.de/wp-content/uploads/2025/08/Begriffe-und-Abkuerzungen-rund-um-ME.pdf)** — Von Chrizzo und Molly für den Podcast Teepause erstelltes Glossar zu Begriffen und Abkürzungen rund um ME/CFS ([Podcast „Teepause“](https://www.teemitmolly.de/podcast-teepause/)). 🎧 [Podcast]
 
 ## Diagnostik
 
@@ -408,6 +408,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Reha bei ME/CFS und Long Covid: Was du wissen musst, wenn sie ansteht (Fasynation)](https://www.fasynation.de/reha-me-cfs-long-covid/)** — Beitrag von Fasynation zu Reha bei ME/CFS und Long Covid in Deutschland: für wen sie sinnvoll ist, warum sie bei PEM schaden kann, welche Rechte und Fristen gelten und wie man sich vor und in der Reha schützt. 🤝 [Self-help]
 
+### Nahtlosigkeit & Arbeitslosigkeit
 
 - **[Arbeitslosengeld bei Nahtlosigkeit (betanet)](https://www.betanet.de/arbeitslosengeld-nahtlosigkeit.html)** — Ratgeber des gemeinnützigen beta Instituts zur Nahtlosigkeitsregelung mit Fallbeispielen zu Krankengeldende, abgelehnter Erwerbsminderungsrente und subjektiver Verfügbarkeit. 🗂️ [Collection]
 
@@ -429,7 +430,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Berufliche Teilhabe bei Long COVID (REHADAT-Wissen)](https://www.rehadat-wissen.de/ausgaben/12-long-covid/)** — Online-Broschüre des BMAS-förderten REHADAT zu Arbeitsplatzanpassungen, Wiedereingliederung und Förderleistungen bei Long COVID, mit Statements von Betroffenen; auch als [PDF bei der BIH](https://www.bih.de/fileadmin/user_upload/Bereich-INA/Downloads/rehadat_wissen_ausgabe12_long_covid.pdf) verfügbar. 🏛️ [Authority]
 
-- **[Agentur für Haushaltshilfe](https://www.agentur-fuer-haushaltshilfe.de/me-cfs/)** — Agentur für Haushaltshilfe und Alltagsbegleitung, die Mitarbeitende eigenen Angaben zufolge speziell zu ME schult.
+- **[Agentur für Haushaltshilfe](https://www.agentur-fuer-haushaltshilfe.de/me-cfs/)** — Agentur für Haushaltshilfe und Alltagsbegleitung, die Mitarbeitende eigenen Angaben zufolge speziell zu ME schult. 💰 [Commercial]
 
 ### Pflegegrad
 

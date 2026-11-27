@@ -46,6 +46,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Social Media](#social-media)
     - [Chat Groups](#chat-groups)
     - [Reddit](#reddit)
+    - [Bluesky](#bluesky)
   - [YouTube Channels](#youtube-channels)
 - [Research & Studies](#research--studies)
   - [Research Portals](#research-portals)
