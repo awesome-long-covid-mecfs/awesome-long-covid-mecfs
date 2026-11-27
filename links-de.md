@@ -38,6 +38,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
   - [Schwer erkrankt](#schwer-erkrankt)
   - [Nicht etablierte Therapieansätze](#nicht-etablierte-therapieansätze)
 - [Begleiterkrankungen](#begleiterkrankungen)
+  - [Fibromyalgie](#fibromyalgie)
+  - [hEDS / Hypermobilität](#heds--hypermobilität)
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
   - [POTS / Dysautonomie](#pots--dysautonomie)
@@ -152,6 +154,8 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Spezialklinik Neukirchen](https://www.spezialklinik-neukirchen.de/)** — Private Akutklinik mit komplementärmedizinischem Konzept, die auch CFS/ME, MCS und Fibromyalgie als Umwelterkrankungen aufführt; laut Klinikangabe ist sie von allen deutschen und österreichischen Krankenkassen anerkannt, bei Aufnahme übernimmt die Kasse den Aufenthalt, während einige speziellere Untersuchungen und Behandlungen nicht von der Kasse bezahlt werden. 💰 [Commercial]
 
+- **[edsDOCs – EDS-Ärzte und -Therapeuten finden](https://www.edsdocs.de/de/)** — Suchverzeichnis des Bundesverbands Ehlers-Danlos-Selbsthilfe für Ärzt:innen und Therapeut:innen mit EDS-Erfahrung im deutschsprachigen Raum; der Verband weist ausdrücklich darauf hin, dass die Listung keine Empfehlung darstellt. 🗂️ [Collection] 🧰 [Tool]
+
 - **[Long Covid Online Klinik](https://www.longcovidklinik.at/)** — Telemedizinische Plattform österreichischer Wahlärzt:innen für Videosprechstunden bei Long COVID, Post-COVID, ME/CFS und PAIVS; Termine nur online, Honorare zahlen Patient:innen direkt. 💰 [Commercial]
 
 - **[Zentrum für Präzisionsmedizin und systemische Erkrankungen (ZPSE)](https://www.cbtmed.de/praxen/zpse/)** — Diagnostikzentrum der CBT Bonn MVZ GmbH bei chronischer Erschöpfung, ME/CFS, MCAS, Long COVID und Post-Vac, nur für Erwachsene, mit Fragebögen vor dem Termin. 💰 [Commercial]
@@ -205,6 +209,18 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[The Nicotine Test](https://linktr.ee/thenicotinetest)** — Von Betroffenen geführtes Citizen-Science-Projekt zu Nikotinpflastern bei Long COVID mit Links zu Studien, Hypothesen, FAQs und Protokollen inklusive Sicherheitshinweisen (Version 4.0, 2025); enthält auch einen Spendenaufruf und eine Facebook-Gruppe. 💬 [Patient story] 🗂️ [Collection]
 
 ## Begleiterkrankungen
+
+### Fibromyalgie
+
+- **[Deutsche Fibromyalgie Vereinigung e. V. (DFV)](https://www.fibromyalgie-fms.de/)** — Bundesverband der Selbsthilfe für Menschen mit Fibromyalgiesyndrom und chronisch-ausgedehntem Schmerzsyndrom mit Informationsblättern und Regionalgruppen. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Patientenleitlinie Fibromyalgiesyndrom (AWMF 145-004)](https://www.fibromyalgie-fms.de/fileadmin/user_upload/Downloads/Info_524_Patientenleitlinien_2017_neu.pdf)** — Laienverständliche Patientenversion der deutschen S3-Leitlinie zu Definition, Diagnostik und Therapie des Fibromyalgiesyndroms von Deutscher Fibromyalgie Vereinigung und Deutscher Rheuma-Liga; PDF der Fassung 2017. 📋 [Guideline]
+
+### hEDS / Hypermobilität
+
+- **[Bundesverband Ehlers-Danlos-Selbsthilfe e. V.](https://www.bundesverband-eds.de/de/)** — Bundesweiter Selbsthilfeverband für Menschen mit Ehlers-Danlos-Syndrom und Hypermobilitätssyndrom mit Informationsseiten, Regionalgruppen, EDS-Notfallausweisen und einer Basis-Infobroschüre als PDF. 🤝 [Self-help]
+
+- **[Deutsche Ehlers-Danlos Initiative e. V.](https://ehlers-danlos-initiative.de/)** — 1996 gegründete Selbsthilfeorganisation von Betroffenen mit Hotline, Einzelberatung, Online- und Regionaltreffen sowie medizinisch-wissenschaftlichem Beirat. 🤝 [Self-help]
 
 ### MCAS / Histaminintoleranz
 

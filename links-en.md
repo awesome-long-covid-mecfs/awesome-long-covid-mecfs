@@ -36,6 +36,7 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - [Related Conditions](#related-conditions)
   - [hEDS / Hypermobility](#heds--hypermobility)
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
+  - [MCS](#mcs)
   - [POTS / Dysautonomia](#pots--dysautonomia)
   - [SIBO](#sibo)
 - [Assistive Devices](#assistive-devices)
@@ -127,6 +128,12 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 ### MCAS / Histamine intolerance
 
 - **[SIGHI Food Compatibility List (English)](https://www.mastzellaktivierung.info/downloads/foodlist/21_FoodList_EN_alphabetic_withCateg.pdf)** — English, alphabetically sorted food compatibility list of the Swiss Interest Group Histamine Intolerance for the histamine elimination diet; free PDF. 🧰 [Tool]
+
+### MCS
+
+- **[MCS-Aware](https://mcs-aware.org/)** — Registered UK charity providing information, support and advocacy for people with multiple chemical sensitivity, including downloadable leaflets such as “What is MCS?”. 🤝 [Self-help] 📣 [Advocacy]
+
+- **[Multiple Chemical Sensitivity (Cleveland Clinic)](https://my.clevelandclinic.org/health/diseases/multiple-chemical-sensitivity)** — Medically reviewed overview of MCS/idiopathic environmental intolerance covering symptoms, triggers and management; it openly discusses that MCS is not universally recognised as a distinct diagnosis. 🏛️ [Authority]
 
 ### POTS / Dysautonomia
 
