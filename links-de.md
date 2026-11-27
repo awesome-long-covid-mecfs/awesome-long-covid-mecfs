@@ -355,7 +355,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[betanet](https://www.betanet.de/)** — Portal des gemeinnützigen beta Instituts mit sozialrechtlichen Informationen und kostenlosen Ratgebern zu Krankheit, Behinderung, Leistungen und Widersprüchen. 🗂️ [Collection]
 
-- **[ME/CFS-Wiki](https://www.mecfs-wiki.de)** — Privates Wiki mit verständlichen Informationen zu ME/CFS und Sozialleistungen, zu Anträgen, Begutachtungen und Alltag; die Startseite enthält einen Amazon-Affiliate-Link und einen Spendenaufruf. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
+- **[ME/CFS-Wiki](https://www.mecfs-wiki.de)** — Privates Wiki mit verständlichen Informationen zu ME/CFS und Sozialleistungen, zu Anträgen, Begutachtungen und Alltag; die Startseite bittet um Spenden zur Unterstützung des Projekts. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[ME/CFS – und nun?](https://sites.google.com/view/mecfs-undnun/start)** — Selbsthilfe-Projekt mit Kapiteln zu Pacing, Hilfsmitteln, sozial- und arbeitsrechtlichen Fragen sowie Materialien für Angehörige und Behandler; die Seite enthält auch ein Spendenprojekt mit selbst genähten Taschen. 🤝 [Self-help] 🗂️ [Collection]
 
@@ -385,7 +385,7 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Reha und ME-cfs? (lebenszeit)](https://lebenszeit-mecfs.de/reha.html)** — Selbsthilfe-Seite einer Betroffenen zu Reha und ME/CFS mit eigener Erfahrung, Grenzen der Mitwirkungspflicht und Angaben zur Bescheinigung der Reha-Unfähigkeit. 🤝 [Self-help] 🗂️ [Collection] 💬 [Patient story]
 
-- **[Reha Ablehnung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/a-z:reha-ablehnung)** — Betroffenen-Wiki mit Widerspruchsverfahren, Muster-Formulierung und Argumenten für eine Reha-Unfähigkeit bei PEM. 🤝 [Self-help] 🗂️ [Collection] 💰 [Commercial]
+- **[Reha Ablehnung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/a-z:reha-ablehnung)** — Betroffenen-Wiki mit Widerspruchsverfahren, Muster-Formulierung und Argumenten für eine Reha-Unfähigkeit bei PEM. 🤝 [Self-help] 🗂️ [Collection]
 
 ### Nahtlosigkeit & Arbeitslosigkeit
 
