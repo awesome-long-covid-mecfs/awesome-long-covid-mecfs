@@ -158,8 +158,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[Zentrum für Präzisionsmedizin und systemische Erkrankungen (ZPSE)](https://www.cbtmed.de/praxen/zpse/)** — Diagnostikzentrum der CBT Bonn MVZ GmbH bei chronischer Erschöpfung, ME/CFS, MCAS, Long COVID und Post-Vac, nur für Erwachsene, mit Fragebögen vor dem Termin. 💰 [Commercial]
 
-- **[Privatpraxis Dr. med. Kai Störring](https://www.longcovid-cfs-genesung.de/)** — Privatpraxis in Köln für Long COVID und ME/CFS mit Selbstzahlung, Hausbesuchen und Buchung über Doctolib; laut Seite sind Ersttermine für 2026 ausgeschöpft. 💰 [Commercial]
-
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
