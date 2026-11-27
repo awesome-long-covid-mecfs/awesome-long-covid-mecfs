@@ -34,7 +34,9 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
   - [Pacing](#pacing)
   - [Severe ME/CFS](#severe-mecfs)
 - [Related Conditions](#related-conditions)
+  - [hEDS / Hypermobility](#heds--hypermobility)
   - [MCAS / Histamine intolerance](#mcas--histamine-intolerance)
+  - [POTS / Dysautonomia](#pots--dysautonomia)
   - [SIBO](#sibo)
 - [Assistive Devices](#assistive-devices)
   - [Symptom Tracking & Pacing](#symptom-tracking--pacing)
@@ -65,8 +67,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 - **[FUNCAP – Functional Capacity](https://www.funcap.no/translations-2/funcap-in-english/)** — Free questionnaire on functional capacity in people with post-exertional malaise (PEM), available in short and full form. 🧰 [Tool]
 
 - **[DePaul Symptom Questionnaires (incl. DSQ-PEM)](https://csh.depaul.edu/academics/centers-and-institutes/ccr/myalgic-encephalomyelitis-cfs/measures)** — Free symptom questionnaires from DePaul University, including a 10-item screen for post-exertional malaise; the page states all instruments are free to use. 🧰 [Tool] 🗂️ [Collection]
-
-- **[10-Minute Lean Test (NASA Lean Test)](https://batemanhornecenter.org/nasa-10-minute-lean-test-2)** — Free Bateman Horne Center protocol recording blood pressure and heart rate during a 10-minute stand/lean to assess orthostatic intolerance. 🧰 [Tool]
 
 - **[COMPASS 31](https://pubmed.ncbi.nlm.nih.gov/23218087)** — Peer-reviewed 31-item patient-reported score for autonomic symptoms across six weighted domains; full text and questionnaire are freely available. 📄 [Study] 🧰 [Tool]
 
@@ -102,8 +102,6 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 - **[IACI Provider Manual](https://www.coresinai.org/manual)** — Second edition of a manual from the Cohen Center for Recovery from Complex Chronic Illness with guidance for clinicians treating infection-associated chronic conditions including Long COVID and ME/CFS; the download requires a short form. 📖 [Professional literature]
 
-- **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
-
 - **[Medical Education Hub (World ME Alliance)](https://worldmealliance.org/medical-education-hub/)** — Pilot hub that guides health professionals to reliable ME/CFS education material, including guidelines, clinical guides and training resources in several languages. 🗂️ [Collection]
 
 ### Pacing
@@ -122,9 +120,17 @@ Links in other languages: 🇬🇧 **English** · 🇩🇪 [Deutsch](links-de.md
 
 ## Related Conditions
 
+### hEDS / Hypermobility
+
+- **[EDS GP Toolkit](https://gptoolkit.ehlers-danlos.org/)** — Toolkit for general practitioners on the Ehlers-Danlos syndromes and hypermobile spectrum disorders, with guidance on diagnosis and management in primary care. 📖 [Professional literature] 🧰 [Tool]
+
 ### MCAS / Histamine intolerance
 
 - **[SIGHI Food Compatibility List (English)](https://www.mastzellaktivierung.info/downloads/foodlist/21_FoodList_EN_alphabetic_withCateg.pdf)** — English, alphabetically sorted food compatibility list of the Swiss Interest Group Histamine Intolerance for the histamine elimination diet; free PDF. 🧰 [Tool]
+
+### POTS / Dysautonomia
+
+- **[10-Minute Lean Test (NASA Lean Test)](https://batemanhornecenter.org/nasa-10-minute-lean-test-2)** — Free Bateman Horne Center protocol recording blood pressure and heart rate during a 10-minute stand/lean to assess orthostatic intolerance. 🧰 [Tool]
 
 ### SIBO
 
