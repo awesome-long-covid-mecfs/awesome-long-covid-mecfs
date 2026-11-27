@@ -114,6 +114,6 @@ The plugin `jekyll-relative-links` converts them into website links at build tim
 5. Wording: if the user gave no description, open the page and write a **short summary of its content**. Otherwise use the user's wording. No promises of cure, set markers – no date marker.
 6. **Return the proposal** – do not change files, commit or push yet.
 7. Incorporate user comments and **wait for “approved” / „freigegeben"**.
-8. Only after approval: write the file, commit and push. Then briefly report what happened.
+8. Only after approval: write the file, commit and push. For resource link changes (add/remove/replace), add one commit-body line per entry: `- <add|remove|replace> [<category>]: <Name> — <short description> (<URL>)` (for GitHub commit feed `commits/main.atom`). Then briefly report what happened.
 
 In the proposal briefly report: **decision** (include / reject / recommend only), **which files** would be affected, **which checks** were made, **what is uncertain**.
