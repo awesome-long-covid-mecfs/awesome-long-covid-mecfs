@@ -40,6 +40,7 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - [Begleiterkrankungen](#begleiterkrankungen)
   - [MCAS / Histaminintoleranz](#mcas--histaminintoleranz)
   - [MCS](#mcs)
+  - [POTS / Dysautonomie](#pots--dysautonomie)
   - [SIBO](#sibo)
 - [Hilfsmittel](#hilfsmittel)
   - [Symptomtracking](#symptomtracking)
@@ -111,8 +112,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 
 - **[FUNCAP – Funktionale Kapazität](https://www.funcap.no/translations-2/funcap-auf-deutch/)** — Kostenloser Fragebogen zur Erfassung funktioneller Kapazität bei Belastungsintoleranz (PEM), mit Kurz- und Langversion. 🧰 [Tool]
 
-- **[Passiver 10-Minuten-Stehtest](https://www.pots-dysautonomia.net/_files/ugd/9808d3_8efacee9e3d446c5b3b2bb33b6f73e78.pdf)** — Zweiseitige deutsche Anleitung für einen stehenden Belastungstest zu Hause; die englische Fassung steht in der englischen Liste ([Vorbereitung in der Praxis als PDF](https://www.mecfs.de/wp-content/uploads/2025/07/Vorbereitung-Stehtest-in-Praxis-1.pdf)). 🧰 [Tool]
-
 - **[Munich Berlin Symptom Questionnaire (MBSQ)](https://www.tauernklinikum.at/media/Fragebogen-MECFS-MBSQ-ERWACHSENE.pdf)** — Ärztlicher Anamnesebogen zu ME/CFS (PDF, [Spiegel](https://www.sarkoidose-selbsthilfe.eu/imgs/MECFS_MBSQ.pdf)); die [Studie](https://pubmed.ncbi.nlm.nih.gov/38095713) beschreibt die Anwendung. 🧰 [Tool] 📄 [Study]
 
 - **[Bell-Score](https://www.mecfs.de/wp-content/uploads/2025/07/Bell-Score-Charite.pdf)** — 0–100-Skala zur Einschätzung funktioneller Einschränkungen bei ME/CFS; deutsche Fassung als PDF der Deutschen Gesellschaft für ME/CFS ([Kanadische Kriterien (CCC) und Bell-Score – weitere Fassung](https://www.me-cfs.net/images/Downloads/Kanadische_Kriterien_2003_und_Bell-Score_1995_der_Charit.pdf)). 🧰 [Tool]
@@ -124,8 +123,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ## Behandlung
 
 - **[Praxisleitfaden ME/CFS](https://praxisleitfaden.mecfs.de/mecfs)** — Ausführlicher Leitfaden der Deutschen Gesellschaft für ME/CFS in Kooperation mit dem Charité Fatigue Centrum Berlin zu Diagnostik, Versorgung und Therapie; der allgemeine Teil ist frei lesbar, vollständige Dosierungsangaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
-
-- **[Praxisleitfaden orthostatische Intoleranz / PoTS](https://praxisleitfaden.mecfs.de/pots)** — Leitfaden der Deutschen Gesellschaft für ME/CFS und des Charité Fatigue Centrums zu orthostatischer Intoleranz, PoTS und orthostatischer Hypotonie; der allgemeine Teil ist frei lesbar, ausführliche Angaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
 - **[S2k-Leitlinie COVID-19 und (Früh-)Rehabilitation](https://register.awmf.org/de/leitlinien/detail/080-008)** — AWMF-Leitlinie 080-008 zu Rehabilitation nach COVID-19. 📋 [Guideline] 📖 [Professional literature]
 
@@ -162,8 +159,6 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 ### Material für Praxis, Pflege, Krankenhaus und Angehörige
 
 - **[Infomaterial der Schweizerischen Gesellschaft für ME & CFS](https://sgme.ch/infomaterial)** — Kostenlos herunterladbare Flyer, Konsenskriterien und Notfall-/Anästhesiepass der Schweizerischen Gesellschaft für ME & CFS als PDF. 🤝 [Self-help] 🗂️ [Collection]
-
-- **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
 
 - **[Informationsblätter der DG ME/CFS](https://www.mecfs.de/informationsblatt/)** — Kurze Informationsblätter der Deutschen Gesellschaft für ME/CFS für Ärzt:innen, Pflegende, Lehrkräfte, Erkrankte und Angehörige. 🤝 [Self-help] 🗂️ [Collection]
   - [ME/CFS – Übersicht](https://www.mecfs.de/wp-content/uploads/2024/11/DG.MECFS_Informationsblatt_01-Uebersicht_neu.pdf)
@@ -238,6 +233,14 @@ Weitere Links in anderen Sprachen: 🇬🇧 [English](links-en.md) · 🇩🇪 *
 - **[MCS-Atemluftinitiative Schleswig-Holstein](https://www.mcs-atemluftinitiative-sh.de/)** — Initiative von und für Betroffene mit Multipler Chemikalien-Sensitivität in Schleswig-Holstein mit Betroffenenstimmen, Studien zur Prävalenz und Hinweisen für ein duft- und rauchfreies Umfeld; die Seite wird laufend ausgebaut. 🤝 [Self-help] 📣 [Advocacy]
 
 - **[MCS Selbsthilfe Rosenheim](https://mcs-rosenheim.de/)** — Selbsthilfenetzwerk zu Multipler Chemikalien-Sensitivität und Umweltkrankheiten mit über 20 Themenseiten, die auf Erfahrungswerten, Fachartikeln und Studien mit Quellenangaben basieren, sowie einer bundesweiten Facebook-Gruppe. 🤝 [Self-help] 🗂️ [Collection]
+
+### POTS / Dysautonomie
+
+- **[Infomaterialien von POTS und andere Dysautonomien e.V.](https://www.pots-dysautonomia.net/infomaterialien)** — Übersicht des Vereins mit ausdruckbaren Flyern, Notfallpässen und Anleitungen zum passiven Stehtest. 🤝 [Self-help] 🗂️ [Collection]
+
+- **[Passiver 10-Minuten-Stehtest](https://www.pots-dysautonomia.net/_files/ugd/9808d3_8efacee9e3d446c5b3b2bb33b6f73e78.pdf)** — Zweiseitige deutsche Anleitung für einen stehenden Belastungstest zu Hause; die englische Fassung steht in der englischen Liste ([Vorbereitung in der Praxis als PDF](https://www.mecfs.de/wp-content/uploads/2025/07/Vorbereitung-Stehtest-in-Praxis-1.pdf)). 🧰 [Tool]
+
+- **[Praxisleitfaden orthostatische Intoleranz / PoTS](https://praxisleitfaden.mecfs.de/pots)** — Leitfaden der Deutschen Gesellschaft für ME/CFS und des Charité Fatigue Centrums zu orthostatischer Intoleranz, PoTS und orthostatischer Hypotonie; der allgemeine Teil ist frei lesbar, ausführliche Angaben nur nach DocCheck-Login für Fachkreise. 📋 [Guideline] 📖 [Professional literature]
 
 ### SIBO
 
