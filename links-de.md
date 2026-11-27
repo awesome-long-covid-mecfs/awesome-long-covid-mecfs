@@ -405,7 +405,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[Reha Ablehnung (ME/CFS-Wiki)](https://www.mecfs-wiki.de/dokuwiki/a-z:reha-ablehnung)** — Betroffenen-Wiki mit Widerspruchsverfahren, Muster-Formulierung und Argumenten für eine Reha-Unfähigkeit bei PEM. 🤝 [Self-help] 🗂️ [Collection]
 
-### Nahtlosigkeit & Arbeitslosigkeit
+- **[Reha bei ME/CFS und Long Covid: Was du wissen musst, wenn sie ansteht (Fasynation)](https://www.fasynation.de/reha-me-cfs-long-covid/)** — Beitrag von Fasynation zu Reha bei ME/CFS und Long Covid in Deutschland: für wen sie sinnvoll ist, warum sie bei PEM schaden kann, welche Rechte und Fristen gelten und wie man sich vor und in der Reha schützt. 🤝 [Self-help]
+
 
 - **[Arbeitslosengeld bei Nahtlosigkeit (betanet)](https://www.betanet.de/arbeitslosengeld-nahtlosigkeit.html)** — Ratgeber des gemeinnützigen beta Instituts zur Nahtlosigkeitsregelung mit Fallbeispielen zu Krankengeldende, abgelehnter Erwerbsminderungsrente und subjektiver Verfügbarkeit. 🗂️ [Collection]
 
