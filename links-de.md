@@ -401,6 +401,8 @@ Die englische Liste enthält Einträge zu SIBO: **[SIBO (EN)](links-en.md#sibo)*
 
 - **[ME/CFS – und nun?](https://sites.google.com/view/mecfs-undnun/start)** — Selbsthilfe-Projekt mit Kapiteln zu Pacing, Hilfsmitteln, sozial- und arbeitsrechtlichen Fragen sowie Materialien für Angehörige und Behandler; die Seite enthält auch ein Spendenprojekt mit selbst genähten Taschen. 🤝 [Self-help] 🗂️ [Collection]
 
+- **[Vorbereitung auf eine Begutachtung bei ME/CFS (Selbsthilfegruppe ME/CFS Raum Dresden)](https://sg-me-dd.de/gutachten/vorbereitung_gutachten.pdf)** — Orientierungshilfe der [Selbsthilfegruppe ME/CFS Raum Dresden](https://sg-me-dd.de/) zur Vorbereitung auf eine medizinische oder sozialmedizinische Begutachtung bei ME/CFS, mit Hinweisen zu Alltag, funktionellen Einschränkungen, PEM und beruflicher Leistungsfähigkeit. 🤝 [Self-help]
+
 ### Beratungs- und Unterstützungsangebote
 
 - **[Teilhabeberatung (EUTB)](https://www.teilhabeberatung.de)** — Kostenlose und unabhängige Beratung, die auch bei Anträgen unterstützen kann; EUTB-Stellen gibt es bundesweit und man kann sich an jede Stelle in Deutschland wenden, die Schwerpunkte unterscheiden sich – am besten vorab auf der Website prüfen. 🏛️ [Authority]
